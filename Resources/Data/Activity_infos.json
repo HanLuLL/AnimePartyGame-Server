@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 505202,
+    "uiType": {
+      "value": 2,
+      "name": "UIType_Window"
+    },
+    "uiTab": 1,
+    "activityImage": "UT_Activity_408022",
+    "activityImageSFW": "UT_Activity_408022",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1745265600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3386260800
+        ]
+      }
+    },
+    "taskIDs": [
+      50520200
+    ]
+  },
+  {
+    "id": 512195,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 40,
+      "name": "UIPanelType_ActivityMapPass"
+    },
+    "bgList": [
+      "UT_Activity_51219_BG"
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1770321600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4101983999
+        ]
+      }
+    },
+    "missionIDs": [
+      5122001,
+      5122002,
+      5122003,
+      5122004,
+      5122005,
+      5122006,
+      5122007
+    ]
+  },
+  {
+    "id": 602060,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 41,
+      "name": "UIPanelType_ActivityLevelPass"
+    },
+    "bgList": [
+      "UT_Activity_51219_BG"
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1770321600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4101983999
+        ]
+      }
+    },
+    "missionIDs": [
+      6020601,
+      6020602,
+      6020603,
+      6020604,
+      6020605,
+      6020606,
+      6020607,
+      6020608,
+      6020609,
+      6020610
+    ]
+  },
+  {
+    "id": 699990,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 39,
+      "name": "UIPanelType_ActivitySevenDaySignIn"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1770321600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4101937200
+        ]
+      }
+    }
+  },
+  {
+    "id": 599990,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 42,
+      "name": "UIPanelType_ActivityRookieTask"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1770321600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4101937200
+        ]
+      }
+    },
+    "missionIDs": [
+      5999901,
+      5999902,
+      5999903,
+      5999904,
+      5999905,
+      5999906,
+      5999907,
+      5999908,
+      5999909,
+      5999910,
+      5999911,
+      5999912,
+      5999913,
+      5999914,
+      5999915,
+      5999916,
+      5999917,
+      5999918,
+      5999919,
+      5999920,
+      5999921,
+      5999922,
+      5999923,
+      5999924,
+      5999925
+    ]
+  },
+  {
+    "id": 602271,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 46,
+      "name": "UIPanelType_SignInModuleOne"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1772136000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1773367199
+        ]
+      }
+    }
+  },
+  {
+    "id": 605010,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 209,
+      "name": "UIPanelType_ActivityDice"
+    },
+    "currencyBar": 1,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1777579200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1779292799
+        ]
+      }
+    },
+    "missionIDs": [
+      6050101,
+      6050102,
+      6050103,
+      6050104,
+      6050105,
+      6050106,
+      6050107,
+      6050108,
+      6050109,
+      6050110,
+      6050111,
+      6050112,
+      6050113,
+      6050114,
+      6050115,
+      6050116,
+      6050117,
+      6050118,
+      6050119,
+      6050120,
+      6050121,
+      6050122,
+      6050123,
+      6050124,
+      7050101,
+      7050102,
+      7050103,
+      7050104,
+      7050105,
+      7050106,
+      7050107,
+      7050108,
+      7050109,
+      7050110
+    ],
+    "switchActivity": 1
+  },
+  {
+    "id": 605210,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 35,
+      "name": "UIPanelType_ActivityNGO"
+    },
+    "uiTab": 4,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "taskIDs": [
+      60521001,
+      60521002,
+      60521003,
+      60521004,
+      60521005,
+      60521006,
+      60521007,
+      60521008,
+      60521009,
+      60521010,
+      60521011,
+      60521012,
+      60521013,
+      60521014,
+      60521015
+    ],
+    "BGMConfigID": 156
+  },
+  {
+    "id": 606041,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 48,
+      "name": "UIPanelType_ActivityStoreTwo"
+    },
+    "currencyBar": 1,
+    "titleImages": [
+      "UT_Activity_606041_Title_CN",
+      "UT_Activity_606041_Title_EN",
+      "UT_Activity_606041_Title_JP",
+      "UT_Activity_606041_Title_CN"
+    ],
+    "bgList": [
+      "UT_Activity_606041_BG",
+      "UT_Activity_606041_BG",
+      "UT_Activity_606041_BG"
+    ],
+    "activityImage": "UT_Activity_606041_LH",
+    "activityImageSFW": "UT_Activity_606041_LH",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1780516800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "missionIDs": [
+      6060401,
+      6060402,
+      6060403,
+      6060404,
+      6060405,
+      6060406,
+      6060407,
+      6060408,
+      6060409,
+      6060410,
+      6060411,
+      6060412,
+      6060413,
+      6060414,
+      6060415,
+      6060416,
+      6060417,
+      6060418,
+      6060419,
+      6060420
+    ],
+    "shopTabType": {
+      "value": 36,
+      "name": "ShopTabType_Activity4"
+    },
+    "taskTargetID": 1000052
+  },
+  {
+    "id": 606191,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 24,
+      "name": "UIPanelType_Activity"
+    },
+    "uiTab": 2,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "taskIDs": [
+      60619101,
+      60619102,
+      60619103,
+      60619104,
+      60619105,
+      60619106,
+      60619107,
+      60619108,
+      60619109,
+      60619110,
+      60619111,
+      60619112,
+      60619113,
+      60619114,
+      60619115,
+      60619116,
+      60619117,
+      60619118,
+      60619119,
+      60619120,
+      60619121,
+      60619122
+    ]
+  },
+  {
+    "id": 606251,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 49,
+      "name": "UIPanelType_ActivityStoreSeason"
+    },
+    "currencyBar": 1,
+    "titleImages": [
+      "UT_Activity_6062501_Title_CN",
+      "UT_Activity_6062501_Title_EN",
+      "UT_Activity_606251_Title_JP",
+      "UT_Activity_6062501_Title_CN"
+    ],
+    "bgList": [
+      "UT_Activity_6062501_BG",
+      "UT_Activity_6062501_BG",
+      "UT_Activity_6062501_BG"
+    ],
+    "activityImage": "UT_Hero_Card_112_03",
+    "activityImageSFW": "UT_Hero_Card_112_03_sfw",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1750795200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1753840799
+        ]
+      }
+    },
+    "missionIDs": [
+      6062501,
+      6062502,
+      6062503,
+      6062504,
+      6062505,
+      6062506,
+      6062507,
+      6062508,
+      6062509,
+      6062510,
+      6062511,
+      6062512,
+      6062513,
+      6062514,
+      6062515,
+      6062516,
+      7062501,
+      7062502,
+      7062503,
+      7062504,
+      7062505
+    ],
+    "gachaID": 20260625,
+    "shopTabType": {
+      "value": 1,
+      "name": "ShopTabType_Activity"
+    },
+    "taskTargetID": 1000054,
+    "taskTargetNumb": 40
+  },
+  {
+    "id": 607091,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 43,
+      "name": "UIPanelType_ActivityStore"
+    },
+    "titleImages": [
+      "UT_Activity_6070901_Title_CN",
+      "UT_Activity_6070901_Title_EN",
+      "UT_Activity_6070901_Title_JP",
+      "UT_Activity_6070901_Title_CN"
+    ],
+    "bgList": [
+      "UT_Activity_6070901_BG",
+      "UT_Activity_6070901_BG",
+      "UT_Activity_6070901_BG"
+    ],
+    "activityImage": "UT_Hero_Card_105_01",
+    "activityImageSFW": "UT_Hero_Card_105_01",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1783540800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1788364799
+        ]
+      }
+    },
+    "missionIDs": [
+      6070901,
+      6070902,
+      6070903,
+      6070904,
+      6070905,
+      6070906,
+      6070907,
+      6070908,
+      6070909,
+      6070910,
+      6070911,
+      6070912,
+      6070913,
+      6070914,
+      6070915,
+      6070916,
+      6070917,
+      6070918,
+      6070919,
+      6070920,
+      6070921,
+      6070922,
+      6070923,
+      6070924,
+      6070925,
+      6070926
+    ],
+    "shopTabType": {
+      "value": 30,
+      "name": "ShopTabType_Activity2"
+    },
+    "taskTargetID": 1000053
+  },
+  {
+    "id": 606261,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 24,
+      "name": "UIPanelType_Activity"
+    },
+    "uiTab": 5,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1782331200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    }
+  },
+  {
+    "id": 606271,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 24,
+      "name": "UIPanelType_Activity"
+    },
+    "uiTab": 5,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1782331200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    }
+  },
+  {
+    "id": 606281,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 50,
+      "name": "UIPanelType_ActivityBrochureLight"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1782331200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    }
+  },
+  {
+    "id": 607311,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 49,
+      "name": "UIPanelType_ActivityStoreSeason"
+    },
+    "currencyBar": 1,
+    "titleImages": [
+      "UT_Activity_6073101_Title_CN",
+      "UT_Activity_6073101_Title_EN",
+      "UT_Activity_6073101_Title_JP",
+      "UT_Activity_6073101_Title_CN"
+    ],
+    "bgList": [
+      "UT_Activity_6062501_BG",
+      "UT_Activity_6062501_BG",
+      "UT_Activity_6062501_BG"
+    ],
+    "activityImage": "UT_Hero_Card_112_03",
+    "activityImageSFW": "UT_Hero_Card_112_03_sfw",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1785355200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1788400799
+        ]
+      }
+    },
+    "missionIDs": [
+      6073101,
+      6073102,
+      6073103,
+      6073104,
+      6073105,
+      6073106,
+      6073107,
+      6073108,
+      6073109,
+      6073110,
+      6073111,
+      6073112,
+      6073113,
+      6073114,
+      6073115,
+      6073116,
+      7062501,
+      7062502,
+      7062503,
+      7062504,
+      7062505
+    ],
+    "gachaID": 20260625,
+    "shopTabType": {
+      "value": 1,
+      "name": "ShopTabType_Activity"
+    },
+    "taskTargetID": 1000054,
+    "taskTargetNumb": 25
+  },
+  {
+    "id": 699980,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 51,
+      "name": "UIPanelType_ActivityComeback"
+    },
+    "titleImages": [
+      "UT_Activity_6999801_Title_CN",
+      "UT_Activity_6999801_Title_EN",
+      "UT_Activity_6999801_Title_JP",
+      "UT_Activity_6999801_Title_CN"
+    ],
+    "bgList": [
+      "UT_Activity_6999801_BG",
+      "UT_Activity_6999801_BG",
+      "UT_Activity_6999801_BG",
+      "UT_Activity_6999801_BG"
+    ],
+    "activityImage": "UT_Hero_Card_108_03",
+    "activityImageSFW": "UT_Hero_Card_108_03_sfw",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1780603200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4101983999
+        ]
+      }
+    },
+    "missionIDs": [
+      6999801,
+      6999802,
+      6999803,
+      6999804,
+      6999805,
+      6999806,
+      6999807,
+      6999808,
+      6999809,
+      6999810,
+      6999811,
+      6999812,
+      6999813,
+      6999814,
+      6999815,
+      6999816,
+      6999817,
+      6999818,
+      6999819,
+      6999820,
+      6999821,
+      6999822,
+      6999823,
+      6999824
+    ],
+    "shopTabType": {
+      "value": 41,
+      "name": "ShopTabType_ComebackShop"
+    },
+    "taskTargetID": 1000060
+  },
+  {
+    "id": 608130,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 45,
+      "name": "UIPanelType_ActivityResourceWeek"
+    },
+    "uiTab": 1,
+    "activityImage": "UT_Activity_608130",
+    "activityImageSFW": "UT_Activity_608130",
+    "titleID": 6081300,
+    "descriptionID": 6032112,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1786564800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1788364799
+        ]
+      }
+    },
+    "missionIDs": [
+      6081301,
+      6081302,
+      6081303,
+      6081304,
+      6081305,
+      6081306,
+      6081307,
+      6081308,
+      6081309,
+      6081310,
+      6081311,
+      6081312,
+      6081313,
+      6081314,
+      6081315,
+      6081316,
+      6081317
+    ]
+  },
+  {
+    "id": 610010,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 52,
+      "name": "UIPanelType_ActivityBingo"
+    },
+    "uiTab": 6,
+    "nameID": 6100100,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1790280000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    },
+    "missionIDs": [
+      6100101,
+      6100102,
+      6100103,
+      6100104,
+      6100105,
+      6100106,
+      6100107,
+      6100108,
+      6100109,
+      6100110,
+      6100111,
+      6100112,
+      6100113,
+      6100114,
+      6100115,
+      6100116,
+      6100117,
+      6100118,
+      6100119,
+      6100120,
+      6100121,
+      6100122
+    ]
+  },
+  {
+    "id": 609040,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 56,
+      "name": "UIPanelType_SignInModuleTwo"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  },
+  {
+    "id": 609250,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 46,
+      "name": "UIPanelType_SignInModuleOne"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1790280000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  },
+  {
+    "id": 609031,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 53,
+      "name": "UIPanelType_ActivityMGWT"
+    },
+    "titleImages": [
+      "UT_Activity_6090301_Title_CN",
+      "UT_Activity_6090301_Title_EN",
+      "UT_Activity_6090301_Title_JP",
+      "UT_Activity_6090301_Title_CN"
+    ],
+    "bgList": [
+      "UT_Activity_6090301_BG",
+      "UT_Activity_6090301_BG",
+      "UT_Activity_6090301_BG",
+      "UT_Activity_6090301_BG"
+    ],
+    "activityImage": "UT_Hero_Card_306",
+    "activityImageSFW": "UT_Hero_Card_306",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    },
+    "missionIDs": [
+      60903101,
+      60903102,
+      60903103,
+      60903104,
+      60903105,
+      60903106,
+      60903107,
+      60903108,
+      60903109,
+      60903110,
+      60903111,
+      60903112,
+      60903113,
+      60903114,
+      60903115,
+      60903116,
+      60903117,
+      60903118,
+      60903119,
+      60903120,
+      60903121,
+      60903122
+    ],
+    "shopTabType": {
+      "value": 43,
+      "name": "ShopTabType_ActivityMGWT"
+    },
+    "taskTargetID": 1000064,
+    "BGMConfigID": 178
+  },
+  {
+    "id": 609032,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 57,
+      "name": "UIPanelType_ActivityAdvert"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  },
+  {
+    "id": 260901,
+    "uiType": {
+      "value": 2,
+      "name": "UIType_Window"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1780603200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4101983999
+        ]
+      }
+    }
+  }
+]

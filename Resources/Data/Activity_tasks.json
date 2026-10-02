@@ -1,0 +1,1090 @@
+[
+  {
+    "id": 50520200,
+    "orderWeight": 1,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1745265600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3386260800
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 400,
+      "name": "ConditionType_ClickConfirm"
+    },
+    "param": 1,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 60521001,
+    "orderWeight": 1,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 16,
+      "name": "ConditionType_Total_PlayDays"
+    },
+    "param": 1,
+    "nameID": 160,
+    "descId": 161,
+    "reward": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 60521002,
+    "orderWeight": 2,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 16,
+      "name": "ConditionType_Total_PlayDays"
+    },
+    "param": 2,
+    "nameID": 160,
+    "descId": 161,
+    "reward": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 60521003,
+    "orderWeight": 3,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 16,
+      "name": "ConditionType_Total_PlayDays"
+    },
+    "param": 3,
+    "nameID": 160,
+    "descId": 161,
+    "reward": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 60521004,
+    "orderWeight": 4,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 16,
+      "name": "ConditionType_Total_PlayDays"
+    },
+    "param": 4,
+    "nameID": 160,
+    "descId": 161,
+    "reward": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 60521005,
+    "orderWeight": 5,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 16,
+      "name": "ConditionType_Total_PlayDays"
+    },
+    "param": 5,
+    "nameID": 160,
+    "descId": 161,
+    "reward": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 60521006,
+    "orderWeight": 6,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 16,
+      "name": "ConditionType_Total_PlayDays"
+    },
+    "param": 6,
+    "nameID": 160,
+    "descId": 161,
+    "reward": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 60521007,
+    "orderWeight": 7,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 16,
+      "name": "ConditionType_Total_PlayDays"
+    },
+    "param": 7,
+    "nameID": 160,
+    "descId": 161,
+    "reward": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 60521008,
+    "orderWeight": 8,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 1,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000012": 1
+    },
+    "way": 130
+  },
+  {
+    "id": 60521009,
+    "orderWeight": 9,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 5,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000012": 1
+    },
+    "way": 130
+  },
+  {
+    "id": 60521010,
+    "orderWeight": 10,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 10,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000012": 1
+    },
+    "way": 130
+  },
+  {
+    "id": 60521011,
+    "orderWeight": 11,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 15,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000012": 1
+    },
+    "way": 130
+  },
+  {
+    "id": 60521012,
+    "orderWeight": 12,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 1,
+    "nameID": 120,
+    "descId": 121,
+    "reward": {
+      "1000012": 1
+    },
+    "way": 130
+  },
+  {
+    "id": 60521013,
+    "orderWeight": 13,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 5,
+    "nameID": 120,
+    "descId": 121,
+    "reward": {
+      "1000012": 1
+    },
+    "way": 130
+  },
+  {
+    "id": 60521014,
+    "orderWeight": 14,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 10,
+    "nameID": 120,
+    "descId": 121,
+    "reward": {
+      "1000012": 1
+    },
+    "way": 130
+  },
+  {
+    "id": 60521015,
+    "orderWeight": 15,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 30,
+      "name": "ConditionType_Total_ScratchoffCount"
+    },
+    "param": 14,
+    "ref": 605210,
+    "nameID": 300,
+    "descId": 301,
+    "reward": {
+      "91004": 1
+    }
+  },
+  {
+    "id": 60619101,
+    "orderWeight": 1,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 1,
+    "nameID": 150,
+    "descId": 151,
+    "reward": {
+      "1000025": 10
+    }
+  },
+  {
+    "id": 60619102,
+    "orderWeight": 2,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 2,
+    "nameID": 150,
+    "descId": 151,
+    "reward": {
+      "1000025": 10
+    }
+  },
+  {
+    "id": 60619103,
+    "orderWeight": 3,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 3,
+    "nameID": 150,
+    "descId": 151,
+    "reward": {
+      "1000025": 10
+    }
+  },
+  {
+    "id": 60619104,
+    "orderWeight": 4,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 4,
+    "nameID": 150,
+    "descId": 151,
+    "reward": {
+      "1000025": 15
+    }
+  },
+  {
+    "id": 60619105,
+    "orderWeight": 5,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 5,
+    "nameID": 150,
+    "descId": 151,
+    "reward": {
+      "1000025": 20
+    }
+  },
+  {
+    "id": 60619106,
+    "orderWeight": 6,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 6,
+    "nameID": 150,
+    "descId": 151,
+    "reward": {
+      "1000025": 30
+    }
+  },
+  {
+    "id": 60619107,
+    "orderWeight": 7,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 7,
+    "nameID": 150,
+    "descId": 151,
+    "reward": {
+      "1000025": 40
+    }
+  },
+  {
+    "id": 60619108,
+    "orderWeight": 8,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 1,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619109,
+    "orderWeight": 9,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 2,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619110,
+    "orderWeight": 10,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 3,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619111,
+    "orderWeight": 11,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 4,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619112,
+    "orderWeight": 12,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 5,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619113,
+    "orderWeight": 13,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 6,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619114,
+    "orderWeight": 14,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 7,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619115,
+    "orderWeight": 15,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 8,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619116,
+    "orderWeight": 16,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 9,
+    "nameID": 140,
+    "descId": 141,
+    "reward": {
+      "1000025": 10
+    },
+    "way": 130
+  },
+  {
+    "id": 60619117,
+    "orderWeight": 17,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 1,
+    "ref": 115,
+    "nameID": 182,
+    "descId": 181,
+    "reward": {
+      "1000025": 15
+    },
+    "way": 130
+  },
+  {
+    "id": 60619118,
+    "orderWeight": 18,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 2,
+    "ref": 115,
+    "nameID": 182,
+    "descId": 181,
+    "reward": {
+      "1000025": 15
+    },
+    "way": 130
+  },
+  {
+    "id": 60619119,
+    "orderWeight": 19,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 3,
+    "ref": 115,
+    "nameID": 182,
+    "descId": 181,
+    "reward": {
+      "1000025": 15
+    },
+    "way": 130
+  },
+  {
+    "id": 60619120,
+    "orderWeight": 20,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 1,
+    "nameID": 120,
+    "descId": 121,
+    "reward": {
+      "1000025": 20
+    },
+    "way": 130
+  },
+  {
+    "id": 60619121,
+    "orderWeight": 21,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 2,
+    "nameID": 120,
+    "descId": 121,
+    "reward": {
+      "1000025": 30
+    },
+    "way": 130
+  },
+  {
+    "id": 60619122,
+    "orderWeight": 22,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 3,
+    "nameID": 120,
+    "descId": 121,
+    "reward": {
+      "1000025": 40
+    },
+    "way": 130
+  }
+]

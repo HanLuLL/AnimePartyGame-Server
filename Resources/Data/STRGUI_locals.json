@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1001,
+    "simplified": "{0}级"
+  },
+  {
+    "id": 1002,
+    "simplified": "历史记录"
+  },
+  {
+    "id": 1003,
+    "simplified": "兑换星盘"
+  },
+  {
+    "id": 1004,
+    "simplified": "请为您的账号取一个昵称"
+  },
+  {
+    "id": 1005,
+    "simplified": "※每天最多可修改一次昵称"
+  },
+  {
+    "id": 1006,
+    "simplified": "修改备注"
+  },
+  {
+    "id": 1007,
+    "simplified": "购买"
+  },
+  {
+    "id": 1008,
+    "simplified": "获得奖励"
+  },
+  {
+    "id": 1009,
+    "simplified": "材料返还"
+  },
+  {
+    "id": 1010,
+    "simplified": "暂无保存的对局记录"
+  },
+  {
+    "id": 1000001,
+    "simplified": "属性"
+  },
+  {
+    "id": 1000002,
+    "simplified": "技能"
+  },
+  {
+    "id": 1000003,
+    "simplified": "主动技能："
+  },
+  {
+    "id": 1000004,
+    "simplified": "被动技能："
+  },
+  {
+    "id": 1000005,
+    "simplified": "潜能激发"
+  },
+  {
+    "id": 1000006,
+    "simplified": "快捷回复"
+  },
+  {
+    "id": 1000007,
+    "simplified": "选择目标"
+  },
+  {
+    "id": 1000008,
+    "simplified": "试用！"
+  },
+  {
+    "id": 1000009,
+    "simplified": "达成任务"
+  },
+  {
+    "id": 1000010,
+    "simplified": "轮次{0}"
+  },
+  {
+    "id": 1000011,
+    "simplified": "的回合"
+  },
+  {
+    "id": 1000012,
+    "simplified": "怪物的回合"
+  },
+  {
+    "id": 1010001,
+    "simplified": "功能设置"
+  },
+  {
+    "id": 1010002,
+    "simplified": "新手推荐功能设置"
+  },
+  {
+    "id": 1010003,
+    "simplified": "出牌推荐"
+  },
+  {
+    "id": 1010004,
+    "simplified": "选择路线推荐"
+  },
+  {
+    "id": 1010005,
+    "simplified": "选择筹码推荐"
+  },
+  {
+    "id": 1010006,
+    "simplified": "自动短语接收"
+  },
+  {
+    "id": 1010007,
+    "simplified": "可前往获得星星"
+  },
+  {
+    "id": 1010008,
+    "simplified": "行动即将超时提醒"
+  },
+  {
+    "id": 1020001,
+    "simplified": "邀请近期玩家"
+  },
+  {
+    "id": 1020002,
+    "simplified": "暂无好友在线"
+  },
+  {
+    "id": 1020003,
+    "simplified": "暂无近期玩家在线"
+  },
+  {
+    "id": 1020004,
+    "simplified": "{0}秒后自动进入"
+  },
+  {
+    "id": 1020005,
+    "simplified": "随机地图*{0}"
+  },
+  {
+    "id": 1020006,
+    "simplified": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/> [color=#ff0000]极限挑战需要解锁全难度[/color]"
+  },
+  {
+    "id": 1020007,
+    "simplified": "选择地图"
+  },
+  {
+    "id": 1020008,
+    "simplified": "选择难度"
+  },
+  {
+    "id": 1020009,
+    "simplified": "选择模式"
+  },
+  {
+    "id": 1020010,
+    "simplified": "<img src='ui://m6sn3r22r26sq3s' width='48' height='35'/>点击邀请玩家加入"
+  },
+  {
+    "id": 1020011,
+    "simplified": "好友"
+  },
+  {
+    "id": 1020012,
+    "simplified": "近期玩家"
+  },
+  {
+    "id": 1020013,
+    "simplified": "邀请好友"
+  },
+  {
+    "id": 1020014,
+    "simplified": "匹配成功！"
+  },
+  {
+    "id": 1020015,
+    "simplified": "开始匹配"
+  },
+  {
+    "id": 1020016,
+    "simplified": "取消匹配"
+  },
+  {
+    "id": 1020017,
+    "simplified": "准备"
+  },
+  {
+    "id": 1020018,
+    "simplified": "取消准备"
+  },
+  {
+    "id": 1020019,
+    "simplified": "退出队伍"
+  },
+  {
+    "id": 1020020,
+    "simplified": "New"
+  },
+  {
+    "id": 1020021,
+    "simplified": "轮换"
+  },
+  {
+    "id": 1020022,
+    "simplified": "收到组队邀请"
+  },
+  {
+    "id": 1020023,
+    "simplified": "游玩中"
+  },
+  {
+    "id": 1030001,
+    "simplified": "图鉴 "
+  },
+  {
+    "id": 1030002,
+    "simplified": "复制 "
+  },
+  {
+    "id": 1030003,
+    "simplified": "观战码：{0}"
+  },
+  {
+    "id": 1030004,
+    "simplified": "关闭游戏"
+  },
+  {
+    "id": 1030005,
+    "simplified": "离开房间"
+  },
+  {
+    "id": 1030006,
+    "simplified": "设置"
+  },
+  {
+    "id": 1030007,
+    "simplified": "继续观看"
+  },
+  {
+    "id": 1030008,
+    "simplified": "认输"
+  },
+  {
+    "id": 1030009,
+    "simplified": "继续游戏"
+  },
+  {
+    "id": 1030010,
+    "simplified": "点击屏蔽表情"
+  },
+  {
+    "id": 1030011,
+    "simplified": "提示"
+  },
+  {
+    "id": 1040001,
+    "simplified": "请选择未开拓地块进行购买，或点击其余地方取消。"
+  },
+  {
+    "id": 1040002,
+    "simplified": "是否消耗{0}<img src='ui://xuaw6o8jmmmw3x' width='100' height='100'/> 购入此地块？"
+  },
+  {
+    "id": 1040003,
+    "simplified": "是否开始新一轮的游戏？"
+  },
+  {
+    "id": 1040004,
+    "simplified": "离开游戏后，你的进度将会被保存。"
+  },
+  {
+    "id": 1040005,
+    "simplified": "是否放弃当前的游戏进度？"
+  },
+  {
+    "id": 1050001,
+    "simplified": "进入侧边栏"
+  },
+  {
+    "id": 1050002,
+    "simplified": "领取奖励"
+  },
+  {
+    "id": 1060001,
+    "simplified": "限时签到活动"
+  },
+  {
+    "id": 1070001,
+    "simplified": "默认"
+  },
+  {
+    "id": 1070002,
+    "simplified": "按好感度等级"
+  },
+  {
+    "id": 1070003,
+    "simplified": "按合作挑战等级"
+  },
+  {
+    "id": 1070004,
+    "simplified": "升序"
+  },
+  {
+    "id": 1070005,
+    "simplified": "降序"
+  },
+  {
+    "id": 1080001,
+    "simplified": "前往运动会"
+  },
+  {
+    "id": 1080002,
+    "simplified": "通关决赛"
+  },
+  {
+    "id": 1080003,
+    "simplified": "通关淘汰赛"
+  },
+  {
+    "id": 1080004,
+    "simplified": "通关海选赛"
+  },
+  {
+    "id": 1080005,
+    "simplified": "最高总伤害"
+  },
+  {
+    "id": 1080006,
+    "simplified": "最高单次伤害"
+  },
+  {
+    "id": 1080007,
+    "simplified": "最高金钱获得"
+  },
+  {
+    "id": 1080008,
+    "simplified": "累计转账"
+  },
+  {
+    "id": 1080009,
+    "simplified": "累计伤害"
+  },
+  {
+    "id": 1080010,
+    "simplified": "累计治疗"
+  },
+  {
+    "id": 8201501,
+    "simplified": "彩羽"
+  },
+  {
+    "id": 8201502,
+    "simplified": "神秘的蛋"
+  },
+  {
+    "id": 8201503,
+    "simplified": "进入铜盏孔雀试炼"
+  },
+  {
+    "id": 8201504,
+    "simplified": "进入铜盏鸳鸯试炼"
+  },
+  {
+    "id": 1090001,
+    "simplified": "信誉极佳"
+  },
+  {
+    "id": 1090002,
+    "simplified": "信誉良好"
+  },
+  {
+    "id": 1090003,
+    "simplified": "信誉一般"
+  },
+  {
+    "id": 1090004,
+    "simplified": "信誉较差"
+  },
+  {
+    "id": 1090005,
+    "simplified": "信誉极差"
+  },
+  {
+    "id": 1100001,
+    "simplified": "啊哈，感觉中大奖了"
+  },
+  {
+    "id": 1100002,
+    "simplified": "大吉大利"
+  },
+  {
+    "id": 1100003,
+    "simplified": "还不赖嘛"
+  },
+  {
+    "id": 1100004,
+    "simplified": "运气不太好呢"
+  },
+  {
+    "id": 1100005,
+    "simplified": "点真背啊！"
+  },
+  {
+    "id": 1110001,
+    "simplified": "限时地图\n限时开放的地图，抓紧时间体验哟！"
+  },
+  {
+    "id": 1120002,
+    "simplified": "极限难度\n极限难度限时开启，你准备好了吗？"
+  },
+  {
+    "id": 1130003,
+    "simplified": "新地图\n全新地图开启，玩个尽兴吧！"
+  },
+  {
+    "id": 1200001,
+    "simplified": "奖励进度"
+  },
+  {
+    "id": 1200002,
+    "simplified": "含有时限道具，达成进度后请及时手动领取！每个卡池独立计算，不会继承。"
+  },
+  {
+    "id": 1200003,
+    "simplified": "累计抽奖数"
+  },
+  {
+    "id": 1200004,
+    "simplified": "道具内容"
+  },
+  {
+    "id": 1300001,
+    "simplified": "{0}表情包"
+  },
+  {
+    "id": 1300002,
+    "simplified": "收藏的表情"
+  },
+  {
+    "id": 1300003,
+    "simplified": "已收藏{0}"
+  }
+]

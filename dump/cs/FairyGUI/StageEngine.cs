@@ -1,0 +1,38 @@
+using UnityEngine;
+
+namespace FairyGUI;
+
+public class StageEngine : MonoBehaviour
+{
+	public int ObjectsOnStage;
+
+	public int GraphicsOnStage;
+
+	public static bool beingQuit;
+
+	private void Start()
+	{
+		base.useGUILayout = false;
+	}
+
+	private void LateUpdate()
+	{
+		Stage.inst.InternalUpdate();
+		ObjectsOnStage = Stats.ObjectCount;
+		GraphicsOnStage = Stats.GraphicsCount;
+	}
+
+	private void OnGUI()
+	{
+		Stage.inst.HandleGUIEvents(Event.current);
+	}
+
+	private void OnApplicationQuit()
+	{
+		if (Application.isEditor)
+		{
+			beingQuit = true;
+			UIPackage.RemoveAllPackages();
+		}
+	}
+}

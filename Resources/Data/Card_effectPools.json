@@ -1,0 +1,668 @@
+[
+  {
+    "id": 1001,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20001
+      },
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20003
+      },
+      {
+        "cardId": 20004
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20007
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20009
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 20012
+      },
+      {
+        "cardId": 20013
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20015
+      },
+      {
+        "cardId": 20017
+      },
+      {
+        "cardId": 20018
+      },
+      {
+        "cardId": 20019
+      },
+      {
+        "cardId": 20020
+      },
+      {
+        "cardId": 20021
+      },
+      {
+        "cardId": 20022
+      },
+      {
+        "cardId": 20023
+      },
+      {
+        "cardId": 20024
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20001
+      },
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20003
+      },
+      {
+        "cardId": 20004
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20007
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20009
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 20012
+      },
+      {
+        "cardId": 20013
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20015
+      },
+      {
+        "cardId": 20017
+      },
+      {
+        "cardId": 20018
+      },
+      {
+        "cardId": 20019
+      },
+      {
+        "cardId": 20020
+      },
+      {
+        "cardId": 20021
+      },
+      {
+        "cardId": 20022
+      },
+      {
+        "cardId": 20023
+      },
+      {
+        "cardId": 20024
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20001
+      },
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20003
+      },
+      {
+        "cardId": 20004
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20007
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20009
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 20012
+      },
+      {
+        "cardId": 20013
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20015
+      },
+      {
+        "cardId": 20017
+      },
+      {
+        "cardId": 20018
+      },
+      {
+        "cardId": 20019
+      },
+      {
+        "cardId": 20020
+      },
+      {
+        "cardId": 20021
+      },
+      {
+        "cardId": 20022
+      },
+      {
+        "cardId": 20023
+      },
+      {
+        "cardId": 20024
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 21001
+      },
+      {
+        "cardId": 21002
+      },
+      {
+        "cardId": 21003
+      },
+      {
+        "cardId": 21004
+      },
+      {
+        "cardId": 21005
+      },
+      {
+        "cardId": 21006
+      },
+      {
+        "cardId": 21007
+      },
+      {
+        "cardId": 21008
+      },
+      {
+        "cardId": 21012
+      },
+      {
+        "cardId": 21013
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 21001
+      },
+      {
+        "cardId": 21002
+      },
+      {
+        "cardId": 21003
+      },
+      {
+        "cardId": 21004
+      },
+      {
+        "cardId": 21005
+      },
+      {
+        "cardId": 21006
+      },
+      {
+        "cardId": 21007
+      },
+      {
+        "cardId": 21008
+      },
+      {
+        "cardId": 21012
+      },
+      {
+        "cardId": 21013
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20001
+      },
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20003
+      },
+      {
+        "cardId": 20004
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20007
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20009
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 20012
+      },
+      {
+        "cardId": 20013
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20015
+      },
+      {
+        "cardId": 20017
+      },
+      {
+        "cardId": 20018
+      },
+      {
+        "cardId": 20019
+      },
+      {
+        "cardId": 20020
+      },
+      {
+        "cardId": 20021
+      },
+      {
+        "cardId": 20022
+      },
+      {
+        "cardId": 20023
+      },
+      {
+        "cardId": 20024
+      }
+    ]
+  },
+  {
+    "id": 101005,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 21012
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 21013
+      }
+    ]
+  },
+  {
+    "id": 102005,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20001
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20012
+      },
+      {
+        "cardId": 20013
+      },
+      {
+        "cardId": 20003
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20015
+      },
+      {
+        "cardId": 20022
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20011
+      }
+    ]
+  },
+  {
+    "id": 103006,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 21001
+      },
+      {
+        "cardId": 21003
+      },
+      {
+        "cardId": 21004
+      },
+      {
+        "cardId": 21005
+      },
+      {
+        "cardId": 21006
+      },
+      {
+        "cardId": 21012
+      },
+      {
+        "cardId": 21013
+      }
+    ]
+  },
+  {
+    "id": 102006,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 21002
+      },
+      {
+        "cardId": 21003
+      },
+      {
+        "cardId": 21004
+      },
+      {
+        "cardId": 21005
+      },
+      {
+        "cardId": 21006
+      },
+      {
+        "cardId": 21008
+      }
+    ]
+  },
+  {
+    "id": 81007,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20001
+      },
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20003
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 20012
+      },
+      {
+        "cardId": 20013
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20015
+      },
+      {
+        "cardId": 20018
+      },
+      {
+        "cardId": 20020
+      },
+      {
+        "cardId": 21003
+      },
+      {
+        "cardId": 21006
+      },
+      {
+        "cardId": 21004
+      },
+      {
+        "cardId": 20022
+      }
+    ]
+  },
+  {
+    "id": 82009,
+    "cardEffectPoolConfigureItems": [
+      {
+        "cardId": 20001
+      },
+      {
+        "cardId": 20002
+      },
+      {
+        "cardId": 20003
+      },
+      {
+        "cardId": 20005
+      },
+      {
+        "cardId": 20006
+      },
+      {
+        "cardId": 20008
+      },
+      {
+        "cardId": 20009
+      },
+      {
+        "cardId": 20010
+      },
+      {
+        "cardId": 20011
+      },
+      {
+        "cardId": 20012
+      },
+      {
+        "cardId": 20013
+      },
+      {
+        "cardId": 20014
+      },
+      {
+        "cardId": 20015
+      },
+      {
+        "cardId": 20020
+      },
+      {
+        "cardId": 21003
+      },
+      {
+        "cardId": 21008
+      },
+      {
+        "cardId": 21006
+      }
+    ]
+  }
+]

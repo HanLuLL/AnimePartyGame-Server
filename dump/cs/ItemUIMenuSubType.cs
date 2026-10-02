@@ -1,0 +1,54 @@
+using Google.Protobuf.Reflection;
+using UnityEngine;
+
+public enum ItemUIMenuSubType
+{
+	[InspectorName("无")]
+	[OriginalName("ItemUIMenuSubType_None")]
+	None,
+	[InspectorName("消耗品")]
+	[OriginalName("ItemUIMenuSubType_Consume")]
+	Consume,
+	[InspectorName("活动")]
+	[OriginalName("ItemUIMenuSubType_Activity")]
+	Activity,
+	[InspectorName("礼物")]
+	[OriginalName("ItemUIMenuSubType_Gift")]
+	Gift,
+	[InspectorName("材料")]
+	[OriginalName("ItemUIMenuSubType_Material")]
+	Material,
+	[InspectorName("账号头像")]
+	[OriginalName("ItemUIMenuSubType_AccountHeadShot")]
+	AccountHeadShot,
+	[InspectorName("名片")]
+	[OriginalName("ItemUIMenuSubType_AccountBackground")]
+	AccountBackground,
+	[InspectorName("骰子")]
+	[OriginalName("ItemUIMenuSubType_Dice")]
+	Dice,
+	[InspectorName("卡框")]
+	[OriginalName("ItemUIMenuSubType_CardFrame")]
+	CardFrame,
+	[InspectorName("卡背")]
+	[OriginalName("ItemUIMenuSubType_CardBack")]
+	CardBack,
+	[InspectorName("BGM")]
+	[OriginalName("ItemUIMenuSubType_BGM")]
+	Bgm,
+	[InspectorName("宝箱")]
+	[OriginalName("ItemUIMenuSubType_Chest")]
+	Chest,
+	[InspectorName("常规")]
+	[OriginalName("ItemUIMenuSubType_Common")]
+	Common,
+	[InspectorName("所有")]
+	[OriginalName("ItemUIMenuSubType_All")]
+	All,
+	[InspectorName("特效")]
+	[OriginalName("ItemUIMenuSubType_Effect")]
+	Effect,
+	[InspectorName("时尚")]
+	[OriginalName("ItemUIMenuSubType_Fashion")]
+	Fashion
+}

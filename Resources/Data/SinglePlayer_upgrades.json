@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "singlePlayerUpgradeConfigureItems": [
+      {
+        "cardWeights": [
+          6400,
+          3250,
+          300,
+          50
+        ],
+        "characterMaxHp": 20
+      },
+      {
+        "star": 1,
+        "goldcost": 10,
+        "cardWeights": [
+          5300,
+          4000,
+          500,
+          200
+        ],
+        "characterMaxHp": 25,
+        "upgradeCard": 30001,
+        "characterAtk": 1
+      },
+      {
+        "star": 2,
+        "goldcost": 20,
+        "cardWeights": [
+          3500,
+          5000,
+          1000,
+          500
+        ],
+        "characterMaxHp": 30,
+        "characterDef": 1,
+        "upgradeCard": 30002,
+        "characterAtk": 2
+      },
+      {
+        "star": 3,
+        "goldcost": 30,
+        "cardWeights": [
+          2500,
+          4500,
+          3000,
+          1000
+        ],
+        "characterMaxHp": 35,
+        "characterDef": 2,
+        "characterAtk": 3
+      }
+    ]
+  }
+]

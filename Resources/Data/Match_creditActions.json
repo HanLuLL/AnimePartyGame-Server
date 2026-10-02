@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "creditActionType": {
+      "value": 1,
+      "name": "CreditActionType_DraftDodge"
+    },
+    "scoreChange": -5,
+    "actionName": 10010
+  },
+  {
+    "id": 2,
+    "creditActionType": {
+      "value": 2,
+      "name": "CreditActionType_SurrenderIngame"
+    },
+    "scoreChange": -5,
+    "actionName": 10020
+  },
+  {
+    "id": 3,
+    "creditActionType": {
+      "value": 3,
+      "name": "CreditActionType_DisconnectTimeout"
+    },
+    "scoreChange": -5,
+    "actionName": 10030
+  },
+  {
+    "id": 4,
+    "creditActionType": {
+      "value": 4,
+      "name": "CreditActionType_ForceSurrender"
+    },
+    "scoreChange": -10,
+    "actionName": 10040
+  },
+  {
+    "id": 5,
+    "creditActionType": {
+      "value": 5,
+      "name": "CreditActionType_ForceQuit"
+    },
+    "scoreChange": -10,
+    "actionName": 10050
+  },
+  {
+    "id": 6,
+    "creditActionType": {
+      "value": 6,
+      "name": "CreditActionType_DailyLoginClean"
+    },
+    "scoreChange": 5,
+    "actionName": 10060
+  },
+  {
+    "id": 7,
+    "creditActionType": {
+      "value": 7,
+      "name": "CreditActionType_FinishMatch"
+    },
+    "scoreChange": 3,
+    "actionName": 10070
+  }
+]

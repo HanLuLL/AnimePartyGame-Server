@@ -1,0 +1,382 @@
+[
+  {
+    "bannerID": 502219,
+    "orderWeight": 99,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "descId1": 5022190,
+    "descId2": 5022191,
+    "style": 1,
+    "bannerImages": [
+      "UT_Banner_502219",
+      "UT_Banner_502219",
+      "UT_Banner_502219",
+      "UT_Banner_502219"
+    ],
+    "way": 950150
+  },
+  {
+    "bannerID": 405231,
+    "orderWeight": 15,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "bannerImages": [
+      "UT_Banner_405231_CN",
+      "UT_Banner_405231_EN",
+      "UT_Banner_405231_JP",
+      "UT_Banner_405231_TC"
+    ],
+    "way": 23230000
+  },
+  {
+    "bannerID": 405233,
+    "orderWeight": 17,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134399
+        ]
+      }
+    },
+    "bannerImages": [
+      "UT_Banner_405231_CN",
+      "UT_Banner_405231_EN",
+      "UT_Banner_405231_JP",
+      "UT_Banner_405231_TC"
+    ],
+    "way": 23230000,
+    "moneySwitch": true
+  },
+  {
+    "bannerID": 606250,
+    "orderWeight": 1,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "descId1": 6062501,
+    "descId2": 4071231,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_Banner_606250",
+      "UT_Banner_606250",
+      "UT_Banner_606250",
+      "UT_Banner_606250"
+    ],
+    "way": 202606
+  },
+  {
+    "bannerID": 606260,
+    "orderWeight": 1,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "descId1": 6062601,
+    "descId2": 5070412,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_Banner_606260",
+      "UT_Banner_606260",
+      "UT_Banner_606260",
+      "UT_Banner_606260"
+    ],
+    "way": 606271
+  },
+  {
+    "bannerID": 606270,
+    "orderWeight": 1,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "descId1": 5070411,
+    "descId2": 5070412,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_Banner_606270",
+      "UT_Banner_606270",
+      "UT_Banner_606270",
+      "UT_Banner_606270"
+    ],
+    "way": 606261
+  },
+  {
+    "bannerID": 607300,
+    "orderWeight": 1,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "descId1": 6073001,
+    "descId2": 4071231,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_Banner_607300",
+      "UT_Banner_607300",
+      "UT_Banner_607300",
+      "UT_Banner_607300"
+    ],
+    "bannerImagesSFW": [
+      "UT_Banner_607300_sfw",
+      "UT_Banner_607300_sfw",
+      "UT_Banner_607300_sfw",
+      "UT_Banner_607300_sfw"
+    ],
+    "way": 202607
+  },
+  {
+    "bannerID": 607301,
+    "orderWeight": 1,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "descId1": 6073011,
+    "descId2": 5092840,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_Banner_607301",
+      "UT_Banner_607301",
+      "UT_Banner_607301",
+      "UT_Banner_607301"
+    ],
+    "way": 607301
+  },
+  {
+    "bannerID": 609030,
+    "orderWeight": 1,
+    "languageType": [
+      {
+        "value": 10,
+        "name": "LanguageType_English"
+      },
+      {
+        "value": 22,
+        "name": "LanguageType_Japanese"
+      },
+      {
+        "value": 40,
+        "name": "LanguageType_SimplifiedChinese"
+      },
+      {
+        "value": 41,
+        "name": "LanguageType_TraditionalChinese"
+      }
+    ],
+    "descId1": 6090301,
+    "descId2": 4071231,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915120000
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_Banner_609030",
+      "UT_Banner_609030",
+      "UT_Banner_609030",
+      "UT_Banner_609030"
+    ],
+    "way": 202609
+  }
+]

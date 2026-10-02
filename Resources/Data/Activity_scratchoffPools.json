@@ -1,0 +1,532 @@
+[
+  {
+    "id": 1,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 90001,
+        "itemNum": 5,
+        "weight": 100
+      },
+      {
+        "index": 1,
+        "itemID": 77009,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 2,
+        "itemID": 77009,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 3,
+        "itemID": 77003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 4,
+        "itemID": 77003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 5,
+        "itemID": 77003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 6,
+        "itemID": 1,
+        "itemNum": 50,
+        "weight": 100
+      },
+      {
+        "index": 7,
+        "itemID": 1,
+        "itemNum": 50,
+        "weight": 100
+      },
+      {
+        "index": 8,
+        "itemID": 1,
+        "itemNum": 50,
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 90001,
+        "itemNum": 5,
+        "weight": 100
+      },
+      {
+        "index": 1,
+        "itemID": 77009,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 2,
+        "itemID": 77009,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 3,
+        "itemID": 77009,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 4,
+        "itemID": 77003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 5,
+        "itemID": 77003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 6,
+        "itemID": 1,
+        "itemNum": 50,
+        "weight": 100
+      },
+      {
+        "index": 7,
+        "itemID": 1,
+        "itemNum": 50,
+        "weight": 100
+      },
+      {
+        "index": 8,
+        "itemID": 1,
+        "itemNum": 50,
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 78009,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 1,
+        "itemID": 77015,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 2,
+        "itemID": 78007,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 3,
+        "itemID": 78001,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 4,
+        "itemID": 77009,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 5,
+        "itemID": 77003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 6,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      },
+      {
+        "index": 7,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      },
+      {
+        "index": 8,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 90001,
+        "itemNum": 10,
+        "weight": 100
+      },
+      {
+        "index": 1,
+        "itemID": 77015,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 2,
+        "itemID": 78008,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 3,
+        "itemID": 78004,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 4,
+        "itemID": 78005,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 5,
+        "itemID": 77003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 6,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      },
+      {
+        "index": 7,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      },
+      {
+        "index": 8,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 71020,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 1,
+        "itemID": 70025,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 2,
+        "itemID": 77015,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 3,
+        "itemID": 78002,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 4,
+        "itemID": 78006,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 5,
+        "itemID": 78003,
+        "itemNum": 1,
+        "weight": 100
+      },
+      {
+        "index": 6,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      },
+      {
+        "index": 7,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      },
+      {
+        "index": 8,
+        "itemID": 1,
+        "itemNum": 100,
+        "weight": 100
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 70046,
+        "itemNum": 1,
+        "weight": 200
+      },
+      {
+        "index": 1,
+        "itemID": 71039,
+        "itemNum": 1,
+        "weight": 200
+      },
+      {
+        "index": 2,
+        "itemID": 90001,
+        "itemNum": 3,
+        "weight": 500
+      },
+      {
+        "index": 3,
+        "itemID": 90001,
+        "itemNum": 3,
+        "weight": 500
+      },
+      {
+        "index": 4,
+        "itemID": 90001,
+        "itemNum": 3,
+        "weight": 500
+      },
+      {
+        "index": 5,
+        "itemID": 91011,
+        "itemNum": 1,
+        "weight": 500
+      },
+      {
+        "index": 6,
+        "itemID": 91011,
+        "itemNum": 1,
+        "weight": 500
+      },
+      {
+        "index": 7,
+        "itemID": 91017,
+        "itemNum": 2,
+        "weight": 500
+      },
+      {
+        "index": 8,
+        "itemID": 91017,
+        "itemNum": 1,
+        "weight": 700
+      },
+      {
+        "index": 9,
+        "itemID": 78101,
+        "itemNum": 2,
+        "weight": 1000
+      },
+      {
+        "index": 10,
+        "itemID": 78101,
+        "itemNum": 2,
+        "weight": 1000
+      },
+      {
+        "index": 11,
+        "itemID": 78100,
+        "itemNum": 5,
+        "weight": 1300
+      },
+      {
+        "index": 12,
+        "itemID": 78100,
+        "itemNum": 5,
+        "weight": 1300
+      },
+      {
+        "index": 13,
+        "itemID": 78100,
+        "itemNum": 5,
+        "weight": 1300
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 91062,
+        "itemNum": 1,
+        "weight": 360
+      },
+      {
+        "index": 1,
+        "itemID": 91096,
+        "itemNum": 1,
+        "weight": 360
+      },
+      {
+        "index": 2,
+        "itemID": 72037,
+        "itemNum": 1,
+        "weight": 540
+      },
+      {
+        "index": 3,
+        "itemID": 77016,
+        "itemNum": 1,
+        "weight": 450
+      },
+      {
+        "index": 4,
+        "itemID": 90001,
+        "itemNum": 10,
+        "weight": 1300
+      },
+      {
+        "index": 5,
+        "itemID": 90001,
+        "itemNum": 10,
+        "weight": 1300
+      },
+      {
+        "index": 6,
+        "itemID": 90001,
+        "itemNum": 10,
+        "weight": 1300
+      },
+      {
+        "index": 7,
+        "itemID": 78009,
+        "itemNum": 3,
+        "weight": 750
+      },
+      {
+        "index": 8,
+        "itemID": 91054,
+        "itemNum": 1,
+        "weight": 820
+      },
+      {
+        "index": 9,
+        "itemID": 91054,
+        "itemNum": 1,
+        "weight": 820
+      },
+      {
+        "index": 10,
+        "itemID": 78101,
+        "itemNum": 10,
+        "weight": 1000
+      },
+      {
+        "index": 11,
+        "itemID": 78101,
+        "itemNum": 10,
+        "weight": 1000
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "activityScratchoffPoolConfigureItems": [
+      {
+        "itemID": 91116,
+        "itemNum": 1,
+        "weight": 360
+      },
+      {
+        "index": 1,
+        "itemID": 91096,
+        "itemNum": 1,
+        "weight": 360
+      },
+      {
+        "index": 2,
+        "itemID": 72040,
+        "itemNum": 1,
+        "weight": 540
+      },
+      {
+        "index": 3,
+        "itemID": 91117,
+        "itemNum": 1,
+        "weight": 450
+      },
+      {
+        "index": 4,
+        "itemID": 90001,
+        "itemNum": 10,
+        "weight": 1300
+      },
+      {
+        "index": 5,
+        "itemID": 90001,
+        "itemNum": 10,
+        "weight": 1300
+      },
+      {
+        "index": 6,
+        "itemID": 90001,
+        "itemNum": 10,
+        "weight": 1300
+      },
+      {
+        "index": 7,
+        "itemID": 78009,
+        "itemNum": 3,
+        "weight": 750
+      },
+      {
+        "index": 8,
+        "itemID": 91054,
+        "itemNum": 1,
+        "weight": 820
+      },
+      {
+        "index": 9,
+        "itemID": 91054,
+        "itemNum": 1,
+        "weight": 820
+      },
+      {
+        "index": 10,
+        "itemID": 78101,
+        "itemNum": 10,
+        "weight": 1000
+      },
+      {
+        "index": 11,
+        "itemID": 78101,
+        "itemNum": 10,
+        "weight": 1000
+      }
+    ]
+  }
+]

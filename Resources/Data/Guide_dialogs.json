@@ -1,0 +1,374 @@
+[
+  {
+    "id": 10030001,
+    "pcDialogId": 10030001,
+    "mobDialogId": 10030001,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030101,
+    "pcDialogId": 10030101,
+    "mobDialogId": 10030101,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030102,
+    "pcDialogId": 10030102,
+    "mobDialogId": 10030102,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030103,
+    "pcDialogId": 10030103,
+    "mobDialogId": 10030103,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030201,
+    "pcDialogId": 10030201,
+    "mobDialogId": 10030201,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030202,
+    "pcDialogId": 10030202,
+    "mobDialogId": 10030202,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1",
+    "showButton": true
+  },
+  {
+    "id": 10030301,
+    "pcDialogId": 10030301,
+    "mobDialogId": 10030301,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030302,
+    "pcDialogId": 10030302,
+    "mobDialogId": 10030302,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030303,
+    "pcDialogId": 10030303,
+    "mobDialogId": 10030303,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030401,
+    "pcDialogId": 10030401,
+    "mobDialogId": 10030401,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030402,
+    "pcDialogId": 10030402,
+    "mobDialogId": 10030402,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030501,
+    "pcDialogId": 10030501,
+    "mobDialogId": 10030501,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030502,
+    "pcDialogId": 10030502,
+    "mobDialogId": 10030502,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030601,
+    "pcDialogId": 10030601,
+    "mobDialogId": 10030601,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030701,
+    "pcDialogId": 10030701,
+    "mobDialogId": 10030701,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030801,
+    "pcDialogId": 10030801,
+    "mobDialogId": 10030801,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10030802,
+    "pcDialogId": 10030802,
+    "mobDialogId": 10030802,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10040001,
+    "pcDialogId": 10040001,
+    "mobDialogId": 10040001,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10040002,
+    "pcDialogId": 10040002,
+    "mobDialogId": 10040002,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10040003,
+    "pcDialogId": 10040003,
+    "mobDialogId": 10040003,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050002,
+    "pcDialogId": 10050002,
+    "mobDialogId": 10050002,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050003,
+    "pcDialogId": 10050003,
+    "mobDialogId": 10050003,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050101,
+    "pcDialogId": 10050101,
+    "mobDialogId": 10050101,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050201,
+    "pcDialogId": 10050201,
+    "mobDialogId": 10050201,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050202,
+    "pcDialogId": 10050202,
+    "mobDialogId": 10050202,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050301,
+    "pcDialogId": 10050301,
+    "mobDialogId": 10050301,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050302,
+    "pcDialogId": 10050302,
+    "mobDialogId": 10050302,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050303,
+    "pcDialogId": 10050303,
+    "mobDialogId": 10050303,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050401,
+    "pcDialogId": 10050401,
+    "mobDialogId": 10050401,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050501,
+    "pcDialogId": 10050501,
+    "mobDialogId": 10050501,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050601,
+    "pcDialogId": 10050601,
+    "mobDialogId": 10050601,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050602,
+    "pcDialogId": 10050602,
+    "mobDialogId": 10050602,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050701,
+    "pcDialogId": 10050701,
+    "mobDialogId": 10050701,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050801,
+    "pcDialogId": 10050801,
+    "mobDialogId": 10050801,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050901,
+    "pcDialogId": 10050901,
+    "mobDialogId": 10050901,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050902,
+    "pcDialogId": 10050902,
+    "mobDialogId": 10050902,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10050903,
+    "pcDialogId": 10050903,
+    "mobDialogId": 10050903,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10060001,
+    "pcDialogId": 10060001,
+    "mobDialogId": 10060001,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10060002,
+    "pcDialogId": 10060002,
+    "mobDialogId": 10060002,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10060003,
+    "pcDialogId": 10060003,
+    "mobDialogId": 10060003,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10060004,
+    "pcDialogId": 10060004,
+    "mobDialogId": 10060004,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10070001,
+    "pcDialogId": 10070001,
+    "mobDialogId": 10070001,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10070002,
+    "pcDialogId": 10070002,
+    "mobDialogId": 10070002,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10070003,
+    "pcDialogId": 10070003,
+    "mobDialogId": 10070003,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10070004,
+    "pcDialogId": 10070004,
+    "mobDialogId": 10070004,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10080001,
+    "pcDialogId": 10080001,
+    "mobDialogId": 10080001,
+    "dir": "1160,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 10080002,
+    "pcDialogId": 10080002,
+    "mobDialogId": 10080002,
+    "dir": "1,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 20015000,
+    "pcDialogId": 20015000,
+    "mobDialogId": 20015000,
+    "dir": "1,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 20015001,
+    "pcDialogId": 20015001,
+    "mobDialogId": 20015001,
+    "dir": "1,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 20010000,
+    "pcDialogId": 20010000,
+    "mobDialogId": 20010000,
+    "dir": "1,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 20020000,
+    "pcDialogId": 20020000,
+    "mobDialogId": 20020000,
+    "dir": "1,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 20020001,
+    "pcDialogId": 20020001,
+    "mobDialogId": 20020001,
+    "dir": "1,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  },
+  {
+    "id": 20020002,
+    "pcDialogId": 20020002,
+    "mobDialogId": 20020002,
+    "dir": "1,1",
+    "roleSprite": "ui://xuaw6o8jrigr1"
+  }
+]

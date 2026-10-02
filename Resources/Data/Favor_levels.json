@@ -1,0 +1,35 @@
+[
+  {
+    "needExp": 20,
+    "totalExp": 20
+  },
+  {
+    "id": 1,
+    "needExp": 120,
+    "totalExp": 140
+  },
+  {
+    "id": 2,
+    "needExp": 600,
+    "totalExp": 740
+  },
+  {
+    "id": 3,
+    "needExp": 3000,
+    "totalExp": 3740
+  },
+  {
+    "id": 4,
+    "needExp": 6000,
+    "totalExp": 9740
+  },
+  {
+    "id": 5,
+    "needExp": 8000,
+    "totalExp": 17740
+  },
+  {
+    "id": 6,
+    "totalExp": 17740
+  }
+]

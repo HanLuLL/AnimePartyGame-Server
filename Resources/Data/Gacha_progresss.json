@@ -1,0 +1,456 @@
+[
+  {
+    "poolID": 20251219,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100102003": 1,
+          "53": 10
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 99,
+    "gachaProgressConfigureItems": [
+      {
+        "count": 60,
+        "reward": {
+          "101": 1,
+          "103": 1,
+          "104": 1,
+          "106": 1,
+          "109": 1,
+          "110": 1,
+          "113": 1,
+          "114": 1,
+          "115": 1,
+          "117": 1
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260209,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100112004": 1,
+          "53": 10
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260315,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100116003": 1,
+          "53": 10
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260421,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100123003": 1,
+          "53": 10
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260524,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100117003": 1,
+          "53": 10
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260629,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100107005": 1,
+          "53": 10
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260730,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "1000058": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "1000058": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "1000058": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "1000058": 5
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "1000057": 5
+        }
+      },
+      {
+        "count": 80,
+        "reward": {
+          "1000057": 5
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "1000057": 10
+        }
+      },
+      {
+        "count": 120,
+        "reward": {
+          "1000009": 100
+        }
+      },
+      {
+        "count": 150,
+        "reward": {
+          "1000009": 150
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260804,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100104004": 1,
+          "53": 10
+        }
+      }
+    ]
+  },
+  {
+    "poolID": 20260904,
+    "gachaProgressConfigureItems": [
+      {
+        "reward": {
+          "53": 1
+        }
+      },
+      {
+        "count": 10,
+        "reward": {
+          "53": 2
+        }
+      },
+      {
+        "count": 20,
+        "reward": {
+          "53": 3
+        }
+      },
+      {
+        "count": 30,
+        "reward": {
+          "53": 4
+        }
+      },
+      {
+        "count": 50,
+        "reward": {
+          "53": 5
+        }
+      },
+      {
+        "count": 70,
+        "reward": {
+          "53": 6
+        }
+      },
+      {
+        "count": 100,
+        "reward": {
+          "100120004": 1,
+          "53": 10
+        }
+      }
+    ]
+  }
+]

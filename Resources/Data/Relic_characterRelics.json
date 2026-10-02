@@ -1,0 +1,247 @@
+[
+  {
+    "id": 101,
+    "attackPt": 15,
+    "cardPt": 60,
+    "SupportPt": 60,
+    "tankPt": 15
+  },
+  {
+    "id": 102,
+    "attackPt": 15,
+    "cardPt": 15,
+    "SupportPt": 100,
+    "tankPt": 15
+  },
+  {
+    "id": 103,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 104,
+    "attackPt": 15,
+    "cardPt": 100,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 105,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 106,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 107,
+    "attackPt": 15,
+    "cardPt": 60,
+    "SupportPt": 60,
+    "tankPt": 15
+  },
+  {
+    "id": 108,
+    "attackPt": 15,
+    "cardPt": 30,
+    "SupportPt": 80,
+    "tankPt": 15
+  },
+  {
+    "id": 109,
+    "attackPt": 100,
+    "cardPt": 30,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 110,
+    "attackPt": 15,
+    "cardPt": 15,
+    "SupportPt": 60,
+    "tankPt": 60
+  },
+  {
+    "id": 111,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 112,
+    "attackPt": 15,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 100
+  },
+  {
+    "id": 113,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 114,
+    "attackPt": 15,
+    "cardPt": 15,
+    "SupportPt": 100,
+    "tankPt": 15
+  },
+  {
+    "id": 115,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 116,
+    "attackPt": 60,
+    "cardPt": 60,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 117,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 118,
+    "attackPt": 15,
+    "cardPt": 30,
+    "SupportPt": 80,
+    "tankPt": 15
+  },
+  {
+    "id": 119,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 120,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 121,
+    "attackPt": 15,
+    "cardPt": 80,
+    "SupportPt": 30,
+    "tankPt": 15
+  },
+  {
+    "id": 122,
+    "attackPt": 15,
+    "cardPt": 60,
+    "SupportPt": 60,
+    "tankPt": 15
+  },
+  {
+    "id": 123,
+    "attackPt": 15,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 100
+  },
+  {
+    "id": 124,
+    "attackPt": 80,
+    "cardPt": 15,
+    "SupportPt": 30,
+    "tankPt": 15
+  },
+  {
+    "id": 125,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 126,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 127,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 128,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 129,
+    "attackPt": 15,
+    "cardPt": 80,
+    "SupportPt": 30,
+    "tankPt": 15
+  },
+  {
+    "id": 301,
+    "attackPt": 15,
+    "cardPt": 15,
+    "SupportPt": 100,
+    "tankPt": 15
+  },
+  {
+    "id": 302,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  },
+  {
+    "id": 303,
+    "attackPt": 15,
+    "cardPt": 15,
+    "SupportPt": 80,
+    "tankPt": 30
+  },
+  {
+    "id": 304,
+    "attackPt": 60,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 60
+  },
+  {
+    "id": 305,
+    "attackPt": 15,
+    "cardPt": 60,
+    "SupportPt": 60,
+    "tankPt": 15
+  },
+  {
+    "id": 306,
+    "attackPt": 100,
+    "cardPt": 15,
+    "SupportPt": 15,
+    "tankPt": 15
+  }
+]

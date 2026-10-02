@@ -1,0 +1,14 @@
+[
+  {
+    "shopTabType": {
+      "value": 14,
+      "name": "ShopTabType_Skin"
+    },
+    "fixINTJPExchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 80012,
+        "rechargeIcon": "UT_Hero_Card2_124_01_CA"
+      }
+    ]
+  }
+]

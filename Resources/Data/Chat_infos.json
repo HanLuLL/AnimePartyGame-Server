@@ -1,0 +1,713 @@
+[
+  {
+    "ID": 10001,
+    "ChatID": 10001,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 10002,
+    "ChatID": 10002,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 10003,
+    "ChatID": 10003,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 10004,
+    "ChatID": 10004,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 10005,
+    "ChatID": 10005,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 10006,
+    "ChatID": 10006,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 10007,
+    "ChatID": 20004,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 10008,
+    "ChatID": 20012,
+    "chatType": [
+      {
+        "value": 1,
+        "name": "ChatType_Room"
+      }
+    ]
+  },
+  {
+    "ID": 20001,
+    "ChatID": 20001,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20002,
+    "ChatID": 20002,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20003,
+    "ChatID": 20003,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20004,
+    "ChatID": 20004,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20005,
+    "ChatID": 20005,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20006,
+    "ChatID": 20006,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20011,
+    "ChatID": 20011,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20012,
+    "ChatID": 20012,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20013,
+    "ChatID": 21016,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 20014,
+    "ChatID": 10006,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 11,
+        "name": "MapModeType_LuckyStarBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 21007,
+    "ChatID": 21007,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 21008,
+    "ChatID": 21008,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 21009,
+    "ChatID": 21009,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 7,
+        "name": "MapModeType_AsymmetricalBattle"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 21010,
+    "ChatID": 21010,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 21013,
+    "ChatID": 21013,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 21014,
+    "ChatID": 21014,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 12,
+        "name": "MapModeType_MutatorPVE"
+      }
+    ]
+  },
+  {
+    "ID": 23001,
+    "ChatID": 23001,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      }
+    ],
+    "mapLimit": [
+      82010
+    ]
+  },
+  {
+    "ID": 23002,
+    "ChatID": 23002,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      }
+    ],
+    "mapLimit": [
+      82010
+    ]
+  },
+  {
+    "ID": 23003,
+    "ChatID": 23003,
+    "chatType": [
+      {
+        "value": 2,
+        "name": "ChatType_InGame"
+      }
+    ],
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      }
+    ],
+    "mapLimit": [
+      82014
+    ]
+  },
+  {
+    "ID": 30001,
+    "ChatID": 30001,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30002,
+    "ChatID": 30002,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30003,
+    "ChatID": 30003,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30004,
+    "ChatID": 30004,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30005,
+    "ChatID": 30005,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30006,
+    "ChatID": 30006,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30007,
+    "ChatID": 30007,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30008,
+    "ChatID": 30008,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  },
+  {
+    "ID": 30009,
+    "ChatID": 20012,
+    "chatType": [
+      {
+        "value": 3,
+        "name": "ChatType_Result"
+      }
+    ]
+  }
+]

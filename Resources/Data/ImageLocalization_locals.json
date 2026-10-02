@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 41224001,
+    "simplified": "GuidePic_PVE01",
+    "english": "GuidePic_PVE01",
+    "japanese": "GuidePic_PVE01_JP",
+    "traditional": "GuidePic_PVE01"
+  },
+  {
+    "id": 41224002,
+    "simplified": "GuidePic_PVE02",
+    "english": "GuidePic_PVE02",
+    "japanese": "GuidePic_PVE02",
+    "traditional": "GuidePic_PVE02"
+  },
+  {
+    "id": 41224003,
+    "simplified": "GuidePic_PVE03",
+    "english": "GuidePic_PVE03",
+    "japanese": "GuidePic_PVE03",
+    "traditional": "GuidePic_PVE03"
+  },
+  {
+    "id": 41224004,
+    "simplified": "GuidePic_Christ01",
+    "english": "GuidePic_Christ01",
+    "japanese": "GuidePic_Christ01_JP",
+    "traditional": "GuidePic_Christ01"
+  },
+  {
+    "id": 41224005,
+    "simplified": "GuidePic_Christ02",
+    "english": "GuidePic_Christ02",
+    "japanese": "GuidePic_Christ02_JP",
+    "traditional": "GuidePic_Christ02"
+  },
+  {
+    "id": 41224006,
+    "simplified": "GuidePic_Christ02",
+    "english": "GuidePic_Christ02",
+    "japanese": "GuidePic_Christ02",
+    "traditional": "GuidePic_Christ02"
+  },
+  {
+    "id": 41224007,
+    "simplified": "GuidePic_Christ03",
+    "english": "GuidePic_Christ03",
+    "japanese": "GuidePic_Christ03",
+    "traditional": "GuidePic_Christ03"
+  },
+  {
+    "id": 41224010,
+    "simplified": "GuidePic_Dead01",
+    "english": "GuidePic_Dead01",
+    "japanese": "GuidePic_Dead01",
+    "traditional": "GuidePic_Dead01"
+  },
+  {
+    "id": 41224101,
+    "simplified": "GuidePic_Card01",
+    "english": "GuidePic_Card01",
+    "japanese": "GuidePic_Card01_JP",
+    "traditional": "GuidePic_Card01"
+  },
+  {
+    "id": 41224102,
+    "simplified": "GuidePic_Card02",
+    "english": "GuidePic_Card02",
+    "japanese": "GuidePic_Card02_JP",
+    "traditional": "GuidePic_Card02"
+  },
+  {
+    "id": 41224103,
+    "simplified": "GuidePic_Card03",
+    "english": "GuidePic_Card03",
+    "japanese": "GuidePic_Card03_JP",
+    "traditional": "GuidePic_Card03"
+  },
+  {
+    "id": 41224104,
+    "simplified": "GuidePic_Card04",
+    "english": "GuidePic_Card04",
+    "japanese": "GuidePic_Card04_JP",
+    "traditional": "GuidePic_Card04"
+  },
+  {
+    "id": 41224105,
+    "simplified": "GuidePic_Fight01",
+    "english": "GuidePic_Fight01",
+    "japanese": "GuidePic_Fight01_JP",
+    "traditional": "GuidePic_Fight01"
+  },
+  {
+    "id": 41224106,
+    "simplified": "GuidePic_Fight02",
+    "english": "GuidePic_Fight02",
+    "japanese": "GuidePic_Fight02_JP",
+    "traditional": "GuidePic_Fight02"
+  },
+  {
+    "id": 41224107,
+    "simplified": "GuidePic_Fight03",
+    "english": "GuidePic_Fight03",
+    "japanese": "GuidePic_Fight03_JP",
+    "traditional": "GuidePic_Fight03"
+  },
+  {
+    "id": 41224108,
+    "simplified": "GuidePic_Fight03",
+    "english": "GuidePic_Fight03",
+    "japanese": "GuidePic_Fight03_JP",
+    "traditional": "GuidePic_Fight03"
+  },
+  {
+    "id": 41224201,
+    "simplified": "GuidePic_Fight01",
+    "english": "GuidePic_Fight01",
+    "japanese": "GuidePic_Fight01_JP",
+    "traditional": "GuidePic_Fight01"
+  },
+  {
+    "id": 41224202,
+    "simplified": "GuidePic_Fight02",
+    "english": "GuidePic_Fight02",
+    "japanese": "GuidePic_Fight02_JP",
+    "traditional": "GuidePic_Fight02"
+  },
+  {
+    "id": 41224203,
+    "simplified": "GuidePic_Fight03",
+    "english": "GuidePic_Fight03",
+    "japanese": "GuidePic_Fight03_JP",
+    "traditional": "GuidePic_Fight03"
+  },
+  {
+    "id": 41224204,
+    "simplified": "GuidePic_Fight03",
+    "english": "GuidePic_Fight03",
+    "japanese": "GuidePic_Fight03_JP",
+    "traditional": "GuidePic_Fight03"
+  },
+  {
+    "id": 41224205,
+    "simplified": "GuidePic_SC_1020101",
+    "english": "GuidePic_SC_1020101",
+    "japanese": "GuidePic_SC_1020101",
+    "traditional": "GuidePic_SC_1020101"
+  },
+  {
+    "id": 41224206,
+    "simplified": "GuidePic_SC_1020101",
+    "english": "GuidePic_SC_1020101",
+    "japanese": "GuidePic_SC_1020101",
+    "traditional": "GuidePic_SC_1020101"
+  },
+  {
+    "id": 41224207,
+    "simplified": "GuidePic_SC_1020201",
+    "english": "GuidePic_SC_1020201",
+    "japanese": "GuidePic_SC_1020201",
+    "traditional": "GuidePic_SC_1020201"
+  },
+  {
+    "id": 41224208,
+    "simplified": "GuidePic_SC_1020202",
+    "english": "GuidePic_SC_1020202",
+    "japanese": "GuidePic_SC_1020202",
+    "traditional": "GuidePic_SC_1020202"
+  },
+  {
+    "id": 41224209,
+    "simplified": "GuidePic_PVE02",
+    "english": "GuidePic_PVE02",
+    "japanese": "GuidePic_PVE02",
+    "traditional": "GuidePic_PVE02"
+  },
+  {
+    "id": 41224210,
+    "simplified": "GuidePic_SC_1030102",
+    "english": "GuidePic_SC_1030102",
+    "japanese": "GuidePic_SC_1030102_JP",
+    "traditional": "GuidePic_SC_1030102"
+  },
+  {
+    "id": 41224211,
+    "simplified": "GuidePic_PVE03",
+    "english": "GuidePic_PVE03",
+    "japanese": "GuidePic_PVE03",
+    "traditional": "GuidePic_PVE03"
+  },
+  {
+    "id": 41224212,
+    "simplified": "GuidePic_PVE_1021101",
+    "english": "GuidePic_PVE_1021101",
+    "japanese": "GuidePic_PVE_1021101",
+    "traditional": "GuidePic_PVE_1021101"
+  },
+  {
+    "id": 41224213,
+    "simplified": "GuidePic_PVE_1021102",
+    "english": "GuidePic_PVE_1021102",
+    "japanese": "GuidePic_PVE_1021102",
+    "traditional": "GuidePic_PVE_1021102"
+  },
+  {
+    "id": 41224214,
+    "simplified": "GuidePic_PVE_1021103",
+    "english": "GuidePic_PVE_1021103",
+    "japanese": "GuidePic_PVE_1021103",
+    "traditional": "GuidePic_PVE_1021103"
+  },
+  {
+    "id": 41224215,
+    "simplified": "GuidePic_PVE_1021201",
+    "english": "GuidePic_PVE_1021201",
+    "japanese": "GuidePic_PVE_1021201",
+    "traditional": "GuidePic_PVE_1021201"
+  },
+  {
+    "id": 41224216,
+    "simplified": "GuidePic_PVE_1021202",
+    "english": "GuidePic_PVE_1021202",
+    "japanese": "GuidePic_PVE_1021202",
+    "traditional": "GuidePic_PVE_1021202"
+  },
+  {
+    "id": 41224217,
+    "simplified": "GuidePic_PVE_1021301",
+    "english": "GuidePic_PVE_1021301",
+    "japanese": "GuidePic_PVE_1021301",
+    "traditional": "GuidePic_PVE_1021301"
+  },
+  {
+    "id": 41224218,
+    "simplified": "GuidePic_PVP_1031101",
+    "english": "GuidePic_PVP_1031101",
+    "japanese": "GuidePic_PVP_1031101",
+    "traditional": "GuidePic_PVP_1031101"
+  },
+  {
+    "id": 41224008,
+    "simplified": "GuidePic_SG_01",
+    "english": "GuidePic_SG_01",
+    "japanese": "GuidePic_SG_01",
+    "traditional": "GuidePic_SG_01"
+  },
+  {
+    "id": 41224009,
+    "simplified": "GuidePic_SG_02",
+    "english": "GuidePic_SG_02",
+    "japanese": "GuidePic_SG_02",
+    "traditional": "GuidePic_SG_02"
+  },
+  {
+    "id": 100,
+    "simplified": "UT_Achieve_100",
+    "english": "UT_Achieve_100",
+    "japanese": "UT_Achieve_100",
+    "traditional": "UT_Achieve_100"
+  },
+  {
+    "id": 101,
+    "simplified": "UT_Achieve_101",
+    "english": "UT_Achieve_101",
+    "japanese": "UT_Achieve_101",
+    "traditional": "UT_Achieve_101"
+  },
+  {
+    "id": 102,
+    "simplified": "UT_Achieve_102",
+    "english": "UT_Achieve_102",
+    "japanese": "UT_Achieve_102",
+    "traditional": "UT_Achieve_102"
+  },
+  {
+    "id": 103,
+    "simplified": "UT_Achieve_103",
+    "english": "UT_Achieve_103",
+    "japanese": "UT_Achieve_103",
+    "traditional": "UT_Achieve_103"
+  },
+  {
+    "id": 200,
+    "simplified": "UT_Achieve_200",
+    "english": "UT_Achieve_200",
+    "japanese": "UT_Achieve_200",
+    "traditional": "UT_Achieve_200"
+  },
+  {
+    "id": 201,
+    "simplified": "UT_Achieve_201",
+    "english": "UT_Achieve_201",
+    "japanese": "UT_Achieve_201",
+    "traditional": "UT_Achieve_201"
+  },
+  {
+    "id": 202,
+    "simplified": "UT_Achieve_202",
+    "english": "UT_Achieve_202",
+    "japanese": "UT_Achieve_202",
+    "traditional": "UT_Achieve_202"
+  },
+  {
+    "id": 300,
+    "simplified": "UT_Achieve_300",
+    "english": "UT_Achieve_300",
+    "japanese": "UT_Achieve_300",
+    "traditional": "UT_Achieve_300"
+  },
+  {
+    "id": 301,
+    "simplified": "UT_Achieve_301",
+    "english": "UT_Achieve_301",
+    "japanese": "UT_Achieve_301",
+    "traditional": "UT_Achieve_301"
+  },
+  {
+    "id": 302,
+    "simplified": "UT_Achieve_302",
+    "english": "UT_Achieve_302",
+    "japanese": "UT_Achieve_302",
+    "traditional": "UT_Achieve_302"
+  },
+  {
+    "id": 400,
+    "simplified": "UT_Achieve_400",
+    "english": "UT_Achieve_400",
+    "japanese": "UT_Achieve_400",
+    "traditional": "UT_Achieve_400"
+  },
+  {
+    "id": 401,
+    "simplified": "UT_Achieve_401",
+    "english": "UT_Achieve_401",
+    "japanese": "UT_Achieve_401",
+    "traditional": "UT_Achieve_401"
+  },
+  {
+    "id": 402,
+    "simplified": "UT_Achieve_402",
+    "english": "UT_Achieve_402",
+    "japanese": "UT_Achieve_402",
+    "traditional": "UT_Achieve_402"
+  },
+  {
+    "id": 500,
+    "simplified": "UT_Achieve_500",
+    "english": "UT_Achieve_500",
+    "japanese": "UT_Achieve_500",
+    "traditional": "UT_Achieve_500"
+  },
+  {
+    "id": 501,
+    "simplified": "UT_Achieve_501",
+    "english": "UT_Achieve_501",
+    "japanese": "UT_Achieve_501",
+    "traditional": "UT_Achieve_501"
+  },
+  {
+    "id": 502,
+    "simplified": "UT_Achieve_502",
+    "english": "UT_Achieve_502",
+    "japanese": "UT_Achieve_502",
+    "traditional": "UT_Achieve_502"
+  },
+  {
+    "id": 600,
+    "simplified": "UT_Achieve_600",
+    "english": "UT_Achieve_600",
+    "japanese": "UT_Achieve_600",
+    "traditional": "UT_Achieve_600"
+  },
+  {
+    "id": 601,
+    "simplified": "UT_Achieve_601",
+    "english": "UT_Achieve_601",
+    "japanese": "UT_Achieve_601_JP",
+    "traditional": "UT_Achieve_601"
+  },
+  {
+    "id": 700,
+    "simplified": "UT_Achieve_700",
+    "english": "UT_Achieve_700",
+    "japanese": "UT_Achieve_700",
+    "traditional": "UT_Achieve_700"
+  },
+  {
+    "id": 701,
+    "simplified": "UT_Achieve_701",
+    "english": "UT_Achieve_701",
+    "japanese": "UT_Achieve_701",
+    "traditional": "UT_Achieve_701"
+  },
+  {
+    "id": 800,
+    "simplified": "UT_Achieve_801",
+    "english": "UT_Achieve_801",
+    "japanese": "UT_Achieve_801_JP",
+    "traditional": "UT_Achieve_801"
+  },
+  {
+    "id": 900,
+    "simplified": "UT_Achieve_900",
+    "english": "UT_Achieve_900",
+    "japanese": "UT_Achieve_900",
+    "traditional": "UT_Achieve_900"
+  },
+  {
+    "id": 901,
+    "simplified": "UT_Achieve_901",
+    "english": "UT_Achieve_901",
+    "japanese": "UT_Achieve_901",
+    "traditional": "UT_Achieve_901"
+  },
+  {
+    "id": 902,
+    "simplified": "UT_Achieve_902",
+    "english": "UT_Achieve_902",
+    "japanese": "UT_Achieve_902",
+    "traditional": "UT_Achieve_902"
+  },
+  {
+    "id": 1000,
+    "simplified": "UT_Achieve_1000",
+    "english": "UT_Achieve_1000",
+    "japanese": "UT_Achieve_1000",
+    "traditional": "UT_Achieve_1000"
+  },
+  {
+    "id": 1001,
+    "simplified": "UT_Achieve_1001",
+    "english": "UT_Achieve_1001",
+    "japanese": "UT_Achieve_1001",
+    "traditional": "UT_Achieve_1001"
+  },
+  {
+    "id": 1002,
+    "simplified": "UT_Achieve_1002",
+    "english": "UT_Achieve_1002",
+    "japanese": "UT_Achieve_1002",
+    "traditional": "UT_Achieve_1002"
+  },
+  {
+    "id": 1100,
+    "simplified": "UT_Achieve_1100",
+    "english": "UT_Achieve_1100",
+    "japanese": "UT_Achieve_1100",
+    "traditional": "UT_Achieve_1100"
+  },
+  {
+    "id": 1200,
+    "simplified": "UT_Achieve_1200",
+    "english": "UT_Achieve_1200",
+    "japanese": "UT_Achieve_1200_JP",
+    "traditional": "UT_Achieve_1200"
+  },
+  {
+    "id": 1201,
+    "simplified": "UT_Achieve_1201",
+    "english": "UT_Achieve_1201",
+    "japanese": "UT_Achieve_1201",
+    "traditional": "UT_Achieve_1201"
+  },
+  {
+    "id": 1202,
+    "simplified": "UT_Achieve_1202",
+    "english": "UT_Achieve_1202",
+    "japanese": "UT_Achieve_1202",
+    "traditional": "UT_Achieve_1202"
+  },
+  {
+    "id": 1300,
+    "simplified": "UT_Achieve_1300",
+    "english": "UT_Achieve_1300",
+    "japanese": "UT_Achieve_1300",
+    "traditional": "UT_Achieve_1300"
+  },
+  {
+    "id": 1301,
+    "simplified": "UT_Achieve_1301",
+    "english": "UT_Achieve_1301",
+    "japanese": "UT_Achieve_1301",
+    "traditional": "UT_Achieve_1301"
+  },
+  {
+    "id": 1302,
+    "simplified": "UT_Achieve_1302",
+    "english": "UT_Achieve_1302",
+    "japanese": "UT_Achieve_1302_JP",
+    "traditional": "UT_Achieve_1302"
+  },
+  {
+    "id": 1400,
+    "simplified": "UT_Achieve_1400",
+    "english": "UT_Achieve_1400",
+    "japanese": "UT_Achieve_1400",
+    "traditional": "UT_Achieve_1400"
+  },
+  {
+    "id": 1701,
+    "simplified": "UT_Achieve_1701",
+    "english": "UT_Achieve_1701",
+    "japanese": "UT_Achieve_1701",
+    "traditional": "UT_Achieve_1701"
+  },
+  {
+    "id": 1702,
+    "simplified": "UT_Achieve_1702",
+    "english": "UT_Achieve_1702",
+    "japanese": "UT_Achieve_1702",
+    "traditional": "UT_Achieve_1702"
+  },
+  {
+    "id": 1703,
+    "simplified": "UT_Achieve_1703",
+    "english": "UT_Achieve_1703",
+    "japanese": "UT_Achieve_1703",
+    "traditional": "UT_Achieve_1703"
+  },
+  {
+    "id": 1704,
+    "simplified": "UT_Achieve_1704",
+    "english": "UT_Achieve_1704",
+    "japanese": "UT_Achieve_1704",
+    "traditional": "UT_Achieve_1704"
+  },
+  {
+    "id": 1705,
+    "simplified": "UT_Achieve_1705",
+    "english": "UT_Achieve_1705",
+    "japanese": "UT_Achieve_1705",
+    "traditional": "UT_Achieve_1705"
+  },
+  {
+    "id": 1706,
+    "simplified": "UT_Achieve_1706",
+    "english": "UT_Achieve_1706",
+    "japanese": "UT_Achieve_1706",
+    "traditional": "UT_Achieve_1706"
+  },
+  {
+    "id": 1707,
+    "simplified": "UT_Achieve_1707",
+    "english": "UT_Achieve_1707",
+    "japanese": "UT_Achieve_1707",
+    "traditional": "UT_Achieve_1707"
+  },
+  {
+    "id": 1708,
+    "simplified": "UT_Achieve_1708",
+    "english": "UT_Achieve_1708",
+    "japanese": "UT_Achieve_1708",
+    "traditional": "UT_Achieve_1708"
+  },
+  {
+    "id": 1709,
+    "simplified": "UT_Achieve_1709",
+    "english": "UT_Achieve_1709",
+    "japanese": "UT_Achieve_1709",
+    "traditional": "UT_Achieve_1709"
+  },
+  {
+    "id": 1710,
+    "simplified": "UT_Achieve_1710",
+    "english": "UT_Achieve_1710",
+    "japanese": "UT_Achieve_1710",
+    "traditional": "UT_Achieve_1710"
+  },
+  {
+    "id": 1711,
+    "simplified": "UT_Achieve_1711",
+    "english": "UT_Achieve_1711",
+    "japanese": "UT_Achieve_1711",
+    "traditional": "UT_Achieve_1711"
+  },
+  {
+    "id": 1712,
+    "simplified": "UT_Achieve_1712",
+    "english": "UT_Achieve_1712",
+    "japanese": "UT_Achieve_1712",
+    "traditional": "UT_Achieve_1712"
+  },
+  {
+    "id": 1713,
+    "simplified": "UT_Achieve_1713",
+    "english": "UT_Achieve_1713",
+    "japanese": "UT_Achieve_1713",
+    "traditional": "UT_Achieve_1713"
+  },
+  {
+    "id": 1714,
+    "simplified": "UT_Achieve_1714",
+    "english": "UT_Achieve_1714",
+    "japanese": "UT_Achieve_1714",
+    "traditional": "UT_Achieve_1714"
+  },
+  {
+    "id": 1715,
+    "simplified": "UT_Achieve_1715",
+    "english": "UT_Achieve_1715",
+    "japanese": "UT_Achieve_1715",
+    "traditional": "UT_Achieve_1715"
+  },
+  {
+    "id": 1716,
+    "simplified": "UT_Achieve_1716",
+    "english": "UT_Achieve_1716",
+    "japanese": "UT_Achieve_1716",
+    "traditional": "UT_Achieve_1716"
+  },
+  {
+    "id": 1717,
+    "simplified": "UT_Achieve_1717",
+    "english": "UT_Achieve_1717",
+    "japanese": "UT_Achieve_1717",
+    "traditional": "UT_Achieve_1717"
+  },
+  {
+    "id": 1718,
+    "simplified": "UT_Achieve_1718",
+    "english": "UT_Achieve_1718",
+    "japanese": "UT_Achieve_1718",
+    "traditional": "UT_Achieve_1718"
+  },
+  {
+    "id": 1719,
+    "simplified": "UT_Achieve_1719",
+    "english": "UT_Achieve_1719",
+    "japanese": "UT_Achieve_1719",
+    "traditional": "UT_Achieve_1719"
+  },
+  {
+    "id": 1720,
+    "simplified": "UT_Achieve_1720",
+    "english": "UT_Achieve_1720",
+    "japanese": "UT_Achieve_1720",
+    "traditional": "UT_Achieve_1720"
+  },
+  {
+    "id": 1721,
+    "simplified": "UT_Achieve_1721",
+    "english": "UT_Achieve_1721",
+    "japanese": "UT_Achieve_1721",
+    "traditional": "UT_Achieve_1721"
+  },
+  {
+    "id": 1722,
+    "simplified": "UT_Achieve_1722",
+    "english": "UT_Achieve_1722",
+    "japanese": "UT_Achieve_1722",
+    "traditional": "UT_Achieve_1722"
+  },
+  {
+    "id": 1723,
+    "simplified": "UT_Achieve_1723",
+    "english": "UT_Achieve_1723",
+    "japanese": "UT_Achieve_1723",
+    "traditional": "UT_Achieve_1723"
+  },
+  {
+    "id": 1724,
+    "simplified": "UT_Achieve_1724",
+    "english": "UT_Achieve_1724",
+    "japanese": "UT_Achieve_1724",
+    "traditional": "UT_Achieve_1724"
+  },
+  {
+    "id": 1725,
+    "simplified": "UT_Achieve_1725",
+    "english": "UT_Achieve_1725",
+    "japanese": "UT_Achieve_1725",
+    "traditional": "UT_Achieve_1725"
+  },
+  {
+    "id": 1726,
+    "simplified": "UT_Achieve_1726",
+    "english": "UT_Achieve_1726",
+    "japanese": "UT_Achieve_1726",
+    "traditional": "UT_Achieve_1726"
+  },
+  {
+    "id": 1727,
+    "simplified": "UT_Achieve_1727",
+    "english": "UT_Achieve_1727",
+    "japanese": "UT_Achieve_1727",
+    "traditional": "UT_Achieve_1727"
+  },
+  {
+    "id": 1728,
+    "simplified": "UT_Achieve_1728",
+    "english": "UT_Achieve_1728",
+    "japanese": "UT_Achieve_1728",
+    "traditional": "UT_Achieve_1728"
+  },
+  {
+    "id": 1729,
+    "simplified": "UT_Achieve_1729",
+    "english": "UT_Achieve_1729",
+    "japanese": "UT_Achieve_1729",
+    "traditional": "UT_Achieve_1729"
+  },
+  {
+    "id": 1794,
+    "simplified": "UT_Achieve_1794",
+    "english": "UT_Achieve_1794",
+    "japanese": "UT_Achieve_1794",
+    "traditional": "UT_Achieve_1794"
+  },
+  {
+    "id": 1795,
+    "simplified": "UT_Achieve_1795",
+    "english": "UT_Achieve_1795",
+    "japanese": "UT_Achieve_1795",
+    "traditional": "UT_Achieve_1795"
+  },
+  {
+    "id": 1796,
+    "simplified": "UT_Achieve_1796",
+    "english": "UT_Achieve_1796",
+    "japanese": "UT_Achieve_1796",
+    "traditional": "UT_Achieve_1796"
+  },
+  {
+    "id": 1797,
+    "simplified": "UT_Achieve_1797",
+    "english": "UT_Achieve_1797",
+    "japanese": "UT_Achieve_1797",
+    "traditional": "UT_Achieve_1797"
+  },
+  {
+    "id": 1798,
+    "simplified": "UT_Achieve_1798",
+    "english": "UT_Achieve_1798",
+    "japanese": "UT_Achieve_1798",
+    "traditional": "UT_Achieve_1798"
+  },
+  {
+    "id": 1799,
+    "simplified": "UT_Achieve_1799",
+    "english": "UT_Achieve_1799",
+    "japanese": "UT_Achieve_1799",
+    "traditional": "UT_Achieve_1799"
+  },
+  {
+    "id": 1801,
+    "simplified": "UT_Achieve_1801",
+    "english": "UT_Achieve_1801",
+    "japanese": "UT_Achieve_1801",
+    "traditional": "UT_Achieve_1801"
+  },
+  {
+    "id": 1802,
+    "simplified": "UT_Achieve_1802",
+    "english": "UT_Achieve_1802",
+    "japanese": "UT_Achieve_1802",
+    "traditional": "UT_Achieve_1802"
+  },
+  {
+    "id": 1803,
+    "simplified": "UT_Achieve_1803",
+    "english": "UT_Achieve_1803",
+    "japanese": "UT_Achieve_1803",
+    "traditional": "UT_Achieve_1803"
+  },
+  {
+    "id": 1804,
+    "simplified": "UT_Achieve_1804",
+    "english": "UT_Achieve_1804",
+    "japanese": "UT_Achieve_1804",
+    "traditional": "UT_Achieve_1804"
+  },
+  {
+    "id": 1805,
+    "simplified": "UT_Achieve_1805",
+    "english": "UT_Achieve_1805",
+    "japanese": "UT_Achieve_1805",
+    "traditional": "UT_Achieve_1805"
+  },
+  {
+    "id": 1806,
+    "simplified": "UT_Achieve_1806",
+    "english": "UT_Achieve_1806",
+    "japanese": "UT_Achieve_1806",
+    "traditional": "UT_Achieve_1806"
+  },
+  {
+    "id": 1807,
+    "simplified": "UT_Achieve_1807",
+    "english": "UT_Achieve_1807",
+    "japanese": "UT_Achieve_1807",
+    "traditional": "UT_Achieve_1807"
+  },
+  {
+    "id": 1808,
+    "simplified": "UT_Achieve_1808",
+    "english": "UT_Achieve_1808",
+    "japanese": "UT_Achieve_1808",
+    "traditional": "UT_Achieve_1808"
+  },
+  {
+    "id": 1809,
+    "simplified": "UT_Achieve_1809",
+    "english": "UT_Achieve_1809",
+    "japanese": "UT_Achieve_1809",
+    "traditional": "UT_Achieve_1809"
+  },
+  {
+    "id": 1810,
+    "simplified": "UT_Achieve_1810",
+    "english": "UT_Achieve_1810",
+    "japanese": "UT_Achieve_1810",
+    "traditional": "UT_Achieve_1810"
+  },
+  {
+    "id": 1811,
+    "simplified": "UT_Achieve_1811",
+    "english": "UT_Achieve_1811",
+    "japanese": "UT_Achieve_1811",
+    "traditional": "UT_Achieve_1811"
+  },
+  {
+    "id": 1812,
+    "simplified": "UT_Achieve_1812",
+    "english": "UT_Achieve_1812",
+    "japanese": "UT_Achieve_1812",
+    "traditional": "UT_Achieve_1812"
+  },
+  {
+    "id": 1813,
+    "simplified": "UT_Achieve_1813",
+    "english": "UT_Achieve_1813",
+    "japanese": "UT_Achieve_1813",
+    "traditional": "UT_Achieve_1813"
+  },
+  {
+    "id": 1814,
+    "simplified": "UT_Achieve_1814",
+    "english": "UT_Achieve_1814",
+    "japanese": "UT_Achieve_1814",
+    "traditional": "UT_Achieve_1814"
+  },
+  {
+    "id": 1815,
+    "simplified": "UT_Achieve_1815",
+    "english": "UT_Achieve_1815",
+    "japanese": "UT_Achieve_1815",
+    "traditional": "UT_Achieve_1815"
+  },
+  {
+    "id": 1816,
+    "simplified": "UT_Achieve_1816",
+    "english": "UT_Achieve_1816",
+    "japanese": "UT_Achieve_1816",
+    "traditional": "UT_Achieve_1816"
+  },
+  {
+    "id": 1817,
+    "simplified": "UT_Achieve_1817",
+    "english": "UT_Achieve_1817",
+    "japanese": "UT_Achieve_1817",
+    "traditional": "UT_Achieve_1817"
+  },
+  {
+    "id": 1818,
+    "simplified": "UT_Achieve_1818",
+    "english": "UT_Achieve_1818",
+    "japanese": "UT_Achieve_1818",
+    "traditional": "UT_Achieve_1818"
+  },
+  {
+    "id": 1819,
+    "simplified": "UT_Achieve_1819",
+    "english": "UT_Achieve_1819",
+    "japanese": "UT_Achieve_1819",
+    "traditional": "UT_Achieve_1819"
+  },
+  {
+    "id": 1820,
+    "simplified": "UT_Achieve_1820",
+    "english": "UT_Achieve_1820",
+    "japanese": "UT_Achieve_1820",
+    "traditional": "UT_Achieve_1820"
+  },
+  {
+    "id": 1821,
+    "simplified": "UT_Achieve_1821",
+    "english": "UT_Achieve_1821",
+    "japanese": "UT_Achieve_1821",
+    "traditional": "UT_Achieve_1821"
+  },
+  {
+    "id": 1822,
+    "simplified": "UT_Achieve_1822",
+    "english": "UT_Achieve_1822",
+    "japanese": "UT_Achieve_1822",
+    "traditional": "UT_Achieve_1822"
+  },
+  {
+    "id": 1823,
+    "simplified": "UT_Achieve_1823",
+    "english": "UT_Achieve_1823",
+    "japanese": "UT_Achieve_1823",
+    "traditional": "UT_Achieve_1823"
+  },
+  {
+    "id": 1824,
+    "simplified": "UT_Achieve_1824",
+    "english": "UT_Achieve_1824",
+    "japanese": "UT_Achieve_1824",
+    "traditional": "UT_Achieve_1824"
+  },
+  {
+    "id": 1825,
+    "simplified": "UT_Achieve_1825",
+    "english": "UT_Achieve_1825",
+    "japanese": "UT_Achieve_1825",
+    "traditional": "UT_Achieve_1825"
+  },
+  {
+    "id": 1826,
+    "simplified": "UT_Achieve_1826",
+    "english": "UT_Achieve_1826",
+    "japanese": "UT_Achieve_1826",
+    "traditional": "UT_Achieve_1826"
+  },
+  {
+    "id": 1827,
+    "simplified": "UT_Achieve_1827",
+    "english": "UT_Achieve_1827",
+    "japanese": "UT_Achieve_1827",
+    "traditional": "UT_Achieve_1827"
+  },
+  {
+    "id": 1828,
+    "simplified": "UT_Achieve_1828",
+    "english": "UT_Achieve_1828",
+    "japanese": "UT_Achieve_1828",
+    "traditional": "UT_Achieve_1828"
+  },
+  {
+    "id": 1829,
+    "simplified": "UT_Achieve_1829",
+    "english": "UT_Achieve_1829",
+    "japanese": "UT_Achieve_1829",
+    "traditional": "UT_Achieve_1829"
+  },
+  {
+    "id": 1894,
+    "simplified": "UT_Achieve_1894",
+    "english": "UT_Achieve_1894",
+    "japanese": "UT_Achieve_1894",
+    "traditional": "UT_Achieve_1894"
+  },
+  {
+    "id": 1895,
+    "simplified": "UT_Achieve_1895",
+    "english": "UT_Achieve_1895",
+    "japanese": "UT_Achieve_1895",
+    "traditional": "UT_Achieve_1895"
+  },
+  {
+    "id": 1896,
+    "simplified": "UT_Achieve_1896",
+    "english": "UT_Achieve_1896",
+    "japanese": "UT_Achieve_1896",
+    "traditional": "UT_Achieve_1896"
+  },
+  {
+    "id": 1897,
+    "simplified": "UT_Achieve_1897",
+    "english": "UT_Achieve_1897",
+    "japanese": "UT_Achieve_1897",
+    "traditional": "UT_Achieve_1897"
+  },
+  {
+    "id": 1898,
+    "simplified": "UT_Achieve_1898",
+    "english": "UT_Achieve_1898",
+    "japanese": "UT_Achieve_1898",
+    "traditional": "UT_Achieve_1898"
+  },
+  {
+    "id": 1899,
+    "simplified": "UT_Achieve_1899",
+    "english": "UT_Achieve_1899",
+    "japanese": "UT_Achieve_1899",
+    "traditional": "UT_Achieve_1899"
+  },
+  {
+    "id": 1901,
+    "simplified": "UT_Achieve_1901",
+    "english": "UT_Achieve_1901",
+    "japanese": "UT_Achieve_1901",
+    "traditional": "UT_Achieve_1901"
+  },
+  {
+    "id": 2000,
+    "simplified": "UT_Achieve_2000",
+    "english": "UT_Achieve_2000",
+    "japanese": "UT_Achieve_2000",
+    "traditional": "UT_Achieve_2000"
+  },
+  {
+    "id": 2100,
+    "simplified": "UT_Achieve_2100",
+    "english": "UT_Achieve_2100",
+    "japanese": "UT_Achieve_2100",
+    "traditional": "UT_Achieve_2100"
+  },
+  {
+    "id": 2200,
+    "simplified": "UT_Achieve_2200",
+    "english": "UT_Achieve_2200",
+    "japanese": "UT_Achieve_2200",
+    "traditional": "UT_Achieve_2200"
+  },
+  {
+    "id": 2201,
+    "simplified": "UT_Achieve_2300",
+    "english": "UT_Achieve_2300",
+    "japanese": "UT_Achieve_2300",
+    "traditional": "UT_Achieve_2300"
+  },
+  {
+    "id": 2701,
+    "simplified": "UT_Achieve_2701",
+    "english": "UT_Achieve_2701",
+    "japanese": "UT_Achieve_2701",
+    "traditional": "UT_Achieve_2701"
+  },
+  {
+    "id": 2702,
+    "simplified": "UT_Achieve_2702",
+    "english": "UT_Achieve_2702",
+    "japanese": "UT_Achieve_2702",
+    "traditional": "UT_Achieve_2702"
+  },
+  {
+    "id": 2703,
+    "simplified": "UT_Achieve_2703",
+    "english": "UT_Achieve_2703",
+    "japanese": "UT_Achieve_2703",
+    "traditional": "UT_Achieve_2703"
+  },
+  {
+    "id": 2704,
+    "simplified": "UT_Achieve_2704",
+    "english": "UT_Achieve_2704",
+    "japanese": "UT_Achieve_2704",
+    "traditional": "UT_Achieve_2704"
+  },
+  {
+    "id": 3201,
+    "simplified": "UT_Achieve_3201",
+    "english": "UT_Achieve_3201",
+    "japanese": "UT_Achieve_3201",
+    "traditional": "UT_Achieve_3201"
+  },
+  {
+    "id": 10401,
+    "simplified": "UT_Achieve_10401",
+    "english": "UT_Achieve_10401",
+    "japanese": "UT_Achieve_10401",
+    "traditional": "UT_Achieve_10401"
+  },
+  {
+    "id": 10501,
+    "simplified": "UT_Achieve_10501",
+    "english": "UT_Achieve_10501",
+    "japanese": "UT_Achieve_10501",
+    "traditional": "UT_Achieve_10501"
+  },
+  {
+    "id": 10000,
+    "simplified": "UT_Achieve_10000",
+    "english": "UT_Achieve_10000",
+    "japanese": "UT_Achieve_10000",
+    "traditional": "UT_Achieve_10000"
+  },
+  {
+    "id": 10001,
+    "simplified": "UT_Achieve_10001",
+    "english": "UT_Achieve_10001",
+    "japanese": "UT_Achieve_10001",
+    "traditional": "UT_Achieve_10001"
+  },
+  {
+    "id": 10100,
+    "simplified": "UT_Achieve_10100",
+    "english": "UT_Achieve_10100",
+    "japanese": "UT_Achieve_10100",
+    "traditional": "UT_Achieve_10100"
+  },
+  {
+    "id": 10101,
+    "simplified": "UT_Achieve_10101",
+    "english": "UT_Achieve_10101",
+    "japanese": "UT_Achieve_10101",
+    "traditional": "UT_Achieve_10101"
+  },
+  {
+    "id": 10102,
+    "simplified": "UT_Achieve_10102",
+    "english": "UT_Achieve_10102",
+    "japanese": "UT_Achieve_10102",
+    "traditional": "UT_Achieve_10102"
+  },
+  {
+    "id": 10200,
+    "simplified": "UT_Achieve_10200",
+    "english": "UT_Achieve_10200",
+    "japanese": "UT_Achieve_10200",
+    "traditional": "UT_Achieve_10200"
+  },
+  {
+    "id": 10300,
+    "simplified": "UT_Achieve_10300",
+    "english": "UT_Achieve_10300",
+    "japanese": "UT_Achieve_10300",
+    "traditional": "UT_Achieve_10300"
+  },
+  {
+    "id": 20000,
+    "simplified": "UT_Achieve_20000",
+    "english": "UT_Achieve_20000",
+    "japanese": "UT_Achieve_20000",
+    "traditional": "UT_Achieve_20000"
+  },
+  {
+    "id": 20001,
+    "simplified": "UT_Achieve_20001",
+    "english": "UT_Achieve_20001",
+    "japanese": "UT_Achieve_20001",
+    "traditional": "UT_Achieve_20001"
+  },
+  {
+    "id": 20002,
+    "simplified": "UT_Achieve_20002",
+    "english": "UT_Achieve_20002",
+    "japanese": "UT_Achieve_20002",
+    "traditional": "UT_Achieve_20002"
+  },
+  {
+    "id": 20100,
+    "simplified": "UT_Achieve_20100",
+    "english": "UT_Achieve_20100",
+    "japanese": "UT_Achieve_20100",
+    "traditional": "UT_Achieve_20100"
+  },
+  {
+    "id": 20101,
+    "simplified": "UT_Achieve_20101",
+    "english": "UT_Achieve_20101",
+    "japanese": "UT_Achieve_20101",
+    "traditional": "UT_Achieve_20101"
+  },
+  {
+    "id": 20200,
+    "simplified": "UT_Achieve_20200",
+    "english": "UT_Achieve_20200",
+    "japanese": "UT_Achieve_20200",
+    "traditional": "UT_Achieve_20200"
+  },
+  {
+    "id": 20201,
+    "simplified": "UT_Achieve_20201",
+    "english": "UT_Achieve_20201",
+    "japanese": "UT_Achieve_20201",
+    "traditional": "UT_Achieve_20201"
+  },
+  {
+    "id": 20202,
+    "simplified": "UT_Achieve_20202",
+    "english": "UT_Achieve_20202",
+    "japanese": "UT_Achieve_20202",
+    "traditional": "UT_Achieve_20202"
+  },
+  {
+    "id": 20203,
+    "simplified": "UT_Achieve_20203",
+    "english": "UT_Achieve_20203",
+    "japanese": "UT_Achieve_20203",
+    "traditional": "UT_Achieve_20203"
+  },
+  {
+    "id": 20204,
+    "simplified": "UT_Achieve_20204",
+    "english": "UT_Achieve_20204",
+    "japanese": "UT_Achieve_20204",
+    "traditional": "UT_Achieve_20204"
+  },
+  {
+    "id": 20300,
+    "simplified": "UT_Achieve_20300",
+    "english": "UT_Achieve_20300",
+    "japanese": "UT_Achieve_20300",
+    "traditional": "UT_Achieve_20300"
+  },
+  {
+    "id": 20301,
+    "simplified": "UT_Achieve_20301",
+    "english": "UT_Achieve_20301",
+    "japanese": "UT_Achieve_20301",
+    "traditional": "UT_Achieve_20301"
+  },
+  {
+    "id": 20302,
+    "simplified": "UT_Achieve_20302",
+    "english": "UT_Achieve_20302",
+    "japanese": "UT_Achieve_20302",
+    "traditional": "UT_Achieve_20302"
+  },
+  {
+    "id": 20400,
+    "simplified": "UT_Achieve_20400",
+    "english": "UT_Achieve_20400",
+    "japanese": "UT_Achieve_20400",
+    "traditional": "UT_Achieve_20400"
+  },
+  {
+    "id": 8100701,
+    "simplified": "GuidePic_8100701",
+    "english": "GuidePic_8100701",
+    "japanese": "GuidePic_8100701",
+    "traditional": "GuidePic_8100701"
+  },
+  {
+    "id": 8100702,
+    "simplified": "GuidePic_8100702",
+    "english": "GuidePic_8100702",
+    "japanese": "GuidePic_8100702",
+    "traditional": "GuidePic_8100702"
+  },
+  {
+    "id": 8100703,
+    "simplified": "GuidePic_8100703",
+    "english": "GuidePic_8100703",
+    "japanese": "GuidePic_8100703",
+    "traditional": "GuidePic_8100703"
+  },
+  {
+    "id": 8200701,
+    "simplified": "GuidePic_8200701",
+    "english": "GuidePic_8200701",
+    "japanese": "GuidePic_8200701",
+    "traditional": "GuidePic_8200701"
+  },
+  {
+    "id": 8200702,
+    "simplified": "GuidePic_8200702",
+    "english": "GuidePic_8200702",
+    "japanese": "GuidePic_8200702",
+    "traditional": "GuidePic_8200702"
+  },
+  {
+    "id": 8200801,
+    "simplified": "GuidePic_8200801",
+    "english": "GuidePic_8200801",
+    "japanese": "GuidePic_8200801",
+    "traditional": "GuidePic_8200801"
+  },
+  {
+    "id": 8200802,
+    "simplified": "GuidePic_8200802",
+    "english": "GuidePic_8200802",
+    "japanese": "GuidePic_8200802",
+    "traditional": "GuidePic_8200802"
+  },
+  {
+    "id": 8201001,
+    "simplified": "GuidePic_8201001",
+    "english": "GuidePic_8201001",
+    "japanese": "GuidePic_8201001",
+    "traditional": "GuidePic_8201001"
+  },
+  {
+    "id": 8201002,
+    "simplified": "GuidePic_8201002",
+    "english": "GuidePic_8201002",
+    "japanese": "GuidePic_8201002",
+    "traditional": "GuidePic_8201002"
+  },
+  {
+    "id": 8201201,
+    "simplified": "GuidePic_8201201",
+    "english": "GuidePic_8201201",
+    "japanese": "GuidePic_8201201",
+    "traditional": "GuidePic_8201201"
+  },
+  {
+    "id": 8201202,
+    "simplified": "GuidePic_8201202",
+    "english": "GuidePic_8201202",
+    "japanese": "GuidePic_8201202",
+    "traditional": "GuidePic_8201202"
+  },
+  {
+    "id": 8201203,
+    "simplified": "GuidePic_8201203",
+    "english": "GuidePic_8201203",
+    "japanese": "GuidePic_8201203",
+    "traditional": "GuidePic_8201203"
+  },
+  {
+    "id": 8201301,
+    "simplified": "GuidePic_8201301",
+    "english": "GuidePic_8201301",
+    "japanese": "GuidePic_8201301",
+    "traditional": "GuidePic_8201301"
+  },
+  {
+    "id": 8201302,
+    "simplified": "GuidePic_8201302",
+    "english": "GuidePic_8201302",
+    "japanese": "GuidePic_8201302",
+    "traditional": "GuidePic_8201302"
+  },
+  {
+    "id": 8201303,
+    "simplified": "GuidePic_8201303",
+    "english": "GuidePic_8201303",
+    "japanese": "GuidePic_8201303",
+    "traditional": "GuidePic_8201303"
+  },
+  {
+    "id": 8201401,
+    "simplified": "GuidePic_8201401",
+    "english": "GuidePic_8201401",
+    "japanese": "GuidePic_8201401",
+    "traditional": "GuidePic_8201401"
+  },
+  {
+    "id": 8201402,
+    "simplified": "GuidePic_8201402",
+    "english": "GuidePic_8201402",
+    "japanese": "GuidePic_8201402",
+    "traditional": "GuidePic_8201402"
+  },
+  {
+    "id": 8201501,
+    "simplified": "GuidePic_8201501",
+    "english": "GuidePic_8201501",
+    "japanese": "GuidePic_8201501",
+    "traditional": "GuidePic_8201501"
+  },
+  {
+    "id": 8201502,
+    "simplified": "GuidePic_8201502",
+    "english": "GuidePic_8201502",
+    "japanese": "GuidePic_8201502",
+    "traditional": "GuidePic_8201502"
+  },
+  {
+    "id": 8201503,
+    "simplified": "GuidePic_8201503",
+    "english": "GuidePic_8201503",
+    "japanese": "GuidePic_8201503",
+    "traditional": "GuidePic_8201503"
+  },
+  {
+    "id": 8201601,
+    "simplified": "GuidePic_8201601",
+    "english": "GuidePic_8201601",
+    "japanese": "GuidePic_8201601",
+    "traditional": "GuidePic_8201601"
+  },
+  {
+    "id": 8201602,
+    "simplified": "GuidePic_8201602",
+    "english": "GuidePic_8201602",
+    "japanese": "GuidePic_8201602",
+    "traditional": "GuidePic_8201602"
+  },
+  {
+    "id": 8201603,
+    "simplified": "GuidePic_8201603",
+    "english": "GuidePic_8201603",
+    "japanese": "GuidePic_8201603",
+    "traditional": "GuidePic_8201603"
+  },
+  {
+    "id": 8300101,
+    "simplified": "GuidePic_8300101",
+    "english": "GuidePic_8300101",
+    "japanese": "GuidePic_8300101",
+    "traditional": "GuidePic_8300101"
+  },
+  {
+    "id": 8300102,
+    "simplified": "GuidePic_8300102",
+    "english": "GuidePic_8300102",
+    "japanese": "GuidePic_8300102",
+    "traditional": "GuidePic_8300102"
+  },
+  {
+    "id": 8300301,
+    "simplified": "GuidePic_8300301",
+    "english": "GuidePic_8300301",
+    "japanese": "GuidePic_8300301",
+    "traditional": "GuidePic_8300301"
+  }
+]

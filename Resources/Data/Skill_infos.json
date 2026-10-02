@@ -1,0 +1,5579 @@
+[
+  {
+    "id": 10101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10101,
+    "descID": 101010,
+    "round": 2,
+    "params": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 10201,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10201,
+    "descID": 102010,
+    "round": 3,
+    "performSelfs": [
+      10201
+    ]
+  },
+  {
+    "id": 10202,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10201,
+    "descID": 102020,
+    "round": 3,
+    "params": [
+      2
+    ],
+    "performSelfs": [
+      10201
+    ]
+  },
+  {
+    "id": 10301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10301,
+    "descID": 103010,
+    "round": 3,
+    "params": [
+      10311
+    ],
+    "buffId": [
+      1030101
+    ],
+    "performSelfs": [
+      10301
+    ]
+  },
+  {
+    "id": 10302,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10301,
+    "descID": 103010,
+    "round": 3,
+    "params": [
+      10311
+    ],
+    "buffId": [
+      1030201
+    ],
+    "performSelfs": [
+      10301
+    ]
+  },
+  {
+    "id": 10401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10401,
+    "descID": 104010,
+    "round": 3,
+    "params": [
+      1
+    ],
+    "performSelfs": [
+      10401
+    ]
+  },
+  {
+    "id": 10501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10501,
+    "descID": 105010,
+    "round": 3,
+    "params": [
+      10511
+    ],
+    "buffId": [
+      1050101
+    ],
+    "performSelfs": [
+      10501
+    ]
+  },
+  {
+    "id": 10601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10601,
+    "descID": 106010,
+    "round": 3,
+    "params": [
+      50,
+      -3
+    ],
+    "buffId": [
+      1060101
+    ],
+    "performSelfs": [
+      10602
+    ]
+  },
+  {
+    "id": 10602,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10601,
+    "descID": 106020,
+    "round": 3,
+    "params": [
+      50,
+      0
+    ],
+    "buffId": [
+      1060101,
+      1060102
+    ],
+    "performSelfs": [
+      10602
+    ]
+  },
+  {
+    "id": 10701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10701,
+    "descID": 107010,
+    "round": 3,
+    "params": [
+      8,
+      1,
+      1
+    ],
+    "performTargets": [
+      10702
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 10702,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10702,
+    "descID": 107020,
+    "round": 3,
+    "params": [
+      1071101,
+      -99
+    ],
+    "performTargets": [
+      4000700
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 10703,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10702,
+    "descID": 107020,
+    "round": 3,
+    "params": [
+      1071101,
+      -99,
+      1,
+      1060102
+    ],
+    "performTargets": [
+      4000700
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 10801,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10801,
+    "descID": 108010,
+    "round": 3,
+    "params": [
+      1
+    ],
+    "performSelfs": [
+      10801
+    ]
+  },
+  {
+    "id": 10901,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10901,
+    "descID": 109010,
+    "round": 3,
+    "params": [
+      7,
+      1,
+      -1,
+      -2
+    ],
+    "buffId": [
+      1090101
+    ],
+    "performTargets": [
+      10902
+    ],
+    "performSelfs": [
+      10901
+    ]
+  },
+  {
+    "id": 10902,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10902,
+    "descID": 109020,
+    "round": 4,
+    "params": [
+      7,
+      1,
+      -5
+    ],
+    "performSelfs": [
+      10901
+    ]
+  },
+  {
+    "id": 10903,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 10902,
+    "descID": 109020,
+    "round": 4,
+    "params": [
+      7,
+      1,
+      -5,
+      6
+    ],
+    "performSelfs": [
+      10901
+    ]
+  },
+  {
+    "id": 11001,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11001,
+    "descID": 110010,
+    "round": 4,
+    "params": [
+      20009,
+      20015
+    ],
+    "performSelfs": [
+      11001
+    ]
+  },
+  {
+    "id": 11002,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11002,
+    "descID": 110020,
+    "round": 3,
+    "params": [
+      20002,
+      20014
+    ],
+    "performSelfs": [
+      11001
+    ]
+  },
+  {
+    "id": 11101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11101,
+    "descID": 111010,
+    "round": 3,
+    "params": [
+      11111,
+      1,
+      1
+    ],
+    "buffId": [
+      1110101
+    ],
+    "performSelfs": [
+      11103
+    ]
+  },
+  {
+    "id": 11102,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11101,
+    "descID": 111020,
+    "round": 3,
+    "params": [
+      11111,
+      1
+    ],
+    "buffId": [
+      1110201
+    ],
+    "performSelfs": [
+      11102,
+      11101
+    ]
+  },
+  {
+    "id": 11201,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11201,
+    "descID": 112010,
+    "round": 4,
+    "params": [
+      10,
+      1,
+      -3
+    ],
+    "buffId": [
+      1120101
+    ],
+    "performTargets": [
+      11202
+    ],
+    "performSelfs": [
+      11201
+    ]
+  },
+  {
+    "id": 11202,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11202,
+    "descID": 112020,
+    "round": 3,
+    "params": [
+      10,
+      1,
+      0,
+      3
+    ],
+    "performTargets": [
+      11203
+    ],
+    "performSelfs": [
+      11201
+    ]
+  },
+  {
+    "id": 11203,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11202,
+    "descID": 112030,
+    "round": 3,
+    "params": [
+      1,
+      0,
+      3,
+      4,
+      -3
+    ],
+    "buffId": [
+      1120301
+    ],
+    "performTargets": [
+      11203
+    ],
+    "performSelfs": [
+      11201
+    ]
+  },
+  {
+    "id": 11301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11301,
+    "descID": 113010,
+    "round": 3,
+    "params": [
+      2,
+      3,
+      1131201
+    ],
+    "buffId": [
+      1130201
+    ],
+    "performSelfs": [
+      11301
+    ]
+  },
+  {
+    "id": 11302,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11302,
+    "descID": 113020,
+    "round": 3,
+    "params": [
+      2,
+      4,
+      1131201
+    ],
+    "buffId": [
+      1130201
+    ],
+    "performSelfs": [
+      11301
+    ]
+  },
+  {
+    "id": 11401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11401,
+    "descID": 114010,
+    "round": 3,
+    "params": [
+      1,
+      1,
+      4,
+      4
+    ],
+    "buffId": [
+      1140101
+    ],
+    "performTargets": [
+      11402
+    ],
+    "performSelfs": [
+      11401
+    ]
+  },
+  {
+    "id": 11402,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11402,
+    "descID": 114020,
+    "round": 3,
+    "params": [
+      1,
+      1,
+      3
+    ],
+    "buffId": [
+      1140102
+    ],
+    "performTargets": [
+      11402
+    ],
+    "performSelfs": [
+      11401
+    ]
+  },
+  {
+    "id": 11403,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11402,
+    "descID": 114020,
+    "round": 3,
+    "params": [
+      1,
+      1,
+      3,
+      20032,
+      20005
+    ],
+    "buffId": [
+      1140102
+    ],
+    "performTargets": [
+      11402
+    ],
+    "performSelfs": [
+      11401
+    ]
+  },
+  {
+    "id": 11501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11501,
+    "descID": 115010,
+    "round": 3,
+    "params": [
+      4,
+      1,
+      -2,
+      1
+    ],
+    "buffId": [
+      1150101
+    ],
+    "performTargets": [
+      11502
+    ],
+    "performSelfs": [
+      11501
+    ]
+  },
+  {
+    "id": 11502,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11502,
+    "descID": 115020,
+    "round": 3,
+    "params": [
+      4,
+      1,
+      -2,
+      1
+    ],
+    "buffId": [
+      1150101
+    ],
+    "performTargets": [
+      11502
+    ],
+    "performSelfs": [
+      11501
+    ]
+  },
+  {
+    "id": 11503,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11502,
+    "descID": 115030,
+    "round": 3,
+    "params": [
+      6,
+      1,
+      -2
+    ],
+    "buffId": [
+      1150101
+    ],
+    "performTargets": [
+      11502
+    ],
+    "performSelfs": [
+      11501
+    ]
+  },
+  {
+    "id": 11601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11601,
+    "descID": 116010,
+    "round": 3,
+    "params": [
+      3
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 11701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11701,
+    "descID": 117010,
+    "round": 4,
+    "params": [
+      -3,
+      3
+    ],
+    "buffId": [
+      1170101
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 11702,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11701,
+    "descID": 117020,
+    "round": 4,
+    "params": [
+      -3,
+      3,
+      10,
+      2,
+      2
+    ],
+    "buffId": [
+      1170102
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 11801,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11801,
+    "descID": 118010,
+    "round": 3,
+    "params": [
+      1,
+      3,
+      3
+    ],
+    "performTargets": [
+      10702
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 11802,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11802,
+    "descID": 118020,
+    "round": 3,
+    "params": [
+      1,
+      3,
+      1
+    ],
+    "performTargets": [
+      4000700
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 11901,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11901,
+    "descID": 119010,
+    "round": 3,
+    "params": [
+      2,
+      21,
+      2
+    ],
+    "buffId": [
+      1190101
+    ],
+    "performTargets": [
+      11902
+    ],
+    "performSelfs": [
+      11901
+    ]
+  },
+  {
+    "id": 11902,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 11902,
+    "descID": 119020,
+    "round": 3,
+    "params": [
+      2,
+      21,
+      2
+    ],
+    "buffId": [
+      1190102
+    ],
+    "performTargets": [
+      11902
+    ],
+    "performSelfs": [
+      11901
+    ]
+  },
+  {
+    "id": 12001,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12001,
+    "descID": 120010,
+    "round": 3,
+    "params": [
+      6
+    ],
+    "performSelfs": [
+      12001
+    ]
+  },
+  {
+    "id": 12002,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12002,
+    "descID": 120020,
+    "round": 3,
+    "performSelfs": [
+      12001
+    ]
+  },
+  {
+    "id": 12003,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12002,
+    "descID": 120020,
+    "round": 3,
+    "params": [
+      6,
+      1,
+      2,
+      2
+    ],
+    "buffId": [
+      1201202
+    ],
+    "performSelfs": [
+      12001
+    ]
+  },
+  {
+    "id": 12101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12101,
+    "descID": 121010,
+    "round": 3,
+    "params": [
+      20030,
+      3
+    ],
+    "buffId": [
+      1210101
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 12102,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12102,
+    "descID": 121020,
+    "round": 3,
+    "params": [
+      20031,
+      3
+    ],
+    "buffId": [
+      1210101
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 12201,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12201,
+    "descID": 122010,
+    "round": 3,
+    "params": [
+      2,
+      2
+    ],
+    "performTargets": [
+      12201,
+      12202
+    ],
+    "performSelfs": [
+      12203
+    ]
+  },
+  {
+    "id": 12202,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12202,
+    "descID": 122020,
+    "round": 3,
+    "params": [
+      3,
+      2,
+      6,
+      3,
+      1
+    ],
+    "performTargets": [
+      12201,
+      12202
+    ],
+    "performSelfs": [
+      12203
+    ]
+  },
+  {
+    "id": 12203,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12202,
+    "descID": 122030,
+    "round": 3,
+    "params": [
+      3,
+      2,
+      6,
+      3,
+      1,
+      3,
+      1221202
+    ],
+    "performTargets": [
+      12201,
+      12202
+    ],
+    "performSelfs": [
+      12203,
+      8000300,
+      8000301
+    ]
+  },
+  {
+    "id": 12301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12301,
+    "descID": 123010,
+    "round": 3,
+    "params": [
+      1,
+      20027,
+      20028
+    ],
+    "buffId": [
+      1230101
+    ],
+    "performTargets": [
+      11411
+    ],
+    "performSelfs": [
+      12203
+    ]
+  },
+  {
+    "id": 12302,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12302,
+    "descID": 123020,
+    "round": 3,
+    "params": [
+      1,
+      20027,
+      20029
+    ],
+    "buffId": [
+      1230201
+    ],
+    "performTargets": [
+      11411
+    ],
+    "performSelfs": [
+      12203
+    ]
+  },
+  {
+    "id": 12401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12401,
+    "descID": 124010,
+    "round": 3,
+    "params": [
+      100,
+      1241101,
+      1,
+      2
+    ],
+    "buffId": [
+      1240101,
+      1240102
+    ],
+    "performTargets": [
+      2002200
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 12402,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12402,
+    "descID": 124020,
+    "round": 3,
+    "params": [
+      50,
+      1241201,
+      2,
+      1,
+      1
+    ],
+    "buffId": [
+      1240201,
+      1240202
+    ],
+    "performTargets": [
+      11411
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 12501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12501,
+    "descID": 125010,
+    "round": 2,
+    "params": [
+      3
+    ],
+    "buffId": [
+      1250101
+    ],
+    "performTargets": [
+      12501
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 12502,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12502,
+    "descID": 125020,
+    "round": 2,
+    "params": [
+      0,
+      125,
+      10010
+    ],
+    "buffId": [
+      1250201
+    ],
+    "performTargets": [
+      12501
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 12601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12601,
+    "descID": 126010,
+    "round": 3,
+    "params": [
+      4,
+      1,
+      4,
+      -2
+    ],
+    "performTargets": [
+      102602
+    ],
+    "performSelfs": [
+      102601
+    ]
+  },
+  {
+    "id": 12602,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12602,
+    "descID": 126020,
+    "round": 3,
+    "params": [
+      5,
+      1,
+      3,
+      1,
+      10012,
+      10013,
+      1,
+      1261201
+    ],
+    "performTargets": [
+      4000700
+    ],
+    "performSelfs": [
+      12601
+    ]
+  },
+  {
+    "id": 12701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12701,
+    "descID": 127010,
+    "round": 3,
+    "params": [
+      2,
+      5,
+      12701
+    ],
+    "buffId": [
+      1270101
+    ],
+    "performTargets": [
+      12701
+    ],
+    "performSelfs": [
+      12601
+    ]
+  },
+  {
+    "id": 12702,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12702,
+    "descID": 127020,
+    "round": 3,
+    "params": [
+      1,
+      2,
+      1271201,
+      12702,
+      12703,
+      12704,
+      12705
+    ],
+    "buffId": [
+      1270201
+    ],
+    "performTargets": [
+      12701
+    ],
+    "performSelfs": [
+      12601
+    ]
+  },
+  {
+    "id": 12801,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12801,
+    "descID": 128010,
+    "round": 3,
+    "params": [
+      1,
+      5,
+      -3
+    ],
+    "buffId": [
+      1280101,
+      1280102
+    ],
+    "performTargets": [
+      12804
+    ],
+    "performSelfs": [
+      12801,
+      12802,
+      12803
+    ]
+  },
+  {
+    "id": 12802,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12802,
+    "descID": 128020,
+    "round": 3,
+    "params": [
+      1,
+      7,
+      -2,
+      2,
+      20033
+    ],
+    "buffId": [
+      1280201,
+      1280202,
+      1280203
+    ],
+    "performTargets": [
+      12804
+    ],
+    "performSelfs": [
+      12801,
+      12802,
+      12803
+    ]
+  },
+  {
+    "id": 12901,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12901,
+    "descID": 129010,
+    "round": 3,
+    "params": [
+      4,
+      1,
+      12911,
+      12921,
+      12903
+    ],
+    "performTargets": [
+      12902,
+      12903,
+      12904
+    ],
+    "performSelfs": [
+      12901
+    ]
+  },
+  {
+    "id": 12902,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 12902,
+    "descID": 129020,
+    "round": 3,
+    "params": [
+      4,
+      2,
+      12912,
+      12922,
+      12904,
+      1291201
+    ],
+    "performTargets": [
+      12902,
+      12903,
+      12904
+    ],
+    "performSelfs": [
+      12901
+    ]
+  },
+  {
+    "id": 12903,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "nameID": 12901,
+    "descID": 129010,
+    "params": [
+      1,
+      -1
+    ],
+    "performTargets": [
+      12904
+    ],
+    "performSelfs": [
+      12903
+    ]
+  },
+  {
+    "id": 12904,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "nameID": 12902,
+    "descID": 129020,
+    "params": [
+      2,
+      -1
+    ],
+    "performTargets": [
+      12904
+    ],
+    "performSelfs": [
+      12903
+    ]
+  },
+  {
+    "id": 30101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30101,
+    "descID": 301010,
+    "round": 3,
+    "params": [
+      2,
+      1,
+      7,
+      3,
+      3,
+      3010101
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 30102,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30101,
+    "descID": 301020,
+    "round": 3,
+    "params": [
+      1,
+      1,
+      7,
+      3,
+      3,
+      3011201
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 30103,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30101,
+    "descID": 301030,
+    "round": 3,
+    "params": [
+      1,
+      1,
+      10,
+      3,
+      3,
+      3011201
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 30201,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30201,
+    "descID": 302010,
+    "round": 3,
+    "params": [
+      3021101,
+      1,
+      1,
+      4
+    ],
+    "buffId": [
+      3020101
+    ],
+    "performSelfs": [
+      11701
+    ]
+  },
+  {
+    "id": 30301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30301,
+    "descID": 303010,
+    "round": 3,
+    "params": [
+      3,
+      1,
+      1,
+      1,
+      3031101
+    ],
+    "buffId": [
+      3030101
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 30302,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30301,
+    "descID": 303020,
+    "round": 3,
+    "params": [
+      3,
+      1,
+      1,
+      1,
+      3031101
+    ],
+    "buffId": [
+      3030101
+    ],
+    "performTargets": [
+      30301
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 30401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30401,
+    "descID": 304010,
+    "round": 3,
+    "params": [
+      1,
+      3041101,
+      5,
+      5
+    ],
+    "buffId": [
+      3040203
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 30402,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30401,
+    "descID": 304020,
+    "round": 2,
+    "params": [
+      1,
+      3041201,
+      5,
+      5,
+      1
+    ],
+    "buffId": [
+      3040201,
+      3040202,
+      3040203
+    ],
+    "performSelfs": [
+      30401,
+      8000301
+    ]
+  },
+  {
+    "id": 30501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30501,
+    "descID": 305010,
+    "round": 3,
+    "params": [
+      2
+    ],
+    "buffId": [
+      3050101
+    ],
+    "performSelfs": [
+      30501
+    ]
+  },
+  {
+    "id": 30502,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30501,
+    "descID": 305020,
+    "round": 3,
+    "params": [
+      2
+    ],
+    "buffId": [
+      3050101
+    ],
+    "performSelfs": [
+      30501
+    ]
+  },
+  {
+    "id": 30601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30601,
+    "descID": 306010,
+    "round": 2,
+    "params": [
+      2,
+      5,
+      -2
+    ],
+    "performTargets": [
+      30602,
+      30603
+    ],
+    "performSelfs": [
+      30601
+    ]
+  },
+  {
+    "id": 30602,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 30601,
+    "descID": 306020,
+    "round": 2,
+    "params": [
+      3,
+      7,
+      -2
+    ],
+    "performTargets": [
+      30602,
+      30603
+    ],
+    "performSelfs": [
+      30601
+    ]
+  },
+  {
+    "id": 10111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10111,
+    "descID": 101110,
+    "params": [
+      2,
+      2,
+      3,
+      2,
+      1
+    ],
+    "buffId": [
+      1011101
+    ]
+  },
+  {
+    "id": 10112,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 10111,
+    "descID": 101110,
+    "params": [
+      2,
+      2,
+      3,
+      2,
+      10,
+      1
+    ],
+    "buffId": [
+      1011201,
+      1011202
+    ]
+  },
+  {
+    "id": 10211,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10211,
+    "descID": 102110,
+    "params": [
+      3,
+      0
+    ],
+    "buffId": [
+      1021101
+    ]
+  },
+  {
+    "id": 10311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10311,
+    "descID": 103110,
+    "params": [
+      3
+    ],
+    "buffId": [
+      1031101
+    ]
+  },
+  {
+    "id": 10411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10411,
+    "descID": 104110,
+    "params": [
+      3
+    ],
+    "buffId": [
+      1041101
+    ]
+  },
+  {
+    "id": 10412,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 10411,
+    "descID": 104110,
+    "params": [
+      3,
+      -1,
+      1
+    ],
+    "buffId": [
+      1041201
+    ]
+  },
+  {
+    "id": 10511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10511,
+    "descID": 105110,
+    "params": [
+      2,
+      2,
+      2
+    ],
+    "buffId": [
+      1051101
+    ]
+  },
+  {
+    "id": 10512,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 10511,
+    "descID": 105110,
+    "params": [
+      6,
+      2
+    ],
+    "buffId": [
+      1051201
+    ]
+  },
+  {
+    "id": 10611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10611,
+    "descID": 106110,
+    "params": [
+      50,
+      3,
+      1060102
+    ],
+    "buffId": [
+      1061101
+    ]
+  },
+  {
+    "id": 10711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10711,
+    "descID": 107110,
+    "params": [
+      -3
+    ],
+    "buffId": [
+      1071101
+    ]
+  },
+  {
+    "id": 10712,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10712,
+    "descID": 107120,
+    "params": [
+      -99
+    ],
+    "buffId": [
+      1071101
+    ]
+  },
+  {
+    "id": 10811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10811,
+    "descID": 108110,
+    "params": [
+      1
+    ],
+    "buffId": [
+      1081101
+    ]
+  },
+  {
+    "id": 10812,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 10811,
+    "descID": 108110,
+    "params": [
+      25
+    ],
+    "buffId": [
+      1081201
+    ]
+  },
+  {
+    "id": 10850,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10811,
+    "descID": 108110,
+    "params": [
+      -1,
+      -1
+    ],
+    "buffId": [
+      1085001
+    ]
+  },
+  {
+    "id": 10911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10911,
+    "descID": 109110,
+    "params": [
+      2005,
+      20002,
+      20006,
+      20014,
+      20019
+    ],
+    "buffId": [
+      1091101
+    ]
+  },
+  {
+    "id": 10912,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 10912,
+    "descID": 109120,
+    "params": [
+      -2
+    ],
+    "buffId": [
+      1091102
+    ]
+  },
+  {
+    "id": 10913,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 10912,
+    "descID": 109120,
+    "params": [
+      1,
+      2
+    ],
+    "buffId": [
+      1091301
+    ]
+  },
+  {
+    "id": 11011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11011,
+    "descID": 110110,
+    "params": [
+      2,
+      1
+    ],
+    "buffId": [
+      1101101
+    ]
+  },
+  {
+    "id": 11012,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11012,
+    "descID": 110120,
+    "params": [
+      0,
+      0,
+      5,
+      2,
+      20002,
+      20014
+    ],
+    "buffId": [
+      1101102
+    ]
+  },
+  {
+    "id": 11013,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 11012,
+    "descID": 110120,
+    "params": [
+      1,
+      5,
+      20014,
+      30006,
+      20002,
+      21006,
+      21014,
+      21015,
+      21016,
+      2
+    ],
+    "buffId": [
+      1101301,
+      10011
+    ]
+  },
+  {
+    "id": 11111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11111,
+    "descID": 111110,
+    "params": [
+      11111
+    ],
+    "buffId": [
+      1111101
+    ]
+  },
+  {
+    "id": 11211,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11211,
+    "descID": 112110,
+    "params": [
+      11201,
+      -1
+    ],
+    "buffId": [
+      1121101
+    ]
+  },
+  {
+    "id": 11212,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11211,
+    "descID": 112120,
+    "params": [
+      11202,
+      -1,
+      1
+    ],
+    "buffId": [
+      1121102
+    ]
+  },
+  {
+    "id": 11213,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 11211,
+    "descID": 112110,
+    "params": [
+      3,
+      2,
+      1,
+      11211,
+      2
+    ],
+    "buffId": [
+      1121103
+    ],
+    "performSelfs": [
+      11205
+    ]
+  },
+  {
+    "id": 11214,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11211,
+    "descID": 112120,
+    "params": [
+      11203,
+      -1,
+      1
+    ],
+    "buffId": [
+      1121102
+    ]
+  },
+  {
+    "id": 11311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11311,
+    "descID": 113110,
+    "params": [
+      1
+    ],
+    "buffId": [
+      1131101
+    ]
+  },
+  {
+    "id": 11312,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11312,
+    "descID": 113120,
+    "params": [
+      2,
+      2,
+      20027,
+      1,
+      1131401,
+      5,
+      1
+    ],
+    "buffId": [
+      1131201
+    ]
+  },
+  {
+    "id": 11313,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11313,
+    "descID": 113130,
+    "params": [
+      123,
+      20027,
+      1
+    ],
+    "buffId": [
+      1131301
+    ]
+  },
+  {
+    "id": 11314,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 11313,
+    "descID": 113130,
+    "params": [
+      5,
+      2,
+      5,
+      2,
+      88,
+      1131201
+    ],
+    "buffId": [
+      1131401
+    ],
+    "performTargets": [
+      11305,
+      11306
+    ]
+  },
+  {
+    "id": 11411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11411,
+    "descID": 114110,
+    "params": [
+      6,
+      6
+    ],
+    "buffId": [
+      1141101
+    ]
+  },
+  {
+    "id": 11511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11511,
+    "descID": 115110,
+    "params": [
+      3,
+      1,
+      2,
+      5
+    ],
+    "buffId": [
+      1150101
+    ]
+  },
+  {
+    "id": 11512,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11511,
+    "descID": 115110,
+    "params": [
+      3,
+      1,
+      2,
+      5,
+      10007,
+      -1,
+      -2
+    ],
+    "buffId": [
+      1151201
+    ]
+  },
+  {
+    "id": 11611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11611,
+    "descID": 116110,
+    "params": [
+      1,
+      3
+    ],
+    "buffId": [
+      1161101
+    ]
+  },
+  {
+    "id": 11711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11711,
+    "descID": 117110,
+    "params": [
+      13,
+      1,
+      1
+    ],
+    "buffId": [
+      1171101
+    ]
+  },
+  {
+    "id": 11712,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 11711,
+    "descID": 117110,
+    "params": [
+      -2
+    ],
+    "buffId": [
+      1171201
+    ]
+  },
+  {
+    "id": 11811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11811,
+    "descID": 118110,
+    "params": [
+      2,
+      1
+    ],
+    "buffId": [
+      1181101
+    ]
+  },
+  {
+    "id": 11812,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11812,
+    "descID": 118120,
+    "params": [
+      1,
+      1,
+      6,
+      1,
+      1
+    ],
+    "buffId": [
+      1181201
+    ]
+  },
+  {
+    "id": 11911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11911,
+    "descID": 119110,
+    "params": [
+      11901,
+      -2
+    ],
+    "buffId": [
+      1191101
+    ]
+  },
+  {
+    "id": 11912,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 11911,
+    "descID": 119110,
+    "params": [
+      11902,
+      -2
+    ],
+    "buffId": [
+      1191102
+    ]
+  },
+  {
+    "id": 12011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12011,
+    "descID": 120110,
+    "params": [
+      3,
+      1,
+      1,
+      1
+    ],
+    "buffId": [
+      1201101,
+      1201102
+    ]
+  },
+  {
+    "id": 12012,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12012,
+    "descID": 120120,
+    "params": [
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      1201301,
+      5
+    ],
+    "buffId": [
+      1201201,
+      1201202
+    ]
+  },
+  {
+    "id": 12013,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 12012,
+    "descID": 120120,
+    "params": [
+      1201202,
+      2,
+      -1
+    ],
+    "buffId": [
+      1201301
+    ]
+  },
+  {
+    "id": 12111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12111,
+    "descID": 121110,
+    "params": [
+      20030
+    ],
+    "buffId": [
+      1211101
+    ]
+  },
+  {
+    "id": 12112,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12112,
+    "descID": 121120,
+    "params": [
+      20031,
+      1
+    ],
+    "buffId": [
+      1211201
+    ]
+  },
+  {
+    "id": 12211,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12211,
+    "descID": 122110,
+    "params": [
+      6,
+      1
+    ],
+    "buffId": [
+      1221101
+    ]
+  },
+  {
+    "id": 12212,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 12211,
+    "descID": 122120,
+    "params": [
+      21001,
+      1,
+      1,
+      2,
+      1,
+      6
+    ],
+    "buffId": [
+      1221201,
+      1221202
+    ]
+  },
+  {
+    "id": 12311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12311,
+    "descID": 123110,
+    "params": [
+      6,
+      20027,
+      1,
+      20028
+    ],
+    "buffId": [
+      1231101
+    ]
+  },
+  {
+    "id": 12312,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12312,
+    "descID": 123120,
+    "params": [
+      6,
+      20027,
+      1,
+      20029
+    ],
+    "buffId": [
+      1231201
+    ]
+  },
+  {
+    "id": 12313,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12313,
+    "descID": 123130
+  },
+  {
+    "id": 12411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12411,
+    "descID": 124110,
+    "params": [
+      2
+    ],
+    "buffId": [
+      1241101
+    ]
+  },
+  {
+    "id": 12412,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12412,
+    "descID": 124120,
+    "params": [
+      2
+    ],
+    "buffId": [
+      1241201
+    ]
+  },
+  {
+    "id": 12511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12511,
+    "descID": 125110,
+    "params": [
+      4
+    ],
+    "buffId": [
+      1251101,
+      1251102
+    ]
+  },
+  {
+    "id": 12512,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12512,
+    "descID": 125120,
+    "params": [
+      3,
+      2,
+      1
+    ],
+    "buffId": [
+      1251201
+    ]
+  },
+  {
+    "id": 12611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12611,
+    "descID": 126110,
+    "params": [
+      -1,
+      1
+    ],
+    "buffId": [
+      1261101
+    ]
+  },
+  {
+    "id": 12612,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12612,
+    "descID": 126120,
+    "params": [
+      7,
+      10012,
+      10013
+    ],
+    "buffId": [
+      1261201,
+      1261204
+    ]
+  },
+  {
+    "id": 12711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12711,
+    "descID": 127110,
+    "params": [
+      3,
+      1,
+      12701,
+      10
+    ],
+    "buffId": [
+      1271101
+    ]
+  },
+  {
+    "id": 12712,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12712,
+    "descID": 127120,
+    "params": [
+      3,
+      1,
+      12702,
+      10
+    ],
+    "buffId": [
+      1271201
+    ]
+  },
+  {
+    "id": 12811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12811,
+    "descID": 128110,
+    "params": [
+      20010,
+      1,
+      -2,
+      20010,
+      2
+    ],
+    "buffId": [
+      1281101,
+      1281102
+    ]
+  },
+  {
+    "id": 12812,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12812,
+    "descID": 128120,
+    "params": [
+      20010,
+      20033,
+      2,
+      1
+    ],
+    "buffId": [
+      1281201
+    ]
+  },
+  {
+    "id": 12911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12911,
+    "descID": 129110,
+    "params": [
+      5,
+      2,
+      12903,
+      12911,
+      12921
+    ],
+    "buffId": [
+      1291101
+    ],
+    "performTargets": [
+      12903,
+      12904
+    ]
+  },
+  {
+    "id": 12912,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 12912,
+    "descID": 129120,
+    "params": [
+      3,
+      12904,
+      12912,
+      12922,
+      1,
+      0
+    ],
+    "buffId": [
+      1291201,
+      1291202
+    ],
+    "performTargets": [
+      12903,
+      12904
+    ]
+  },
+  {
+    "id": 30111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30111,
+    "descID": 301110,
+    "params": [
+      -1,
+      301
+    ],
+    "buffId": [
+      3010101,
+      3010102
+    ]
+  },
+  {
+    "id": 30112,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30111,
+    "descID": 301120,
+    "params": [
+      -1,
+      301,
+      302
+    ],
+    "buffId": [
+      3011201,
+      3011202
+    ]
+  },
+  {
+    "id": 30113,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30113,
+    "descID": 301130,
+    "params": [
+      302,
+      3021101,
+      1,
+      4,
+      1,
+      -1
+    ],
+    "buffId": [
+      3011301,
+      3021402
+    ]
+  },
+  {
+    "id": 30114,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 30111,
+    "descID": 301120,
+    "params": [
+      3011202,
+      9,
+      3,
+      -1,
+      3011201
+    ],
+    "buffId": [
+      3011401,
+      3011402
+    ],
+    "performTargets": [
+      30101
+    ]
+  },
+  {
+    "id": 30211,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30211,
+    "descID": 302110,
+    "params": [
+      2,
+      1,
+      4,
+      1,
+      -1
+    ],
+    "buffId": [
+      3021101,
+      3021402
+    ]
+  },
+  {
+    "id": 30213,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30213,
+    "descID": 302130,
+    "params": [
+      301,
+      -1,
+      301,
+      302,
+      3011201
+    ],
+    "buffId": [
+      3021301,
+      3011202
+    ]
+  },
+  {
+    "id": 30214,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 30211,
+    "descID": 302110,
+    "params": [
+      3021101,
+      4,
+      0,
+      1,
+      1
+    ],
+    "buffId": [
+      3021401,
+      3021402
+    ]
+  },
+  {
+    "id": 30311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30311,
+    "descID": 303110,
+    "params": [
+      3,
+      3
+    ],
+    "buffId": [
+      3031101,
+      3031102
+    ]
+  },
+  {
+    "id": 30411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30411,
+    "descID": 304110,
+    "params": [
+      1,
+      5,
+      1,
+      1,
+      1
+    ],
+    "buffId": [
+      3041101
+    ],
+    "performTargets": [
+      30403
+    ],
+    "performSelfs": [
+      30402
+    ]
+  },
+  {
+    "id": 30412,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30411,
+    "descID": 304120,
+    "params": [
+      1,
+      5,
+      1,
+      1
+    ],
+    "buffId": [
+      3041201
+    ],
+    "performTargets": [
+      30403
+    ],
+    "performSelfs": [
+      30402
+    ]
+  },
+  {
+    "id": 30511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30511,
+    "descID": 305110,
+    "params": [
+      6,
+      1
+    ],
+    "buffId": [
+      3051101
+    ]
+  },
+  {
+    "id": 30512,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30511,
+    "descID": 305120,
+    "params": [
+      6,
+      1,
+      3050101,
+      3,
+      7,
+      2,
+      1
+    ],
+    "buffId": [
+      3051201,
+      3051202,
+      3051203
+    ],
+    "performTargets": [
+      30503,
+      30505,
+      30507,
+      30509
+    ],
+    "performSelfs": [
+      30502,
+      30504,
+      30506,
+      30508
+    ]
+  },
+  {
+    "id": 30513,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30513,
+    "descID": 305130,
+    "params": [
+      306,
+      2,
+      3061201,
+      1
+    ],
+    "buffId": [
+      3051301,
+      3051302
+    ]
+  },
+  {
+    "id": 30611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30611,
+    "descID": 306110,
+    "params": [
+      1,
+      4,
+      1
+    ],
+    "buffId": [
+      3061101
+    ]
+  },
+  {
+    "id": 30612,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30611,
+    "descID": 306120,
+    "params": [
+      1,
+      4,
+      1
+    ],
+    "buffId": [
+      3061201
+    ]
+  },
+  {
+    "id": 30613,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 30613,
+    "descID": 306130,
+    "params": [
+      305,
+      4,
+      -1
+    ],
+    "buffId": [
+      3061301
+    ]
+  },
+  {
+    "id": 100301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 100301,
+    "descID": 1003010,
+    "round": 3,
+    "params": [
+      -3
+    ],
+    "performTargets": [
+      100302
+    ],
+    "performSelfs": [
+      100301
+    ]
+  },
+  {
+    "id": 100401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 100401,
+    "descID": 1004010,
+    "round": 3,
+    "params": [
+      -4
+    ],
+    "performTargets": [
+      100302
+    ],
+    "performSelfs": [
+      100401
+    ]
+  },
+  {
+    "id": 100501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 100501,
+    "descID": 1005010,
+    "round": 3,
+    "params": [
+      1002,
+      1,
+      4
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101001,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101001,
+    "descID": 1010010,
+    "round": 1,
+    "params": [
+      7,
+      -2,
+      -1
+    ],
+    "buffId": [
+      10081102
+    ],
+    "performTargets": [
+      101001
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101101,
+    "descID": 1011010,
+    "round": 4,
+    "params": [
+      1009,
+      1010,
+      6
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101102,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101101,
+    "descID": 1011010,
+    "round": 3,
+    "params": [
+      1009,
+      1010,
+      6
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101301,
+    "descID": 1013010,
+    "round": 2,
+    "params": [
+      6,
+      2,
+      1016,
+      1054,
+      1,
+      21009
+    ],
+    "buffId": [
+      10131101
+    ],
+    "performTargets": [
+      101701
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101401,
+    "descID": 1014010,
+    "round": 1,
+    "params": [
+      1016,
+      3
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101501,
+    "descID": 1015010,
+    "round": 1,
+    "params": [
+      4,
+      1,
+      1,
+      21009
+    ],
+    "buffId": [
+      10150101
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101601,
+    "descID": 1016010,
+    "round": 1,
+    "params": [
+      4
+    ],
+    "performTargets": [
+      2100900
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101701,
+    "descID": 1017010,
+    "round": 1,
+    "params": [
+      5,
+      9
+    ],
+    "buffId": [
+      10170101
+    ],
+    "performTargets": [
+      101701
+    ],
+    "performSelfs": [
+      100001
+    ]
+  },
+  {
+    "id": 101801,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101801,
+    "descID": 1018010,
+    "round": 1,
+    "params": [
+      21010,
+      50,
+      1,
+      2
+    ],
+    "performTargets": [
+      8001400
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 101901,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101901,
+    "descID": 1019010,
+    "round": 1,
+    "params": [
+      5,
+      1023,
+      50,
+      1024,
+      1,
+      1,
+      1,
+      10191101
+    ],
+    "performSelfs": [
+      100501,
+      2000200
+    ]
+  },
+  {
+    "id": 102201,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 102201,
+    "descID": 1022010,
+    "round": 1,
+    "params": [
+      5,
+      -3
+    ],
+    "performTargets": [
+      102201
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 102501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 102501,
+    "descID": 1025010,
+    "round": 1,
+    "params": [
+      1,
+      1
+    ],
+    "buffId": [
+      10250101
+    ],
+    "performTargets": [
+      101701
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 102601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 102601,
+    "descID": 1026010,
+    "round": 1,
+    "params": [
+      5,
+      1,
+      4,
+      -3
+    ],
+    "performTargets": [
+      102602
+    ],
+    "performSelfs": [
+      102601
+    ]
+  },
+  {
+    "id": 102701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 102701,
+    "descID": 1027010,
+    "round": 2,
+    "params": [
+      1030,
+      1
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 103001,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 103001,
+    "descID": 1030010,
+    "round": 1,
+    "params": [
+      1027,
+      1,
+      10271101,
+      1,
+      1
+    ],
+    "performTargets": [
+      101701
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 103101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 103101,
+    "descID": 1031010,
+    "round": 1,
+    "params": [
+      4,
+      -2
+    ],
+    "performTargets": [
+      3000900
+    ],
+    "performSelfs": [
+      103101
+    ]
+  },
+  {
+    "id": 103301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 103301,
+    "descID": 1033010,
+    "round": 3,
+    "params": [
+      3,
+      2400,
+      2,
+      2
+    ],
+    "performTargets": [
+      103302
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 103501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 103501,
+    "descID": 1035010,
+    "round": 3,
+    "params": [
+      6,
+      1,
+      3
+    ],
+    "performTargets": [
+      103302
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 103701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 103701,
+    "descID": 1037010,
+    "round": 2,
+    "params": [
+      -2
+    ],
+    "performTargets": [
+      2001901
+    ],
+    "performSelfs": [
+      103701
+    ]
+  },
+  {
+    "id": 104001,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104001,
+    "descID": 1040010,
+    "round": 99,
+    "params": [
+      4
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 104101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104101,
+    "descID": 1041010,
+    "round": 1,
+    "params": [
+      -2,
+      5,
+      10
+    ],
+    "buffId": [
+      10091202,
+      10410101
+    ],
+    "performTargets": [
+      104103,
+      104102
+    ],
+    "performSelfs": [
+      104101
+    ]
+  },
+  {
+    "id": 104201,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104201,
+    "descID": 1042010,
+    "round": 1,
+    "params": [
+      -2,
+      -1,
+      10081102,
+      -1
+    ],
+    "buffId": [
+      10081102
+    ],
+    "performTargets": [
+      104201,
+      104202
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 104301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104301,
+    "descID": 1043010,
+    "round": 3,
+    "params": [
+      4,
+      2
+    ],
+    "buffId": [
+      10430101
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 104501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104501,
+    "descID": 1045010,
+    "round": 2,
+    "params": [
+      3,
+      -2
+    ],
+    "performTargets": [
+      2102001,
+      2102002
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 104601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104601,
+    "descID": 1046010,
+    "round": 3,
+    "params": [
+      1046,
+      2,
+      2,
+      1
+    ],
+    "buffId": [
+      10460101
+    ],
+    "performTargets": [
+      104601
+    ],
+    "performSelfs": [
+      104602
+    ]
+  },
+  {
+    "id": 104701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104701,
+    "descID": 1047010,
+    "round": 2,
+    "params": [
+      -1,
+      -1,
+      2
+    ],
+    "buffId": [
+      10470101
+    ],
+    "performTargets": [
+      104103
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 104801,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104801,
+    "descID": 1048010,
+    "round": 2,
+    "params": [
+      -1,
+      -1,
+      2,
+      2
+    ],
+    "buffId": [
+      10470101
+    ],
+    "performTargets": [
+      104103
+    ],
+    "performSelfs": [
+      104801
+    ]
+  },
+  {
+    "id": 104901,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 104901,
+    "descID": 1049010,
+    "round": 2,
+    "params": [
+      5,
+      2,
+      2,
+      1,
+      1
+    ],
+    "buffId": [
+      10490101,
+      10490102
+    ],
+    "performTargets": [
+      104103
+    ],
+    "performSelfs": [
+      104901
+    ]
+  },
+  {
+    "id": 105301,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 105301,
+    "descID": 1053010,
+    "round": 2,
+    "params": [
+      -1,
+      -1,
+      2,
+      21022,
+      1,
+      6
+    ],
+    "buffId": [
+      10470101
+    ],
+    "performTargets": [
+      104103
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 105401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 105401,
+    "descID": 1054010,
+    "round": 1,
+    "params": [
+      5,
+      2
+    ],
+    "performTargets": [
+      105401
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 105501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 105501,
+    "descID": 1055010,
+    "round": 1,
+    "params": [
+      1016,
+      2,
+      1054,
+      0,
+      6,
+      1,
+      5,
+      2,
+      1
+    ],
+    "buffId": [
+      10131101
+    ],
+    "performSelfs": [
+      105501
+    ]
+  },
+  {
+    "id": 105701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 105701,
+    "descID": 1057010,
+    "round": 3,
+    "params": [
+      1,
+      1
+    ],
+    "buffId": [
+      10570101
+    ],
+    "performSelfs": [
+      105701
+    ]
+  },
+  {
+    "id": 105801,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 105801,
+    "descID": 1058010,
+    "round": 2,
+    "params": [
+      1056
+    ],
+    "performTargets": [
+      101701
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 106101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106101,
+    "descID": 1061010,
+    "round": 3,
+    "params": [
+      -2
+    ],
+    "buffId": [
+      6015102
+    ],
+    "performTargets": [
+      106103
+    ],
+    "performSelfs": [
+      106101
+    ]
+  },
+  {
+    "id": 106102,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106102,
+    "descID": 1061010,
+    "round": 3,
+    "params": [
+      1000,
+      1000,
+      2
+    ],
+    "buffId": [
+      6015202,
+      6015203,
+      6015204,
+      6015205
+    ],
+    "performTargets": [
+      106104
+    ],
+    "performSelfs": [
+      106102
+    ]
+  },
+  {
+    "id": 106201,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106201,
+    "descID": 1062010,
+    "round": 3,
+    "params": [
+      -2,
+      -1
+    ],
+    "performTargets": [
+      106202
+    ],
+    "performSelfs": [
+      106201
+    ]
+  },
+  {
+    "id": 106401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106401,
+    "descID": 1064010,
+    "round": 3,
+    "params": [
+      5,
+      -1,
+      -2
+    ],
+    "buffId": [
+      10640101
+    ],
+    "performTargets": [
+      106402
+    ],
+    "performSelfs": [
+      106401
+    ]
+  },
+  {
+    "id": 106501,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106501,
+    "descID": 1065010,
+    "round": 2,
+    "params": [
+      -1,
+      -3
+    ],
+    "performTargets": [
+      106502,
+      106504
+    ],
+    "performSelfs": [
+      106501
+    ]
+  },
+  {
+    "id": 106601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106601,
+    "descID": 1066010,
+    "round": 2,
+    "params": [
+      6,
+      -4,
+      0,
+      1,
+      -1
+    ],
+    "buffId": [
+      10651102,
+      10651103
+    ],
+    "performTargets": [
+      106602
+    ],
+    "performSelfs": [
+      106601
+    ]
+  },
+  {
+    "id": 106701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106701,
+    "descID": 1067010,
+    "round": 3,
+    "params": [
+      21025,
+      1,
+      2
+    ],
+    "performTargets": [
+      106702
+    ],
+    "performSelfs": [
+      106701
+    ]
+  },
+  {
+    "id": 106702,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 106702,
+    "descID": 1067020,
+    "round": 3,
+    "params": [
+      1
+    ],
+    "performTargets": [
+      106704
+    ],
+    "performSelfs": [
+      106703
+    ]
+  },
+  {
+    "id": 107001,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 107001,
+    "descID": 1070010,
+    "round": 3,
+    "params": [
+      6,
+      4
+    ],
+    "performTargets": [
+      107002
+    ],
+    "performSelfs": [
+      107001
+    ]
+  },
+  {
+    "id": 202601,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 202601,
+    "descID": 2026010,
+    "round": 1,
+    "params": [
+      10011,
+      1
+    ],
+    "performTargets": [
+      4000700
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 202701,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 202701,
+    "descID": 2027010,
+    "round": 1,
+    "params": [
+      2300,
+      2
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 100111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100111,
+    "descID": 1001110,
+    "params": [
+      4
+    ],
+    "buffId": [
+      10011101,
+      10701102
+    ]
+  },
+  {
+    "id": 100112,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100112,
+    "descID": 1001120,
+    "params": [
+      6,
+      3
+    ],
+    "buffId": [
+      10011201
+    ]
+  },
+  {
+    "id": 100311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100311,
+    "descID": 1003110,
+    "params": [
+      1
+    ],
+    "buffId": [
+      10031101
+    ]
+  },
+  {
+    "id": 100312,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100312,
+    "descID": 1003120,
+    "params": [
+      1
+    ],
+    "buffId": [
+      10031201
+    ]
+  },
+  {
+    "id": 100411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100311,
+    "descID": 1003110,
+    "params": [
+      -4
+    ],
+    "buffId": [
+      10041101
+    ]
+  },
+  {
+    "id": 100511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100511,
+    "descID": 1005110,
+    "params": [
+      1,
+      3
+    ],
+    "buffId": [
+      10051101
+    ]
+  },
+  {
+    "id": 100811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100811,
+    "descID": 1008110,
+    "params": [
+      10081102,
+      3,
+      3,
+      -1
+    ],
+    "buffId": [
+      10081101
+    ],
+    "performTargets": [
+      100802
+    ],
+    "performSelfs": [
+      100801
+    ]
+  },
+  {
+    "id": 100911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100911,
+    "descID": 1009110,
+    "params": [
+      10091102,
+      2,
+      -10
+    ],
+    "buffId": [
+      10091101
+    ],
+    "performTargets": [
+      3000600
+    ]
+  },
+  {
+    "id": 100912,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100912,
+    "descID": 1009120,
+    "params": [
+      10091202,
+      -2
+    ],
+    "buffId": [
+      10091201
+    ]
+  },
+  {
+    "id": 100913,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 100913,
+    "descID": 1009130,
+    "params": [
+      21017
+    ],
+    "buffId": [
+      10091301
+    ]
+  },
+  {
+    "id": 101011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101011,
+    "descID": 1010110,
+    "params": [
+      10101102,
+      2,
+      -10
+    ],
+    "buffId": [
+      10101101
+    ],
+    "performTargets": [
+      3000600
+    ]
+  },
+  {
+    "id": 101111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101111,
+    "descID": 1011110
+  },
+  {
+    "id": 101112,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101112,
+    "descID": 1011120,
+    "params": [
+      3,
+      3,
+      1041,
+      1042
+    ],
+    "buffId": [
+      10111201,
+      10111202
+    ],
+    "performSelfs": [
+      101112
+    ]
+  },
+  {
+    "id": 101311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101311,
+    "descID": 1013110,
+    "params": [
+      2,
+      21009
+    ],
+    "buffId": [
+      10131101
+    ]
+  },
+  {
+    "id": 101312,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "params": [
+      1014
+    ],
+    "buffId": [
+      10131102
+    ]
+  },
+  {
+    "id": 101313,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101313,
+    "descID": 1013130,
+    "params": [
+      188,
+      8,
+      15,
+      1055
+    ],
+    "buffId": [
+      10131103
+    ]
+  },
+  {
+    "id": 101411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101411,
+    "descID": 1014110,
+    "params": [
+      1
+    ],
+    "buffId": [
+      10141101
+    ]
+  },
+  {
+    "id": 101412,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "params": [
+      1013
+    ],
+    "buffId": [
+      10141201
+    ]
+  },
+  {
+    "id": 101413,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "params": [
+      3
+    ],
+    "buffId": [
+      10141301
+    ]
+  },
+  {
+    "id": 101414,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101313,
+    "descID": 1014140,
+    "params": [
+      188
+    ],
+    "buffId": [
+      10141401
+    ]
+  },
+  {
+    "id": 101415,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101415,
+    "descID": 1014150,
+    "params": [
+      4,
+      2,
+      1016,
+      1054
+    ],
+    "buffId": [
+      10141501
+    ],
+    "performSelfs": [
+      101401
+    ]
+  },
+  {
+    "id": 101611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101611,
+    "descID": 1016110,
+    "params": [
+      21009
+    ],
+    "buffId": [
+      10161101
+    ]
+  },
+  {
+    "id": 101711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101711,
+    "descID": 1017110,
+    "buffId": [
+      10171101
+    ]
+  },
+  {
+    "id": 101811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101811,
+    "descID": 1018110,
+    "params": [
+      3,
+      1021,
+      1,
+      2101001,
+      2
+    ],
+    "buffId": [
+      10181101
+    ]
+  },
+  {
+    "id": 101911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 101911,
+    "descID": 1019110,
+    "params": [
+      -10
+    ],
+    "buffId": [
+      10191101
+    ],
+    "performSelfs": [
+      3000600
+    ]
+  },
+  {
+    "id": 102011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102011,
+    "descID": 1020110,
+    "params": [
+      -2,
+      1
+    ],
+    "buffId": [
+      10201101
+    ]
+  },
+  {
+    "id": 102111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102111,
+    "descID": 1021110,
+    "params": [
+      -2,
+      0
+    ],
+    "buffId": [
+      10211101
+    ]
+  },
+  {
+    "id": 102311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102311,
+    "descID": 1023110,
+    "params": [
+      2
+    ],
+    "buffId": [
+      10231101
+    ]
+  },
+  {
+    "id": 102411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102411,
+    "descID": 1024110,
+    "params": [
+      1
+    ],
+    "buffId": [
+      10241101
+    ]
+  },
+  {
+    "id": 102611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102611,
+    "descID": 1026110,
+    "params": [
+      -2,
+      2,
+      20
+    ],
+    "buffId": [
+      10261101
+    ]
+  },
+  {
+    "id": 102711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102711,
+    "descID": 1027110,
+    "params": [
+      2,
+      1,
+      1
+    ],
+    "buffId": [
+      10271101
+    ]
+  },
+  {
+    "id": 102811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102811,
+    "descID": 1028110,
+    "params": [
+      1
+    ],
+    "buffId": [
+      10281101
+    ]
+  },
+  {
+    "id": 102911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102911,
+    "descID": 1029110,
+    "params": [
+      4,
+      3
+    ],
+    "buffId": [
+      10291101
+    ]
+  },
+  {
+    "id": 103011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "buffId": [
+      10301101
+    ]
+  },
+  {
+    "id": 103111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 103111,
+    "descID": 1031110,
+    "params": [
+      3,
+      1032
+    ],
+    "buffId": [
+      10311101,
+      10311102
+    ]
+  },
+  {
+    "id": 103211,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 103211,
+    "descID": 1032110,
+    "params": [
+      2,
+      2,
+      1031
+    ],
+    "buffId": [
+      10321101,
+      10311102
+    ]
+  },
+  {
+    "id": 103311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 103311,
+    "descID": 1033110,
+    "params": [
+      3,
+      2500,
+      250001,
+      2,
+      -1
+    ],
+    "buffId": [
+      10331101
+    ],
+    "performSelfs": [
+      103301
+    ]
+  },
+  {
+    "id": 103411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 103411,
+    "descID": 1034110,
+    "params": [
+      -2
+    ],
+    "buffId": [
+      10341101
+    ]
+  },
+  {
+    "id": 103511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 103511,
+    "descID": 1035110,
+    "params": [
+      21014,
+      500,
+      21015,
+      1,
+      21016,
+      400
+    ],
+    "buffId": [
+      10351101
+    ]
+  },
+  {
+    "id": 103611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 103611,
+    "descID": 1036110,
+    "params": [
+      3,
+      3
+    ],
+    "buffId": [
+      10361101
+    ]
+  },
+  {
+    "id": 103711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 103711,
+    "descID": 1037110,
+    "params": [
+      2500,
+      1033,
+      10331101
+    ],
+    "buffId": [
+      10371101
+    ]
+  },
+  {
+    "id": 104011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104011,
+    "descID": 1040110,
+    "params": [
+      4,
+      4,
+      -2,
+      21014,
+      400,
+      21015,
+      300,
+      21016,
+      300
+    ],
+    "buffId": [
+      10401101
+    ],
+    "performTargets": [
+      11902
+    ]
+  },
+  {
+    "id": 104111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104111,
+    "descID": 1041110,
+    "params": [
+      1,
+      3,
+      3,
+      -10
+    ],
+    "buffId": [
+      10411101,
+      10410101
+    ],
+    "performTargets": [
+      3000600
+    ]
+  },
+  {
+    "id": 104211,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104211,
+    "descID": 1042110,
+    "params": [
+      10081102,
+      -1,
+      3,
+      -10
+    ],
+    "buffId": [
+      10421101
+    ],
+    "performTargets": [
+      3000600
+    ]
+  },
+  {
+    "id": 104411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104411,
+    "descID": 1044110,
+    "params": [
+      21020
+    ],
+    "buffId": [
+      10441101
+    ]
+  },
+  {
+    "id": 104611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104611,
+    "descID": 1046110,
+    "params": [
+      2
+    ],
+    "buffId": [
+      10461101
+    ],
+    "performSelfs": [
+      104102
+    ]
+  },
+  {
+    "id": 104711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104711,
+    "descID": 1047110,
+    "params": [
+      2,
+      2,
+      10470101
+    ],
+    "buffId": [
+      10471101
+    ]
+  },
+  {
+    "id": 104811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104811,
+    "descID": 1048110,
+    "params": [
+      4,
+      2,
+      2,
+      10470101,
+      4,
+      104801
+    ],
+    "buffId": [
+      10481101,
+      10481102
+    ]
+  },
+  {
+    "id": 104911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104911,
+    "descID": 1049110,
+    "params": [
+      2,
+      10490101,
+      104901
+    ],
+    "buffId": [
+      10491101
+    ]
+  },
+  {
+    "id": 105011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 104911,
+    "descID": 1049110,
+    "params": [
+      2102101
+    ],
+    "buffId": [
+      10501101
+    ]
+  },
+  {
+    "id": 105311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 105311,
+    "descID": 1053110,
+    "params": [
+      5,
+      10490101,
+      104901,
+      10,
+      30,
+      1,
+      50,
+      2,
+      2
+    ],
+    "buffId": [
+      10531101
+    ],
+    "performSelfs": [
+      105301
+    ]
+  },
+  {
+    "id": 105312,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 105312,
+    "descID": 1053120,
+    "params": [
+      6,
+      1,
+      -1
+    ],
+    "buffId": [
+      10531201
+    ]
+  },
+  {
+    "id": 105511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 105511,
+    "descID": 1055110,
+    "params": [
+      -1
+    ],
+    "buffId": [
+      10551101
+    ]
+  },
+  {
+    "id": 105811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 105811,
+    "descID": 1058110,
+    "buffId": [
+      10581101
+    ]
+  },
+  {
+    "id": 106111,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106111,
+    "descID": 1061110,
+    "params": [
+      2,
+      6
+    ],
+    "buffId": [
+      10611101
+    ]
+  },
+  {
+    "id": 106112,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106112,
+    "descID": 1061120,
+    "params": [
+      5,
+      300,
+      1200,
+      1000,
+      1000,
+      1000
+    ],
+    "buffId": [
+      10611201
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 106113,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106113,
+    "descID": 1061130,
+    "params": [
+      21024
+    ],
+    "buffId": [
+      10611301
+    ]
+  },
+  {
+    "id": 106211,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "nameID": 106201,
+    "descID": 1062010,
+    "params": [
+      4
+    ],
+    "buffId": [
+      10621101
+    ]
+  },
+  {
+    "id": 106311,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106311,
+    "descID": 1063110,
+    "params": [
+      6,
+      1,
+      -1,
+      1
+    ],
+    "buffId": [
+      10631101
+    ]
+  },
+  {
+    "id": 106511,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106511,
+    "descID": 1065110,
+    "params": [
+      1,
+      3,
+      1066,
+      2,
+      3,
+      6,
+      9,
+      1,
+      1,
+      -1,
+      1,
+      1,
+      -2,
+      2,
+      2,
+      2,
+      1061,
+      6011301
+    ],
+    "buffId": [
+      10651101,
+      10651102,
+      10651103,
+      10651104,
+      10651105
+    ],
+    "performSelfs": [
+      106503
+    ]
+  },
+  {
+    "id": 106512,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106512,
+    "descID": 1065120,
+    "params": [
+      2
+    ],
+    "buffId": [
+      10651201
+    ]
+  },
+  {
+    "id": 106711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106711,
+    "descID": 1067110,
+    "params": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "buffId": [
+      10671101
+    ]
+  },
+  {
+    "id": 106712,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106712,
+    "descID": 1067120,
+    "params": [
+      1
+    ],
+    "buffId": [
+      10671201
+    ]
+  },
+  {
+    "id": 106713,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106713,
+    "descID": 1067130,
+    "params": [
+      8,
+      4,
+      2,
+      2,
+      1,
+      2,
+      220,
+      3,
+      10,
+      5,
+      -20,
+      0,
+      -2,
+      -1,
+      5
+    ],
+    "buffId": [
+      10671301,
+      10671302,
+      10671303
+    ]
+  },
+  {
+    "id": 106811,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106811,
+    "descID": 1068110,
+    "params": [
+      2,
+      2,
+      2,
+      1,
+      2501
+    ],
+    "buffId": [
+      10681101
+    ]
+  },
+  {
+    "id": 106812,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106812,
+    "descID": 1068120,
+    "params": [
+      5,
+      1,
+      1
+    ],
+    "buffId": [
+      10681201,
+      10681202
+    ]
+  },
+  {
+    "id": 106911,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106911,
+    "descID": 1069110,
+    "params": [
+      1,
+      -1,
+      1,
+      1,
+      1
+    ],
+    "buffId": [
+      10691101
+    ]
+  },
+  {
+    "id": 106912,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 106912,
+    "descID": 1069120,
+    "buffId": [
+      10691201
+    ]
+  },
+  {
+    "id": 107011,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 107011,
+    "descID": 1070110,
+    "params": [
+      4,
+      4,
+      1,
+      12,
+      6
+    ],
+    "buffId": [
+      10701101,
+      10701102
+    ]
+  },
+  {
+    "id": 202611,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "buffId": [
+      20261101
+    ]
+  },
+  {
+    "id": 202711,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 202711,
+    "descID": 2027110,
+    "params": [
+      1
+    ],
+    "buffId": [
+      20271101
+    ]
+  },
+  {
+    "id": 300101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 101801,
+    "descID": 1018010,
+    "round": 2,
+    "params": [
+      21010,
+      50,
+      1,
+      2
+    ],
+    "performTargets": [
+      8001400
+    ],
+    "performSelfs": [
+      100501
+    ]
+  },
+  {
+    "id": 300401,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 102701,
+    "descID": 1027010,
+    "round": 2,
+    "params": [
+      3051,
+      1
+    ],
+    "performSelfs": [
+      10701
+    ]
+  },
+  {
+    "id": 300411,
+    "skillType": {
+      "value": 2,
+      "name": "SkillType_Passive"
+    },
+    "isShow": true,
+    "nameID": 102711,
+    "descID": 3004110,
+    "params": [
+      1,
+      1,
+      1
+    ],
+    "buffId": [
+      10271101
+    ]
+  },
+  {
+    "id": 305101,
+    "skillType": {
+      "value": 1,
+      "name": "SkillType_Active"
+    },
+    "isShow": true,
+    "nameID": 103001,
+    "descID": 1030010,
+    "round": 1,
+    "params": [
+      3004,
+      1,
+      10271101,
+      1,
+      1,
+      3006
+    ],
+    "performTargets": [
+      101701
+    ],
+    "performSelfs": [
+      100501
+    ]
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "id": 60001,
+    "rarity": 1,
+    "cardPackID": [
+      102
+    ],
+    "nameID": 60001,
+    "desiID": 600011,
+    "Icon": "UT_SGRelic_60001",
+    "relicParam": [
+      4,
+      20005
+    ]
+  },
+  {
+    "id": 60002,
+    "rarity": 3,
+    "cardPackID": [
+      101
+    ],
+    "nameID": 60002,
+    "desiID": 600021,
+    "Icon": "UT_SGRelic_60002",
+    "relicParam": [
+      1,
+      1
+    ]
+  },
+  {
+    "id": 60003,
+    "rarity": 1,
+    "cardPackID": [
+      103
+    ],
+    "nameID": 60003,
+    "desiID": 600031,
+    "Icon": "UT_SGRelic_60003",
+    "relicParam": [
+      6,
+      6
+    ]
+  },
+  {
+    "id": 60004,
+    "rarity": 1,
+    "cardPackID": [
+      100
+    ],
+    "nameID": 60004,
+    "desiID": 600041,
+    "Icon": "UT_SGRelic_60004",
+    "relicParam": [
+      2
+    ]
+  },
+  {
+    "id": 60005,
+    "rarity": 1,
+    "cardPackID": [
+      100
+    ],
+    "nameID": 60005,
+    "desiID": 600051,
+    "Icon": "UT_SGRelic_60005",
+    "relicParam": [
+      1
+    ]
+  },
+  {
+    "id": 60006,
+    "rarity": 2,
+    "cardPackID": [
+      101
+    ],
+    "nameID": 60006,
+    "desiID": 600061,
+    "Icon": "UT_SGRelic_60006",
+    "relicParam": [
+      1
+    ]
+  },
+  {
+    "id": 60007,
+    "rarity": 2,
+    "cardPackID": [
+      103
+    ],
+    "nameID": 60007,
+    "desiID": 600071,
+    "Icon": "UT_SGRelic_60007",
+    "relicParam": [
+      1,
+      6
+    ]
+  },
+  {
+    "id": 60008,
+    "rarity": 4,
+    "cardPackID": [
+      103
+    ],
+    "nameID": 60008,
+    "desiID": 600081,
+    "Icon": "UT_SGRelic_60008",
+    "building": "SG_Relic_02",
+    "relicParam": [
+      4
+    ]
+  },
+  {
+    "id": 60009,
+    "rarity": 4,
+    "cardPackID": [
+      102
+    ],
+    "nameID": 60009,
+    "desiID": 600091,
+    "Icon": "UT_SGRelic_60009",
+    "building": "SG_Relic_03",
+    "relicParam": [
+      25,
+      25
+    ]
+  },
+  {
+    "id": 60010,
+    "rarity": 4,
+    "cardPackID": [
+      101
+    ],
+    "nameID": 60010,
+    "desiID": 600101,
+    "Icon": "UT_SGRelic_60010",
+    "building": "SG_Relic_01",
+    "relicParam": [
+      1
+    ]
+  },
+  {
+    "id": 60011,
+    "rarity": 2,
+    "cardPackID": [
+      100
+    ],
+    "nameID": 60011,
+    "desiID": 600111,
+    "Icon": "UT_SGRelic_60011",
+    "relicParam": [
+      5
+    ]
+  },
+  {
+    "id": 60012,
+    "rarity": 1,
+    "cardPackID": [
+      101
+    ],
+    "nameID": 60012,
+    "desiID": 600121,
+    "Icon": "UT_SGRelic_60012",
+    "relicParam": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": 60013,
+    "rarity": 3,
+    "cardPackID": [
+      100
+    ],
+    "nameID": 60013,
+    "desiID": 600131,
+    "Icon": "UT_SGRelic_60013",
+    "relicParam": [
+      1
+    ]
+  },
+  {
+    "id": 60014,
+    "rarity": 1,
+    "cardPackID": [
+      104
+    ],
+    "nameID": 60014,
+    "desiID": 600141,
+    "Icon": "UT_SGRelic_60014"
+  },
+  {
+    "id": 60015,
+    "rarity": 2,
+    "cardPackID": [
+      104
+    ],
+    "nameID": 60015,
+    "desiID": 600151,
+    "Icon": "UT_SGRelic_60015",
+    "relicParam": [
+      8,
+      88,
+      20013
+    ]
+  },
+  {
+    "id": 60016,
+    "rarity": 3,
+    "cardPackID": [
+      104
+    ],
+    "nameID": 60016,
+    "desiID": 600161,
+    "Icon": "UT_SGRelic_60016",
+    "relicParam": [
+      4,
+      4,
+      20013,
+      20014
+    ]
+  },
+  {
+    "id": 60017,
+    "rarity": 4,
+    "cardPackID": [
+      104
+    ],
+    "nameID": 60017,
+    "desiID": 600171,
+    "Icon": "UT_SGRelic_60017",
+    "building": "SG_Relic_05",
+    "relicParam": [
+      4
+    ]
+  }
+]

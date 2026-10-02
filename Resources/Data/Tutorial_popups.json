@@ -1,0 +1,41 @@
+[
+  {
+    "id": 110,
+    "contentId": 110
+  },
+  {
+    "id": 120,
+    "uiIndex": 1,
+    "contentId": 120
+  },
+  {
+    "id": 130,
+    "uiIndex": 2,
+    "contentId": 130
+  },
+  {
+    "id": 140,
+    "uiIndex": 3,
+    "contentId": 140
+  },
+  {
+    "id": 150,
+    "uiIndex": 4,
+    "contentId": 150
+  },
+  {
+    "id": 160,
+    "uiIndex": 5,
+    "contentId": 160
+  },
+  {
+    "id": 170,
+    "uiIndex": 6,
+    "contentId": 170
+  },
+  {
+    "id": 180,
+    "uiIndex": 7,
+    "contentId": 180
+  }
+]

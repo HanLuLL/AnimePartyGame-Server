@@ -1,0 +1,49 @@
+[
+  {
+    "isDefault": true,
+    "descriptionID": 21,
+    "tipsID": 210,
+    "warningID": 211,
+    "pic": "UT_Difficulty_0"
+  },
+  {
+    "gameDifficultyType": {
+      "value": 1,
+      "name": "GameDifficultyType_Normal"
+    },
+    "descriptionID": 22,
+    "tipsID": 220,
+    "warningID": 221,
+    "pic": "UT_Difficulty_1"
+  },
+  {
+    "gameDifficultyType": {
+      "value": 2,
+      "name": "GameDifficultyType_Nightmare"
+    },
+    "descriptionID": 23,
+    "tipsID": 230,
+    "warningID": 231,
+    "pic": "UT_Difficulty_2"
+  },
+  {
+    "gameDifficultyType": {
+      "value": 3,
+      "name": "GameDifficultyType_Crazy"
+    },
+    "descriptionID": 24,
+    "tipsID": 240,
+    "warningID": 241,
+    "pic": "UT_Difficulty_3"
+  },
+  {
+    "gameDifficultyType": {
+      "value": 4,
+      "name": "GameDifficultyType_Extreme"
+    },
+    "descriptionID": 25,
+    "tipsID": 250,
+    "warningID": 251,
+    "pic": "UT_Difficulty_4"
+  }
+]

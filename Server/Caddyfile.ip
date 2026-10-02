@@ -1,0 +1,15 @@
+http://{$PUBLIC_IP} {
+	@acme path /.well-known/acme-challenge/*
+	handle @acme {
+		root * {$ACME_WEBROOT}
+		file_server
+	}
+	handle {
+		redir https://{$PUBLIC_IP}{uri} permanent
+	}
+}
+
+{$PUBLIC_IP} {
+	tls /etc/caddy/certs/fullchain.pem /etc/caddy/certs/privkey.pem
+	reverse_proxy 127.0.0.1:7878
+}

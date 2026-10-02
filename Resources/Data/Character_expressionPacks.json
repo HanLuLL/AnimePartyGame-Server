@@ -1,0 +1,1659 @@
+[
+  {
+    "id": 101,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120101001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120101002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120101003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120101004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120101005
+      },
+      {
+        "itemID": 120101006
+      },
+      {
+        "itemID": 120101007
+      },
+      {
+        "itemID": 120101008
+      },
+      {
+        "itemID": 120101009,
+        "videoKey": "VEmoji_101_09"
+      },
+      {
+        "itemID": 120101010,
+        "videoKey": "VEmoji_101_10"
+      },
+      {
+        "itemID": 120101011,
+        "videoKey": "VEmoji_101_11"
+      },
+      {
+        "itemID": 120101012
+      },
+      {
+        "itemID": 120101013
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120102001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120102002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120102003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120102004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120102005
+      },
+      {
+        "itemID": 120102006
+      },
+      {
+        "itemID": 120102007
+      },
+      {
+        "itemID": 120102008
+      },
+      {
+        "itemID": 120102009
+      },
+      {
+        "itemID": 120102010,
+        "videoKey": "VEmoji_102_10"
+      },
+      {
+        "itemID": 120102011
+      },
+      {
+        "itemID": 120102012,
+        "videoKey": "VEmoji_102_12"
+      },
+      {
+        "itemID": 120102013,
+        "videoKey": "VEmoji_102_13"
+      },
+      {
+        "itemID": 120102014,
+        "videoKey": "VEmoji_102_14"
+      },
+      {
+        "itemID": 120102015,
+        "videoKey": "VEmoji_102_15"
+      },
+      {
+        "itemID": 120102016
+      },
+      {
+        "itemID": 120102017
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120103001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120103002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120103003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120103004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120103005
+      },
+      {
+        "itemID": 120103006
+      },
+      {
+        "itemID": 120103007
+      },
+      {
+        "itemID": 120103008
+      },
+      {
+        "itemID": 120103009
+      },
+      {
+        "itemID": 120103010,
+        "videoKey": "VEmoji_103_10"
+      },
+      {
+        "itemID": 120103011
+      },
+      {
+        "itemID": 120103012,
+        "videoKey": "VEmoji_103_12"
+      },
+      {
+        "itemID": 120103013,
+        "videoKey": "VEmoji_103_13"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120104001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120104002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120104003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120104004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120104005
+      },
+      {
+        "itemID": 120104006
+      },
+      {
+        "itemID": 120104007
+      },
+      {
+        "itemID": 120104008
+      },
+      {
+        "itemID": 120104009,
+        "videoKey": "VEmoji_104_09"
+      },
+      {
+        "itemID": 120104010
+      },
+      {
+        "itemID": 120104011,
+        "videoKey": "VEmoji_104_11"
+      },
+      {
+        "itemID": 120104012
+      },
+      {
+        "itemID": 120104013,
+        "videoKey": "VEmoji_104_13"
+      },
+      {
+        "itemID": 120104014
+      },
+      {
+        "itemID": 120104015
+      },
+      {
+        "itemID": 120104016
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120105001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120105002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120105003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120105004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120105005
+      },
+      {
+        "itemID": 120105006
+      },
+      {
+        "itemID": 120105007
+      },
+      {
+        "itemID": 120105008
+      },
+      {
+        "itemID": 120105009,
+        "videoKey": "VEmoji_105_09"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120106001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120106002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120106003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120106004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120106005
+      },
+      {
+        "itemID": 120106006
+      },
+      {
+        "itemID": 120106007
+      },
+      {
+        "itemID": 120106008
+      },
+      {
+        "itemID": 120106009,
+        "videoKey": "VEmoji_106_09"
+      },
+      {
+        "itemID": 120106010
+      },
+      {
+        "itemID": 120106011,
+        "videoKey": "VEmoji_106_11"
+      },
+      {
+        "itemID": 120106012
+      },
+      {
+        "itemID": 120106013,
+        "videoKey": "VEmoji_106_13"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120107001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120107002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120107003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120107004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120107005
+      },
+      {
+        "itemID": 120107006
+      },
+      {
+        "itemID": 120107007
+      },
+      {
+        "itemID": 120107008
+      },
+      {
+        "itemID": 120107009,
+        "videoKey": "VEmoji_107_09"
+      },
+      {
+        "itemID": 120107010,
+        "videoKey": "VEmoji_107_10"
+      },
+      {
+        "itemID": 120107011,
+        "videoKey": "VEmoji_107_11"
+      },
+      {
+        "itemID": 120107012
+      },
+      {
+        "itemID": 120107013,
+        "videoKey": "VEmoji_107_13"
+      },
+      {
+        "itemID": 120107014
+      },
+      {
+        "itemID": 120107015,
+        "videoKey": "VEmoji_107_15"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120108001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120108002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120108003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120108004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120108005
+      },
+      {
+        "itemID": 120108006
+      },
+      {
+        "itemID": 120108007
+      },
+      {
+        "itemID": 120108008
+      },
+      {
+        "itemID": 120108009
+      },
+      {
+        "itemID": 120108010,
+        "videoKey": "VEmoji_108_10"
+      },
+      {
+        "itemID": 120108011,
+        "videoKey": "VEmoji_108_11"
+      },
+      {
+        "itemID": 120108012,
+        "videoKey": "VEmoji_108_12"
+      },
+      {
+        "itemID": 120108013
+      },
+      {
+        "itemID": 120108014
+      },
+      {
+        "itemID": 120108015
+      },
+      {
+        "itemID": 120108016,
+        "videoKey": "VEmoji_108_16"
+      },
+      {
+        "itemID": 120108017
+      },
+      {
+        "itemID": 120108018,
+        "videoKey": "VEmoji_108_18"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120109001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120109002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120109003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120109004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120109005
+      },
+      {
+        "itemID": 120109006
+      },
+      {
+        "itemID": 120109007
+      },
+      {
+        "itemID": 120109008
+      },
+      {
+        "itemID": 120109009,
+        "videoKey": "VEmoji_109_09"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120110001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120110002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120110003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120110004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120110005
+      },
+      {
+        "itemID": 120110006
+      },
+      {
+        "itemID": 120110007
+      },
+      {
+        "itemID": 120110008
+      },
+      {
+        "itemID": 120110009,
+        "videoKey": "VEmoji_110_09"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120111001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120111002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120111003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120111004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120111005
+      },
+      {
+        "itemID": 120111006
+      },
+      {
+        "itemID": 120111007
+      },
+      {
+        "itemID": 120111008
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120112001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120112002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120112003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120112004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120112005
+      },
+      {
+        "itemID": 120112006
+      },
+      {
+        "itemID": 120112007
+      },
+      {
+        "itemID": 120112008
+      },
+      {
+        "itemID": 120112009
+      },
+      {
+        "itemID": 120112010,
+        "videoKey": "VEmoji_112_10"
+      },
+      {
+        "itemID": 120112011
+      },
+      {
+        "itemID": 120112012,
+        "videoKey": "VEmoji_112_12"
+      },
+      {
+        "itemID": 120112013,
+        "videoKey": "VEmoji_112_13"
+      },
+      {
+        "itemID": 120112014,
+        "videoKey": "VEmoji_112_14"
+      },
+      {
+        "itemID": 120112015,
+        "videoKey": "VEmoji_112_15"
+      },
+      {
+        "itemID": 120112016
+      },
+      {
+        "itemID": 120112017
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120113001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120113002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120113003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120113004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120113005
+      },
+      {
+        "itemID": 120113006
+      },
+      {
+        "itemID": 120113007
+      },
+      {
+        "itemID": 120113008
+      },
+      {
+        "itemID": 120113009,
+        "videoKey": "VEmoji_113_09"
+      },
+      {
+        "itemID": 120113010,
+        "videoKey": "VEmoji_113_10"
+      },
+      {
+        "itemID": 120113011
+      },
+      {
+        "itemID": 120113012
+      },
+      {
+        "itemID": 120113013,
+        "videoKey": "VEmoji_113_13"
+      },
+      {
+        "itemID": 120113014
+      },
+      {
+        "itemID": 120113015
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120114001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120114002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120114003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120114004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120114005
+      },
+      {
+        "itemID": 120114006
+      },
+      {
+        "itemID": 120114007
+      },
+      {
+        "itemID": 120114008
+      },
+      {
+        "itemID": 120114009,
+        "videoKey": "VEmoji_114_9"
+      },
+      {
+        "itemID": 120114010,
+        "videoKey": "VEmoji_114_10"
+      },
+      {
+        "itemID": 120114011,
+        "videoKey": "VEmoji_114_11"
+      },
+      {
+        "itemID": 120114012
+      },
+      {
+        "itemID": 120114013,
+        "videoKey": "VEmoji_114_13"
+      },
+      {
+        "itemID": 120114014
+      },
+      {
+        "itemID": 120114015,
+        "videoKey": "VEmoji_114_15"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120115001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120115002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120115003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120115004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120115005
+      },
+      {
+        "itemID": 120115006
+      },
+      {
+        "itemID": 120115007
+      },
+      {
+        "itemID": 120115008
+      },
+      {
+        "itemID": 120115009,
+        "videoKey": "VEmoji_115_09"
+      },
+      {
+        "itemID": 120115010
+      },
+      {
+        "itemID": 120115011,
+        "videoKey": "VEmoji_115_11"
+      },
+      {
+        "itemID": 120115012
+      },
+      {
+        "itemID": 120115013,
+        "videoKey": "VEmoji_115_13"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120116001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120116002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120116003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120116004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120116005
+      },
+      {
+        "itemID": 120116006
+      },
+      {
+        "itemID": 120116007
+      },
+      {
+        "itemID": 120116008
+      },
+      {
+        "itemID": 120116009
+      },
+      {
+        "itemID": 120116010,
+        "videoKey": "VEmoji_116_10"
+      },
+      {
+        "itemID": 120116011
+      },
+      {
+        "itemID": 120116012,
+        "videoKey": "VEmoji_116_12"
+      },
+      {
+        "itemID": 120116013,
+        "videoKey": "VEmoji_116_13"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120117001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120117002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120117003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120117004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120117005
+      },
+      {
+        "itemID": 120117006
+      },
+      {
+        "itemID": 120117007
+      },
+      {
+        "itemID": 120117008
+      },
+      {
+        "itemID": 120117009
+      },
+      {
+        "itemID": 120117010,
+        "videoKey": "VEmoji_117_10"
+      },
+      {
+        "itemID": 120117011
+      },
+      {
+        "itemID": 120117012,
+        "videoKey": "VEmoji_117_12"
+      },
+      {
+        "itemID": 120117013,
+        "videoKey": "VEmoji_117_13"
+      },
+      {
+        "itemID": 120117014,
+        "videoKey": "VEmoji_117_14"
+      },
+      {
+        "itemID": 120117015,
+        "videoKey": "VEmoji_117_15"
+      },
+      {
+        "itemID": 120117016
+      },
+      {
+        "itemID": 120117017
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120118001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120118002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120118003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120118004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120118005
+      },
+      {
+        "itemID": 120118006
+      },
+      {
+        "itemID": 120118007
+      },
+      {
+        "itemID": 120118008
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120119001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120119002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120119003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120119004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120119005
+      },
+      {
+        "itemID": 120119006
+      },
+      {
+        "itemID": 120119007
+      },
+      {
+        "itemID": 120119008
+      },
+      {
+        "itemID": 120119009,
+        "videoKey": "VEmoji_119_09"
+      },
+      {
+        "itemID": 120119010
+      },
+      {
+        "itemID": 120119011,
+        "videoKey": "VEmoji_119_11"
+      },
+      {
+        "itemID": 120119012
+      },
+      {
+        "itemID": 120119013,
+        "videoKey": "VEmoji_119_13"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120120001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120120002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120120003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120120004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120120005
+      },
+      {
+        "itemID": 120120006
+      },
+      {
+        "itemID": 120120007
+      },
+      {
+        "itemID": 120120008
+      },
+      {
+        "itemID": 120120009,
+        "videoKey": "VEmoji_120_09"
+      },
+      {
+        "itemID": 120120010
+      },
+      {
+        "itemID": 120120011,
+        "videoKey": "VEmoji_120_11"
+      },
+      {
+        "itemID": 120120012
+      },
+      {
+        "itemID": 120120013,
+        "videoKey": "VEmoji_120_13"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120121001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120121002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120121003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120121004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120121005
+      },
+      {
+        "itemID": 120121006
+      },
+      {
+        "itemID": 120121007
+      },
+      {
+        "itemID": 120121008
+      },
+      {
+        "itemID": 120121009
+      },
+      {
+        "itemID": 120121010,
+        "videoKey": "VEmoji_121_10"
+      },
+      {
+        "itemID": 120121011
+      },
+      {
+        "itemID": 120121012,
+        "videoKey": "VEmoji_121_12"
+      },
+      {
+        "itemID": 120121013
+      },
+      {
+        "itemID": 120121014
+      },
+      {
+        "itemID": 120121015
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120122001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120122002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120122003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120122004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120122005
+      },
+      {
+        "itemID": 120122006
+      },
+      {
+        "itemID": 120122007
+      },
+      {
+        "itemID": 120122008
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120123001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120123002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120123003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120123004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120123005
+      },
+      {
+        "itemID": 120123006
+      },
+      {
+        "itemID": 120123007
+      },
+      {
+        "itemID": 120123008
+      },
+      {
+        "itemID": 120123009
+      },
+      {
+        "itemID": 120123010,
+        "videoKey": "VEmoji_123_10"
+      },
+      {
+        "itemID": 120123011
+      },
+      {
+        "itemID": 120123012,
+        "videoKey": "VEmoji_123_12"
+      },
+      {
+        "itemID": 120123013
+      },
+      {
+        "itemID": 120123014
+      },
+      {
+        "itemID": 120123015
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120124001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120124002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120124003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120124004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120124005
+      },
+      {
+        "itemID": 120124006
+      },
+      {
+        "itemID": 120124007
+      },
+      {
+        "itemID": 120124008
+      },
+      {
+        "itemID": 120124009
+      },
+      {
+        "itemID": 120124010
+      },
+      {
+        "itemID": 120124011
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120125001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120125002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120125003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120125004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120125005
+      },
+      {
+        "itemID": 120125006
+      },
+      {
+        "itemID": 120125007
+      },
+      {
+        "itemID": 120125008
+      },
+      {
+        "itemID": 120125009
+      },
+      {
+        "itemID": 120125010,
+        "videoKey": "VEmoji_125_10"
+      },
+      {
+        "itemID": 120125011
+      },
+      {
+        "itemID": 120125012,
+        "videoKey": "VEmoji_125_12"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120126001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120126002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120126003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120126004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120126005
+      },
+      {
+        "itemID": 120126006
+      },
+      {
+        "itemID": 120126007
+      },
+      {
+        "itemID": 120126008
+      },
+      {
+        "itemID": 120126009
+      },
+      {
+        "itemID": 120126010,
+        "videoKey": "VEmoji_126_10"
+      },
+      {
+        "itemID": 120126011
+      },
+      {
+        "itemID": 120126012,
+        "videoKey": "VEmoji_126_12"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120127001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120127002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120127003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120127004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120127005
+      },
+      {
+        "itemID": 120127006
+      },
+      {
+        "itemID": 120127007
+      },
+      {
+        "itemID": 120127008
+      },
+      {
+        "itemID": 120127009
+      },
+      {
+        "itemID": 120127010
+      },
+      {
+        "itemID": 120127011
+      },
+      {
+        "itemID": 120127012
+      },
+      {
+        "itemID": 120127013,
+        "videoKey": "VEmoji_127_13"
+      },
+      {
+        "itemID": 120127014
+      },
+      {
+        "itemID": 120127015,
+        "videoKey": "VEmoji_127_15"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120128001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120128002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120128003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120128004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120128005
+      },
+      {
+        "itemID": 120128006
+      },
+      {
+        "itemID": 120128007
+      },
+      {
+        "itemID": 120128008
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120129001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120129002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120129003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120129004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120129005
+      },
+      {
+        "itemID": 120129006
+      },
+      {
+        "itemID": 120129007
+      },
+      {
+        "itemID": 120129008
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120301001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120301002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120301003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120301004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120301005,
+        "isDefault": true
+      },
+      {
+        "itemID": 120301006,
+        "isDefault": true
+      },
+      {
+        "itemID": 120301007,
+        "isDefault": true
+      },
+      {
+        "itemID": 120301008,
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120302001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120302002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120302003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120302004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120302005,
+        "isDefault": true
+      },
+      {
+        "itemID": 120302006,
+        "isDefault": true
+      },
+      {
+        "itemID": 120302007,
+        "isDefault": true
+      },
+      {
+        "itemID": 120302008,
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120303001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120303002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120303003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120303004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120303005,
+        "isDefault": true
+      },
+      {
+        "itemID": 120303006,
+        "isDefault": true
+      },
+      {
+        "itemID": 120303007,
+        "isDefault": true
+      },
+      {
+        "itemID": 120303008,
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120304001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120304002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120304003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120304004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120304005,
+        "isDefault": true
+      },
+      {
+        "itemID": 120304006,
+        "isDefault": true
+      },
+      {
+        "itemID": 120304007,
+        "isDefault": true
+      },
+      {
+        "itemID": 120304008,
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120305001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120305002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120305003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120305004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120305005,
+        "isDefault": true
+      },
+      {
+        "itemID": 120305006,
+        "isDefault": true
+      },
+      {
+        "itemID": 120305007,
+        "isDefault": true
+      },
+      {
+        "itemID": 120305008,
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "characterExpressionPackConfigureItems": [
+      {
+        "itemID": 120306001,
+        "isDefault": true
+      },
+      {
+        "itemID": 120306002,
+        "isDefault": true
+      },
+      {
+        "itemID": 120306003,
+        "isDefault": true
+      },
+      {
+        "itemID": 120306004,
+        "isDefault": true
+      },
+      {
+        "itemID": 120306005,
+        "isDefault": true
+      },
+      {
+        "itemID": 120306006,
+        "isDefault": true
+      },
+      {
+        "itemID": 120306007,
+        "isDefault": true
+      },
+      {
+        "itemID": 120306008,
+        "isDefault": true
+      }
+    ]
+  }
+]

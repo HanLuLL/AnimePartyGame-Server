@@ -1,0 +1,1527 @@
+[
+  {
+    "id": 101,
+    "orderWeight": 101,
+    "nameID": 1010,
+    "nickID": 1011,
+    "commentId": 1012,
+    "biographyID": 1013,
+    "isGalleryShow": true,
+    "linesID": 1015,
+    "nameBGColor": "#ff92bd",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 3,
+      "name": "CharacterTagType_Card"
+    },
+    "blood": 10,
+    "attack": 1,
+    "defense": 2,
+    "activeSkill": 10101,
+    "pveActiveSkill": 10101,
+    "passiveSkills": [
+      10111
+    ],
+    "pvePassiveSkills": [
+      10111
+    ],
+    "pveBreak": [
+      10101
+    ],
+    "characterMap": "UT_AccountHeadShot_70901",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_101",
+    "expressionPackID": 101,
+    "standingPainting": 101,
+    "hasKizuna": true,
+    "heroFavorGift": 101,
+    "favorLevelReward": 101,
+    "favorBreakthroughReward": 101
+  },
+  {
+    "id": 102,
+    "orderWeight": 102,
+    "nameID": 1020,
+    "nickID": 1021,
+    "commentId": 1022,
+    "biographyID": 1023,
+    "isGalleryShow": true,
+    "linesID": 1025,
+    "nameBGColor": "#ffd693",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "isDefault": true,
+    "blood": 10,
+    "attack": 1,
+    "defense": 2,
+    "activeSkill": 10201,
+    "pveActiveSkill": 10201,
+    "passiveSkills": [
+      10211
+    ],
+    "pvePassiveSkills": [
+      10211
+    ],
+    "pveBreak": [
+      10201
+    ],
+    "characterMap": "UT_AccountHeadShot_70902",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_102",
+    "expressionPackID": 102,
+    "standingPainting": 102,
+    "hasKizuna": true,
+    "heroFavorGift": 102,
+    "favorLevelReward": 102,
+    "favorBreakthroughReward": 102
+  },
+  {
+    "id": 103,
+    "orderWeight": 103,
+    "nameID": 1030,
+    "nickID": 1031,
+    "commentId": 1032,
+    "biographyID": 1033,
+    "isGalleryShow": true,
+    "linesID": 1035,
+    "nameBGColor": "#e499ff",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 10301,
+    "pveActiveSkill": 10301,
+    "passiveSkills": [
+      10311
+    ],
+    "pvePassiveSkills": [
+      10311
+    ],
+    "pveBreak": [
+      10301
+    ],
+    "characterMap": "UT_AccountHeadShot_70903",
+    "offsetInMap": [
+      250,
+      250,
+      -250
+    ],
+    "landTex": "UT_Land_103",
+    "expressionPackID": 103,
+    "standingPainting": 103,
+    "hasKizuna": true,
+    "heroFavorGift": 103,
+    "favorLevelReward": 103,
+    "favorBreakthroughReward": 103
+  },
+  {
+    "id": 104,
+    "orderWeight": 104,
+    "nameID": 1040,
+    "nickID": 1041,
+    "commentId": 1042,
+    "biographyID": 1043,
+    "isGalleryShow": true,
+    "linesID": 1045,
+    "nameBGColor": "#647cff",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 3,
+      "name": "CharacterTagType_Card"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 10401,
+    "pveActiveSkill": 10401,
+    "passiveSkills": [
+      10411
+    ],
+    "pvePassiveSkills": [
+      10411
+    ],
+    "pveBreak": [
+      10401
+    ],
+    "characterMap": "UT_AccountHeadShot_70904",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_104",
+    "expressionPackID": 104,
+    "standingPainting": 104,
+    "hasKizuna": true,
+    "heroFavorGift": 104,
+    "favorLevelReward": 104,
+    "favorBreakthroughReward": 104
+  },
+  {
+    "id": 105,
+    "orderWeight": 105,
+    "nameID": 1050,
+    "nickID": 1051,
+    "commentId": 1052,
+    "biographyID": 1053,
+    "isGalleryShow": true,
+    "linesID": 1055,
+    "nameBGColor": "#818ca9",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "isDefault": true,
+    "blood": 9,
+    "attack": 2,
+    "defense": 2,
+    "activeSkill": 10501,
+    "pveActiveSkill": 10501,
+    "passiveSkills": [
+      10511
+    ],
+    "pvePassiveSkills": [
+      10511
+    ],
+    "pveBreak": [
+      10501
+    ],
+    "characterMap": "UT_AccountHeadShot_70905",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_105",
+    "expressionPackID": 105,
+    "standingPainting": 105,
+    "hasKizuna": true,
+    "heroFavorGift": 105,
+    "favorLevelReward": 105,
+    "favorBreakthroughReward": 105
+  },
+  {
+    "id": 106,
+    "orderWeight": 106,
+    "nameID": 1060,
+    "nickID": 1061,
+    "commentId": 1062,
+    "biographyID": 1063,
+    "isGalleryShow": true,
+    "linesID": 1065,
+    "nameBGColor": "#e84046",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 10,
+    "attack": 2,
+    "defense": 1,
+    "activeSkill": 10601,
+    "pveActiveSkill": 10601,
+    "passiveSkills": [
+      10611
+    ],
+    "pvePassiveSkills": [
+      10611
+    ],
+    "pveBreak": [
+      10601
+    ],
+    "characterMap": "UT_AccountHeadShot_70906",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_106",
+    "expressionPackID": 106,
+    "standingPainting": 106,
+    "hasKizuna": true,
+    "heroFavorGift": 106,
+    "favorLevelReward": 106,
+    "favorBreakthroughReward": 106
+  },
+  {
+    "id": 107,
+    "orderWeight": 107,
+    "nameID": 1070,
+    "nickID": 1071,
+    "commentId": 1072,
+    "biographyID": 1073,
+    "isGalleryShow": true,
+    "linesID": 1075,
+    "nameBGColor": "#ff2599",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "isDefault": true,
+    "blood": 8,
+    "attack": 2,
+    "defense": 1,
+    "activeSkill": 10701,
+    "pveActiveSkill": 10702,
+    "passiveSkills": [
+      10711
+    ],
+    "pvePassiveSkills": [
+      10712
+    ],
+    "pveBreak": [
+      10701
+    ],
+    "characterMap": "UT_AccountHeadShot_70907",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_107",
+    "expressionPackID": 107,
+    "standingPainting": 107,
+    "hasKizuna": true,
+    "heroFavorGift": 107,
+    "favorLevelReward": 107,
+    "favorBreakthroughReward": 107
+  },
+  {
+    "id": 108,
+    "orderWeight": 1,
+    "nameID": 1080,
+    "nickID": 1081,
+    "biographyID": 1083,
+    "isGalleryShow": true,
+    "linesID": 1085,
+    "nameBGColor": "#96c8ff",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "isDefault": true,
+    "blood": 9,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 10801,
+    "pveActiveSkill": 10801,
+    "passiveSkills": [
+      10811
+    ],
+    "pvePassiveSkills": [
+      10811
+    ],
+    "pveBreak": [
+      10801
+    ],
+    "characterMap": "UT_AccountHeadShot_70908",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_108",
+    "expressionPackID": 108,
+    "standingPainting": 108,
+    "hasKizuna": true,
+    "heroFavorGift": 108,
+    "favorLevelReward": 108,
+    "favorBreakthroughReward": 108,
+    "intenseFixSkill": 10850
+  },
+  {
+    "id": 109,
+    "orderWeight": 109,
+    "nameID": 1090,
+    "nickID": 1091,
+    "biographyID": 1093,
+    "isGalleryShow": true,
+    "linesID": 1095,
+    "nameBGColor": "#ec255f",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 5,
+      "name": "CharacterTagType_Tank"
+    },
+    "blood": 10,
+    "attack": 1,
+    "defense": 2,
+    "activeSkill": 10901,
+    "pveActiveSkill": 10902,
+    "passiveSkills": [
+      10911
+    ],
+    "pvePassiveSkills": [
+      10912
+    ],
+    "pveBreak": [
+      10901
+    ],
+    "characterMap": "UT_AccountHeadShot_70909",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_109",
+    "expressionPackID": 109,
+    "standingPainting": 109,
+    "hasKizuna": true,
+    "heroFavorGift": 109,
+    "favorLevelReward": 109,
+    "favorBreakthroughReward": 109
+  },
+  {
+    "id": 110,
+    "orderWeight": 110,
+    "nameID": 1100,
+    "nickID": 1101,
+    "biographyID": 1103,
+    "isGalleryShow": true,
+    "linesID": 1105,
+    "nameBGColor": "#8160f8",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 5,
+      "name": "CharacterTagType_Tank"
+    },
+    "blood": 14,
+    "attack": 1,
+    "activeSkill": 11001,
+    "pveActiveSkill": 11002,
+    "passiveSkills": [
+      11011
+    ],
+    "pvePassiveSkills": [
+      11012
+    ],
+    "pveBreak": [
+      11001
+    ],
+    "characterMap": "UT_AccountHeadShot_70910",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_110",
+    "expressionPackID": 110,
+    "standingPainting": 110,
+    "hasKizuna": true,
+    "heroFavorGift": 110,
+    "favorLevelReward": 110,
+    "favorBreakthroughReward": 110
+  },
+  {
+    "id": 111,
+    "orderWeight": 127,
+    "nameID": 1110,
+    "nickID": 1111,
+    "biographyID": 1113,
+    "isGalleryShow": true,
+    "linesID": 1115,
+    "nameBGColor": "#f5d942",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 10,
+    "attack": 2,
+    "defense": 1,
+    "activeSkill": 11101,
+    "pveActiveSkill": 11102,
+    "passiveSkills": [
+      11111
+    ],
+    "pvePassiveSkills": [
+      11111
+    ],
+    "characterMap": "UT_AccountHeadShot_70911",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_111",
+    "expressionPackID": 111,
+    "standingPainting": 111,
+    "hasKizuna": true,
+    "heroFavorGift": 111,
+    "favorLevelReward": 111,
+    "favorBreakthroughReward": 111
+  },
+  {
+    "id": 112,
+    "orderWeight": 111,
+    "nameID": 1120,
+    "nickID": 1121,
+    "biographyID": 1123,
+    "isGalleryShow": true,
+    "linesID": 1125,
+    "nameBGColor": "#aaf4e0",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "blood": 9,
+    "attack": 2,
+    "defense": 2,
+    "activeSkill": 11201,
+    "pveActiveSkill": 11202,
+    "passiveSkills": [
+      11211
+    ],
+    "pvePassiveSkills": [
+      11212
+    ],
+    "pveBreak": [
+      11201
+    ],
+    "characterMap": "UT_AccountHeadShot_70912",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_112",
+    "expressionPackID": 112,
+    "standingPainting": 112,
+    "hasKizuna": true,
+    "heroFavorGift": 112,
+    "favorLevelReward": 112,
+    "favorBreakthroughReward": 112
+  },
+  {
+    "id": 113,
+    "orderWeight": 112,
+    "nameID": 1130,
+    "nickID": 1131,
+    "biographyID": 1133,
+    "isGalleryShow": true,
+    "linesID": 1135,
+    "nameBGColor": "#fee2ae",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 10,
+    "attack": 1,
+    "activeSkill": 11301,
+    "pveActiveSkill": 11302,
+    "passiveSkills": [
+      11312
+    ],
+    "pvePassiveSkills": [
+      11312,
+      11313
+    ],
+    "pveBreak": [
+      11301
+    ],
+    "characterMap": "UT_AccountHeadShot_70913",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_113",
+    "expressionPackID": 113,
+    "standingPainting": 113,
+    "hasKizuna": true,
+    "heroFavorGift": 113,
+    "favorLevelReward": 113,
+    "favorBreakthroughReward": 113
+  },
+  {
+    "id": 114,
+    "orderWeight": 113,
+    "nameID": 1140,
+    "nickID": 1141,
+    "biographyID": 1143,
+    "isGalleryShow": true,
+    "linesID": 1145,
+    "nameBGColor": "#c1d9f6",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "blood": 10,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 11401,
+    "pveActiveSkill": 11402,
+    "passiveSkills": [
+      11411
+    ],
+    "pvePassiveSkills": [
+      11411
+    ],
+    "pveBreak": [
+      11401
+    ],
+    "characterMap": "UT_AccountHeadShot_70914",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_114",
+    "expressionPackID": 114,
+    "standingPainting": 114,
+    "hasKizuna": true,
+    "heroFavorGift": 114,
+    "favorLevelReward": 114,
+    "favorBreakthroughReward": 114
+  },
+  {
+    "id": 115,
+    "orderWeight": 114,
+    "nameID": 1150,
+    "nickID": 1151,
+    "biographyID": 1153,
+    "isGalleryShow": true,
+    "linesID": 1155,
+    "nameBGColor": "#42abac",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "defense": 2,
+    "activeSkill": 11501,
+    "pveActiveSkill": 11502,
+    "passiveSkills": [
+      11511
+    ],
+    "pvePassiveSkills": [
+      11511
+    ],
+    "pveBreak": [
+      11501
+    ],
+    "characterMap": "UT_AccountHeadShot_70915",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_115",
+    "expressionPackID": 115,
+    "standingPainting": 115,
+    "hasKizuna": true,
+    "heroFavorGift": 115,
+    "favorLevelReward": 115,
+    "favorBreakthroughReward": 115
+  },
+  {
+    "id": 116,
+    "orderWeight": 115,
+    "nameID": 1160,
+    "nickID": 1161,
+    "biographyID": 1163,
+    "isGalleryShow": true,
+    "linesID": 1165,
+    "nameBGColor": "#af94e5",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 3,
+      "name": "CharacterTagType_Card"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 11601,
+    "pveActiveSkill": 11601,
+    "passiveSkills": [
+      11611
+    ],
+    "pvePassiveSkills": [
+      11611
+    ],
+    "characterMap": "UT_AccountHeadShot_70916",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_116",
+    "expressionPackID": 116,
+    "standingPainting": 116,
+    "hasKizuna": true,
+    "heroFavorGift": 116,
+    "favorLevelReward": 116,
+    "favorBreakthroughReward": 116
+  },
+  {
+    "id": 117,
+    "orderWeight": 116,
+    "nameID": 1170,
+    "nickID": 1171,
+    "biographyID": 1173,
+    "isGalleryShow": true,
+    "linesID": 1175,
+    "nameBGColor": "#b9e486",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 1,
+    "activeSkill": 11701,
+    "pveActiveSkill": 11701,
+    "passiveSkills": [
+      11711
+    ],
+    "pvePassiveSkills": [
+      11711
+    ],
+    "pveBreak": [
+      11701
+    ],
+    "characterMap": "UT_AccountHeadShot_70917",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_117",
+    "expressionPackID": 117,
+    "standingPainting": 117,
+    "hasKizuna": true,
+    "heroFavorGift": 117,
+    "favorLevelReward": 117,
+    "favorBreakthroughReward": 117
+  },
+  {
+    "id": 118,
+    "orderWeight": 121,
+    "nameID": 1180,
+    "nickID": 1181,
+    "biographyID": 1183,
+    "isGalleryShow": true,
+    "linesID": 1185,
+    "nameBGColor": "#fec325",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 11801,
+    "pveActiveSkill": 11802,
+    "passiveSkills": [
+      11811
+    ],
+    "pvePassiveSkills": [
+      11812
+    ],
+    "characterMap": "UT_AccountHeadShot_70918",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_118",
+    "expressionPackID": 118,
+    "standingPainting": 118,
+    "hasKizuna": true,
+    "heroFavorGift": 118,
+    "favorLevelReward": 118,
+    "favorBreakthroughReward": 118
+  },
+  {
+    "id": 119,
+    "orderWeight": 117,
+    "nameID": 1190,
+    "nickID": 1191,
+    "biographyID": 1193,
+    "isGalleryShow": true,
+    "linesID": 1195,
+    "nameBGColor": "#ff930e",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 2,
+    "activeSkill": 11901,
+    "pveActiveSkill": 11902,
+    "passiveSkills": [
+      11911
+    ],
+    "pvePassiveSkills": [
+      11912
+    ],
+    "characterMap": "UT_AccountHeadShot_70919",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_119",
+    "expressionPackID": 119,
+    "standingPainting": 119,
+    "hasKizuna": true,
+    "heroFavorGift": 119,
+    "favorLevelReward": 119,
+    "favorBreakthroughReward": 119
+  },
+  {
+    "id": 120,
+    "orderWeight": 118,
+    "nameID": 1200,
+    "nickID": 1201,
+    "biographyID": 1203,
+    "isGalleryShow": true,
+    "linesID": 1205,
+    "nameBGColor": "#fa5791",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 12001,
+    "pveActiveSkill": 12002,
+    "passiveSkills": [
+      12011
+    ],
+    "pvePassiveSkills": [
+      12012
+    ],
+    "pveBreak": [
+      12001
+    ],
+    "characterMap": "UT_AccountHeadShot_70920",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_120",
+    "expressionPackID": 120,
+    "standingPainting": 120,
+    "hasKizuna": true,
+    "heroFavorGift": 120,
+    "favorLevelReward": 120,
+    "favorBreakthroughReward": 120
+  },
+  {
+    "id": 121,
+    "orderWeight": 122,
+    "nameID": 1210,
+    "nickID": 1211,
+    "biographyID": 1213,
+    "isGalleryShow": true,
+    "linesID": 1215,
+    "nameBGColor": "#f0dbbd",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 12101,
+    "pveActiveSkill": 12102,
+    "passiveSkills": [
+      12111
+    ],
+    "pvePassiveSkills": [
+      12112
+    ],
+    "characterMap": "UT_AccountHeadShot_70921",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_121",
+    "expressionPackID": 121,
+    "standingPainting": 121,
+    "hasKizuna": true,
+    "heroFavorGift": 121,
+    "favorLevelReward": 121,
+    "favorBreakthroughReward": 121
+  },
+  {
+    "id": 122,
+    "orderWeight": 119,
+    "nameID": 1220,
+    "nickID": 1221,
+    "biographyID": 1223,
+    "isGalleryShow": true,
+    "linesID": 1225,
+    "nameBGColor": "#d8da3a",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 3,
+      "name": "CharacterTagType_Card"
+    },
+    "blood": 9,
+    "defense": 2,
+    "activeSkill": 12201,
+    "pveActiveSkill": 12202,
+    "passiveSkills": [
+      12211
+    ],
+    "pvePassiveSkills": [
+      12211
+    ],
+    "pveBreak": [
+      12201
+    ],
+    "characterMap": "UT_AccountHeadShot_70922",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_122",
+    "expressionPackID": 122,
+    "standingPainting": 122,
+    "hasKizuna": true,
+    "heroFavorGift": 122,
+    "favorLevelReward": 122,
+    "favorBreakthroughReward": 122
+  },
+  {
+    "id": 123,
+    "orderWeight": 120,
+    "nameID": 1230,
+    "nickID": 1231,
+    "biographyID": 1233,
+    "isGalleryShow": true,
+    "linesID": 1235,
+    "nameBGColor": "#7fb4ad",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 5,
+      "name": "CharacterTagType_Tank"
+    },
+    "blood": 10,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 12301,
+    "pveActiveSkill": 12302,
+    "passiveSkills": [
+      12311
+    ],
+    "pvePassiveSkills": [
+      12312,
+      12313
+    ],
+    "characterMap": "UT_AccountHeadShot_70923",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_123",
+    "expressionPackID": 123,
+    "standingPainting": 123,
+    "hasKizuna": true,
+    "heroFavorGift": 123,
+    "favorLevelReward": 123,
+    "favorBreakthroughReward": 123
+  },
+  {
+    "id": 124,
+    "orderWeight": 124,
+    "nameID": 1240,
+    "nickID": 1241,
+    "biographyID": 1243,
+    "isGalleryShow": true,
+    "linesID": 1245,
+    "nameBGColor": "#fd7c7f",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 2,
+    "defense": 1,
+    "activeSkill": 12401,
+    "pveActiveSkill": 12402,
+    "passiveSkills": [
+      12411
+    ],
+    "pvePassiveSkills": [
+      12412
+    ],
+    "characterMap": "UT_AccountHeadShot_70924",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_124",
+    "expressionPackID": 124,
+    "standingPainting": 124,
+    "hasKizuna": true,
+    "heroFavorGift": 124,
+    "favorLevelReward": 124,
+    "favorBreakthroughReward": 124
+  },
+  {
+    "id": 125,
+    "orderWeight": 125,
+    "nameID": 1250,
+    "nickID": 1251,
+    "biographyID": 1253,
+    "isGalleryShow": true,
+    "linesID": 1255,
+    "nameBGColor": "#b0d97b",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 11,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 12501,
+    "pveActiveSkill": 12502,
+    "passiveSkills": [
+      12511
+    ],
+    "pvePassiveSkills": [
+      12512
+    ],
+    "characterMap": "UT_AccountHeadShot_70925",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_125",
+    "expressionPackID": 125,
+    "standingPainting": 125,
+    "hasKizuna": true,
+    "heroFavorGift": 125,
+    "favorLevelReward": 125,
+    "favorBreakthroughReward": 125
+  },
+  {
+    "id": 126,
+    "orderWeight": 126,
+    "nameID": 1260,
+    "nickID": 1261,
+    "biographyID": 1263,
+    "isGalleryShow": true,
+    "linesID": 1265,
+    "nameBGColor": "#7621f5",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 2,
+    "defense": 1,
+    "activeSkill": 12601,
+    "pveActiveSkill": 12602,
+    "passiveSkills": [
+      12611
+    ],
+    "pvePassiveSkills": [
+      12612
+    ],
+    "characterMap": "UT_AccountHeadShot_70926",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_126",
+    "expressionPackID": 126,
+    "standingPainting": 126,
+    "hasKizuna": true,
+    "heroFavorGift": 126,
+    "favorLevelReward": 126,
+    "favorBreakthroughReward": 126
+  },
+  {
+    "id": 127,
+    "orderWeight": 128,
+    "nameID": 1270,
+    "nickID": 1271,
+    "biographyID": 1273,
+    "isGalleryShow": true,
+    "linesID": 1275,
+    "nameBGColor": "#e15c9b",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 2,
+    "defense": 1,
+    "activeSkill": 12701,
+    "pveActiveSkill": 12702,
+    "passiveSkills": [
+      12711
+    ],
+    "pvePassiveSkills": [
+      12712
+    ],
+    "characterMap": "UT_AccountHeadShot_70927",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_127",
+    "expressionPackID": 127,
+    "standingPainting": 127,
+    "hasKizuna": true,
+    "heroFavorGift": 127,
+    "favorLevelReward": 127,
+    "favorBreakthroughReward": 127
+  },
+  {
+    "id": 128,
+    "orderWeight": 129,
+    "nameID": 1280,
+    "nickID": 1281,
+    "biographyID": 1283,
+    "isGalleryShow": true,
+    "linesID": 1285,
+    "nameBGColor": "#fee88b",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 10,
+    "attack": 2,
+    "defense": 2,
+    "activeSkill": 12801,
+    "pveActiveSkill": 12802,
+    "passiveSkills": [
+      12811
+    ],
+    "pvePassiveSkills": [
+      12812
+    ],
+    "characterMap": "UT_AccountHeadShot_70928",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_128",
+    "expressionPackID": 128,
+    "standingPainting": 128,
+    "hasKizuna": true,
+    "heroFavorGift": 128,
+    "favorLevelReward": 128,
+    "favorBreakthroughReward": 128
+  },
+  {
+    "id": 129,
+    "orderWeight": 130,
+    "nameID": 1290,
+    "nickID": 1291,
+    "biographyID": 1293,
+    "isGalleryShow": true,
+    "linesID": 1295,
+    "nameBGColor": "#5eced0",
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "blood": 9,
+    "defense": 2,
+    "activeSkill": 12901,
+    "pveActiveSkill": 12902,
+    "passiveSkills": [
+      12911
+    ],
+    "pvePassiveSkills": [
+      12912
+    ],
+    "characterMap": "UT_AccountHeadShot_70929",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_129",
+    "expressionPackID": 129,
+    "standingPainting": 129,
+    "hasKizuna": true,
+    "heroFavorGift": 129,
+    "favorLevelReward": 129,
+    "favorBreakthroughReward": 129
+  },
+  {
+    "id": 301,
+    "orderWeight": 301,
+    "isLinkage": true,
+    "nameID": 3010,
+    "nickID": 3011,
+    "biographyID": 3013,
+    "isGalleryShow": true,
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "blood": 9,
+    "defense": 1,
+    "activeSkill": 30101,
+    "pveActiveSkill": 30102,
+    "passiveSkills": [
+      30111
+    ],
+    "pvePassiveSkills": [
+      30112,
+      30113
+    ],
+    "pveBreak": [
+      30101
+    ],
+    "characterMap": "UT_AccountHeadShot_709301",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_301",
+    "expressionPackID": 301,
+    "standingPainting": 301,
+    "heroFavorGift": 120,
+    "favorLevelReward": 120,
+    "favorBreakthroughReward": 120
+  },
+  {
+    "id": 302,
+    "orderWeight": 302,
+    "isLinkage": true,
+    "nameID": 3020,
+    "nickID": 3021,
+    "biographyID": 3023,
+    "isGalleryShow": true,
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 4,
+    "activeSkill": 30201,
+    "pveActiveSkill": 30201,
+    "passiveSkills": [
+      30211
+    ],
+    "pvePassiveSkills": [
+      30211,
+      30213
+    ],
+    "pveBreak": [
+      30201
+    ],
+    "characterMap": "UT_AccountHeadShot_709302",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_302",
+    "expressionPackID": 302,
+    "standingPainting": 302,
+    "heroFavorGift": 120,
+    "favorLevelReward": 120,
+    "favorBreakthroughReward": 120
+  },
+  {
+    "id": 303,
+    "orderWeight": 303,
+    "isLinkage": true,
+    "nameID": 3030,
+    "nickID": 3031,
+    "biographyID": 3033,
+    "isGalleryShow": true,
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "blood": 10,
+    "attack": 1,
+    "defense": 1,
+    "activeSkill": 30301,
+    "pveActiveSkill": 30302,
+    "passiveSkills": [
+      30311
+    ],
+    "pvePassiveSkills": [
+      30311
+    ],
+    "characterMap": "UT_AccountHeadShot_709303",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_303",
+    "expressionPackID": 303,
+    "standingPainting": 303,
+    "heroFavorGift": 120,
+    "favorLevelReward": 120,
+    "favorBreakthroughReward": 120
+  },
+  {
+    "id": 304,
+    "orderWeight": 304,
+    "isLinkage": true,
+    "nameID": 3040,
+    "nickID": 3041,
+    "biographyID": 3043,
+    "isGalleryShow": true,
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 5,
+      "name": "CharacterTagType_Tank"
+    },
+    "blood": 8,
+    "attack": 1,
+    "activeSkill": 30401,
+    "pveActiveSkill": 30402,
+    "passiveSkills": [
+      30411
+    ],
+    "pvePassiveSkills": [
+      30412
+    ],
+    "characterMap": "UT_AccountHeadShot_709304",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_304",
+    "expressionPackID": 304,
+    "standingPainting": 304,
+    "heroFavorGift": 120,
+    "favorLevelReward": 120,
+    "favorBreakthroughReward": 120
+  },
+  {
+    "id": 305,
+    "orderWeight": 305,
+    "isLinkage": true,
+    "nameID": 3050,
+    "nickID": 3051,
+    "biographyID": 3053,
+    "isGalleryShow": true,
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 4,
+      "name": "CharacterTagType_Support"
+    },
+    "blood": 9,
+    "attack": 1,
+    "defense": 2,
+    "activeSkill": 30501,
+    "pveActiveSkill": 30502,
+    "passiveSkills": [
+      30511
+    ],
+    "pvePassiveSkills": [
+      30512,
+      30513
+    ],
+    "characterMap": "UT_AccountHeadShot_709305",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_305",
+    "expressionPackID": 305,
+    "standingPainting": 305,
+    "heroFavorGift": 120,
+    "favorLevelReward": 120,
+    "favorBreakthroughReward": 120
+  },
+  {
+    "id": 306,
+    "orderWeight": 306,
+    "isLinkage": true,
+    "nameID": 3060,
+    "nickID": 3061,
+    "biographyID": 3063,
+    "isGalleryShow": true,
+    "heroType": {
+      "value": 1,
+      "name": "CharacterType_Hero"
+    },
+    "tagType": {
+      "value": 2,
+      "name": "CharacterTagType_Attack"
+    },
+    "blood": 10,
+    "attack": 2,
+    "defense": 1,
+    "activeSkill": 30601,
+    "pveActiveSkill": 30602,
+    "passiveSkills": [
+      30611
+    ],
+    "pvePassiveSkills": [
+      30612,
+      30613
+    ],
+    "characterMap": "UT_AccountHeadShot_709306",
+    "offsetInMap": [
+      250,
+      200,
+      -250
+    ],
+    "landTex": "UT_Land_306",
+    "expressionPackID": 306,
+    "standingPainting": 306,
+    "heroFavorGift": 120,
+    "favorLevelReward": 120,
+    "favorBreakthroughReward": 120
+  }
+]

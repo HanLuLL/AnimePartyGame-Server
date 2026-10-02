@@ -1,0 +1,706 @@
+[
+  {
+    "windowType": {
+      "value": 203,
+      "name": "UIWindowType_Card"
+    },
+    "PackageName": "Card",
+    "layer": 11
+  },
+  {
+    "windowType": {
+      "value": 318,
+      "name": "UIWindowType_BattleRelicInfo"
+    },
+    "PackageName": "BattleRelicInfo",
+    "layer": 1000
+  },
+  {
+    "windowType": {
+      "value": 201,
+      "name": "UIWindowType_Fight"
+    },
+    "PackageName": "Fight",
+    "layer": 1010
+  },
+  {
+    "windowType": {
+      "value": 100,
+      "name": "UIWindowType_LandFillingStation"
+    },
+    "PackageName": "LandFillingStation",
+    "layer": 1030
+  },
+  {
+    "windowType": {
+      "value": 102,
+      "name": "UIWindowType_LandPursuit"
+    },
+    "PackageName": "LandPursuit",
+    "layer": 1050
+  },
+  {
+    "windowType": {
+      "value": 103,
+      "name": "UIWindowType_LandDivination"
+    },
+    "PackageName": "LandDivination",
+    "layer": 1060
+  },
+  {
+    "windowType": {
+      "value": 213,
+      "name": "UIWindowType_ATM"
+    },
+    "PackageName": "ATM",
+    "layer": 1070
+  },
+  {
+    "windowType": {
+      "value": 104,
+      "name": "UIWindowType_LandShop"
+    },
+    "PackageName": "LandShop",
+    "layer": 1080
+  },
+  {
+    "windowType": {
+      "value": 105,
+      "name": "UIWindowType_LandEvent"
+    },
+    "PackageName": "LandEvent",
+    "layer": 1090
+  },
+  {
+    "windowType": {
+      "value": 106,
+      "name": "UIWindowType_LandLottery"
+    },
+    "PackageName": "LandLottery",
+    "layer": 1100
+  },
+  {
+    "windowType": {
+      "value": 107,
+      "name": "UIWindowType_LandGamble"
+    },
+    "PackageName": "LandGamble",
+    "layer": 1110
+  },
+  {
+    "windowType": {
+      "value": 108,
+      "name": "UIWindowType_LandBattery"
+    },
+    "PackageName": "LandBattery",
+    "layer": 1120
+  },
+  {
+    "windowType": {
+      "value": 109,
+      "name": "UIWindowType_LandRollGold"
+    },
+    "PackageName": "LandRollGold",
+    "layer": 1130
+  },
+  {
+    "windowType": {
+      "value": 111,
+      "name": "UIWindowType_LandHospital"
+    },
+    "PackageName": "LandHospital",
+    "layer": 1150
+  },
+  {
+    "windowType": {
+      "value": 214,
+      "name": "UIWindowType_LandPray"
+    },
+    "PackageName": "LandPray",
+    "layer": 1160
+  },
+  {
+    "windowType": {
+      "value": 112,
+      "name": "UIWindowType_LandRelic"
+    },
+    "PackageName": "LandRelic",
+    "layer": 1170
+  },
+  {
+    "windowType": {
+      "value": 113,
+      "name": "UIWindowType_LandVendor"
+    },
+    "PackageName": "LandVendor",
+    "layer": 1180
+  },
+  {
+    "windowType": {
+      "value": 210,
+      "name": "UIWindowType_Relic"
+    },
+    "PackageName": "Relic",
+    "layer": 1190
+  },
+  {
+    "windowType": {
+      "value": 211,
+      "name": "UIWindowType_BattlePreMonster"
+    },
+    "PackageName": "BattlePreMonster",
+    "layer": 1200
+  },
+  {
+    "windowType": {
+      "value": 212,
+      "name": "UIWindowType_BattleSelectMonster"
+    },
+    "PackageName": "BattleSelectMonster",
+    "layer": 1210
+  },
+  {
+    "windowType": {
+      "value": 204,
+      "name": "UIWindowType_Skill"
+    },
+    "PackageName": "Skill",
+    "layer": 1220
+  },
+  {
+    "windowType": {
+      "value": 207,
+      "name": "UIWindowType_LoseCard"
+    },
+    "PackageName": "LoseCard",
+    "layer": 1230
+  },
+  {
+    "windowType": {
+      "value": 205,
+      "name": "UIWindowType_BattlePlayerInfo"
+    },
+    "PackageName": "BattlePlayerInfo",
+    "layer": 9989
+  },
+  {
+    "windowType": {
+      "value": 206,
+      "name": "UIWindowType_Explain"
+    },
+    "PackageName": "Explain",
+    "layer": 10001
+  },
+  {
+    "windowType": {
+      "value": 209,
+      "name": "UIWindowType_Upgrade"
+    },
+    "PackageName": "Upgrade",
+    "layer": 1260
+  },
+  {
+    "windowType": {
+      "value": 215,
+      "name": "UIWindowType_Story"
+    },
+    "PackageName": "Story",
+    "layer": 1270
+  },
+  {
+    "windowType": {
+      "value": 216,
+      "name": "UIWindowType_AssistVote"
+    },
+    "PackageName": "AssistVote",
+    "layer": 1280
+  },
+  {
+    "windowType": {
+      "value": 217,
+      "name": "UIWindowType_AssistVoteS7"
+    },
+    "PackageName": "AssistVoteS7",
+    "layer": 1280
+  },
+  {
+    "windowType": {
+      "value": 218,
+      "name": "UIWindowType_BattleHint"
+    },
+    "PackageName": "BattleHint",
+    "layer": 1290
+  },
+  {
+    "windowType": {
+      "value": 220,
+      "name": "UIWindowType_LuckyStarMission"
+    },
+    "PackageName": "LuckyStarMission",
+    "layer": 1300
+  },
+  {
+    "windowType": {
+      "value": 208,
+      "name": "UIWindowType_Expression"
+    },
+    "PackageName": "Expression",
+    "layer": 9910
+  },
+  {
+    "windowType": {
+      "value": 221,
+      "name": "UIWindowType_ExpressionList"
+    },
+    "PackageName": "ExpressionList",
+    "layer": 1050
+  },
+  {
+    "windowType": {
+      "value": 329,
+      "name": "UIWindowType_OperateTime"
+    },
+    "PackageName": "OperateTime",
+    "layer": 10002
+  },
+  {
+    "windowType": {
+      "value": 349,
+      "name": "UIWindowType_BattleVideo"
+    },
+    "PackageName": "BattleVideo",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 350,
+      "name": "UIWindowType_BattleLandTip"
+    },
+    "PackageName": "BattleLandTip",
+    "layer": 120
+  },
+  {
+    "windowType": {
+      "value": 352,
+      "name": "UIWindowType_ChooseRoundCard"
+    },
+    "PackageName": "ChooseRoundCard",
+    "layer": 1020
+  },
+  {
+    "windowType": {
+      "value": 348,
+      "name": "UIWindowType_NewGameLibrary"
+    },
+    "PackageName": "NewGameLibrary",
+    "layer": 10001
+  },
+  {
+    "windowType": {
+      "value": 305,
+      "name": "UIWindowType_Purchase"
+    },
+    "PackageName": "Purchase",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 320,
+      "name": "UIWindowType_SelectTutorial"
+    },
+    "PackageName": "SelectTutorial",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 300,
+      "name": "UIWindowType_AccountInfo"
+    },
+    "PackageName": "AccountInfo",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 316,
+      "name": "UIWindowType_ActivityPopup"
+    },
+    "PackageName": "ActivityPopup",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 317,
+      "name": "UIWindowType_GachaInfo"
+    },
+    "PackageName": "GachaInfo",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 301,
+      "name": "UIWindowType_Chat"
+    },
+    "PackageName": "Chat",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 325,
+      "name": "UIWindowType_SignIn"
+    },
+    "PackageName": "SignIn",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 302,
+      "name": "UIWindowType_SkinShow"
+    },
+    "PackageName": "ShowSkin",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 303,
+      "name": "UIWindowType_Rule"
+    },
+    "PackageName": "Rule",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 306,
+      "name": "UIWindowType_BoxProp"
+    },
+    "PackageName": "BoxProp",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 322,
+      "name": "UIWindowType_RoomFilter"
+    },
+    "PackageName": "RoomFilter",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 308,
+      "name": "UIWindowType_RechargeTip"
+    },
+    "PackageName": "RechargeTip",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 324,
+      "name": "UIWindowType_RegisterAge"
+    },
+    "PackageName": "RegisterAge",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 309,
+      "name": "UIWindowType_Notice"
+    },
+    "PackageName": "Notice",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 315,
+      "name": "UIWindowType_Invite"
+    },
+    "PackageName": "Invite",
+    "layer": 11001
+  },
+  {
+    "windowType": {
+      "value": 314,
+      "name": "UIWindowType_Input"
+    },
+    "PackageName": "Input",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 326,
+      "name": "UIWindowType_PlayerRename"
+    },
+    "PackageName": "PlayerRename",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 328,
+      "name": "UIWindowType_Discount"
+    },
+    "PackageName": "Discount",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 334,
+      "name": "UIWindowType_SkinSell"
+    },
+    "PackageName": "SkinSell",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 319,
+      "name": "UIWindowType_Guide"
+    },
+    "PackageName": "Guide",
+    "layer": 4010
+  },
+  {
+    "windowType": {
+      "value": 343,
+      "name": "UIWindowType_Tutorial"
+    },
+    "PackageName": "Tutorial",
+    "layer": 4010
+  },
+  {
+    "windowType": {
+      "value": 336,
+      "name": "UIWindowType_MatchSuccess"
+    },
+    "PackageName": "MatchSuccess",
+    "layer": 11000
+  },
+  {
+    "windowType": {
+      "value": 342,
+      "name": "UIWindowType_MatchInfo"
+    },
+    "PackageName": "MatchInfo",
+    "layer": 11000
+  },
+  {
+    "windowType": {
+      "value": 331,
+      "name": "UIWindowType_DisplayCard"
+    },
+    "PackageName": "DisplayCard",
+    "layer": 10001
+  },
+  {
+    "windowType": {
+      "value": 337,
+      "name": "UIWindowType_Setting"
+    },
+    "PackageName": "Setting",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 338,
+      "name": "UIWindowType_SettingInBattle"
+    },
+    "PackageName": "SettingInBattle",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 339,
+      "name": "UIWindowType_SettingList"
+    },
+    "PackageName": "SettingList",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 340,
+      "name": "UIWindowType_SinglePlayerSettingInBattle"
+    },
+    "PackageName": "SinglePlayerSettingInBattle",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 304,
+      "name": "UIWindowType_PropDetail"
+    },
+    "PackageName": "PropDetail",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 307,
+      "name": "UIWindowType_Reward"
+    },
+    "PackageName": "Reward",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 341,
+      "name": "UIWindowType_GachaRookieReward"
+    },
+    "PackageName": "GachaRookieReward",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 344,
+      "name": "UIWindowType_RookieTaskInfo"
+    },
+    "PackageName": "RookieTaskInfo",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 345,
+      "name": "UIWindowType_FriendLeaderboard"
+    },
+    "PackageName": "FriendLeaderboard",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 346,
+      "name": "UIWindowType_DouYinReward"
+    },
+    "PackageName": "DouYinReward",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 347,
+      "name": "UIWindowType_Anniversary_2Nd"
+    },
+    "PackageName": "Anniversary_2Nd",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 351,
+      "name": "UIWindowType_RoomTerms"
+    },
+    "PackageName": "RoomTerms",
+    "layer": 10003
+  },
+  {
+    "windowType": {
+      "value": 353,
+      "name": "UIWindowType_CreditWarning"
+    },
+    "PackageName": "CreditWarning",
+    "layer": 11010
+  },
+  {
+    "windowType": {
+      "value": 355,
+      "name": "UIWindowType_Replay"
+    },
+    "PackageName": "Replay",
+    "layer": 10000
+  },
+  {
+    "windowType": {
+      "value": 356,
+      "name": "UIWindowType_SurveyCenter"
+    },
+    "PackageName": "SurveyCenter",
+    "layer": 10001
+  },
+  {
+    "windowType": {
+      "value": 323,
+      "name": "UIWindowType_NGOStore"
+    },
+    "PackageName": "NGOStore",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 333,
+      "name": "UIWindowType_WitchWeapon"
+    },
+    "PackageName": "WitchWeapon",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 335,
+      "name": "UIWindowType_VA11HallA"
+    },
+    "PackageName": "VA11HallA",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 354,
+      "name": "UIWindowType_MGWTStore"
+    },
+    "PackageName": "MGWTStore",
+    "layer": 4000
+  },
+  {
+    "windowType": {
+      "value": 321,
+      "name": "UIWindowType_Info"
+    },
+    "PackageName": "Info",
+    "layer": 79990
+  },
+  {
+    "windowType": {
+      "value": 219,
+      "name": "UIWindowType_Tips"
+    },
+    "PackageName": "Tips",
+    "layer": 9990
+  },
+  {
+    "windowType": {
+      "value": 310,
+      "name": "UIWindowType_MessageBox"
+    },
+    "PackageName": "MessageBox",
+    "layer": 79990
+  },
+  {
+    "windowType": {
+      "value": 311,
+      "name": "UIWindowType_LoadingTip"
+    },
+    "PackageName": "LoadingTip",
+    "layer": 9989
+  },
+  {
+    "windowType": {
+      "value": 312,
+      "name": "UIWindowType_GameInfo"
+    },
+    "PackageName": "GameInfo",
+    "layer": 79990
+  },
+  {
+    "windowType": {
+      "value": 313,
+      "name": "UIWindowType_SystemTips"
+    },
+    "PackageName": "SystemTips",
+    "layer": 90000
+  },
+  {
+    "windowType": {
+      "value": 330,
+      "name": "UIWindowType_Loading"
+    },
+    "PackageName": "Loading",
+    "layer": 90010
+  },
+  {
+    "windowType": {
+      "value": 999,
+      "name": "UIWindowType_GM"
+    },
+    "PackageName": "GM",
+    "layer": 100000
+  }
+]

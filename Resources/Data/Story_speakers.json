@@ -1,0 +1,64 @@
+[
+  {
+    "ID": 115,
+    "CharacterID": 1150,
+    "profilePhoto": "UT_Hero_ProfilePhoto_115_01",
+    "profileColor": "#c6d1ed"
+  },
+  {
+    "ID": 107,
+    "CharacterID": 1070,
+    "profilePhoto": "UT_Hero_ProfilePhoto_107",
+    "profileColor": "#c6d1ed"
+  },
+  {
+    "ID": 1026,
+    "CharacterID": 10260,
+    "profilePhoto": "UT_Hero_ProfilePhoto_1026",
+    "profileColor": "#7900cd",
+    "frameIndex": 2
+  },
+  {
+    "ID": 1027,
+    "CharacterID": 10270,
+    "profilePhoto": "UT_Hero_ProfilePhoto_1027",
+    "profileColor": "#e73622",
+    "frameIndex": 1
+  },
+  {
+    "ID": 1050,
+    "CharacterID": 10500,
+    "profilePhoto": "UT_Hero_ProfilePhoto_1050_01",
+    "profileColor": "#ed1516"
+  },
+  {
+    "ID": 100123004,
+    "CharacterID": 1001230040,
+    "profilePhoto": "UT_Hero_ProfilePhoto_123_02",
+    "profileColor": "#33adf0"
+  },
+  {
+    "ID": 1046,
+    "CharacterID": 10460,
+    "profilePhoto": "UT_Hero_ProfilePhoto_1046",
+    "profileColor": "#2146ae"
+  },
+  {
+    "ID": 1047,
+    "CharacterID": 10470,
+    "profilePhoto": "UT_Hero_ProfilePhoto_1047",
+    "profileColor": "#2146ae"
+  },
+  {
+    "ID": 1048,
+    "CharacterID": 10480,
+    "profilePhoto": "UT_Hero_ProfilePhoto_1048",
+    "profileColor": "#ff282f"
+  },
+  {
+    "ID": 1053,
+    "CharacterID": 10530,
+    "profilePhoto": "UT_Hero_ProfilePhoto_1048",
+    "profileColor": "#ff282f"
+  }
+]

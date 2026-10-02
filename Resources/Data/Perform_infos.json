@@ -1,0 +1,3553 @@
+[
+  {
+    "id": 1,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "1": 300
+    }
+  },
+  {
+    "id": 2,
+    "totalTime": 1200,
+    "animations": {
+      "Cheer": 0
+    },
+    "updateAttribute": 200,
+    "effects": {
+      "1": 0,
+      "13": 200
+    }
+  },
+  {
+    "id": 3,
+    "totalTime": 2200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "ComeBackLand": 466
+    },
+    "animations": {
+      "Show": 1000
+    },
+    "effects": {
+      "8001301": 300
+    }
+  },
+  {
+    "id": 4,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 100,
+    "animations": {
+      "Cheer": 100
+    },
+    "effects": {
+      "34": 100
+    }
+  },
+  {
+    "id": 5,
+    "totalTime": 1400,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "CustomShows": {
+      "ComeBackLand": 166
+    },
+    "animations": {
+      "Show": 200
+    },
+    "effects": {
+      "8001301": 200
+    }
+  },
+  {
+    "id": 6,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Cheer": 200
+    }
+  },
+  {
+    "id": 7,
+    "totalTime": 2500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "CustomShows": {
+      "ComeBackLand": 166
+    },
+    "animations": {
+      "Show": 250
+    },
+    "effects": {
+      "8001301": 200
+    }
+  },
+  {
+    "id": 8,
+    "totalTime": 700,
+    "switchTime": 10,
+    "animations": {
+      "Hit": 10
+    },
+    "updateAttribute": 10,
+    "screenPump": {
+      "LVCamShake": 10
+    }
+  },
+  {
+    "id": 9,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 300
+    },
+    "animations": {
+      "Show": 300
+    }
+  },
+  {
+    "id": 10,
+    "totalTime": 2200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 500
+    },
+    "animations": {
+      "Show": 500
+    },
+    "effects": {
+      "8001301": 300
+    }
+  },
+  {
+    "id": 11,
+    "totalTime": 4800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 300
+    },
+    "animations": {
+      "Show": 300
+    }
+  },
+  {
+    "id": 12,
+    "totalTime": 500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 0
+    }
+  },
+  {
+    "id": 13,
+    "totalTime": 1400,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "CustomShows": {
+      "ComeBackLand": 166
+    },
+    "animations": {
+      "Show": 200
+    },
+    "effects": {
+      "105703": 200
+    },
+    "audio": {
+      "10570502": 200
+    }
+  },
+  {
+    "id": 14,
+    "totalTime": 1400,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "CustomShows": {
+      "ComeBackLand": 166
+    },
+    "animations": {
+      "Show": 200
+    },
+    "effects": {
+      "105704": 200
+    },
+    "audio": {
+      "10570502": 200
+    }
+  },
+  {
+    "id": 15,
+    "totalTime": 3200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 300
+    },
+    "animations": {
+      "Show": 300
+    }
+  },
+  {
+    "id": 10201,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 10301,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 10401,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 10402,
+    "totalTime": 800,
+    "switchTime": 300,
+    "effects": {
+      "10401": 450
+    }
+  },
+  {
+    "id": 10501,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 10601,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 10602,
+    "totalTime": 1000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 10603,
+    "totalTime": 1600,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 300
+    },
+    "animations": {
+      "Show": 300
+    }
+  },
+  {
+    "id": 10604,
+    "totalTime": 3000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 300
+    },
+    "animations": {
+      "Show": 300
+    },
+    "effects": {
+      "10602": 1100
+    },
+    "audio": {
+      "1060208": 1100
+    }
+  },
+  {
+    "id": 10605,
+    "totalTime": 2500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 1250,
+    "effects": {
+      "10603": 500
+    },
+    "audio": {
+      "1060209": 500
+    }
+  },
+  {
+    "id": 10701,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 10702,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "14": 400
+    }
+  },
+  {
+    "id": 10801,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 10901,
+    "totalTime": 5000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 400
+    }
+  },
+  {
+    "id": 10902,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "5": 400
+    }
+  },
+  {
+    "id": 10903,
+    "totalTime": 3500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "FlashShow": 500
+    },
+    "animations": {
+      "Show": 500
+    },
+    "effects": {
+      "8001301": 300
+    }
+  },
+  {
+    "id": 11001,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "13": 400
+    }
+  },
+  {
+    "id": 11101,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 11102,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent-End": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 11103,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent-02": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 11104,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 800
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 11201,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 11202,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 650
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "11201": 400
+    }
+  },
+  {
+    "id": 11203,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 600
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "11202": 400
+    }
+  },
+  {
+    "id": 11204,
+    "totalTime": 800,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "effects": {
+      "4": 300
+    }
+  },
+  {
+    "id": 11205,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300
+  },
+  {
+    "id": 11301,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "13": 400
+    }
+  },
+  {
+    "id": 11302,
+    "totalTime": 1000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 11303,
+    "totalTime": 3000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Eat": 400
+    },
+    "updateAttribute": 1100,
+    "effects": {
+      "4": 1100
+    }
+  },
+  {
+    "id": 11304,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 11305,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 300,
+    "effects": {
+      "11301": 300
+    },
+    "screenPump": {
+      "HVCamShake": 800
+    }
+  },
+  {
+    "id": 11306,
+    "totalTime": 1500,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 800
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 11401,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 11402,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 400
+  },
+  {
+    "id": 11403,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 11404,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 11405,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "CustomShows": {
+      "FlashShow": 1
+    },
+    "animations": {
+      "Show-02": 5
+    },
+    "audio": {
+      "510": 550
+    }
+  },
+  {
+    "id": 11406,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "11402": 300
+    }
+  },
+  {
+    "id": 11407,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "11404": 300
+    }
+  },
+  {
+    "id": 11411,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 11501,
+    "totalTime": 2000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 350
+    }
+  },
+  {
+    "id": 11502,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 350
+    },
+    "updateAttribute": 350,
+    "effects": {
+      "11501": 300
+    },
+    "screenPump": {
+      "LVCamShake": 350
+    }
+  },
+  {
+    "id": 11503,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent_start": 350
+    },
+    "effects": {
+      "11502": 350
+    },
+    "audio": {
+      "1150206": 1200,
+      "1150503": 1200
+    }
+  },
+  {
+    "id": 11504,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 400,
+      "Hit_01": 1200
+    },
+    "updateAttribute": 1200,
+    "effects": {
+      "11503": 300
+    },
+    "screenPump": {
+      "LHCamShake": 1200
+    },
+    "audio": {
+      "1150602": 200,
+      "1150603": 1100
+    }
+  },
+  {
+    "id": 11505,
+    "totalTime": 1200,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent_end": 350
+    },
+    "effects": {
+      "11504": 350
+    }
+  },
+  {
+    "id": 11701,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 11901,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 11902,
+    "totalTime": 800,
+    "animations": {
+      "Hit": 50
+    },
+    "updateAttribute": 100,
+    "effects": {
+      "5": 50
+    }
+  },
+  {
+    "id": 11903,
+    "totalTime": 800,
+    "animations": {
+      "Hit": 50
+    },
+    "updateAttribute": 100,
+    "effects": {
+      "11901": 50
+    }
+  },
+  {
+    "id": 12001,
+    "totalTime": 1700,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 12101,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "effects": {
+      "12101": 1200
+    },
+    "audio": {
+      "1210507": 1150
+    }
+  },
+  {
+    "id": 12201,
+    "totalTime": 700,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit_01": 280
+    },
+    "updateAttribute": 250,
+    "effects": {
+      "8001100": 100
+    },
+    "screenPump": {
+      "LHCamShake": 150
+    },
+    "audio": {
+      "204": 250
+    }
+  },
+  {
+    "id": 12202,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 480
+    },
+    "updateAttribute": 450,
+    "effects": {
+      "8001100": 300
+    },
+    "screenPump": {
+      "LHCamShake": 350
+    },
+    "audio": {
+      "204": 450
+    }
+  },
+  {
+    "id": 12203,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 12204,
+    "totalTime": 700,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit_01": 280
+    },
+    "updateAttribute": 250,
+    "effects": {
+      "12201": 100
+    },
+    "screenPump": {
+      "LHCamShake": 150
+    },
+    "audio": {
+      "10260502": 250
+    }
+  },
+  {
+    "id": 12205,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 480
+    },
+    "updateAttribute": 450,
+    "effects": {
+      "12201": 300
+    },
+    "screenPump": {
+      "LHCamShake": 350
+    },
+    "audio": {
+      "10260502": 400
+    }
+  },
+  {
+    "id": 12206,
+    "totalTime": 800,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit_01": 380
+    },
+    "updateAttribute": 350,
+    "effects": {
+      "12202": 100,
+      "12203": 320
+    },
+    "screenPump": {
+      "LHCamShake": 150
+    },
+    "audio": {
+      "204": 250
+    }
+  },
+  {
+    "id": 12207,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 580
+    },
+    "updateAttribute": 550,
+    "effects": {
+      "12202": 300,
+      "12203": 520
+    },
+    "screenPump": {
+      "LHCamShake": 350
+    },
+    "audio": {
+      "204": 450
+    }
+  },
+  {
+    "id": 12501,
+    "totalTime": 1200,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 450,
+    "effects": {
+      "12502": 300
+    }
+  },
+  {
+    "id": 12601,
+    "totalTime": 1200,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 12701,
+    "totalTime": 2500,
+    "isFollow": true,
+    "switchTime": 200,
+    "updateAttribute": 200
+  },
+  {
+    "id": 12801,
+    "totalTime": 520,
+    "isFollow": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "Talenting128": 300,
+      "VfxCharge128": 300
+    }
+  },
+  {
+    "id": 12802,
+    "totalTime": 1200,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Talent-02": 200
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 12803,
+    "totalTime": 800,
+    "switchTime": 300,
+    "CustomShows": {
+      "VfxChargeHit128": 0
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 12804,
+    "totalTime": 1200,
+    "animations": {
+      "Hit": 700
+    },
+    "updateAttribute": 750,
+    "effects": {
+      "5": 700
+    }
+  },
+  {
+    "id": 12901,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "12901": 300
+    },
+    "audio": {
+      "1290301": 300
+    }
+  },
+  {
+    "id": 12902,
+    "totalTime": 500,
+    "isFollow": true,
+    "switchTime": 300
+  },
+  {
+    "id": 12903,
+    "totalTime": 1300,
+    "animations": {
+      "Attack": 200
+    },
+    "effects": {
+      "12904": 300
+    },
+    "audio": {
+      "1290304": 300
+    }
+  },
+  {
+    "id": 12904,
+    "animations": {
+      "Hit": 650
+    },
+    "updateAttribute": 700,
+    "effects": {
+      "5": 650
+    }
+  },
+  {
+    "id": 12905,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit": 500
+    },
+    "updateAttribute": 550,
+    "effects": {
+      "12913": 400
+    },
+    "audio": {
+      "1290301": 400
+    }
+  },
+  {
+    "id": 12906,
+    "totalTime": 1500,
+    "CustomShows": {
+      "ShowSummon": 200
+    },
+    "animations": {
+      "Show": 200
+    },
+    "updateAttribute": 600,
+    "effects": {
+      "12903": 100
+    },
+    "audio": {
+      "1290303": 100
+    }
+  },
+  {
+    "id": 12907,
+    "totalTime": 1500,
+    "updateAttribute": 450,
+    "effects": {
+      "12912": 200
+    }
+  },
+  {
+    "id": 12908,
+    "totalTime": 1500,
+    "animations": {
+      "Hit": 650
+    },
+    "updateAttribute": 700,
+    "effects": {
+      "12905": 650,
+      "5": 650
+    }
+  },
+  {
+    "id": 12909,
+    "totalTime": 1500,
+    "animations": {
+      "Attack": 200
+    },
+    "effects": {
+      "12904": 400
+    }
+  },
+  {
+    "id": 30101,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "1": 400
+    }
+  },
+  {
+    "id": 30301,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 30401,
+    "totalTime": 1350,
+    "switchTime": 300,
+    "CustomShows": {
+      "TaskOff": 1266
+    },
+    "animations": {
+      "Talent": 300
+    },
+    "effects": {
+      "8001300": 1100
+    }
+  },
+  {
+    "id": 30402,
+    "totalTime": 800,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "effects": {
+      "4": 300
+    }
+  },
+  {
+    "id": 30403,
+    "totalTime": 800,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "effects": {
+      "4": 300
+    }
+  },
+  {
+    "id": 30501,
+    "totalTime": 2600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 30502,
+    "totalTime": 800,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 400
+  },
+  {
+    "id": 30503,
+    "totalTime": 800,
+    "switchTime": 300,
+    "updateAttribute": 400
+  },
+  {
+    "id": 30504,
+    "totalTime": 800,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 400
+  },
+  {
+    "id": 30505,
+    "totalTime": 800,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "effects": {
+      "30502": 300
+    }
+  },
+  {
+    "id": 30506,
+    "totalTime": 800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 30507,
+    "totalTime": 800,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 30508,
+    "totalTime": 800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 30509,
+    "totalTime": 800,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "30502": 300
+    }
+  },
+  {
+    "id": 30601,
+    "totalTime": 650,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "30601": 300
+    },
+    "audio": {
+      "3060503": 300
+    }
+  },
+  {
+    "id": 30602,
+    "totalTime": 1800,
+    "animations": {
+      "Hit": 700
+    },
+    "updateAttribute": 750,
+    "effects": {
+      "5": 700
+    }
+  },
+  {
+    "id": 30603,
+    "totalTime": 800,
+    "isFollow": true,
+    "switchTime": 600,
+    "effects": {
+      "30602": 500
+    },
+    "screenPump": {
+      "HVCamShake": 700
+    },
+    "audio": {
+      "3060504": 700
+    }
+  },
+  {
+    "id": 100001,
+    "totalTime": 1000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "animations": {
+      "Talent": 200
+    }
+  },
+  {
+    "id": 100300,
+    "totalTime": 2000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "ComeBackLand": 466
+    },
+    "animations": {
+      "Show": 1500
+    },
+    "effects": {
+      "8001301": 300
+    },
+    "screenPump": {
+      "BossFanfareCamShake": 1666
+    }
+  },
+  {
+    "id": 100301,
+    "totalTime": 2000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Ex-1": 400
+    },
+    "effects": {
+      "100301": 400
+    },
+    "screenPump": {
+      "LVCamShake": 800
+    }
+  },
+  {
+    "id": 100302,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 800
+    },
+    "updateAttribute": 850,
+    "effects": {
+      "100302": 300
+    },
+    "screenPump": {
+      "HVCamShake": 350
+    },
+    "audio": {
+      "226": 333
+    }
+  },
+  {
+    "id": 100401,
+    "totalTime": 2000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 400
+    },
+    "effects": {
+      "100401": 700
+    },
+    "screenPump": {
+      "LVCamShake": 1100
+    }
+  },
+  {
+    "id": 100501,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 100801,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 100802,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2001900": 400
+    }
+  },
+  {
+    "id": 101001,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "101001": 300
+    },
+    "screenPump": {
+      "HVCamShake": 350
+    },
+    "audio": {
+      "226": 333
+    }
+  },
+  {
+    "id": 101112,
+    "totalTime": 2500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent-02": 400
+    },
+    "updateAttribute": 600
+  },
+  {
+    "id": 101401,
+    "totalTime": 2200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent-02": 400
+    },
+    "updateAttribute": 2200
+  },
+  {
+    "id": 101701,
+    "totalTime": 1000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "updateAttribute": 200
+  },
+  {
+    "id": 102201,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 550
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "102201": 450
+    },
+    "screenPump": {
+      "LVCamShake": 550
+    },
+    "audio": {
+      "10220501": 500
+    }
+  },
+  {
+    "id": 102601,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "animations": {
+      "Talent": 200
+    },
+    "effects": {
+      "102603": 200
+    },
+    "audio": {
+      "10260501": 220
+    }
+  },
+  {
+    "id": 102602,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 700
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "102601": 400
+    },
+    "screenPump": {
+      "LVCamShake": 800
+    },
+    "audio": {
+      "10260502": 400
+    }
+  },
+  {
+    "id": 103001,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "effects": {
+      "103001": 400
+    }
+  },
+  {
+    "id": 103101,
+    "totalTime": 1200,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "103101": 600
+    },
+    "screenPump": {
+      "HVCamShake": 650
+    },
+    "audio": {
+      "10310501": 650
+    }
+  },
+  {
+    "id": 103301,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "animations": {
+      "Talent_02": 200
+    }
+  },
+  {
+    "id": 103302,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 550
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "103301": 400
+    }
+  },
+  {
+    "id": 103701,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 1000
+    }
+  },
+  {
+    "id": 104101,
+    "totalTime": 2200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 2000
+  },
+  {
+    "id": 104102,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "updateAttribute": 1000,
+    "effects": {
+      "4": 1000
+    }
+  },
+  {
+    "id": 104103,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 104201,
+    "totalTime": 2200,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 800,
+      "Hit_01": 400
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "101001": 300,
+      "2001900": 700
+    },
+    "screenPump": {
+      "HVCamShake": 350
+    },
+    "audio": {
+      "226": 333
+    }
+  },
+  {
+    "id": 104202,
+    "totalTime": 2200,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 800
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "2001900": 700
+    }
+  },
+  {
+    "id": 104601,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 104602,
+    "totalTime": 2200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 104701,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "104702": 400
+    }
+  },
+  {
+    "id": 104801,
+    "totalTime": 2200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent-02": 200
+    },
+    "updateAttribute": 600
+  },
+  {
+    "id": 104901,
+    "totalTime": 2200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 200
+    },
+    "updateAttribute": 600
+  },
+  {
+    "id": 104902,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "104903": 200
+    }
+  },
+  {
+    "id": 105301,
+    "totalTime": 1200,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit_02": 200
+    },
+    "updateAttribute": 500,
+    "effects": {
+      "104903": 200
+    }
+  },
+  {
+    "id": 105401,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 700
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "105401": 250
+    },
+    "screenPump": {
+      "LVCamShake": 650
+    },
+    "audio": {
+      "1010501": 100,
+      "10160501": 620
+    }
+  },
+  {
+    "id": 105501,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "105501": 1200
+    }
+  },
+  {
+    "id": 105701,
+    "totalTime": 2100,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "updateAttribute": 1200,
+    "effects": {
+      "105701": 1200
+    },
+    "audio": {
+      "10570501": 300
+    }
+  },
+  {
+    "id": 106101,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "ShowYellow": 300
+    },
+    "audio": {
+      "10610501": 300
+    }
+  },
+  {
+    "id": 106102,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "ShowRed": 300
+    },
+    "audio": {
+      "10610502": 300
+    }
+  },
+  {
+    "id": 106103,
+    "totalTime": 2000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 700
+    },
+    "updateAttribute": 700,
+    "effects": {
+      "106101": 300
+    },
+    "audio": {
+      "10610503": 450
+    }
+  },
+  {
+    "id": 106104,
+    "totalTime": 2000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 700
+    },
+    "updateAttribute": 700,
+    "effects": {
+      "106102": 300
+    },
+    "audio": {
+      "10610503": 450
+    }
+  },
+  {
+    "id": 106121,
+    "totalTime": 1000,
+    "animations": {
+      "CommentaryNormal": 0
+    }
+  },
+  {
+    "id": 106122,
+    "totalTime": 1000,
+    "animations": {
+      "CommentaryHappy": 0
+    }
+  },
+  {
+    "id": 106123,
+    "totalTime": 1000,
+    "animations": {
+      "CommentaryAngry": 0
+    }
+  },
+  {
+    "id": 106124,
+    "totalTime": 1000,
+    "animations": {
+      "CommentarySad": 0
+    }
+  },
+  {
+    "id": 106201,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 106202,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "106201": 300
+    },
+    "screenPump": {
+      "LVCamShake": 400
+    },
+    "audio": {
+      "226": 433
+    }
+  },
+  {
+    "id": 106401,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 106402,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 106501,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "audio": {
+      "10650501": 350
+    }
+  },
+  {
+    "id": 106502,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 520
+    },
+    "updateAttribute": 520,
+    "effects": {
+      "106502": 350
+    },
+    "audio": {
+      "10650502": 550
+    }
+  },
+  {
+    "id": 106503,
+    "totalTime": 2500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent-02": 400
+    },
+    "updateAttribute": 650,
+    "effects": {
+      "106503": 650
+    },
+    "audio": {
+      "10650503": 500
+    }
+  },
+  {
+    "id": 106504,
+    "totalTime": 1600,
+    "animations": {
+      "Hit_01": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6": 300
+    },
+    "screenPump": {
+      "LHCamShake": 300
+    }
+  },
+  {
+    "id": 106601,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "effects": {
+      "106601": 600
+    },
+    "audio": {
+      "10660501": 600
+    }
+  },
+  {
+    "id": 106602,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 600
+    },
+    "updateAttribute": 600,
+    "effects": {
+      "106602": 400
+    },
+    "screenPump": {
+      "HVCamShake": 700
+    },
+    "audio": {
+      "10660502": 400
+    }
+  },
+  {
+    "id": 106701,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 106702,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "2102501": 300
+    }
+  },
+  {
+    "id": 106703,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    },
+    "effects": {
+      "106701": 300
+    },
+    "audio": {
+      "10670501": 300
+    }
+  },
+  {
+    "id": 106704,
+    "totalTime": 1500,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "106702": 300
+    },
+    "audio": {
+      "10670502": 300
+    }
+  },
+  {
+    "id": 107001,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Talent": 300
+    }
+  },
+  {
+    "id": 107002,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 200100,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 200101,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 200200,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 450
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "2000900": 300
+    },
+    "screenPump": {
+      "HVCamShake": 400
+    }
+  },
+  {
+    "id": 200300,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Electricshock": 333
+    },
+    "updateAttribute": 333,
+    "effects": {
+      "3001604": 300
+    },
+    "screenPump": {
+      "ElectricshockCamShake": 333
+    },
+    "audio": {
+      "215": 333
+    }
+  },
+  {
+    "id": 200400,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 550
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2000900": 400
+    },
+    "screenPump": {
+      "HVCamShake": 400
+    }
+  },
+  {
+    "id": 200500,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2001900": 400
+    }
+  },
+  {
+    "id": 200600,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 550
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2000900": 400
+    },
+    "screenPump": {
+      "HVCamShake": 400
+    }
+  },
+  {
+    "id": 201000,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 201100,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 210000,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 300
+  },
+  {
+    "id": 220000,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "1": 400
+    }
+  },
+  {
+    "id": 260000,
+    "totalTime": 1000,
+    "isFollow": true,
+    "switchTime": 100,
+    "animations": {
+      "Cheer": 100
+    },
+    "updateAttribute": 100,
+    "effects": {
+      "260001": 100
+    }
+  },
+  {
+    "id": 2000100,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_02": 633
+    },
+    "updateAttribute": 633,
+    "effects": {
+      "2000103": 300
+    },
+    "screenPump": {
+      "JiguangCamShake": 633
+    },
+    "audio": {
+      "211": 633,
+      "214": 300
+    }
+  },
+  {
+    "id": 2001200,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 700
+    },
+    "updateAttribute": 700,
+    "effects": {
+      "2001203": 300
+    },
+    "screenPump": {
+      "LVCamShake": 700
+    },
+    "audio": {
+      "216": 320
+    }
+  },
+  {
+    "id": 2001300,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 533
+    },
+    "updateAttribute": 533,
+    "effects": {
+      "2001303": 300
+    },
+    "screenPump": {
+      "BanzhuanCamShake": 400
+    },
+    "audio": {
+      "227": 520
+    }
+  },
+  {
+    "id": 2000200,
+    "totalTime": 2600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Eat": 300
+    },
+    "updateAttribute": 1100,
+    "effects": {
+      "4": 1000
+    }
+  },
+  {
+    "id": 2000300,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "effects": {
+      "2000300": 400
+    }
+  },
+  {
+    "id": 2000600,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_02": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2001900": 400
+    }
+  },
+  {
+    "id": 2000601,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 2000700
+  },
+  {
+    "id": 2000800,
+    "totalTime": 1000,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "audio": {
+      "223": 999
+    }
+  },
+  {
+    "id": 2000900,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "effects": {
+      "2000900": 400
+    },
+    "screenPump": {
+      "HVCamShake": 400
+    }
+  },
+  {
+    "id": 2000901,
+    "totalTime": 1500,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6": 400
+    }
+  },
+  {
+    "id": 2100000,
+    "totalTime": 2200,
+    "isFollow": true,
+    "switchTime": 300,
+    "effects": {
+      "200400": 400
+    }
+  },
+  {
+    "id": 2001400,
+    "totalTime": 2600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Eat": 300
+    },
+    "updateAttribute": 1100,
+    "effects": {
+      "4": 1000
+    }
+  },
+  {
+    "id": 2001900,
+    "totalTime": 2600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Eat": 400
+    },
+    "updateAttribute": 1100,
+    "effects": {
+      "4": 1100
+    }
+  },
+  {
+    "id": 2001901,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_02": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2001900": 400
+    }
+  },
+  {
+    "id": 2002000,
+    "totalTime": 1000,
+    "isFollow": true,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "audio": {
+      "205": 999
+    }
+  },
+  {
+    "id": 2002200,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 2002201,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 2002301,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 2002500,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 700
+    },
+    "updateAttribute": 700,
+    "effects": {
+      "2001201": 250
+    },
+    "screenPump": {
+      "LVCamShake": 700
+    }
+  },
+  {
+    "id": 2002700,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 900
+    },
+    "updateAttribute": 900,
+    "effects": {
+      "2002700": 1
+    }
+  },
+  {
+    "id": 2002701,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2002701": 100
+    }
+  },
+  {
+    "id": 2002702,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2002702": 100
+    }
+  },
+  {
+    "id": 2002703,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2002703": 100
+    }
+  },
+  {
+    "id": 2002800,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 1000
+    },
+    "updateAttribute": 1000,
+    "effects": {
+      "2002800": 1
+    },
+    "screenPump": {
+      "LVCamShake": 700
+    }
+  },
+  {
+    "id": 2003000,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 900
+    },
+    "updateAttribute": 900,
+    "effects": {
+      "2003000": 300
+    },
+    "screenPump": {
+      "LHCamShake_10301": 700
+    },
+    "audio": {
+      "1210502": 300,
+      "1210503": 500
+    }
+  },
+  {
+    "id": 2003100,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 800
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "2003001": 300
+    },
+    "screenPump": {
+      "HVCamShake": 800
+    },
+    "audio": {
+      "1210502": 300,
+      "503": 800
+    }
+  },
+  {
+    "id": 2003001,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 900
+    },
+    "updateAttribute": 900,
+    "effects": {
+      "2003002": 300
+    },
+    "screenPump": {
+      "LHCamShake_10301": 700
+    },
+    "audio": {
+      "1210502": 300,
+      "1210503": 500
+    }
+  },
+  {
+    "id": 2003101,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 800
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "2003003": 300
+    },
+    "screenPump": {
+      "HVCamShake": 800
+    },
+    "audio": {
+      "1210502": 300,
+      "503": 800
+    }
+  },
+  {
+    "id": 2003002,
+    "totalTime": 1400,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 450
+    },
+    "updateAttribute": 900,
+    "effects": {
+      "2003004": 300
+    },
+    "screenPump": {
+      "LHCamShake_10301": 450
+    },
+    "audio": {
+      "1210504": 300
+    }
+  },
+  {
+    "id": 2003102,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 800
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "2003005": 300
+    },
+    "screenPump": {
+      "HVCamShake": 800
+    },
+    "audio": {
+      "1210505": 300
+    }
+  },
+  {
+    "id": 2100900,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 700
+    },
+    "updateAttribute": 800,
+    "effects": {
+      "2100900": 250
+    },
+    "screenPump": {
+      "LVCamShake": 650
+    },
+    "audio": {
+      "1010501": 100,
+      "10160501": 620
+    }
+  },
+  {
+    "id": 2101000,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 650
+    },
+    "updateAttribute": 600
+  },
+  {
+    "id": 2101400,
+    "totalTime": 2500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Eat": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2101400": 500
+    },
+    "audio": {
+      "213": 650
+    }
+  },
+  {
+    "id": 2101600,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 350
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "13": 400,
+      "2101600": 500
+    }
+  },
+  {
+    "id": 2101900,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_02": 633
+    },
+    "updateAttribute": 633,
+    "effects": {
+      "2101900": 300
+    }
+  },
+  {
+    "id": 2101901,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2101901": 400
+    }
+  },
+  {
+    "id": 2101902,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_02": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2101901": 400
+    }
+  },
+  {
+    "id": 2102001,
+    "totalTime": 1300,
+    "isFollow": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "TakeOff": 466
+    },
+    "updateAttribute": 600,
+    "effects": {
+      "2102001": 400
+    }
+  },
+  {
+    "id": 2102002,
+    "totalTime": 1300,
+    "isFollow": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "ComeBackLand": 466
+    },
+    "updateAttribute": 600,
+    "effects": {
+      "2102001": 400
+    }
+  },
+  {
+    "id": 2102301,
+    "totalTime": 3000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2002700": 1
+    },
+    "audio": {
+      "1010501": 100,
+      "10160501": 620
+    }
+  },
+  {
+    "id": 2102401,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 350
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 2102501,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 350
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2102501": 300
+    }
+  },
+  {
+    "id": 2102502,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 350
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 3000100,
+    "totalTime": 1500,
+    "animations": {
+      "Cry": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2": 400
+    }
+  },
+  {
+    "id": 3000101,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "1": 400
+    }
+  },
+  {
+    "id": 3000102,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    }
+  },
+  {
+    "id": 3000300,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 3000500,
+    "totalTime": 1000,
+    "CustomShows": {
+      "TakeOff": 466
+    },
+    "updateAttribute": 200,
+    "effects": {
+      "8001300": 300
+    }
+  },
+  {
+    "id": 3000501,
+    "totalTime": 1300,
+    "CustomShows": {
+      "ComeBackLand": 466
+    },
+    "effects": {
+      "8001301": 400
+    }
+  },
+  {
+    "id": 3000600,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_02": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "2001900": 400
+    }
+  },
+  {
+    "id": 3000800,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 3000900,
+    "totalTime": 1600,
+    "animations": {
+      "Hit_01": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6": 300
+    },
+    "screenPump": {
+      "LHCamShake": 300
+    }
+  },
+  {
+    "id": 3001000,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "14": 300
+    }
+  },
+  {
+    "id": 3001100,
+    "totalTime": 1800,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "5": 400
+    }
+  },
+  {
+    "id": 3001101,
+    "totalTime": 1500,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "1": 400
+    }
+  },
+  {
+    "id": 3001300,
+    "totalTime": 1000,
+    "CustomShows": {
+      "TakeOff": 466
+    },
+    "updateAttribute": 200,
+    "effects": {
+      "8001300": 300
+    }
+  },
+  {
+    "id": 3001301,
+    "totalTime": 1000,
+    "CustomShows": {
+      "ComeBackLand": 466
+    },
+    "effects": {
+      "8001301": 400
+    }
+  },
+  {
+    "id": 3001400,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "1": 400,
+      "13": 400
+    }
+  },
+  {
+    "id": 3001500,
+    "totalTime": 1000,
+    "CustomShows": {
+      "TakeOff": 466
+    },
+    "updateAttribute": 200,
+    "effects": {
+      "8001300": 400
+    }
+  },
+  {
+    "id": 3001501,
+    "totalTime": 1000,
+    "CustomShows": {
+      "ComeBackLand": 466
+    },
+    "effects": {
+      "8001301": 400
+    }
+  },
+  {
+    "id": 3001600,
+    "totalTime": 2000,
+    "isFollow": true,
+    "isAlternately": true,
+    "switchTime": 300,
+    "updateAttribute": 400,
+    "effects": {
+      "3001604": 400
+    }
+  },
+  {
+    "id": 3001900,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "13": 400
+    }
+  },
+  {
+    "id": 4000100,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 4000200,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_02": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "5": 400
+    }
+  },
+  {
+    "id": 4000500,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 4000600,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 4000700,
+    "totalTime": 1300,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "13": 300
+    }
+  },
+  {
+    "id": 4000800,
+    "totalTime": 1300,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "13": 300
+    }
+  },
+  {
+    "id": 4000900,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "14": 300
+    }
+  },
+  {
+    "id": 4001000,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "14": 300
+    }
+  },
+  {
+    "id": 4001100,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 4001200,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 5000100,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 5000200,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 5000300,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 5000400,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "5": 300
+    }
+  },
+  {
+    "id": 5000500,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "13": 400
+    }
+  },
+  {
+    "id": 5000600,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cry": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "14": 400
+    }
+  },
+  {
+    "id": 6000100,
+    "totalTime": 1500,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6000100": 400
+    }
+  },
+  {
+    "id": 6000200,
+    "totalTime": 1400,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit": 350
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6000200": 1
+    },
+    "screenPump": {
+      "LVCamShake": 500
+    },
+    "audio": {
+      "1201": 100
+    }
+  },
+  {
+    "id": 6000300,
+    "totalTime": 1400,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit": 350
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6000300": 1
+    },
+    "screenPump": {
+      "LVCamShake": 500
+    },
+    "audio": {
+      "1202": 100
+    }
+  },
+  {
+    "id": 6000400,
+    "totalTime": 1400,
+    "switchTime": 200,
+    "animations": {
+      "Hit": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6000400": 200
+    },
+    "screenPump": {
+      "LVCamShake": 350
+    },
+    "audio": {
+      "233": 100
+    }
+  },
+  {
+    "id": 6000500,
+    "totalTime": 1600,
+    "isFollow": true,
+    "switchTime": 200,
+    "animations": {
+      "Hit": 300
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "6000500": 200
+    },
+    "screenPump": {
+      "HVCamShake": 350
+    },
+    "audio": {
+      "234": 100
+    }
+  },
+  {
+    "id": 7000100,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "5": 400
+    }
+  },
+  {
+    "id": 7000800,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 8000100,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 8000200,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 400
+    },
+    "updateAttribute": 400,
+    "effects": {
+      "4": 400
+    }
+  },
+  {
+    "id": 8000300,
+    "totalTime": 1000,
+    "switchTime": 300,
+    "CustomShows": {
+      "TakeOff": 466
+    },
+    "effects": {
+      "8001300": 300
+    }
+  },
+  {
+    "id": 8000301,
+    "totalTime": 1300,
+    "isFollow": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "ComeBackLand": 466
+    },
+    "updateAttribute": 200,
+    "effects": {
+      "8001301": 400
+    }
+  },
+  {
+    "id": 8000400,
+    "totalTime": 1800,
+    "switchTime": 300,
+    "CustomShows": {
+      "FastTravelByTaxi": 1066
+    },
+    "effects": {
+      "8001302": 400
+    }
+  },
+  {
+    "id": 8000401,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "CustomShows": {
+      "ComeBackLand": 1066
+    },
+    "updateAttribute": 200,
+    "effects": {
+      "8001303": 400
+    }
+  },
+  {
+    "id": 8000700,
+    "totalTime": 1200,
+    "updateAttribute": 200,
+    "effects": {
+      "13": 200,
+      "2": 0
+    }
+  },
+  {
+    "id": 8000701,
+    "totalTime": 1200,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "13": 300
+    }
+  },
+  {
+    "id": 8001100,
+    "totalTime": 1800,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hit_01": 480
+    },
+    "updateAttribute": 450,
+    "effects": {
+      "8001100": 300
+    },
+    "screenPump": {
+      "LHCamShake": 350
+    },
+    "audio": {
+      "204": 450
+    }
+  },
+  {
+    "id": 8001300,
+    "totalTime": 2000,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Hospitalized": 550
+    },
+    "updateAttribute": 550,
+    "effects": {
+      "4": 550
+    }
+  },
+  {
+    "id": 8001301,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "4": 300
+    }
+  },
+  {
+    "id": 8001400,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300,
+    "effects": {
+      "13": 300
+    }
+  },
+  {
+    "id": 8001500,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  },
+  {
+    "id": 8001700,
+    "totalTime": 1300,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Electricshock": 333
+    },
+    "updateAttribute": 333,
+    "effects": {
+      "8001700": 300
+    },
+    "screenPump": {
+      "ElectricshockCamShake": 333
+    },
+    "audio": {
+      "215": 333
+    }
+  },
+  {
+    "id": 8001800,
+    "totalTime": 1000,
+    "animations": {
+      "Hit_01": 20
+    },
+    "updateAttribute": 2,
+    "effects": {
+      "5": 2
+    },
+    "screenPump": {
+      "LHCamShake": 2
+    }
+  },
+  {
+    "id": 8002301,
+    "totalTime": 1200,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 400
+  },
+  {
+    "id": 8002700,
+    "totalTime": 1500,
+    "isFollow": true,
+    "switchTime": 300,
+    "animations": {
+      "Cheer": 300
+    },
+    "updateAttribute": 300
+  }
+]

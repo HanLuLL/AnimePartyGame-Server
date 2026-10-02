@@ -1,0 +1,395 @@
+[
+  {
+    "id": 1001,
+    "mutatorPoolConfigureItems": [
+      {
+        "mutatorId": 60001
+      },
+      {
+        "mutatorId": 60002
+      },
+      {
+        "mutatorId": 60003
+      },
+      {
+        "mutatorId": 60004
+      },
+      {
+        "mutatorId": 60005
+      },
+      {
+        "mutatorId": 60006
+      },
+      {
+        "mutatorId": 60007
+      },
+      {
+        "mutatorId": 60008
+      },
+      {
+        "mutatorId": 60009
+      },
+      {
+        "mutatorId": 60010
+      },
+      {
+        "mutatorId": 60011
+      },
+      {
+        "mutatorId": 60012
+      },
+      {
+        "mutatorId": 60013
+      },
+      {
+        "mutatorId": 60014
+      },
+      {
+        "mutatorId": 60015
+      }
+    ]
+  },
+  {
+    "id": 1101,
+    "mutatorPoolConfigureItems": [
+      {
+        "mutatorId": 60004
+      },
+      {
+        "mutatorId": 60006
+      },
+      {
+        "mutatorId": 60007
+      },
+      {
+        "mutatorId": 60008
+      },
+      {
+        "mutatorId": 60009
+      },
+      {
+        "mutatorId": 60010
+      },
+      {
+        "mutatorId": 60011
+      },
+      {
+        "mutatorId": 60012
+      },
+      {
+        "mutatorId": 60013
+      },
+      {
+        "mutatorId": 60014
+      },
+      {
+        "mutatorId": 60101
+      },
+      {
+        "mutatorId": 60103
+      },
+      {
+        "mutatorId": 60151
+      },
+      {
+        "mutatorId": 60152
+      },
+      {
+        "mutatorId": 60153
+      },
+      {
+        "mutatorId": 60154
+      },
+      {
+        "mutatorId": 60155
+      },
+      {
+        "mutatorId": 60156
+      },
+      {
+        "mutatorId": 60157
+      },
+      {
+        "mutatorId": 60158
+      },
+      {
+        "mutatorId": 60159
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "mutatorPoolConfigureItems": [
+      {
+        "mutatorId": 60004
+      },
+      {
+        "mutatorId": 60006
+      },
+      {
+        "mutatorId": 60007
+      },
+      {
+        "mutatorId": 60008
+      },
+      {
+        "mutatorId": 60009
+      },
+      {
+        "mutatorId": 60010
+      },
+      {
+        "mutatorId": 60011
+      },
+      {
+        "mutatorId": 60012
+      },
+      {
+        "mutatorId": 60013
+      },
+      {
+        "mutatorId": 60014
+      },
+      {
+        "mutatorId": 60015
+      },
+      {
+        "mutatorId": 60102
+      },
+      {
+        "mutatorId": 60151
+      },
+      {
+        "mutatorId": 60152
+      },
+      {
+        "mutatorId": 60153
+      },
+      {
+        "mutatorId": 60154
+      },
+      {
+        "mutatorId": 60155
+      },
+      {
+        "mutatorId": 60156
+      },
+      {
+        "mutatorId": 60157
+      },
+      {
+        "mutatorId": 60158
+      },
+      {
+        "mutatorId": 60159
+      }
+    ]
+  },
+  {
+    "id": 1111,
+    "mutatorPoolConfigureItems": [
+      {
+        "mutatorId": 60004
+      },
+      {
+        "mutatorId": 60006
+      },
+      {
+        "mutatorId": 60007
+      },
+      {
+        "mutatorId": 60008
+      },
+      {
+        "mutatorId": 60009
+      },
+      {
+        "mutatorId": 60010
+      },
+      {
+        "mutatorId": 60011
+      },
+      {
+        "mutatorId": 60012
+      },
+      {
+        "mutatorId": 60013
+      },
+      {
+        "mutatorId": 60014
+      },
+      {
+        "mutatorId": 60015
+      },
+      {
+        "mutatorId": 60106
+      },
+      {
+        "mutatorId": 60108
+      },
+      {
+        "mutatorId": 60151
+      },
+      {
+        "mutatorId": 60152
+      },
+      {
+        "mutatorId": 60153
+      },
+      {
+        "mutatorId": 60154
+      },
+      {
+        "mutatorId": 60155
+      },
+      {
+        "mutatorId": 60156
+      },
+      {
+        "mutatorId": 60157
+      },
+      {
+        "mutatorId": 60158
+      },
+      {
+        "mutatorId": 60159
+      }
+    ]
+  },
+  {
+    "id": 1112,
+    "mutatorPoolConfigureItems": [
+      {
+        "mutatorId": 60004
+      },
+      {
+        "mutatorId": 60006
+      },
+      {
+        "mutatorId": 60007
+      },
+      {
+        "mutatorId": 60008
+      },
+      {
+        "mutatorId": 60009
+      },
+      {
+        "mutatorId": 60010
+      },
+      {
+        "mutatorId": 60012
+      },
+      {
+        "mutatorId": 60013
+      },
+      {
+        "mutatorId": 60014
+      },
+      {
+        "mutatorId": 60015
+      },
+      {
+        "mutatorId": 60107
+      },
+      {
+        "mutatorId": 60151
+      },
+      {
+        "mutatorId": 60152
+      },
+      {
+        "mutatorId": 60153
+      },
+      {
+        "mutatorId": 60154
+      },
+      {
+        "mutatorId": 60155
+      },
+      {
+        "mutatorId": 60156
+      },
+      {
+        "mutatorId": 60157
+      },
+      {
+        "mutatorId": 60158
+      },
+      {
+        "mutatorId": 60159
+      }
+    ]
+  },
+  {
+    "id": 1121,
+    "mutatorPoolConfigureItems": [
+      {
+        "mutatorId": 60004
+      },
+      {
+        "mutatorId": 60006
+      },
+      {
+        "mutatorId": 60007
+      },
+      {
+        "mutatorId": 60008
+      },
+      {
+        "mutatorId": 60009
+      },
+      {
+        "mutatorId": 60010
+      },
+      {
+        "mutatorId": 60012
+      },
+      {
+        "mutatorId": 60013
+      },
+      {
+        "mutatorId": 60014
+      },
+      {
+        "mutatorId": 60015
+      },
+      {
+        "mutatorId": 60112
+      },
+      {
+        "mutatorId": 60113
+      },
+      {
+        "mutatorId": 60114
+      },
+      {
+        "mutatorId": 60151
+      },
+      {
+        "mutatorId": 60152
+      },
+      {
+        "mutatorId": 60153
+      },
+      {
+        "mutatorId": 60154
+      },
+      {
+        "mutatorId": 60155
+      },
+      {
+        "mutatorId": 60156
+      },
+      {
+        "mutatorId": 60157
+      },
+      {
+        "mutatorId": 60158
+      },
+      {
+        "mutatorId": 60159
+      }
+    ]
+  }
+]

@@ -1,0 +1,511 @@
+[
+  {
+    "id": 2001,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 200100,
+    "debuffPerforms": [
+      200100
+    ],
+    "buffPerforms": [
+      200101
+    ],
+    "params": [
+      -5
+    ],
+    "buffIds": [
+      200101
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2002,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 200200,
+    "debuffPerforms": [
+      200200
+    ],
+    "params": [
+      -3
+    ],
+    "buffIds": [
+      200201
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2003,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 200300,
+    "debuffPerforms": [
+      200300
+    ],
+    "params": [
+      10
+    ],
+    "buffIds": [
+      200301
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2004,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 200200,
+    "debuffPerforms": [
+      200400
+    ],
+    "params": [
+      -3
+    ],
+    "buffIds": [
+      200401
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2005,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 200500,
+    "debuffPerforms": [
+      200500
+    ],
+    "params": [
+      -3
+    ],
+    "buffIds": [
+      200501
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2006,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 200600,
+    "debuffPerforms": [
+      200600
+    ],
+    "params": [
+      2
+    ],
+    "buffIds": [
+      200601
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2007,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 200700,
+    "debuffPerforms": [
+      3001500
+    ],
+    "buffPerforms": [
+      3001501
+    ],
+    "MapcardID": 3100401,
+    "buffIds": [
+      200701
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2008,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 200700,
+    "buffPerforms": [
+      2002201
+    ],
+    "MapcardID": 3100402,
+    "params": [
+      5
+    ],
+    "buffIds": [
+      200801
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2009,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 200700,
+    "buffPerforms": [
+      2001400
+    ],
+    "MapcardID": 3100403,
+    "params": [
+      3
+    ],
+    "buffIds": [
+      200901
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2010,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 200700,
+    "buffPerforms": [
+      201000
+    ],
+    "MapcardID": 3100404,
+    "params": [
+      1
+    ],
+    "buffIds": [
+      201001,
+      201002
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2011,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 200700,
+    "buffPerforms": [
+      201100
+    ],
+    "MapcardID": 3100405,
+    "params": [
+      2
+    ],
+    "buffIds": [
+      201101,
+      201102
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2100,
+    "summonType": {
+      "value": 2,
+      "name": "SummonType_Barricade"
+    },
+    "bornEffect": 210000,
+    "buffIds": [
+      210001
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2101,
+    "summonType": {
+      "value": 2,
+      "name": "SummonType_Barricade"
+    },
+    "bornEffect": 210100,
+    "params": [
+      2
+    ],
+    "buffIds": [
+      210101,
+      210102
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2200,
+    "summonType": {
+      "value": 3,
+      "name": "SummonType_Gold"
+    },
+    "bornEffect": 3,
+    "buffPerforms": [
+      220000
+    ],
+    "buffIds": [
+      220001
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2300,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 230000,
+    "buffPerforms": [
+      2001400
+    ],
+    "MapcardID": 2300001,
+    "params": [
+      3,
+      2027,
+      20271101
+    ],
+    "buffIds": [
+      230001
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2400,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 240000,
+    "debuffPerforms": [
+      200500
+    ],
+    "buffPerforms": [
+      4000100
+    ],
+    "params": [
+      2,
+      -2
+    ],
+    "buffIds": [
+      240001
+    ],
+    "isFollowSummoning": true,
+    "isPerformGroup": true
+  },
+  {
+    "id": 2401,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 200300,
+    "debuffPerforms": [
+      200300
+    ],
+    "buffPerforms": [
+      4000100
+    ],
+    "params": [
+      3,
+      -2
+    ],
+    "buffIds": [
+      240101
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2500,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 250000,
+    "params": [
+      1038,
+      1039
+    ],
+    "buffIds": [
+      250001
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2501,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 250100,
+    "params": [
+      106811
+    ],
+    "buffIds": [
+      250101
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 2600,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 260000,
+    "buffPerforms": [
+      260000
+    ],
+    "buffIds": [
+      260001,
+      260002
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 11111,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "nameID": 11101,
+    "summonProfilePhoto": "UT_Summon_111",
+    "bornEffect": 11101,
+    "debuffPerforms": [
+      11104
+    ],
+    "params": [
+      1
+    ],
+    "buffIds": [
+      1111103
+    ],
+    "isFollowSummoning": true
+  },
+  {
+    "id": 11211,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 11203,
+    "buffPerforms": [
+      11204
+    ],
+    "params": [
+      1,
+      1
+    ],
+    "buffIds": [
+      1121104
+    ],
+    "isPerformGroup": true
+  },
+  {
+    "id": 12911,
+    "summonType": {
+      "value": 5,
+      "name": "SummonType_ControllableUnit"
+    },
+    "prefabName": "Summon_129_Tentacle",
+    "commonPerforms": [
+      12903,
+      12904
+    ],
+    "performShow": 12906,
+    "params": [
+      1,
+      -1
+    ],
+    "buffIds": [
+      1291102
+    ],
+    "isPerformGroup": true
+  },
+  {
+    "id": 12912,
+    "summonType": {
+      "value": 5,
+      "name": "SummonType_ControllableUnit"
+    },
+    "prefabName": "Summon_129_Tentacle",
+    "commonPerforms": [
+      12903,
+      12904,
+      12908
+    ],
+    "performShow": 12906,
+    "params": [
+      2,
+      -1,
+      1
+    ],
+    "buffIds": [
+      1291203,
+      1291202
+    ],
+    "isPerformGroup": true
+  },
+  {
+    "id": 12921,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 12911,
+    "debuffPerforms": [
+      12905,
+      12907
+    ],
+    "params": [
+      -2
+    ],
+    "buffIds": [
+      1292101,
+      1290101
+    ],
+    "isPerformGroup": true
+  },
+  {
+    "id": 12922,
+    "summonType": {
+      "value": 1,
+      "name": "SummonType_Trap"
+    },
+    "bornEffect": 12911,
+    "debuffPerforms": [
+      12905,
+      12907
+    ],
+    "params": [
+      -2
+    ],
+    "buffIds": [
+      1292201,
+      1290201
+    ],
+    "isPerformGroup": true
+  },
+  {
+    "id": 60107,
+    "summonType": {
+      "value": 4,
+      "name": "SummonType_Pickup"
+    },
+    "bornEffect": 230000,
+    "buffPerforms": [
+      2001400
+    ],
+    "MapcardID": 60107001,
+    "params": [
+      10011,
+      1,
+      1
+    ],
+    "buffIds": [
+      6010702
+    ],
+    "isFollowSummoning": true
+  }
+]

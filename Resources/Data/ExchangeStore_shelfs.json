@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "tabOrder": 1,
+    "nameID": 333,
+    "shopTabTypes": [
+      {
+        "value": 1,
+        "name": "ShopTabType_Activity"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 30,
+    "tabOrder": 2,
+    "nameID": 888,
+    "shopTabTypes": [
+      {
+        "value": 30,
+        "name": "ShopTabType_Activity2"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 6,
+    "tabOrder": 10,
+    "nameID": 55,
+    "shopTabTypes": [
+      {
+        "value": 39,
+        "name": "ShopTabType_SeasonShop"
+      },
+      {
+        "value": 40,
+        "name": "ShopTabType_MemoryGlow"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 2,
+    "tabOrder": 20,
+    "nameID": 20,
+    "shopTabTypes": [
+      {
+        "value": 3,
+        "name": "ShopTabType_Role"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 3,
+    "tabOrder": 31,
+    "nameID": 32,
+    "shopTabTypes": [
+      {
+        "value": 12,
+        "name": "ShopTabType_ShiyuShiyuGacha"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 4,
+    "tabOrder": 32,
+    "nameID": 31,
+    "shopTabTypes": [
+      {
+        "value": 11,
+        "name": "ShopTabType_Recycle"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 29,
+    "tabOrder": 29,
+    "nameID": 29,
+    "shopTabTypes": [
+      {
+        "value": 29,
+        "name": "ShopTabType_PreviousFashion"
+      },
+      {
+        "value": 31,
+        "name": "ShopTabType_PreviousFashion2"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 5,
+    "tabOrder": 21,
+    "nameID": 21,
+    "shopTabTypes": [
+      {
+        "value": 21,
+        "name": "ShopTabType_StarLego"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 26,
+    "tabOrder": 26,
+    "nameID": 26,
+    "shopTabTypes": [
+      {
+        "value": 26,
+        "name": "ShopTabType_PVE"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 999,
+    "tabOrder": 999,
+    "shopTabTypes": [
+      {
+        "value": 10,
+        "name": "ShopTabType_Hide"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "tabOrder": 3,
+    "nameID": 666,
+    "shopTabTypes": [
+      {
+        "value": 33,
+        "name": "ShopTabType_Activity3"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 36,
+    "tabOrder": 4,
+    "nameID": 777,
+    "shopTabTypes": [
+      {
+        "value": 36,
+        "name": "ShopTabType_Activity4"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 7,
+    "tabOrder": 5,
+    "nameID": 444,
+    "shopTabTypes": [
+      {
+        "value": 41,
+        "name": "ShopTabType_ComebackShop"
+      }
+    ],
+    "isShow": true
+  },
+  {
+    "id": 8,
+    "tabOrder": 6,
+    "nameID": 222,
+    "shopTabTypes": [
+      {
+        "value": 43,
+        "name": "ShopTabType_ActivityMGWT"
+      }
+    ],
+    "isShow": true
+  }
+]

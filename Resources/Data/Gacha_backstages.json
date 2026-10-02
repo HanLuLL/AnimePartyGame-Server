@@ -1,0 +1,145 @@
+[
+  {
+    "gachaType": {
+      "value": 3,
+      "name": "GachaType_LimitedUp"
+    },
+    "gachaTableType": {
+      "value": 1,
+      "name": "GachaTableType_Role"
+    },
+    "uiPanelType": {
+      "value": 20,
+      "name": "UIPanelType_Gacha"
+    },
+    "poolID": 20260903,
+    "costItem": 90001,
+    "costOnce": 1,
+    "LeastTimes": 1,
+    "nTimes": 10,
+    "beginDateTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endDateTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    },
+    "tabOrder": 2
+  },
+  {
+    "gachaType": {
+      "value": 5,
+      "name": "GachaType_LimitedUp2"
+    },
+    "gachaTableType": {
+      "value": 1,
+      "name": "GachaTableType_Role"
+    },
+    "uiPanelType": {
+      "value": 20,
+      "name": "UIPanelType_Gacha"
+    },
+    "poolID": 20260905,
+    "costItem": 90001,
+    "costOnce": 1,
+    "LeastTimes": 1,
+    "nTimes": 10,
+    "beginDateTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endDateTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    },
+    "tabOrder": 4
+  },
+  {
+    "gachaType": {
+      "value": 1,
+      "name": "GachaType_Permanent"
+    },
+    "gachaTableType": {
+      "value": 1,
+      "name": "GachaTableType_Role"
+    },
+    "uiPanelType": {
+      "value": 20,
+      "name": "UIPanelType_Gacha"
+    },
+    "poolID": 10,
+    "costItem": 90001,
+    "costOnce": 1,
+    "LeastTimes": 1,
+    "nTimes": 10,
+    "tabOrder": 99
+  },
+  {
+    "gachaType": {
+      "value": 6,
+      "name": "GachaType_PreviousSkin"
+    },
+    "gachaTableType": {
+      "value": 2,
+      "name": "GachaTableType_Skin"
+    },
+    "uiPanelType": {
+      "value": 24,
+      "name": "UIPanelType_Activity"
+    },
+    "poolID": 20260904,
+    "currencyBar": 1,
+    "costItem": 90002,
+    "costOnce": 1,
+    "LeastTimes": 1,
+    "nTimes": 10,
+    "beginDateTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endDateTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    },
+    "tabOrder": 1
+  },
+  {
+    "gachaType": {
+      "value": 9,
+      "name": "GachaType_Rookie"
+    },
+    "gachaTableType": {
+      "value": 1,
+      "name": "GachaTableType_Role"
+    },
+    "uiPanelType": {
+      "value": 20,
+      "name": "UIPanelType_Gacha"
+    },
+    "poolID": 99,
+    "costItem": 90001,
+    "costOnce": 1,
+    "LeastTimes": 10,
+    "nTimes": 10,
+    "tabOrder": 1
+  }
+]

@@ -1,0 +1,1749 @@
+[
+  {
+    "id": 82007,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 20,
+        "progressEvents": [
+          32002,
+          32001,
+          32004,
+          32005
+        ],
+        "pveMissions": [
+          320020,
+          320050,
+          320120
+        ],
+        "monsterIds": {
+          "1001": 50000,
+          "1002": 50000
+        }
+      },
+      {
+        "index": 1,
+        "progressLimit": 20,
+        "progressEvents": [
+          32002,
+          32001,
+          32004,
+          32006
+        ],
+        "pveMissions": [
+          320020,
+          320060,
+          320120
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1002": 60000
+        }
+      },
+      {
+        "index": 2,
+        "progressLimit": 20,
+        "progressEvents": [
+          32002,
+          32007,
+          32009,
+          32008,
+          32010
+        ],
+        "pveMissions": [
+          320020,
+          320060,
+          320120
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1002": 60000
+        }
+      },
+      {
+        "index": 3,
+        "progressLimit": 18,
+        "progressEvents": [
+          32002,
+          32007,
+          32009,
+          32008,
+          32012
+        ],
+        "pveMissions": [
+          320020,
+          320060,
+          320120
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1002": 60000
+        },
+        "preloadCharacterIds": [
+          1025
+        ]
+      },
+      {
+        "index": 4,
+        "progressLimit": 18,
+        "progressEvents": [
+          32011,
+          32007,
+          32008,
+          32009,
+          32012
+        ],
+        "pveMissions": [
+          320020,
+          320060,
+          320120
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1002": 60000
+        },
+        "preloadCharacterIds": [
+          1025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82008,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 20,
+        "progressEvents": [
+          32021,
+          32022,
+          32023,
+          32027
+        ],
+        "pveMissions": [
+          320210,
+          320220,
+          320230
+        ],
+        "monsterIds": {
+          "1001": 35000,
+          "1007": 50000,
+          "1008": 15000
+        }
+      },
+      {
+        "index": 1,
+        "progressLimit": 20,
+        "progressEvents": [
+          32021,
+          32022,
+          32024,
+          32027
+        ],
+        "pveMissions": [
+          320210,
+          320220,
+          320230
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1007": 50000,
+          "1008": 20000
+        }
+      },
+      {
+        "index": 2,
+        "progressLimit": 20,
+        "progressEvents": [
+          32021,
+          32022,
+          32024,
+          32025,
+          32027
+        ],
+        "pveMissions": [
+          320210,
+          320220,
+          320230
+        ],
+        "monsterIds": {
+          "1001": 25000,
+          "1007": 50000,
+          "1008": 25000
+        }
+      },
+      {
+        "index": 3,
+        "progressLimit": 19,
+        "progressEvents": [
+          32021,
+          32022,
+          32024,
+          32026,
+          32028,
+          32029
+        ],
+        "pveMissions": [
+          320210,
+          320220,
+          320230
+        ],
+        "monsterIds": {
+          "1001": 25000,
+          "1007": 50000,
+          "1008": 25000
+        }
+      },
+      {
+        "index": 4,
+        "progressLimit": 17,
+        "progressEvents": [
+          32067,
+          32068,
+          32069,
+          32070,
+          32071,
+          32072
+        ],
+        "pveMissions": [
+          320260,
+          320280,
+          320290,
+          320300
+        ],
+        "monsterIds": {
+          "1001": 25000,
+          "1007": 50000,
+          "1008": 25000
+        },
+        "preloadCharacterIds": [
+          1041,
+          1042
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 20,
+        "progressEvents": [
+          34001,
+          34002,
+          34005,
+          34006,
+          34007,
+          34008
+        ],
+        "pveMissions": [
+          340010,
+          340020,
+          340030,
+          340040,
+          340050,
+          340060,
+          340070
+        ],
+        "monsterIds": {
+          "1007": 50000
+        }
+      }
+    ]
+  },
+  {
+    "id": 1001,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 15,
+        "monsterIds": {
+          "1007": 50000
+        }
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 15,
+        "progressEvents": [
+          33001,
+          33002
+        ],
+        "pveMissions": [
+          330010,
+          330020
+        ],
+        "monsterIds": {
+          "1007": 50000
+        }
+      }
+    ]
+  },
+  {
+    "id": 82010,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 20,
+        "progressEvents": [
+          32035,
+          32036,
+          32037,
+          32039
+        ],
+        "pveMissions": [
+          320350,
+          320370,
+          320360
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1016": 60000
+        }
+      },
+      {
+        "index": 1,
+        "progressLimit": 18,
+        "progressEvents": [
+          32035,
+          32036,
+          32037,
+          32039
+        ],
+        "pveMissions": [
+          320350,
+          320370,
+          320360
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1016": 60000
+        }
+      },
+      {
+        "index": 2,
+        "progressLimit": 17,
+        "progressEvents": [
+          32035,
+          32036,
+          32041,
+          32040
+        ],
+        "pveMissions": [
+          320350,
+          320370,
+          320380
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1016": 70000
+        }
+      },
+      {
+        "index": 3,
+        "progressLimit": 16,
+        "progressEvents": [
+          32035,
+          32036,
+          32041,
+          32040
+        ],
+        "pveMissions": [
+          320350,
+          320370,
+          320380
+        ],
+        "monsterIds": {
+          "1001": 25000,
+          "1016": 75000
+        }
+      },
+      {
+        "index": 4,
+        "progressLimit": 16,
+        "progressEvents": [
+          32101,
+          32102,
+          32103,
+          32104,
+          32105
+        ],
+        "pveMissions": [
+          321000,
+          321010,
+          321020,
+          321030,
+          321040
+        ],
+        "monsterIds": {
+          "1001": 25000,
+          "1016": 75000
+        },
+        "preloadCharacterIds": [
+          1054,
+          1055
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8201201,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 18,
+        "progressEvents": [
+          32042,
+          32048,
+          32045,
+          32049
+        ],
+        "pveMissions": [
+          320390,
+          320410,
+          320420,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          1019,
+          1024
+        ]
+      },
+      {
+        "index": 1,
+        "progressLimit": 17,
+        "progressEvents": [
+          32042,
+          32048,
+          32045,
+          32049
+        ],
+        "pveMissions": [
+          320390,
+          320410,
+          320420,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          1019,
+          1024
+        ]
+      },
+      {
+        "index": 2,
+        "progressLimit": 16,
+        "progressEvents": [
+          32042,
+          32048,
+          32045,
+          32047
+        ],
+        "pveMissions": [
+          320390,
+          320410,
+          320420,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1023": 60000,
+          "1024": 10000
+        },
+        "preloadCharacterIds": [
+          1019,
+          1024
+        ]
+      },
+      {
+        "index": 3,
+        "progressLimit": 16,
+        "progressEvents": [
+          32042,
+          32044,
+          32045,
+          32047
+        ],
+        "pveMissions": [
+          320390,
+          320410,
+          320420,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1023": 55000,
+          "1024": 15000
+        },
+        "preloadCharacterIds": [
+          1019,
+          1024
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8201202,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 18,
+        "progressEvents": [
+          32043,
+          32048,
+          32046,
+          32049
+        ],
+        "pveMissions": [
+          320400,
+          320450,
+          320410,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          1018
+        ]
+      },
+      {
+        "index": 1,
+        "progressLimit": 17,
+        "progressEvents": [
+          32043,
+          32048,
+          32046,
+          32049
+        ],
+        "pveMissions": [
+          320400,
+          320450,
+          320410,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          1018
+        ]
+      },
+      {
+        "index": 2,
+        "progressLimit": 16,
+        "progressEvents": [
+          32043,
+          32048,
+          32046,
+          32047
+        ],
+        "pveMissions": [
+          320400,
+          320450,
+          320440,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 35000,
+          "1023": 65000
+        },
+        "preloadCharacterIds": [
+          1018
+        ]
+      },
+      {
+        "index": 3,
+        "progressLimit": 16,
+        "progressEvents": [
+          32043,
+          32044,
+          32046,
+          32047
+        ],
+        "pveMissions": [
+          320400,
+          320450,
+          320440,
+          320430
+        ],
+        "monsterIds": {
+          "1001": 35000,
+          "1023": 65000
+        },
+        "preloadCharacterIds": [
+          1018
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82013,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 18,
+        "progressEvents": [
+          32050,
+          32051,
+          32052,
+          32053,
+          32054,
+          32055
+        ],
+        "pveMissions": [
+          320500,
+          320510,
+          320520,
+          320530,
+          320540,
+          320550,
+          320560,
+          320570
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        }
+      },
+      {
+        "index": 1,
+        "progressLimit": 17,
+        "progressEvents": [
+          32050,
+          32051,
+          32052,
+          32053,
+          32054,
+          32055
+        ],
+        "pveMissions": [
+          320500,
+          320510,
+          320520,
+          320530,
+          320540,
+          320550,
+          320560,
+          320570
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        }
+      },
+      {
+        "index": 2,
+        "progressLimit": 16,
+        "progressEvents": [
+          32050,
+          32051,
+          32052,
+          32053,
+          32054,
+          32055
+        ],
+        "pveMissions": [
+          320500,
+          320510,
+          320520,
+          320530,
+          320540,
+          320550,
+          320560,
+          320570
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        }
+      },
+      {
+        "index": 3,
+        "progressLimit": 16,
+        "progressEvents": [
+          32050,
+          32051,
+          32052,
+          32053,
+          32054,
+          32055
+        ],
+        "pveMissions": [
+          320500,
+          320510,
+          320520,
+          320530,
+          320540,
+          320550,
+          320560,
+          320570
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        }
+      }
+    ]
+  },
+  {
+    "id": 82014,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 18,
+        "progressEvents": [
+          32060,
+          32061,
+          32066,
+          32062,
+          32063,
+          32064
+        ],
+        "pveMissions": [
+          320650,
+          320610,
+          320620,
+          320630,
+          320640
+        ],
+        "monsterIds": {
+          "1001": 50000,
+          "1034": 50000
+        }
+      },
+      {
+        "index": 1,
+        "progressLimit": 18,
+        "progressEvents": [
+          32060,
+          32061,
+          32066,
+          32062,
+          32063,
+          32064
+        ],
+        "pveMissions": [
+          320650,
+          320610,
+          320620,
+          320630,
+          320640
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1034": 60000
+        }
+      },
+      {
+        "index": 2,
+        "progressLimit": 17,
+        "progressEvents": [
+          32060,
+          32061,
+          32066,
+          32062,
+          32063,
+          32065
+        ],
+        "pveMissions": [
+          320650,
+          320610,
+          320620,
+          320640,
+          320660
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1034": 60000
+        }
+      },
+      {
+        "index": 3,
+        "progressLimit": 16,
+        "progressEvents": [
+          32060,
+          32061,
+          32066,
+          32062,
+          32063,
+          32065
+        ],
+        "pveMissions": [
+          320650,
+          320610,
+          320620,
+          320640,
+          320660
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1034": 70000
+        }
+      }
+    ]
+  },
+  {
+    "id": 82015,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 18,
+        "progressEvents": [
+          32080,
+          32081,
+          32082,
+          32083,
+          32084,
+          32085,
+          32086,
+          32087,
+          32088,
+          32089,
+          32090
+        ],
+        "pveMissions": [
+          320800,
+          320810,
+          320820,
+          320830,
+          320840,
+          320850,
+          320860,
+          320870,
+          320880,
+          320890,
+          320900
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1016": 10000,
+          "1043": 50000
+        },
+        "preloadCharacterIds": [
+          1016
+        ]
+      },
+      {
+        "index": 1,
+        "progressLimit": 18,
+        "progressEvents": [
+          32080,
+          32081,
+          32082,
+          32083,
+          32084,
+          32085,
+          32086,
+          32087,
+          32088,
+          32089,
+          32090
+        ],
+        "pveMissions": [
+          320800,
+          320810,
+          320820,
+          320830,
+          320840,
+          320850,
+          320860,
+          320870,
+          320880,
+          320890,
+          320900
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1016": 10000,
+          "1043": 50000
+        },
+        "preloadCharacterIds": [
+          1016
+        ]
+      },
+      {
+        "index": 2,
+        "progressLimit": 17,
+        "progressEvents": [
+          32080,
+          32081,
+          32082,
+          32083,
+          32084,
+          32085,
+          32086,
+          32087,
+          32088,
+          32089,
+          32090
+        ],
+        "pveMissions": [
+          320800,
+          320810,
+          320820,
+          320830,
+          320840,
+          320850,
+          320860,
+          320870,
+          320880,
+          320890,
+          320900
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1016": 15000,
+          "1043": 55000
+        },
+        "preloadCharacterIds": [
+          1016
+        ]
+      },
+      {
+        "index": 3,
+        "progressLimit": 17,
+        "progressEvents": [
+          32080,
+          32081,
+          32082,
+          32083,
+          32084,
+          32085,
+          32086,
+          32087,
+          32088,
+          32089,
+          32090
+        ],
+        "pveMissions": [
+          320800,
+          320810,
+          320820,
+          320830,
+          320840,
+          320850,
+          320860,
+          320870,
+          320880,
+          320890,
+          320900
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1016": 10000,
+          "1043": 60000
+        },
+        "preloadCharacterIds": [
+          1016
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82016,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 18,
+        "progressEvents": [
+          32121,
+          32122,
+          32123,
+          32124
+        ],
+        "pveMissions": [
+          321100,
+          321110,
+          321120,
+          321130
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          1024
+        ],
+        "extraModes": [
+          {
+            "value": 2,
+            "name": "PVEExtraModeType_Clue"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "progressLimit": 18,
+        "progressEvents": [
+          32121,
+          32122,
+          32123,
+          32124
+        ],
+        "pveMissions": [
+          321100,
+          321110,
+          321120,
+          321130
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          1024
+        ],
+        "extraModes": [
+          {
+            "value": 2,
+            "name": "PVEExtraModeType_Clue"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "progressLimit": 17,
+        "progressEvents": [
+          32121,
+          32122,
+          32123,
+          32124
+        ],
+        "pveMissions": [
+          321100,
+          321110,
+          321120,
+          321130
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1023": 60000,
+          "1024": 10000
+        },
+        "preloadCharacterIds": [
+          1024
+        ],
+        "extraModes": [
+          {
+            "value": 2,
+            "name": "PVEExtraModeType_Clue"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "progressLimit": 17,
+        "progressEvents": [
+          32121,
+          32122,
+          32123,
+          32124
+        ],
+        "pveMissions": [
+          321100,
+          321110,
+          321120,
+          321130
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1023": 55000,
+          "1024": 15000
+        },
+        "preloadCharacterIds": [
+          1024
+        ],
+        "extraModes": [
+          {
+            "value": 2,
+            "name": "PVEExtraModeType_Clue"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 20,
+        "progressEvents": [
+          34009,
+          34010,
+          34011,
+          34012,
+          34013
+        ],
+        "pveMissions": [
+          340080,
+          340090,
+          340100
+        ],
+        "monsterIds": {
+          "1007": 50000
+        }
+      }
+    ]
+  },
+  {
+    "id": 8300101,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 17,
+        "progressEvents": [
+          35001,
+          35002,
+          35003,
+          35004
+        ],
+        "pveMissions": [
+          350010,
+          350020,
+          350030,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          3002,
+          3005
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1101,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 1,
+        "progressLimit": 16,
+        "progressEvents": [
+          35001,
+          35002,
+          35003,
+          35004
+        ],
+        "pveMissions": [
+          350010,
+          350020,
+          350030,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          3002,
+          3005
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1101,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 2,
+        "progressLimit": 15,
+        "progressEvents": [
+          35001,
+          35002,
+          35003,
+          35004
+        ],
+        "pveMissions": [
+          350010,
+          350020,
+          350030,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1023": 60000,
+          "1024": 10000
+        },
+        "preloadCharacterIds": [
+          3002,
+          3005
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1101,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 3,
+        "progressLimit": 15,
+        "progressEvents": [
+          35001,
+          35002,
+          35003,
+          35004
+        ],
+        "pveMissions": [
+          350010,
+          350020,
+          350030,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1023": 45000,
+          "1024": 15000,
+          "1040": 10000
+        },
+        "preloadCharacterIds": [
+          3002,
+          3005
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1101,
+        "performTriggerSetId": 1001
+      }
+    ]
+  },
+  {
+    "id": 8300102,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 17,
+        "progressEvents": [
+          35011,
+          35012,
+          35013,
+          35014
+        ],
+        "pveMissions": [
+          350110,
+          350120,
+          350130,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          3001
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1102,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 1,
+        "progressLimit": 16,
+        "progressEvents": [
+          35011,
+          35012,
+          35013,
+          35014
+        ],
+        "pveMissions": [
+          350110,
+          350120,
+          350130,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1023": 60000
+        },
+        "preloadCharacterIds": [
+          3001
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1102,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 2,
+        "progressLimit": 15,
+        "progressEvents": [
+          35011,
+          35012,
+          35013,
+          35014
+        ],
+        "pveMissions": [
+          350110,
+          350120,
+          350130,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 35000,
+          "1023": 65000
+        },
+        "preloadCharacterIds": [
+          3001
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1102,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 3,
+        "progressLimit": 15,
+        "progressEvents": [
+          35011,
+          35012,
+          35013,
+          35014
+        ],
+        "pveMissions": [
+          350110,
+          350120,
+          350130,
+          350040
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1023": 60000,
+          "1040": 10000
+        },
+        "preloadCharacterIds": [
+          3001
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1102,
+        "performTriggerSetId": 1001
+      }
+    ]
+  },
+  {
+    "id": 8300201,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 17,
+        "progressEvents": [
+          35031,
+          35032,
+          35033,
+          35034
+        ],
+        "pveMissions": [
+          350310,
+          350320,
+          350330,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3003,
+          3006
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1111,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 1,
+        "progressLimit": 16,
+        "progressEvents": [
+          35031,
+          35032,
+          35033,
+          35034
+        ],
+        "pveMissions": [
+          350310,
+          350320,
+          350330,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3003,
+          3006
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1111,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 2,
+        "progressLimit": 15,
+        "progressEvents": [
+          35031,
+          35032,
+          35033,
+          35034
+        ],
+        "pveMissions": [
+          350310,
+          350320,
+          350330,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3003,
+          3006
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1111,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 3,
+        "progressLimit": 15,
+        "progressEvents": [
+          35031,
+          35032,
+          35033,
+          35034
+        ],
+        "pveMissions": [
+          350310,
+          350320,
+          350330,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3003,
+          3006
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1111,
+        "performTriggerSetId": 1001
+      }
+    ]
+  },
+  {
+    "id": 8300202,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 17,
+        "progressEvents": [
+          35041,
+          35042,
+          35043,
+          35044
+        ],
+        "pveMissions": [
+          350310,
+          350410,
+          350420,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3004
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1112,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 1,
+        "progressLimit": 16,
+        "progressEvents": [
+          35041,
+          35042,
+          35043,
+          35044
+        ],
+        "pveMissions": [
+          350310,
+          350410,
+          350420,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3004
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1112,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 2,
+        "progressLimit": 15,
+        "progressEvents": [
+          35041,
+          35042,
+          35043,
+          35044
+        ],
+        "pveMissions": [
+          350310,
+          350410,
+          350420,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3004
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1112,
+        "performTriggerSetId": 1001
+      },
+      {
+        "index": 3,
+        "progressLimit": 15,
+        "progressEvents": [
+          35041,
+          35042,
+          35043,
+          35044
+        ],
+        "pveMissions": [
+          350310,
+          350410,
+          350420,
+          350340
+        ],
+        "monsterIds": {
+          "1001": 2500,
+          "1002": 2500,
+          "1028": 5000
+        },
+        "preloadCharacterIds": [
+          3004
+        ],
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1112,
+        "performTriggerSetId": 1001
+      }
+    ]
+  },
+  {
+    "id": 8300301,
+    "mapGameDifficultyConfigureItems": [
+      {
+        "progressLimit": 17,
+        "progressEvents": [
+          35061,
+          35062,
+          35063,
+          35064
+        ],
+        "pveMissions": [
+          350610,
+          350620,
+          350630,
+          350640,
+          350650
+        ],
+        "monsterIds": {
+          "1001": 50000,
+          "1062": 50000
+        },
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1121,
+        "performTriggerSetId": 1002
+      },
+      {
+        "index": 1,
+        "progressLimit": 16,
+        "progressEvents": [
+          35061,
+          35062,
+          35063,
+          35064
+        ],
+        "pveMissions": [
+          350610,
+          350620,
+          350630,
+          350640,
+          350650
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1062": 60000
+        },
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1121,
+        "performTriggerSetId": 1002
+      },
+      {
+        "index": 2,
+        "progressLimit": 15,
+        "progressEvents": [
+          35061,
+          35062,
+          35063,
+          35064
+        ],
+        "pveMissions": [
+          350610,
+          350620,
+          350630,
+          350640,
+          350650
+        ],
+        "monsterIds": {
+          "1001": 40000,
+          "1056": 10000,
+          "1062": 50000
+        },
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1121,
+        "performTriggerSetId": 1002
+      },
+      {
+        "index": 3,
+        "progressLimit": 15,
+        "progressEvents": [
+          35061,
+          35062,
+          35063,
+          35064
+        ],
+        "pveMissions": [
+          350610,
+          350620,
+          350630,
+          350640,
+          350650
+        ],
+        "monsterIds": {
+          "1001": 30000,
+          "1056": 15000,
+          "1062": 55000
+        },
+        "extraModes": [
+          {
+            "value": 1,
+            "name": "PVEExtraModeType_Mutator"
+          }
+        ],
+        "mutatorPool": 1121,
+        "performTriggerSetId": 1002
+      }
+    ]
+  }
+]

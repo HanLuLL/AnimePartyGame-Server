@@ -1,0 +1,129 @@
+[
+  {
+    "id": 202609,
+    "battlePassRewardDetailConfigureItems": [
+      {
+        "index": 1,
+        "normalIcon": "UT_Item_StandingPainting_127_02",
+        "normalDescription": 6090501,
+        "isNormalSpecial": true,
+        "premiumIcon": "UT_Item_StandingPainting_127_02",
+        "premiumDescription": 6090501,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 2,
+        "normalIcon": "UT_Item_AccountBackground_127_02",
+        "normalDescription": 6090502,
+        "isNormalSpecial": true,
+        "premiumIcon": "UT_Item_AccountBackground_127_02",
+        "premiumDescription": 6090502,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 3,
+        "normalIcon": "UT_Item_Currency_2",
+        "normalDescription": 4060303,
+        "premiumIcon": "UT_Item_Currency_2",
+        "premiumDescription": 4060403
+      },
+      {
+        "index": 4,
+        "normalIcon": "UT_Item_Gacha_90001",
+        "normalDescription": 4060304,
+        "premiumIcon": "UT_Item_Gacha_90001",
+        "premiumDescription": 4060404
+      },
+      {
+        "index": 5,
+        "normalIcon": "UT_Item_Currency_1",
+        "normalDescription": 4083305,
+        "premiumIcon": "UT_Item_Currency_1",
+        "premiumDescription": 4083405
+      },
+      {
+        "index": 6,
+        "normalIcon": "UT_Item_Chest_Comb_Blue_01",
+        "normalDescription": 4060306,
+        "premiumIcon": "UT_Item_Chest_Comb_Blue_01",
+        "premiumDescription": 4060406
+      },
+      {
+        "index": 7,
+        "normalIcon": "UT_Item_Chest_Comb_Purple_01",
+        "normalDescription": 4060307,
+        "premiumIcon": "UT_Item_Chest_Comb_Purple_01",
+        "premiumDescription": 4060407
+      },
+      {
+        "index": 8,
+        "normalIcon": "UT_Item_Material_78100",
+        "normalDescription": 4083308,
+        "premiumIcon": "UT_Item_Material_78100",
+        "premiumDescription": 4083408
+      },
+      {
+        "index": 9,
+        "normalIcon": "UT_Item_PlayerPhoto_70100",
+        "normalDescription": 6090509,
+        "isNormalSpecial": true,
+        "premiumIcon": "UT_Item_PlayerPhoto_70100",
+        "premiumDescription": 6090509,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 10,
+        "normalIcon": "UT_Item_Emoji_127_12",
+        "normalDescription": 6090510,
+        "premiumIcon": "UT_Item_Emoji_127_12",
+        "premiumDescription": 6090510
+      },
+      {
+        "index": 11,
+        "normalIcon": "UT_Item_Emoji_127_14",
+        "normalDescription": 6090511,
+        "premiumIcon": "UT_Item_Emoji_127_14",
+        "premiumDescription": 6090511
+      },
+      {
+        "index": 12,
+        "normalIcon": "UT_Item_CardBack_75074",
+        "normalDescription": 6090512,
+        "isNormalSpecial": true,
+        "premiumIcon": "UT_Item_CardBack_75074",
+        "premiumDescription": 6090512,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 13,
+        "premiumIcon": "UT_Item_CardBack_75075",
+        "premiumDescription": 6090513,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 14,
+        "premiumIcon": "UT_Item_AccountBackground_127_02",
+        "premiumDescription": 6090514,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 15,
+        "premiumIcon": "UT_Item_Emoji_127_13",
+        "premiumDescription": 6090515,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 16,
+        "premiumIcon": "UT_Item_Emoji_127_15",
+        "premiumDescription": 6090516,
+        "isPremiumSpecial": true
+      },
+      {
+        "index": 17,
+        "premiumIcon": "UT_BattlePass_LevelUP",
+        "premiumDescription": 4060417,
+        "isPremiumSpecial": true
+      }
+    ]
+  }
+]

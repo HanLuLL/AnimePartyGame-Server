@@ -1,0 +1,253 @@
+[
+  {
+    "id": 10101,
+    "addPassiveSkills": [
+      10112
+    ],
+    "descriptionID": 101010,
+    "needMaterials": {
+      "1": 1000,
+      "78002": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10201,
+    "replaceActiveSkill": 10202,
+    "descriptionID": 102010,
+    "needMaterials": {
+      "1": 1000,
+      "78004": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10301,
+    "replaceActiveSkill": 10302,
+    "descriptionID": 103010,
+    "needMaterials": {
+      "1": 1000,
+      "78006": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10401,
+    "addPassiveSkills": [
+      10412
+    ],
+    "descriptionID": 104010,
+    "needMaterials": {
+      "1": 1000,
+      "78008": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10501,
+    "addPassiveSkills": [
+      10512
+    ],
+    "descriptionID": 105010,
+    "needMaterials": {
+      "1": 1000,
+      "78003": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10601,
+    "replaceActiveSkill": 10602,
+    "descriptionID": 106010,
+    "needMaterials": {
+      "1": 1000,
+      "78004": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10701,
+    "replaceActiveSkill": 10703,
+    "descriptionID": 107010,
+    "needMaterials": {
+      "1": 1000,
+      "78007": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10801,
+    "addPassiveSkills": [
+      10812
+    ],
+    "descriptionID": 108010,
+    "needMaterials": {
+      "1": 1000,
+      "78008": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 10901,
+    "replaceActiveSkill": 10903,
+    "addPassiveSkills": [
+      10913
+    ],
+    "descriptionID": 109010,
+    "needMaterials": {
+      "1": 1000,
+      "78004": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 11001,
+    "addPassiveSkills": [
+      11013
+    ],
+    "descriptionID": 110010,
+    "needMaterials": {
+      "1": 1000,
+      "78003": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 11201,
+    "replaceActiveSkill": 11203,
+    "delPassiveSkills": [
+      11212
+    ],
+    "addPassiveSkills": [
+      11213,
+      11214
+    ],
+    "descriptionID": 112010,
+    "needMaterials": {
+      "1": 1000,
+      "78007": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 11301,
+    "addPassiveSkills": [
+      11314
+    ],
+    "descriptionID": 113010,
+    "needMaterials": {
+      "1": 1000,
+      "78004": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 11401,
+    "replaceActiveSkill": 11403,
+    "descriptionID": 114010,
+    "needMaterials": {
+      "1": 1000,
+      "78005": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 11501,
+    "replaceActiveSkill": 11503,
+    "delPassiveSkills": [
+      11511
+    ],
+    "addPassiveSkills": [
+      11512
+    ],
+    "descriptionID": 115010,
+    "needMaterials": {
+      "1": 1000,
+      "78006": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 11701,
+    "replaceActiveSkill": 11702,
+    "addPassiveSkills": [
+      11712
+    ],
+    "descriptionID": 117010,
+    "needMaterials": {
+      "1": 1000,
+      "78001": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 12001,
+    "replaceActiveSkill": 12003,
+    "addPassiveSkills": [
+      12013
+    ],
+    "descriptionID": 120010,
+    "needMaterials": {
+      "1": 1000,
+      "78007": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 12201,
+    "replaceActiveSkill": 12203,
+    "addPassiveSkills": [
+      12212
+    ],
+    "descriptionID": 122010,
+    "needMaterials": {
+      "1": 1000,
+      "78002": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 30101,
+    "replaceActiveSkill": 30103,
+    "addPassiveSkills": [
+      30114
+    ],
+    "descriptionID": 301010,
+    "needMaterials": {
+      "1": 1000,
+      "78001": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  },
+  {
+    "id": 30201,
+    "addPassiveSkills": [
+      30214
+    ],
+    "descriptionID": 302010,
+    "needMaterials": {
+      "1": 1000,
+      "78002": 8,
+      "78200": 1
+    },
+    "unlockNeedPVELevel": 6
+  }
+]

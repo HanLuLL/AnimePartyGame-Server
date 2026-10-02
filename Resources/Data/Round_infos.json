@@ -1,0 +1,29 @@
+[
+  {
+    "roundType": {
+      "value": 3,
+      "name": "RoundType_LotteryRound"
+    },
+    "params": [
+      10,
+      10
+    ]
+  },
+  {
+    "roundType": {
+      "value": 2,
+      "name": "RoundType_DistributeResourcesRound"
+    },
+    "params": [
+      15,
+      5,
+      7,
+      8,
+      9,
+      10,
+      1,
+      4,
+      6
+    ]
+  }
+]

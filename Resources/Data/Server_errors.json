@@ -1,0 +1,1391 @@
+[
+  {},
+  {
+    "id": 1001,
+    "serverErrorDealType": {
+      "value": 3,
+      "name": "ServerErrorDealType_ReturnToLogin"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 1001
+  },
+  {
+    "id": 1002,
+    "serverErrorDealType": {
+      "value": 8,
+      "name": "ServerErrorDealType_ServerBusy"
+    },
+    "descId": 1002
+  },
+  {
+    "id": 1003,
+    "serverErrorDealType": {
+      "value": 7,
+      "name": "ServerErrorDealType_QueueReconnect"
+    },
+    "descId": 1003
+  },
+  {
+    "id": 5000,
+    "descId": 5000
+  },
+  {
+    "id": 10000,
+    "serverErrorDealType": {
+      "value": 3,
+      "name": "ServerErrorDealType_ReturnToLogin"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 10000
+  },
+  {
+    "id": 10001,
+    "serverErrorDealType": {
+      "value": 3,
+      "name": "ServerErrorDealType_ReturnToLogin"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 10001
+  },
+  {
+    "id": 10002,
+    "serverErrorDealType": {
+      "value": 3,
+      "name": "ServerErrorDealType_ReturnToLogin"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 10002
+  },
+  {
+    "id": 10003,
+    "descId": 10003
+  },
+  {
+    "id": 10004,
+    "serverErrorDealType": {
+      "value": 3,
+      "name": "ServerErrorDealType_ReturnToLogin"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 10004
+  },
+  {
+    "id": 10010,
+    "serverErrorDealType": {
+      "value": 3,
+      "name": "ServerErrorDealType_ReturnToLogin"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 10010
+  },
+  {
+    "id": 10011,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 10011
+  },
+  {
+    "id": 10012,
+    "serverErrorDealType": {
+      "value": 6,
+      "name": "ServerErrorDealType_QuitGame"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 10012
+  },
+  {
+    "id": 10013,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 10013
+  },
+  {
+    "id": 10015,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 10015
+  },
+  {
+    "id": 10016,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 10016
+  },
+  {
+    "id": 10017,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 10017
+  },
+  {
+    "id": 10018,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 10018
+  },
+  {
+    "id": 10019,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 10019
+  },
+  {
+    "id": 10020,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 10020
+  },
+  {
+    "id": 10022,
+    "descId": 10022
+  },
+  {
+    "id": 11000,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11000
+  },
+  {
+    "id": 11001,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11001
+  },
+  {
+    "id": 11002,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11002
+  },
+  {
+    "id": 11003,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11003
+  },
+  {
+    "id": 11004,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11004
+  },
+  {
+    "id": 11005,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11005
+  },
+  {
+    "id": 11006,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11006
+  },
+  {
+    "id": 11007,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11007
+  },
+  {
+    "id": 11008,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11008
+  },
+  {
+    "id": 11009,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11009
+  },
+  {
+    "id": 11010,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11010
+  },
+  {
+    "id": 11011,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11011
+  },
+  {
+    "id": 11012,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11012
+  },
+  {
+    "id": 11013,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11013
+  },
+  {
+    "id": 11014,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11014
+  },
+  {
+    "id": 11015,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11015
+  },
+  {
+    "id": 11016,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11016
+  },
+  {
+    "id": 11017,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11017
+  },
+  {
+    "id": 11018,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11018
+  },
+  {
+    "id": 11019,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11019
+  },
+  {
+    "id": 11020,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11020
+  },
+  {
+    "id": 11021,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11021
+  },
+  {
+    "id": 11022,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11022
+  },
+  {
+    "id": 11023,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11023
+  },
+  {
+    "id": 11024,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11024
+  },
+  {
+    "id": 11025,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11025
+  },
+  {
+    "id": 11026,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11026
+  },
+  {
+    "id": 11027,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11027
+  },
+  {
+    "id": 11028,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11028
+  },
+  {
+    "id": 11029,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11029
+  },
+  {
+    "id": 11030,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11030
+  },
+  {
+    "id": 11031,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11031
+  },
+  {
+    "id": 11032,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11032
+  },
+  {
+    "id": 11033,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11033
+  },
+  {
+    "id": 11034,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11034
+  },
+  {
+    "id": 11035,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11035
+  },
+  {
+    "id": 11036,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11036
+  },
+  {
+    "id": 11037,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11037
+  },
+  {
+    "id": 11038,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11038
+  },
+  {
+    "id": 11039,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11039
+  },
+  {
+    "id": 11040,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11040
+  },
+  {
+    "id": 11041,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11041
+  },
+  {
+    "id": 11042,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11042
+  },
+  {
+    "id": 11043,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11043
+  },
+  {
+    "id": 11044,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11044
+  },
+  {
+    "id": 11045,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11045
+  },
+  {
+    "id": 11046,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11046
+  },
+  {
+    "id": 11047,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11047
+  },
+  {
+    "id": 11048,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11048
+  },
+  {
+    "id": 11049,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11049
+  },
+  {
+    "id": 11050,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11050
+  },
+  {
+    "id": 11051,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11051
+  },
+  {
+    "id": 11052,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11052
+  },
+  {
+    "id": 11053,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11053
+  },
+  {
+    "id": 11054,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11054
+  },
+  {
+    "id": 11055,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11055
+  },
+  {
+    "id": 11056,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11056
+  },
+  {
+    "id": 11057,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11057
+  },
+  {
+    "id": 11058,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11058
+  },
+  {
+    "id": 11059,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11059
+  },
+  {
+    "id": 11060,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11060
+  },
+  {
+    "id": 11061,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11061
+  },
+  {
+    "id": 11062,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11062
+  },
+  {
+    "id": 11063,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11063
+  },
+  {
+    "id": 11064,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11064
+  },
+  {
+    "id": 11065,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11065
+  },
+  {
+    "id": 11066,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11066
+  },
+  {
+    "id": 11067,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11067
+  },
+  {
+    "id": 11068,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11068
+  },
+  {
+    "id": 11069,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11069
+  },
+  {
+    "id": 11070,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11070
+  },
+  {
+    "id": 11071,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11071
+  },
+  {
+    "id": 11072,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11072
+  },
+  {
+    "id": 11073,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11073
+  },
+  {
+    "id": 11074,
+    "serverErrorDealType": {
+      "value": 2,
+      "name": "ServerErrorDealType_ReconnectNet"
+    },
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 11074
+  },
+  {
+    "id": 11075,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11075
+  },
+  {
+    "id": 11076,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11076
+  },
+  {
+    "id": 11077,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11077
+  },
+  {
+    "id": 11079,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11079
+  },
+  {
+    "id": 11080,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11080
+  },
+  {
+    "id": 11081,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11081
+  },
+  {
+    "id": 11082,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11082
+  },
+  {
+    "id": 11083,
+    "descId": 11083
+  },
+  {
+    "id": 11084,
+    "descId": 11084
+  },
+  {
+    "id": 11085,
+    "descId": 11085
+  },
+  {
+    "id": 11086,
+    "descId": 11086
+  },
+  {
+    "id": 11087,
+    "descId": 11087
+  },
+  {
+    "id": 11088,
+    "descId": 11088
+  },
+  {
+    "id": 11089,
+    "descId": 11089
+  },
+  {
+    "id": 11090,
+    "descId": 11090
+  },
+  {
+    "id": 11092,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 11092
+  },
+  {
+    "id": 12001,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12001
+  },
+  {
+    "id": 12002,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12002
+  },
+  {
+    "id": 12003,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12003
+  },
+  {
+    "id": 12004,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12004
+  },
+  {
+    "id": 12005,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12005
+  },
+  {
+    "id": 12006,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12006
+  },
+  {
+    "id": 12007,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12007
+  },
+  {
+    "id": 12008,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12008
+  },
+  {
+    "id": 12009,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12009
+  },
+  {
+    "id": 12010,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12010
+  },
+  {
+    "id": 12011,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12011
+  },
+  {
+    "id": 12012,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12012
+  },
+  {
+    "id": 12013,
+    "descId": 12012
+  },
+  {
+    "id": 12014,
+    "descId": 12012
+  },
+  {
+    "id": 12015,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 12015
+  },
+  {
+    "id": 15001,
+    "serverErrorDealType": {
+      "value": 5,
+      "name": "ServerErrorDealType_RefreshUI"
+    },
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 15001
+  },
+  {
+    "id": 15002,
+    "serverErrorDealType": {
+      "value": 5,
+      "name": "ServerErrorDealType_RefreshUI"
+    },
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 15002
+  },
+  {
+    "id": 15003,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 15003
+  },
+  {
+    "id": 15011,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 15011
+  },
+  {
+    "id": 15012,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 15012
+  },
+  {
+    "id": 15013,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 15013
+  },
+  {
+    "id": 15014,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 15014
+  },
+  {
+    "id": 15015,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 15015
+  },
+  {
+    "id": 15016,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 15016
+  },
+  {
+    "id": 15017,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 15017
+  },
+  {
+    "id": 15018,
+    "serverErrorShowType": {
+      "value": 3,
+      "name": "ServerErrorShowType_ShowOKWindow"
+    },
+    "descId": 15018
+  },
+  {
+    "id": 16000,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16000
+  },
+  {
+    "id": 16001,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16001
+  },
+  {
+    "id": 16002,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16002
+  },
+  {
+    "id": 16003,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16003
+  },
+  {
+    "id": 16004,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16004
+  },
+  {
+    "id": 16005,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16005
+  },
+  {
+    "id": 16006,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16006
+  },
+  {
+    "id": 16007,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16007
+  },
+  {
+    "id": 16008,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16008
+  },
+  {
+    "id": 16009,
+    "serverErrorShowType": {
+      "value": 1,
+      "name": "ServerErrorShowType_ShowTips"
+    },
+    "descId": 16009
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "guildTagType": {
+      "value": 1,
+      "name": "GuildTagType_Casual"
+    },
+    "nameID": 11
+  },
+  {
+    "guildTagType": {
+      "value": 2,
+      "name": "GuildTagType_Social"
+    },
+    "nameID": 12
+  },
+  {
+    "guildTagType": {
+      "value": 3,
+      "name": "GuildTagType_PVE"
+    },
+    "nameID": 13
+  },
+  {
+    "guildTagType": {
+      "value": 4,
+      "name": "GuildTagType_PVP"
+    },
+    "nameID": 14
+  },
+  {
+    "guildTagType": {
+      "value": 5,
+      "name": "GuildTagType_Novice"
+    },
+    "nameID": 15
+  },
+  {
+    "guildTagType": {
+      "value": 6,
+      "name": "GuildTagType_Challenge"
+    },
+    "nameID": 16
+  }
+]

@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.dll binary
+*.p12 binary
+*.apk binary
+*.aab binary
+*.obb binary
+*.db0 binary
+*.assetbundle binary
+*.bundle binary
+*.dat binary
+*.pb binary

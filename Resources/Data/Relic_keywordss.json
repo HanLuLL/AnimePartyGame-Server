@@ -1,0 +1,38 @@
+[
+  {
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Buff_Heal",
+    "keywordNameID": 200,
+    "keywordDesID": 300
+  },
+  {
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Buff_StarLight",
+    "keywordNameID": 201,
+    "keywordDesID": 301
+  },
+  {
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Buff_Lock",
+    "keywordNameID": 202,
+    "keywordDesID": 302
+  },
+  {
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Buff_Charge",
+    "keywordNameID": 203,
+    "keywordDesID": 303
+  }
+]

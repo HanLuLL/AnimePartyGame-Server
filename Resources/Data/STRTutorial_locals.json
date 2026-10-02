@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1,
+    "simplified": "确定要以 [color=#FFB300]{0}[/color] 进行游玩吗？"
+  },
+  {
+    "id": 2,
+    "simplified": "请点击【移动】"
+  },
+  {
+    "id": 3,
+    "simplified": "请击倒海盗王嘎呜！"
+  },
+  {
+    "id": 4,
+    "simplified": "请选择希望使用的角色！"
+  },
+  {
+    "id": 5,
+    "simplified": "我明白了！"
+  },
+  {
+    "id": 6,
+    "simplified": "结束教程"
+  },
+  {
+    "id": 7,
+    "simplified": "继续基础挑战"
+  },
+  {
+    "id": 8,
+    "simplified": "请点击选择目标"
+  },
+  {
+    "id": 100,
+    "simplified": "新手教学"
+  },
+  {
+    "id": 101,
+    "simplified": "推荐新手玩家优先完成新手教学，\n快速了解游戏基本玩法。"
+  },
+  {
+    "id": 102,
+    "simplified": "开始教程"
+  },
+  {
+    "id": 103,
+    "simplified": "跳过教程"
+  },
+  {
+    "id": 110,
+    "simplified": "移动结束后停留的地块，会触发对应的效果！"
+  },
+  {
+    "id": 120,
+    "simplified": "[size=38]卡牌有强大的效果，可以在商店中使用\n<img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>星币来购买卡牌！[/size]"
+  },
+  {
+    "id": 130,
+    "simplified": "筹码可以极大地提升角色的能力。\n请选择一枚筹码吧！"
+  },
+  {
+    "id": 140,
+    "simplified": "到达特定进度会触发地图事件，带来变化和挑战！"
+  },
+  {
+    "id": 150,
+    "simplified": "[size=38]攻击方骰点后，可选择<img src='ui://b96qpoz6dvyiq4j' width='50' height='50'/>防御或<img src='ui://b96qpoz6dvyiq4k' width='50' height='50'/>闪避。\n\n选择[color=#F64C4A]防御[/color]，受到攻防差额的伤害，最低1点。\n选择[color=#F64C4A]闪避[/color]，骰点>对方骰点，就能躲开攻击。\n\n一般情况下，选择防御是更稳妥的选择![/size]"
+  },
+  {
+    "id": 160,
+    "simplified": "强力的怪物是会<img src='ui://b96qpoz6dvyiq4n' width='50' height='50'/>反击的，在遭遇到他们的时候请注意查看！"
+  },
+  {
+    "id": 170,
+    "simplified": "如果您是新手玩家，推荐从基础挑战开始游玩，以更加熟悉游戏内容。\n(通关基础挑战第1关，预计需要10分钟。)\n或者您可以选择结束教程，自由体验游戏的其他内容了！"
+  },
+  {
+    "id": 180,
+    "simplified": "每个角色都有自己独特的[color=#EE0809]【技能】[/color]~\n在合适的时机使用能改变战局！\n\n点击头像查看技能，并尝试使用吧！"
+  },
+  {
+    "id": 1001101,
+    "simplified": "你好呀，[color=#FFB300]{0}[/color]，欢迎来到吉星派对！我是游戏的看板娘米米。"
+  },
+  {
+    "id": 1001102,
+    "simplified": "现在让我们直接开始游戏！首先，请选择角色吧！"
+  },
+  {
+    "id": 10001101,
+    "simplified": "在游戏中，获取<img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>[size=50][color=#FFB300]星币[/color][/size]是非常关键的事情。"
+  },
+  {
+    "id": 10002101,
+    "simplified": "收集足够的星币，才能在保障点获取星星！当前我们只需要获取一个<img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>[size=50][color=#FFB300]星星[/color][/size]就算通关！"
+  },
+  {
+    "id": 10003101,
+    "simplified": "好的，让我们来掷骰子进行移动！"
+  },
+  {
+    "id": 10004101,
+    "simplified": "感觉不错！获得了地块上的一些奖励，那你也来试试吧！"
+  },
+  {
+    "id": 10005101,
+    "simplified": "你的运气比我好多了~但是对局中可能会有很多变数！继续投掷看看？"
+  },
+  {
+    "id": 10006101,
+    "simplified": "这家伙居然敢偷取我们的星币！快！把它击倒！"
+  },
+  {
+    "id": 10007101,
+    "simplified": "这里请使用[size=50][color=#FFB300]卡牌[/color][/size]提升攻击力！"
+  },
+  {
+    "id": 10008101,
+    "simplified": "这时候可以去<img src='UT_Platform_Start' width='50' height='50'/>[size=50][color=#FFB300]保障点[/color][/size]获得星星了！那么我先来！"
+  },
+  {
+    "id": 10009101,
+    "simplified": "哎呀，我的运气有点不好…看你的了！"
+  },
+  {
+    "id": 10010101,
+    "simplified": "感觉不错！那就这样继续吧！"
+  },
+  {
+    "id": 20001101,
+    "simplified": "你之前已经了解了基础玩法，那么我们继续了解更深入的玩法吧！"
+  },
+  {
+    "id": 20001102,
+    "simplified": "请选择心仪的角色进入战斗关卡。"
+  },
+  {
+    "id": 20002101,
+    "simplified": "这张地图的关键是要战胜<img src='UT_Item_PlayerPhoto_70030' width='50' height='50'/>[size=50][color=#FF4646]首领[/color][/size]！"
+  },
+  {
+    "id": 20003101,
+    "simplified": "上方有需要完成的任务提示以及整体的游戏进度！"
+  },
+  {
+    "id": 20003102,
+    "simplified": "完成任务可以获得<img src='ui://xuaw6o8jpmckq3u' width='50' height='50'/> [size=50][color=#FFB300]筹码[/color][/size]！这是一种强化角色的道具！"
+  },
+  {
+    "id": 20003103,
+    "simplified": "进度的推进会不断的带来新的挑战事件！"
+  },
+  {
+    "id": 20003104,
+    "simplified": "但是切记！进度一旦推到终点游戏就会失败！所以一定要在这之前打倒地图中的首领！"
+  },
+  {
+    "id": 20004101,
+    "simplified": "那么我们继续掷骰子前进！"
+  },
+  {
+    "id": 20005101,
+    "simplified": "在这张地图里，获得星星的同时也可以获得筹码！"
+  },
+  {
+    "id": 20006101,
+    "simplified": "一口气击倒小怪，就能完成任务获得奖励的筹码！我来帮你！"
+  },
+  {
+    "id": 20007101,
+    "simplified": "只要掷出6点，多大的攻击都能做到闪避！"
+  },
+  {
+    "id": 20008101,
+    "simplified": "恭喜！这样就获得了最终的胜利！"
+  },
+  {
+    "id": 20009101,
+    "simplified": "恭喜您！"
+  },
+  {
+    "id": 20009102,
+    "simplified": "已完成所有新手教学关卡！"
+  },
+  {
+    "id": 20009103,
+    "simplified": "相信您已经了解了游戏基础操作，\n让我们尽情地游戏吧！"
+  },
+  {
+    "id": 21001101,
+    "simplified": "点击开始游戏。"
+  },
+  {
+    "id": 21001201,
+    "simplified": "如果您首次游玩本游戏，推荐您从【单人关卡】开始游玩。\n祝您玩得开心！"
+  },
+  {
+    "id": 30001101,
+    "simplified": "每个角色都有自己独特的【[size=50][color=#FFB300]技能[/color][/size]】～想赢得更轻松的话，快来学会怎么用它们吧！"
+  },
+  {
+    "id": 30001102,
+    "simplified": "请点击左侧头像，查看【技能】。"
+  },
+  {
+    "id": 30002101,
+    "simplified": "技能的释放时机，就由您决定了。"
+  }
+]

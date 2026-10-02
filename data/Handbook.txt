@@ -1,0 +1,11 @@
+# Astral Party Server Handbook
+# Generated at server startup; IDs come from the loaded config tables.
+
+# GM Commands (send to any friend as a chat message, or via /admin)
+  /give <itemId> [count]
+  /gold <playerId> <amount>
+  /help
+  /reload
+  /setlevel <playerId> <level>
+  /status
+

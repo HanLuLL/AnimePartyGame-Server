@@ -1,0 +1,559 @@
+[
+  {
+    "id": 75001,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75001",
+    "CardPerview": "UT_CardBack_75001"
+  },
+  {
+    "id": 75002,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75002",
+    "CardPerview": "UT_CardBack_75002"
+  },
+  {
+    "id": 75003,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75003",
+    "CardPerview": "UT_CardBack_75003"
+  },
+  {
+    "id": 75004,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75004",
+    "CardPerview": "UT_CardBack_75004"
+  },
+  {
+    "id": 75005,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75005",
+    "CardPerview": "UT_CardBack_75005"
+  },
+  {
+    "id": 75006,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75006",
+    "CardPerview": "UT_CardBack_75006"
+  },
+  {
+    "id": 75007,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75007",
+    "CardPerview": "UT_CardBack_75007"
+  },
+  {
+    "id": 75008,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75008",
+    "CardPerview": "UT_CardBack_75008"
+  },
+  {
+    "id": 75009,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75009",
+    "CardPerview": "UT_CardBack_75009"
+  },
+  {
+    "id": 75010,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75010",
+    "CardPerview": "UT_CardBack_75010"
+  },
+  {
+    "id": 75011,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75011",
+    "CardPerview": "UT_CardBack_75011"
+  },
+  {
+    "id": 75012,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#CED4D7",
+    "CardBack": "UT_CardBack_75012",
+    "CardPerview": "UT_CardBack_75012"
+  },
+  {
+    "id": 75013,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75013",
+    "CardPerview": "UT_CardBack_75013"
+  },
+  {
+    "id": 75014,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#F6C453",
+    "CardBack": "UT_CardBack_75014",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75014"
+  },
+  {
+    "id": 75015,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75015",
+    "CardPerview": "UT_CardBack_75015"
+  },
+  {
+    "id": 75016,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#A835C4",
+    "CardBack": "UT_CardBack_75016",
+    "CardPerview": "UT_CardBack_75016"
+  },
+  {
+    "id": 75017,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#A835C4",
+    "CardBack": "UT_CardBack_75017",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75017"
+  },
+  {
+    "id": 75018,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75018",
+    "CardPerview": "UT_CardBack_75018"
+  },
+  {
+    "id": 75019,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75019",
+    "CardPerview": "UT_CardBack_75019"
+  },
+  {
+    "id": 75020,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#E7B04C",
+    "CardBack": "UT_CardBack_75020",
+    "CardPerview": "UT_CardBack_75020"
+  },
+  {
+    "id": 75021,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#E7B04C",
+    "CardBack": "UT_CardBack_75021",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75021"
+  },
+  {
+    "id": 75022,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75022",
+    "CardPerview": "UT_CardBack_75022"
+  },
+  {
+    "id": 75023,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75023",
+    "CardPerview": "UT_CardBack_75023"
+  },
+  {
+    "id": 75024,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#1E6044",
+    "CardBack": "UT_CardBack_75024",
+    "CardPerview": "UT_CardBack_75024"
+  },
+  {
+    "id": 75025,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75025",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75025"
+  },
+  {
+    "id": 75026,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75026",
+    "CardPerview": "UT_CardBack_75026"
+  },
+  {
+    "id": 75027,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75027",
+    "CardPerview": "UT_CardBack_75027"
+  },
+  {
+    "id": 75028,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75028",
+    "CardPerview": "UT_CardBack_75028"
+  },
+  {
+    "id": 75029,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75029",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75029"
+  },
+  {
+    "id": 75030,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75030",
+    "CardPerview": "UT_CardBack_75030"
+  },
+  {
+    "id": 75031,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75031",
+    "CardPerview": "UT_CardBack_75031"
+  },
+  {
+    "id": 75032,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#B098FF",
+    "CardBack": "UT_CardBack_75032",
+    "CardPerview": "UT_CardBack_75032"
+  },
+  {
+    "id": 75033,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#EABE13",
+    "CardBack": "UT_CardBack_75033",
+    "CardPerview": "UT_CardBack_75033"
+  },
+  {
+    "id": 75034,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#EABE13",
+    "CardBack": "UT_CardBack_75034",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75034"
+  },
+  {
+    "id": 75035,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75035",
+    "CardPerview": "UT_CardBack_75035"
+  },
+  {
+    "id": 75036,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75036",
+    "CardPerview": "UT_CardBack_75036"
+  },
+  {
+    "id": 75037,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75037",
+    "CardPerview": "UT_CardBack_75037"
+  },
+  {
+    "id": 75038,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75038",
+    "CardPerview": "UT_CardBack_75038"
+  },
+  {
+    "id": 75039,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75039",
+    "CardPerview": "UT_CardBack_75039"
+  },
+  {
+    "id": 75040,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75040",
+    "CardPerview": "UT_CardBack_75040"
+  },
+  {
+    "id": 75041,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#EABE13",
+    "CardBack": "UT_CardBack_75041",
+    "CardPerview": "UT_CardBack_75041"
+  },
+  {
+    "id": 75042,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#EABE13",
+    "CardBack": "UT_CardBack_75042",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75042"
+  },
+  {
+    "id": 75043,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75043",
+    "CardPerview": "UT_CardBack_75043"
+  },
+  {
+    "id": 75044,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75044",
+    "CardPerview": "UT_CardBack_75044"
+  },
+  {
+    "id": 75045,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75045",
+    "CardPerview": "UT_CardBack_75045"
+  },
+  {
+    "id": 75046,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75046",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75046"
+  },
+  {
+    "id": 75047,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75047",
+    "CardPerview": "UT_CardBack_75047"
+  },
+  {
+    "id": 75048,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75048",
+    "CardPerview": "UT_CardBack_75048"
+  },
+  {
+    "id": 75049,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75049",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75049"
+  },
+  {
+    "id": 75050,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75050",
+    "CardPerview": "UT_CardBack_75050"
+  },
+  {
+    "id": 75051,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75051",
+    "CardPerview": "UT_CardBack_75051"
+  },
+  {
+    "id": 75052,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75052",
+    "CardPerview": "UT_CardBack_75052"
+  },
+  {
+    "id": 75053,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75053",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75053"
+  },
+  {
+    "id": 75054,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75054",
+    "CardPerview": "UT_CardBack_75054"
+  },
+  {
+    "id": 75055,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75055",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75055"
+  },
+  {
+    "id": 75056,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75056",
+    "CardPerview": "UT_CardBack_75056"
+  },
+  {
+    "id": 75057,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75057",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75057"
+  },
+  {
+    "id": 75058,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75058",
+    "CardPerview": "UT_CardBack_75058"
+  },
+  {
+    "id": 75059,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75059",
+    "CardPerview": "UT_CardBack_75059"
+  },
+  {
+    "id": 75060,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75060",
+    "CardPerview": "UT_CardBack_75060"
+  },
+  {
+    "id": 75061,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75061",
+    "CardPerview": "UT_CardBack_75061"
+  },
+  {
+    "id": 75062,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75062",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75062"
+  },
+  {
+    "id": 75063,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75063",
+    "CardPerview": "UT_CardBack_75063"
+  },
+  {
+    "id": 75064,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75064",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75064"
+  },
+  {
+    "id": 75065,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75065",
+    "CardPerview": "UT_CardBack_75065"
+  },
+  {
+    "id": 75066,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75066",
+    "CardPerview": "UT_CardBack_75066"
+  },
+  {
+    "id": 75067,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75067",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75067"
+  },
+  {
+    "id": 75068,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75068",
+    "CardPerview": "UT_CardBack_75068"
+  },
+  {
+    "id": 75069,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75069",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75069"
+  },
+  {
+    "id": 75070,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75070",
+    "CardPerview": "UT_CardBack_75070"
+  },
+  {
+    "id": 75071,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75071",
+    "CardPerview": "UT_CardBack_75071"
+  },
+  {
+    "id": 75072,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75072",
+    "CardPerview": "UT_CardBack_75072"
+  },
+  {
+    "id": 75073,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75073",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75073"
+  },
+  {
+    "id": 75074,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75074",
+    "CardPerview": "UT_CardBack_75074"
+  },
+  {
+    "id": 75075,
+    "CardFront": "UT_CardFront_75025",
+    "CardFrontColor": "#FFFFFF",
+    "CardBack": "UT_CardBack_75075",
+    "CardBackMaterial": "UIDodge",
+    "CardPerview": "UT_CardBack_75075"
+  },
+  {
+    "id": 75076,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75076",
+    "CardPerview": "UT_CardBack_75076"
+  },
+  {
+    "id": 75077,
+    "CardFront": "UT_CardFront_00001",
+    "CardFrontColor": "#BB9B6F",
+    "CardBack": "UT_CardBack_75077",
+    "CardPerview": "UT_CardBack_75077"
+  }
+]

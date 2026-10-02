@@ -1,0 +1,136 @@
+[
+  {
+    "id": 7,
+    "order": 1,
+    "nameID": 22,
+    "background": "UT_StoreBG_CharacterPackage",
+    "shopTabTypes": [
+      {
+        "value": 22,
+        "name": "ShopTabType_BeginnerPack"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "order": 2,
+    "nameID": 23,
+    "shopTabTypes": [
+      {
+        "value": 23,
+        "name": "ShopTabType_MonthlyCard"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "order": 3,
+    "nameID": 13,
+    "background": "UT_StoreBG_7DayPackage_PVP",
+    "shopTabTypes": [
+      {
+        "value": 13,
+        "name": "ShopTabType_Day7GiftPackage"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "order": 4,
+    "nameID": 28,
+    "background": "UT_StoreBG_7DayPackage_PVE",
+    "shopTabTypes": [
+      {
+        "value": 28,
+        "name": "ShopTabType_Day7GiftPackage_PVE"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "order": 5,
+    "nameID": 37,
+    "background": "UT_StoreBG_7DayPackage_PVE_year",
+    "shopTabTypes": [
+      {
+        "value": 37,
+        "name": "ShopTabType_Day7GiftPackage_PVE_year"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "order": 6,
+    "nameID": 14,
+    "shopTabTypes": [
+      {
+        "value": 14,
+        "name": "ShopTabType_Skin"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "order": 7,
+    "nameID": 8,
+    "shopTabTypes": [
+      {
+        "value": 8,
+        "name": "ShopTabType_Exchange"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "order": 8,
+    "nameID": 9,
+    "shopTabTypes": [
+      {
+        "value": 9,
+        "name": "ShopTabType_GiftPackage"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "order": 9,
+    "nameID": 4,
+    "shopTabTypes": [
+      {
+        "value": 38,
+        "name": "ShopTabType_Expression"
+      },
+      {
+        "value": 15,
+        "name": "ShopTabType_Avatar"
+      },
+      {
+        "value": 16,
+        "name": "ShopTabType_ProfileCard"
+      },
+      {
+        "value": 17,
+        "name": "ShopTabType_Finisher"
+      },
+      {
+        "value": 18,
+        "name": "ShopTabType_Dice"
+      },
+      {
+        "value": 19,
+        "name": "ShopTabType_Card"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "order": 10,
+    "nameID": 7,
+    "shopTabTypes": [
+      {
+        "value": 7,
+        "name": "ShopTabType_Recharge"
+      }
+    ]
+  }
+]

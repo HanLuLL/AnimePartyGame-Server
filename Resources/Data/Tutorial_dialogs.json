@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1001,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 1001101,
+        "audioId": 100001
+      },
+      {
+        "index": 102,
+        "contentId": 1001102,
+        "audioId": 100002
+      }
+    ]
+  },
+  {
+    "id": 10001,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10001101,
+        "audioId": 100003
+      }
+    ]
+  },
+  {
+    "id": 10002,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10002101,
+        "audioId": 100004
+      }
+    ]
+  },
+  {
+    "id": 10003,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10003101,
+        "audioId": 100005
+      }
+    ]
+  },
+  {
+    "id": 10004,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10004101,
+        "audioId": 100006
+      }
+    ]
+  },
+  {
+    "id": 10005,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10005101,
+        "audioId": 100007
+      }
+    ]
+  },
+  {
+    "id": 10006,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10006101,
+        "audioId": 100008
+      }
+    ]
+  },
+  {
+    "id": 10007,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10007101,
+        "audioId": 100009
+      }
+    ]
+  },
+  {
+    "id": 10008,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10008101,
+        "audioId": 100010
+      }
+    ]
+  },
+  {
+    "id": 10009,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10009101,
+        "audioId": 100011
+      }
+    ]
+  },
+  {
+    "id": 10010,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 10010101,
+        "audioId": 100012
+      }
+    ]
+  },
+  {
+    "id": 20001,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20001101,
+        "audioId": 100013
+      },
+      {
+        "index": 102,
+        "contentId": 20001102,
+        "audioId": 100014
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20002101,
+        "audioId": 100015
+      }
+    ]
+  },
+  {
+    "id": 20003,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20003101,
+        "audioId": 100016
+      }
+    ]
+  },
+  {
+    "id": 23000,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20003102,
+        "audioId": 100017
+      },
+      {
+        "index": 102,
+        "contentId": 20003103,
+        "audioId": 100018
+      },
+      {
+        "index": 103,
+        "contentId": 20003104,
+        "audioId": 100019
+      }
+    ]
+  },
+  {
+    "id": 20004,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20004101,
+        "audioId": 100020
+      }
+    ]
+  },
+  {
+    "id": 20005,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20005101,
+        "audioId": 100021
+      }
+    ]
+  },
+  {
+    "id": 20006,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20006101,
+        "audioId": 100022
+      }
+    ]
+  },
+  {
+    "id": 20007,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20007101,
+        "audioId": 100023
+      }
+    ]
+  },
+  {
+    "id": 20008,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 20008101,
+        "audioId": 100024
+      }
+    ]
+  },
+  {
+    "id": 21001,
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 21001101
+      }
+    ]
+  },
+  {
+    "id": 21002,
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 21001201
+      }
+    ]
+  },
+  {
+    "id": 30001,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 30001101
+      },
+      {
+        "index": 102,
+        "contentId": 30001102
+      }
+    ]
+  },
+  {
+    "id": 30002,
+    "standingPainting": "UT_Hero_Card_108",
+    "sfwStandingPainting": "UT_Hero_Card_108_sfw",
+    "profilePhoto": "UT_Hero_ProfilePhoto_108",
+    "tutorialdialogConfigureItems": [
+      {
+        "index": 101,
+        "contentId": 30002101
+      }
+    ]
+  }
+]

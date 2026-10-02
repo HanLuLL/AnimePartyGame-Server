@@ -1,0 +1,1017 @@
+[
+  {
+    "id": 101,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10101
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10102
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10103
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10104
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10105
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10201
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10202
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10203
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10204
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10205
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10301
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10302
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10303
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10304
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10305
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10401
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10402
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10403
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10404
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10405
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10501
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10502
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10503
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10504
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10505
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10603
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10701
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10702
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10703
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10704
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10705
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10801
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10901
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10902
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10903
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10904
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10905
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11001
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11002
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11003
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11004
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11005
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11501
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11502
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11503
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11504
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11505
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11301
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11301
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11302
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11303
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11304
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11305
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11401
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11402
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11403
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11404
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11405
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11501
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11502
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11503
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11504
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11505
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11603
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11701
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11702
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11703
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11704
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11705
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11603
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11901
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11902
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11903
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11904
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11905
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 12001
+      },
+      {
+        "lv": 2,
+        "descriptionID": 12002
+      },
+      {
+        "lv": 3,
+        "descriptionID": 12003
+      },
+      {
+        "lv": 4,
+        "descriptionID": 12004
+      },
+      {
+        "lv": 5,
+        "descriptionID": 12005
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10801
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 12201
+      },
+      {
+        "lv": 2,
+        "descriptionID": 12202
+      },
+      {
+        "lv": 3,
+        "descriptionID": 12203
+      },
+      {
+        "lv": 4,
+        "descriptionID": 12204
+      },
+      {
+        "lv": 5,
+        "descriptionID": 12205
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 12201
+      },
+      {
+        "lv": 2,
+        "descriptionID": 12202
+      },
+      {
+        "lv": 3,
+        "descriptionID": 12203
+      },
+      {
+        "lv": 4,
+        "descriptionID": 12204
+      },
+      {
+        "lv": 5,
+        "descriptionID": 12205
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10801
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11501
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11502
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11503
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11504
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11505
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11603
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11501
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11502
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11503
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11504
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11505
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11603
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11603
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11303
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11301
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10801
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11301
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 10801
+      },
+      {
+        "lv": 2,
+        "descriptionID": 10802
+      },
+      {
+        "lv": 3,
+        "descriptionID": 10803
+      },
+      {
+        "lv": 4,
+        "descriptionID": 10804
+      },
+      {
+        "lv": 5,
+        "descriptionID": 10805
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "pVENurturanceEnhancementConfigureItems": [
+      {
+        "lv": 1,
+        "descriptionID": 11601
+      },
+      {
+        "lv": 2,
+        "descriptionID": 11602
+      },
+      {
+        "lv": 3,
+        "descriptionID": 11603
+      },
+      {
+        "lv": 4,
+        "descriptionID": 11604
+      },
+      {
+        "lv": 5,
+        "descriptionID": 11605
+      },
+      {
+        "lv": 6,
+        "descriptionID": 10006
+      }
+    ]
+  }
+]

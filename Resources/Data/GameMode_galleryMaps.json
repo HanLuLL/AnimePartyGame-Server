@@ -1,0 +1,50 @@
+[
+  {
+    "GalleryMapType": {
+      "value": 1,
+      "name": "GalleryMapType_GalleryMapPVE"
+    },
+    "mapID": [
+      82015,
+      82014,
+      82013,
+      82012,
+      82010,
+      82008,
+      82007
+    ],
+    "GallerynameID": 4,
+    "GalleryDesID": 10402
+  },
+  {
+    "GalleryMapType": {
+      "value": 2,
+      "name": "GalleryMapType_GalleryMapPVP"
+    },
+    "mapID": [
+      81003,
+      81005,
+      81004,
+      81006,
+      81011
+    ],
+    "GallerynameID": 1,
+    "GalleryDesID": 10102
+  },
+  {
+    "GalleryMapType": {
+      "value": 3,
+      "name": "GalleryMapType_GalleryMapSpecial"
+    },
+    "mapID": [
+      82016,
+      83001,
+      83002,
+      83003,
+      81007,
+      82009
+    ],
+    "GallerynameID": 10,
+    "GalleryDesID": 11002
+  }
+]

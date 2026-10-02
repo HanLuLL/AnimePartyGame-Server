@@ -1,0 +1,51 @@
+using Google.Protobuf.Reflection;
+using UnityEngine;
+
+public enum MutatorType
+{
+	[InspectorName("无")]
+	[OriginalName("MutatorType_None")]
+	None,
+	[InspectorName("极好")]
+	[OriginalName("MutatorType_VeryGood")]
+	VeryGood,
+	[InspectorName("好")]
+	[OriginalName("MutatorType_Good")]
+	Good,
+	[InspectorName("较好")]
+	[OriginalName("MutatorType_QuiteGood")]
+	QuiteGood,
+	[InspectorName("中")]
+	[OriginalName("MutatorType_Middle")]
+	Middle,
+	[InspectorName("较差")]
+	[OriginalName("MutatorType_QuiteBad")]
+	QuiteBad,
+	[InspectorName("差")]
+	[OriginalName("MutatorType_Bad")]
+	Bad,
+	[InspectorName("极差")]
+	[OriginalName("MutatorType_VeryBad")]
+	VeryBad,
+	[InspectorName("特殊1")]
+	[OriginalName("MutatorType_Special1")]
+	Special1,
+	[InspectorName("特殊2")]
+	[OriginalName("MutatorType_Special2")]
+	Special2,
+	[InspectorName("特殊3")]
+	[OriginalName("MutatorType_Special3")]
+	Special3,
+	[InspectorName("特殊4")]
+	[OriginalName("MutatorType_Special4")]
+	Special4,
+	[InspectorName("特殊5")]
+	[OriginalName("MutatorType_Special5")]
+	Special5,
+	[InspectorName("特殊6")]
+	[OriginalName("MutatorType_Special6")]
+	Special6,
+	[InspectorName("特殊7")]
+	[OriginalName("MutatorType_Special7")]
+	Special7
+}

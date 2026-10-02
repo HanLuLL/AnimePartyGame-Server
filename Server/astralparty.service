@@ -1,0 +1,26 @@
+[Unit]
+Description=AstralParty game server
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=astralparty
+Group=astralparty
+WorkingDirectory=/opt/astralparty
+EnvironmentFile=/opt/astralparty/Config/server.env
+ExecStart=/opt/astralparty/astralparty-server-linux-amd64
+Restart=on-failure
+RestartSec=5s
+KillSignal=SIGINT
+TimeoutStopSec=30s
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectHome=true
+ProtectSystem=strict
+ReadWritePaths=/opt/astralparty/Server/data
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target

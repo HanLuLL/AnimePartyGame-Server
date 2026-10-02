@@ -1,0 +1,164 @@
+[
+  {
+    "shopTabType": {
+      "value": 22,
+      "name": "ShopTabType_BeginnerPack"
+    },
+    "nameID": 22,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 23,
+      "name": "ShopTabType_MonthlyCard"
+    },
+    "nameID": 23,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 13,
+      "name": "ShopTabType_Day7GiftPackage"
+    },
+    "nameID": 13,
+    "currencyBar": 1,
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1715630399
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 28,
+      "name": "ShopTabType_Day7GiftPackage_PVE"
+    },
+    "nameID": 28,
+    "currencyBar": 1,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1781107199
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 37,
+      "name": "ShopTabType_Day7GiftPackage_PVE_year"
+    },
+    "nameID": 37,
+    "currencyBar": 1,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1772157600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1773367199
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 14,
+      "name": "ShopTabType_Skin"
+    },
+    "nameID": 14,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 8,
+      "name": "ShopTabType_Exchange"
+    },
+    "nameID": 8,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 9,
+      "name": "ShopTabType_GiftPackage"
+    },
+    "nameID": 9,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 15,
+      "name": "ShopTabType_Avatar"
+    },
+    "nameID": 15,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 16,
+      "name": "ShopTabType_ProfileCard"
+    },
+    "nameID": 16,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 17,
+      "name": "ShopTabType_Finisher"
+    },
+    "nameID": 17,
+    "currencyBar": 1,
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1714420799
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 18,
+      "name": "ShopTabType_Dice"
+    },
+    "nameID": 18,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 19,
+      "name": "ShopTabType_Card"
+    },
+    "nameID": 19,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 7,
+      "name": "ShopTabType_Recharge"
+    },
+    "nameID": 7,
+    "currencyBar": 1
+  },
+  {
+    "shopTabType": {
+      "value": 38,
+      "name": "ShopTabType_Expression"
+    },
+    "nameID": 20,
+    "currencyBar": 1
+  }
+]

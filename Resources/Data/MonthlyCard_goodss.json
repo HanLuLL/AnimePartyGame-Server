@@ -1,0 +1,18 @@
+[
+  {
+    "goodsID": 230000,
+    "titleID": 2300000,
+    "backgroundCN": "UT_GachaTheme_10",
+    "backgroundEN": "UT_GachaTheme_10",
+    "backgroundJP": "UT_GachaTheme_10",
+    "backgroundTC": "UT_GachaTheme_10",
+    "immediatelyReward": {
+      "2": 600
+    },
+    "dailyReward": {
+      "2": 30
+    },
+    "monthlyDays": 30,
+    "subscribeLimit": 179
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 101,
+    "tabOrder": 1,
+    "icon": "UT_SkinGroup_101",
+    "nameID": 101
+  },
+  {
+    "id": 102,
+    "tabOrder": 2,
+    "icon": "UT_SkinGroup_102",
+    "nameID": 102
+  },
+  {
+    "id": 103,
+    "tabOrder": 3,
+    "icon": "UT_SkinGroup_103",
+    "nameID": 103
+  },
+  {
+    "id": 104,
+    "tabOrder": 4,
+    "icon": "UT_SkinGroup_104",
+    "nameID": 104
+  },
+  {
+    "id": 105,
+    "tabOrder": 5,
+    "icon": "UT_SkinGroup_105",
+    "nameID": 105
+  },
+  {
+    "id": 106,
+    "tabOrder": 6,
+    "icon": "UT_SkinGroup_106",
+    "nameID": 106
+  },
+  {
+    "id": 107,
+    "tabOrder": 7,
+    "icon": "UT_SkinGroup_107",
+    "nameID": 107
+  }
+]

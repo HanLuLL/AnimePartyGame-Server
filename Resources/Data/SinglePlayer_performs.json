@@ -1,0 +1,27 @@
+[
+  {
+    "id": 100,
+    "triggerTL": "SG_BuildingTrigger"
+  },
+  {
+    "id": 101,
+    "triggerTL": "SG_BuildingGold",
+    "effects": {
+      "3000": 0
+    }
+  },
+  {
+    "id": 102,
+    "triggerTL": "SG_BuildingGold",
+    "effects": {
+      "3000": 0
+    }
+  },
+  {
+    "id": 103,
+    "triggerTL": "SG_BuildingTriggerFight",
+    "bullet": {
+      "100": 200
+    }
+  }
+]

@@ -1,0 +1,1081 @@
+[
+  {
+    "id": 61001001,
+    "activityBingoFlipPoolConfigureItems": [
+      {
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 30
+      },
+      {
+        "index": 1,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 30
+      },
+      {
+        "index": 2,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 30
+      },
+      {
+        "index": 3,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77006,
+        "itemNum": 1
+      },
+      {
+        "index": 4,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77003,
+        "itemNum": 1
+      },
+      {
+        "index": 5,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77003,
+        "itemNum": 1
+      },
+      {
+        "index": 6,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77003,
+        "itemNum": 1
+      },
+      {
+        "index": 7,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77007,
+        "itemNum": 1
+      },
+      {
+        "index": 8,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78100,
+        "itemNum": 1
+      },
+      {
+        "index": 9,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78100,
+        "itemNum": 1
+      },
+      {
+        "index": 10,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78100,
+        "itemNum": 1
+      },
+      {
+        "index": 11,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77008,
+        "itemNum": 1
+      },
+      {
+        "index": 12,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 13,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77010,
+        "itemNum": 1
+      },
+      {
+        "index": 14,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90001,
+        "itemNum": 1
+      },
+      {
+        "index": 15,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90002,
+        "itemNum": 1
+      },
+      {
+        "index": 16,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 30
+      },
+      {
+        "index": 17,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 30
+      },
+      {
+        "index": 18,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 30
+      },
+      {
+        "index": 19,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77006,
+        "itemNum": 1
+      },
+      {
+        "index": 20,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77003,
+        "itemNum": 1
+      },
+      {
+        "index": 21,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77003,
+        "itemNum": 1
+      },
+      {
+        "index": 22,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77003,
+        "itemNum": 1
+      },
+      {
+        "index": 23,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77007,
+        "itemNum": 1
+      },
+      {
+        "index": 24,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78100,
+        "itemNum": 1
+      },
+      {
+        "index": 25,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78100,
+        "itemNum": 1
+      },
+      {
+        "index": 26,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78100,
+        "itemNum": 1
+      },
+      {
+        "index": 27,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77008,
+        "itemNum": 1
+      },
+      {
+        "index": 28,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 29,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77010,
+        "itemNum": 1
+      },
+      {
+        "index": 30,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90001,
+        "itemNum": 1
+      },
+      {
+        "index": 31,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90002,
+        "itemNum": 1
+      },
+      {
+        "index": 32,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 60
+      },
+      {
+        "index": 33,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 60
+      },
+      {
+        "index": 34,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 60
+      },
+      {
+        "index": 35,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77011,
+        "itemNum": 1
+      },
+      {
+        "index": 36,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 37,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 38,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 39,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77012,
+        "itemNum": 1
+      },
+      {
+        "index": 40,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78101,
+        "itemNum": 1
+      },
+      {
+        "index": 41,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78101,
+        "itemNum": 1
+      },
+      {
+        "index": 42,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78101,
+        "itemNum": 1
+      },
+      {
+        "index": 43,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77013,
+        "itemNum": 1
+      },
+      {
+        "index": 44,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77014,
+        "itemNum": 1
+      },
+      {
+        "index": 45,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77015,
+        "itemNum": 1
+      },
+      {
+        "index": 46,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90001,
+        "itemNum": 1
+      },
+      {
+        "index": 47,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90002,
+        "itemNum": 1
+      },
+      {
+        "index": 48,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 60
+      },
+      {
+        "index": 49,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 60
+      },
+      {
+        "index": 50,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 60
+      },
+      {
+        "index": 51,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77011,
+        "itemNum": 1
+      },
+      {
+        "index": 52,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 53,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 54,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77009,
+        "itemNum": 1
+      },
+      {
+        "index": 55,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77012,
+        "itemNum": 1
+      },
+      {
+        "index": 56,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78101,
+        "itemNum": 1
+      },
+      {
+        "index": 57,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78101,
+        "itemNum": 1
+      },
+      {
+        "index": 58,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 78101,
+        "itemNum": 1
+      },
+      {
+        "index": 59,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77013,
+        "itemNum": 1
+      },
+      {
+        "index": 60,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77014,
+        "itemNum": 1
+      },
+      {
+        "index": 61,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 77015,
+        "itemNum": 1
+      },
+      {
+        "index": 62,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90001,
+        "itemNum": 1
+      },
+      {
+        "index": 63,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90002,
+        "itemNum": 1
+      },
+      {
+        "index": 64,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 65,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 66,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 67,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 50
+      },
+      {
+        "index": 68,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91003,
+        "itemNum": 1
+      },
+      {
+        "index": 69,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91003,
+        "itemNum": 1
+      },
+      {
+        "index": 70,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 30
+      },
+      {
+        "index": 71,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 100
+      },
+      {
+        "index": 72,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 30
+      },
+      {
+        "index": 73,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 50
+      },
+      {
+        "index": 74,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 50
+      },
+      {
+        "index": 75,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 76,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 77,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 78,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90001,
+        "itemNum": 1
+      },
+      {
+        "index": 79,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90002,
+        "itemNum": 1
+      },
+      {
+        "index": 80,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 81,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 82,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 83,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 50
+      },
+      {
+        "index": 84,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91003,
+        "itemNum": 1
+      },
+      {
+        "index": 85,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91003,
+        "itemNum": 1
+      },
+      {
+        "index": 86,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 30
+      },
+      {
+        "index": 87,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 100
+      },
+      {
+        "index": 88,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 30
+      },
+      {
+        "index": 89,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 50
+      },
+      {
+        "index": 90,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 50
+      },
+      {
+        "index": 91,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 92,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 93,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 94,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90001,
+        "itemNum": 1
+      },
+      {
+        "index": 95,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90002,
+        "itemNum": 1
+      },
+      {
+        "index": 96,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 97,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 98,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 1,
+        "itemNum": 100
+      },
+      {
+        "index": 99,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 50
+      },
+      {
+        "index": 100,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91003,
+        "itemNum": 1
+      },
+      {
+        "index": 101,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91003,
+        "itemNum": 1
+      },
+      {
+        "index": 102,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 30
+      },
+      {
+        "index": 103,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 100
+      },
+      {
+        "index": 104,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 2,
+        "itemNum": 30
+      },
+      {
+        "index": 105,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 50
+      },
+      {
+        "index": 106,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 6,
+        "itemNum": 50
+      },
+      {
+        "index": 107,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 108,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 109,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 91011,
+        "itemNum": 1
+      },
+      {
+        "index": 110,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90001,
+        "itemNum": 1
+      },
+      {
+        "index": 111,
+        "rewardType": {
+          "value": 1,
+          "name": "BingoRewardType_GridReward"
+        },
+        "itemID": 90002,
+        "itemNum": 1
+      }
+    ]
+  },
+  {
+    "id": 61001101,
+    "activityBingoFlipPoolConfigureItems": [
+      {
+        "rewardType": {
+          "value": 3,
+          "name": "BingoRewardType_RoundReward"
+        },
+        "itemID": 1,
+        "itemNum": 1000
+      },
+      {
+        "index": 1,
+        "rewardType": {
+          "value": 3,
+          "name": "BingoRewardType_RoundReward"
+        },
+        "itemID": 78101,
+        "itemNum": 10
+      },
+      {
+        "index": 2,
+        "rewardType": {
+          "value": 3,
+          "name": "BingoRewardType_RoundReward"
+        },
+        "itemID": 91017,
+        "itemNum": 10
+      },
+      {
+        "index": 3,
+        "rewardType": {
+          "value": 3,
+          "name": "BingoRewardType_RoundReward"
+        },
+        "itemID": 70892,
+        "itemNum": 1
+      },
+      {
+        "index": 4,
+        "rewardType": {
+          "value": 3,
+          "name": "BingoRewardType_RoundReward"
+        },
+        "itemID": 2,
+        "itemNum": 200
+      },
+      {
+        "index": 5,
+        "rewardType": {
+          "value": 3,
+          "name": "BingoRewardType_RoundReward"
+        },
+        "itemID": 90002,
+        "itemNum": 5
+      },
+      {
+        "index": 6,
+        "rewardType": {
+          "value": 3,
+          "name": "BingoRewardType_RoundReward"
+        },
+        "itemID": 70893,
+        "itemNum": 1
+      }
+    ]
+  }
+]

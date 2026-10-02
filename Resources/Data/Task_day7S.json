@@ -1,0 +1,310 @@
+[
+  {
+    "id": 1010000,
+    "day": 1,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 1,
+    "nameID": 10100000,
+    "descId": 10100001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1010001,
+    "day": 1,
+    "conditionType": {
+      "value": 1,
+      "name": "ConditionType_NoviceLevelDone"
+    },
+    "param": 1,
+    "nameID": 1000,
+    "descId": 1001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1010002,
+    "day": 1,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 1,
+    "nameID": 10100020,
+    "descId": 10100021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1010003,
+    "day": 1,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 2,
+    "nameID": 10100020,
+    "descId": 10100021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1020000,
+    "day": 2,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 2,
+    "nameID": 10100000,
+    "descId": 10100001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1020001,
+    "day": 2,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 3,
+    "nameID": 10100020,
+    "descId": 10100021,
+    "reward": {
+      "91011": 1
+    }
+  },
+  {
+    "id": 1020002,
+    "day": 2,
+    "conditionType": {
+      "value": 25,
+      "name": "ConditionType_Total_BondLevelUPCount"
+    },
+    "param": 1,
+    "nameID": 10200020,
+    "descId": 10200021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1030000,
+    "day": 3,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 3,
+    "nameID": 10100000,
+    "descId": 10100001,
+    "reward": {
+      "72001": 1
+    }
+  },
+  {
+    "id": 1030001,
+    "day": 3,
+    "conditionType": {
+      "value": 25,
+      "name": "ConditionType_Total_BondLevelUPCount"
+    },
+    "param": 2,
+    "nameID": 10200020,
+    "descId": 10200021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1030002,
+    "day": 3,
+    "conditionType": {
+      "value": 304,
+      "name": "ConditionType_Total_FriendsCount"
+    },
+    "param": 1,
+    "nameID": 10300020,
+    "descId": 10300021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1040000,
+    "day": 4,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 4,
+    "nameID": 10100000,
+    "descId": 10100001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1040001,
+    "day": 4,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 3,
+    "nameID": 10400010,
+    "descId": 10400011,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1040002,
+    "day": 4,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "param": 5,
+    "nameID": 10400020,
+    "descId": 10400021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1050000,
+    "day": 5,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 5,
+    "nameID": 10100000,
+    "descId": 10100001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1050001,
+    "day": 5,
+    "conditionType": {
+      "value": 25,
+      "name": "ConditionType_Total_BondLevelUPCount"
+    },
+    "param": 3,
+    "nameID": 10200020,
+    "descId": 10200021,
+    "reward": {
+      "78009": 1
+    }
+  },
+  {
+    "id": 1050002,
+    "day": 5,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "param": 6,
+    "nameID": 10400020,
+    "descId": 10400021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1060000,
+    "day": 6,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 6,
+    "nameID": 10100000,
+    "descId": 10100001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1060001,
+    "day": 6,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 15,
+    "nameID": 10100020,
+    "descId": 10100021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1060002,
+    "day": 6,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "param": 7,
+    "nameID": 10400020,
+    "descId": 10400021,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1070000,
+    "day": 7,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 7,
+    "nameID": 10100000,
+    "descId": 10100001,
+    "reward": {
+      "91004": 1
+    }
+  },
+  {
+    "id": 1070001,
+    "day": 7,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 5,
+    "nameID": 10400010,
+    "descId": 10400011,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1070002,
+    "day": 7,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "param": 8,
+    "nameID": 10400020,
+    "descId": 10400021,
+    "reward": {
+      "90001": 1
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "mapModeType": {
+      "value": 4,
+      "name": "MapModeType_Pve"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 1,
+      "name": "MapModeType_Standard"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 3,
+      "name": "MapModeType_Ultra"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 7,
+      "name": "MapModeType_AsymmetricalBattle"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 2,
+      "name": "MapModeType_Novice"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 5,
+      "name": "MapModeType_CampaignPVP"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 6,
+      "name": "MapModeType_CampaignPVE"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 8,
+      "name": "MapModeType_PracticePVP"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 9,
+      "name": "MapModeType_PracticePVE"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 10,
+      "name": "MapModeType_PVENovice"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 11,
+      "name": "MapModeType_LuckyStarBattle"
+    }
+  },
+  {
+    "mapModeType": {
+      "value": 12,
+      "name": "MapModeType_MutatorPVE"
+    },
+    "monsterId": 1061,
+    "roomPosition": 3,
+    "playerPhoto": "UT_AccountHeadShot_Monster_41",
+    "accountBackground": "UT_AccountBackground_71988"
+  }
+]

@@ -1,0 +1,192 @@
+cmd_id,request_type,response_id,response_type,status,notes
+5001,protocol.ConnectC2S,5002,protocol.ConnectS2C,basic,custom handler in internal/gateway/handlers.go
+5003,protocol.HeartbeatC2S,5004,protocol.HeartbeatS2C,basic,custom handler in internal/gateway/handlers.go
+5005,protocol.CreateRoomC2S,5006,protocol.CreateRoomS2C,basic,custom handler in internal/gateway/handlers.go
+5007,protocol.SyncRoomC2S,5008,protocol.SyncRoomS2C,basic,restores room and battle snapshots and reissues the active human phase prompt
+5009,protocol.JoinRoomC2S,5010,protocol.JoinRoomS2C,basic,custom handler in internal/gateway/handlers.go
+5011,protocol.ExitRoomC2S,5012,protocol.ExitRoomS2C,basic,custom handler in internal/gateway/handlers.go
+5013,protocol.QueryRoomC2S,5014,protocol.QueryRoomS2C,basic,custom handler in internal/gateway/handlers.go
+5015,protocol.RefreshRoomStateC2S,5016,protocol.RefreshRoomStateS2C,basic,custom handler in internal/gateway/handlers.go
+5019,protocol.StartGameC2S,5020,protocol.StartGameS2C,basic,custom handler in internal/gateway/handlers.go
+5021,protocol.ThrowDiceC2S,5022,protocol.ThrowDiceS2C,basic,custom handler in internal/gateway/handlers.go
+5023,protocol.ChangeRoomC2S,5024,protocol.ChangeRoomS2C,basic,room master updates password and resource-validated map/time/upgrade/speed/difficulty/story/label options atomically; ChangeRoomS2C response is pushed to other room members
+5027,protocol.MoveC2S,5028,protocol.MoveS2C,basic,custom handler in internal/gateway/handlers.go
+5029,protocol.ShopBuyC2S,5030,protocol.ShopBuyS2C,partial,"PVP Shop(7) stops movement; persists a map-pool offer, sold flags, purchases, gold, cards, UPSN and reconnect phase; land price/count parameter mapping and uniform offer draw are inferred"
+5033,protocol.PursuitC2S,5034,protocol.PursuitS2C,basic,"phase-gated Pursuit land choice; validates living opposing target outside Hospital, persists teleport position/fronts, supports exit and reconnect; team assignment outside documented mode constants is inferred"
+5035,protocol.BattleUseCardC2S,5036,protocol.BattleUseCardS2C,partial,"validates battle role, hand GUID, resource-backed Attack/Defense type and cost; rolls configured bonus server-side, removes the card transactionally, and resumes the card phase; special battle-card effects and card-phase buff interactions remain incomplete"
+5037,protocol.BattleThrowDiceC2S,5038,protocol.BattleThrowDiceS2C,partial,attacker die is rolled server-side and ignores client DevPoint; applies hero passive attack modifiers 11611/10611 and consumes configured event buff 3020201 once; persists the battle state and prompts the defender
+5039,protocol.BattleChoiceC2S,5040,protocol.BattleChoiceS2C,partial,"defender die is rolled server-side; applies the tutorial dodge/damage formula, one-shot Destiny damage modifiers, configured HP-change passives and one-shot event buff 3002001, updates Hero 115 hit/dodge stacks, and persists HP, buffs, and combat stats before pushing Battle and the next turn; counterattacks, other skill effects, and death rewards remain incomplete"
+5041,protocol.LotteryChoiceC2S,5042,protocol.LotteryChoiceS2C,partial,persists configured unique player picks and advances the turn; scheduled draw and payout remain unimplemented
+5043,protocol.MoveAgainC2S,5044,protocol.MoveAgainS2C,basic,re-rolls after MoveAgain land; phase-gated and persisted with the move points
+5047,protocol.AskBattleC2S,5048,protocol.AskBattleS2C,partial,starts or declines a persisted battle after a move onto an opposing human player; the collision trigger is inferred and bot combat is not open
+5049,protocol.RollGoldC2S,5050,protocol.RollGoldS2C,basic,"uses the configured RollGold land choices, persists the gold award once, and advances the turn"
+5051,protocol.EventThrowDiceC2S,5052,protocol.EventThrowDiceS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5053,protocol.TriggerEventC2S,5054,protocol.TriggerEventS2C,partial,"resource-backed draw and transactional effects for 30001/30002/30003/30005/30006/30008/30009/30010/30013/30014/30015/30018/30019/30020/30021/30202/30206; 30001 redistribution remainder, 30005 position shuffle, 30010 discard, 30013 connected-tile sampling/slot assignment, 30018 movement-step count, and pool weighting are inferred; 30006 poison ticks at turn start once per player/round; 30020 damage reduction and 30202 attack bonus resolve in base PvP; Destiny next-damage Buffs are consumed by supported damage paths; event pool remains filtered"
+5055,protocol.UseEffectCardC2S,5056,protocol.UseEffectCardS2C,partial,"per-turn optional card phase; supports self-heal cards 20002/20014, direct-damage cards 20001/20012/20013 with one hostile target and graph-range validation, skip, bomb-transfer card 20021 with a persisted 5059 throw phase, and controlled-movement cards 20005/20032; card/HP/buff/action/use-count state is transactionally persisted and resumes on reconnect; bots share the rules; CardAddAttack/CardAddDistance/NotSelect runtime properties and other effect cards/skills remain incomplete"
+5059,protocol.BombThrowDiceC2S,5060,protocol.BombThrowDiceS2C,partial,"only accepted during the persisted bomb_throw phase; ignores client DevPoint and rolls server-side, then transactionally passes bomb 20021 on rolls 2-6 or removes it and applies up to 99 HP damage on 1 after one-shot Destiny damage modifiers; synchronizes the actual HP delta and consumed Buffs with 5060/1040; bots and reconnects use the same phase state; seat-order handoff and FIFO for multiple bombs are inferred"
+5061,protocol.ChoiceDirectionC2S,5062,protocol.ChoiceDirectionS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5063,protocol.LandChoiceTargetC2S,5064,protocol.LandChoiceTargetS2C,partial,"Battery land(11) target selection: derives damage from negative Land_infos.params[0], accepts one eligible living opposing player or explicit exit, revalidates targets from authoritative room/team state, records UPSN and applies HP/turn changes transactionally, then pushes the result and attributes; phase is restored on reconnect and bots choose a vulnerable legal target; mode-specific team assignment outside confirmed modes remains inferred"
+5067,protocol.ThrowDiceResultC2S,5068,protocol.ThrowDiceResultS2C,partial,"5067 is the controlled-movement point selection sent after supported cards 20005/20032; validates the outstanding action SN and selected point 1..server-provided MaxPoint, persists the choice and resumes movement; other control cards/skills and controlled-point passive triggers remain incomplete"
+5069,protocol.TriggerDivinationC2S,5070,protocol.TriggerDivinationS2C,partial,"phase-gated Divination(6) choice; persists the two offered resource IDs with the move, validates the selected ID, resolves configured HP/gold/card effects for configured max/min targets, and restores the offer on reconnect; uniform card and target sampling plus tie handling are inferred"
+5071,protocol.TriggerDestinyC2S,5072,protocol.TriggerDestinyS2C,partial,"resource-backed random selection and transactional HP, gold, hand, buff, and land-summon state for 40001-40012; 40007/40008 grant the full configured draw and enter persisted 5075 discard when the active hand exceeds its mode limit; 40003/40004 adjust and clear the next supported incoming damage from their resource parameters; 40012 persists Gold summon 2200 at the current node and pays one oldest drop per committed movement that reaches that node; bots and reconnects use the same state; candidate weighting, pickup timing, and multiple-drop behavior still need live trace confirmation"
+5073,protocol.UseQuickCardC2S,5074,protocol.UseQuickCardS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5075,protocol.AbandonCardC2S,5076,protocol.AbandonCardS2C,partial,"5075 discard phase is entered when a DrawCard land grant exceeds the resource hand limit; requires exactly the excess distinct owned card GUIDs, transactionally persists the remaining full hand and advances the turn, syncs 5076 plus the full hand snapshot, restores the prompt after reconnect, and bots use the timeout-compatible first-card choice; other over-limit reward paths remain to be wired"
+5077,protocol.StopOrContinueC2S,5078,protocol.StopOrContinueS2C,basic,"5077 choice is phase-gated; stopping resolves the Born/FillingStation heal and configured upgrade, continuing preserves remaining movement"
+5081,protocol.StartGambleC2S,5082,protocol.StartGambleS2C,partial,"Gamble(10) guess phase; builds room roles from authoritative HP/gold, persists each odd/even wager, broadcasts the hall, and resumes prompts after reconnect; Land_infos params are interpreted as base pot/stake"
+5083,protocol.GambleThrowDicC2S,5084,protocol.GambleThrowDicS2C,partial,"Gamble throw/result phases; ignores client DevPoint, rolls dice server-side, persists points and payouts transactionally, advances the landing player after the final throw, and auto-resolves bots; winner pot split and remainder order are inferred"
+5085,protocol.ChoiceHeroC2S2,5086,protocol.ChoiceHeroS2C2,basic,custom handler in internal/gateway/handlers.go
+5087,protocol.AffirmHeroC2S,5088,protocol.AffirmHeroS2C,basic,custom handler in internal/gateway/handlers.go
+5089,protocol.SearchRoomC2S,5090,protocol.SearchRoomS2C,basic,custom handler in internal/gateway/handlers.go
+5091,protocol.GmC2S,5092,protocol.GmS2C,basic,ack with dev-env flags; mutations refused outside dev env
+5093,protocol.TriggerHospitalC2S,5094,protocol.TriggerHospitalS2C,partial,"phase-gated Hospital(13) check; localized client text confirms +2 HP and one skipped round when sick; params[0] is treated as an HP threshold by inference; persists result, recovery, reconnect prompt, bot resolution and skipped turn"
+5095,protocol.SendChatC2S,5096,protocol.SendChatS2C,basic,custom handler in internal/gateway/handlers.go
+5097,protocol.PlayerShopBuyC2S,5098,protocol.PlayerShopBuyS2C,basic,custom handler in internal/gateway/handlers.go
+5099,protocol.PlayerUseItemC2S,5100,protocol.PlayerUseItemS2C,basic,custom handler in internal/gateway/handlers.go
+5101,protocol.UseTreasureC2S,5102,protocol.UseTreasureS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5103,protocol.SetFashionC2S,5104,protocol.SetFashionS2C,basic,persists one of up to ten six-slot fashion plans; validates configured Item_infos slot types when that table is loaded and requires non-default items to be owned; zero remains allowed for the optional sixth slot
+5105,protocol.SelectFashionPlanC2S,5106,protocol.SelectFashionPlanS2C,basic,"persists the selected existing fashion plan (plan 1 resolves to the resource default when no plans are stored); the request and success callback are recovered, but no UI call site was found in the decompiled source"
+5107,protocol.GachaC2S,5108,protocol.GachaS2C,partial,"uses resource-backed weighted rows, configured 10-draw purple+ / 40-draw hero guarantees, per-pull extra rewards and Item_infos duplicate transforms; atomically commits charges, inventory, draw history and progress, and deduplicates action sequence numbers; featured-UP/RoleUp remains incomplete"
+5109,protocol.SteamSearchRoomC2S,5110,protocol.SteamSearchRoomS2C,basic,looks up room by Steam lobby id and returns snapshot
+5111,protocol.CheatItemC2S,5112,protocol.CheatItemS2C,basic,dev-gated item grant with bag push; refused outside dev env
+5113,protocol.RoleCardUpLvC2S,5114,protocol.RoleCardUpLvS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5115,protocol.RoleCardBreakThroughC2S,5116,protocol.RoleCardBreakThroughS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5117,protocol.RoleCardChoiceResC2S,5118,protocol.RoleCardChoiceResS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5119,protocol.TaskRewardC2S,5120,protocol.TaskRewardS2C,partial,"validates resource-backed weekly tasks, achievements, weekly liveness, and seven-day tasks; claims and configured inventory rewards are atomic; Task_beginners is absent and gameplay condition coverage is partial"
+5121,protocol.TeachingC2S,5122,protocol.TeachingS2C,basic,persists tutorial completion and returns the client condition push; task counter conditions 2-5 update atomically from resolved battle statistics
+5123,protocol.UseTreasureAutoTransformC2S,5124,protocol.UseTreasureAutoTransformS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5125,protocol.QuickJoinRoomC2S,5126,protocol.QuickJoinRoomS2C,basic,custom handler in internal/gateway/handlers.go
+5127,protocol.RoomKickPlayerC2S,5128,protocol.RoomKickPlayerS2C,basic,custom handler in internal/gateway/handlers.go
+5129,protocol.RoomAbdicationC2S,5130,protocol.RoomAbdicationS2C,basic,custom handler in internal/gateway/handlers.go
+5131,protocol.RoomReadyC2S,5132,protocol.RoomReadyS2C,basic,custom handler in internal/gateway/handlers.go
+5133,protocol.ChargeCreateC2S,5134,protocol.ChargeCreateS2C,basic,records order intent in store; payment provider external
+5135,protocol.ChargeC2S,5136,protocol.ChargeS2C,basic,dev-gated order completion with item grant; pending otherwise
+5137,protocol.GiftCdkC2S,5138,protocol.GiftCdkS2C,basic,redeems CDK from server_settings; grants items and pushes BagItemChangeS2C
+5139,protocol.MailReadC2S,5140,protocol.MailReadS2C,basic,custom handler in internal/gateway/handlers.go
+5141,protocol.MailGetRewardC2S,5142,protocol.MailGetRewardS2C,basic,custom handler in internal/gateway/handlers.go
+5143,protocol.MailDelReadC2S,5144,protocol.MailDelReadS2C,basic,custom handler in internal/gateway/handlers.go
+5145,protocol.GachaRecordC2S,5146,protocol.GachaRecordS2C,basic,returns the authenticated player’s latest 40 persisted results for the requested banner in client display order
+5147,protocol.ActivityTaskRewardC2S,5148,protocol.ActivityTaskRewardS2C,basic,claims activity task reward; grants configured items and pushes BagItemChangeS2C
+5149,protocol.RoomShortChatC2S,5150,protocol.RoomShortChatS2C,basic,"validates configured room-chat indices and recipient membership, then persists and broadcasts only to room members with a shared 600 ms per-player cooldown"
+5151,protocol.SetShowPlayerC2S,5152,protocol.SetShowPlayerS2C,basic,"persists the caller’s standing painting, up to six displayed achievement IDs, and public data/fight visibility flags; ignores client-supplied player IDs, statistics, and match records"
+5153,protocol.GetShowPlayerC2S,5154,protocol.GetShowPlayerS2C,partial,"loads the requested player profile, maps playerId=0 to the caller, and returns persisted display settings plus typed empty fight statistics/history; fight record aggregation remains unimplemented"
+5155,protocol.GetPlayerFightRecordC2S,5156,protocol.GetPlayerFightRecordS2C,basic,returns the requesting player fight-record list
+5157,protocol.GetDay7RewardC2S,5158,protocol.GetDay7RewardS2C,basic,grants the next unclaimed day-7 gift day and echoes Day7Reward state
+5159,protocol.PraisePlayerC2S,5160,protocol.PraisePlayerS2C,basic,records praise for target players; daily count persisted
+5161,protocol.ClientDataUploadC2S,5162,protocol.ClientDataUploadS2C,basic,persists client data blob keyed by opsData switch
+5163,protocol.FriendListC2S,5164,protocol.FriendListS2C,basic,custom handler in internal/gateway/handlers.go
+5165,protocol.FriendApplyC2S,5166,protocol.FriendApplyS2C,basic,custom handler in internal/gateway/handlers.go
+5167,protocol.FriendApplyListC2S,5168,protocol.FriendApplyListS2C,basic,custom handler in internal/gateway/handlers.go
+5169,protocol.FriendApplyOpC2S,5170,protocol.FriendApplyOpS2C,basic,custom handler in internal/gateway/handlers.go
+5171,protocol.FriendOpC2S,5172,protocol.FriendOpS2C,basic,"implements client opType 1 remove-friend, 2 block and 3 unblock; removal deletes both friendship directions and notifies the other player, block state is per owner and clears pending requests while retaining the friendship, and unblock removes only the block; blocked-player checks are used by friend requests/private chat"
+5173,protocol.FriendInviteC2S,5174,protocol.FriendInviteS2C,partial,"persists room invites for client-selected friends/recent co-players, checks room/password/recipient state, and pushes FriendInviteNotifyS2C; relationship constraints and invitation lifetime are inferred"
+5175,protocol.FriendInviteListC2S,5176,protocol.FriendInviteListS2C,partial,"returns active waiting-room invites with inviter, room, password, map and member count; JoinRoomC2S remains the accept path and joining clears pending invites; paging/expiry semantics are inferred"
+5179,protocol.FriendInviteCleanC2S,5180,protocol.FriendInviteCleanS2C,basic,clears the caller’s pending room invites; the client clears the invite UI after the empty success response
+5181,protocol.FriendBlacksListC2S,5182,protocol.FriendBlacksListS2C,basic,"returns the authenticated player’s persisted blocked-player profiles, online/busy state, and block time with isEnd=true; the client requests page 0 and replaces its local list, so the handler returns the full list"
+5183,protocol.NearFightPlayerC2S,5184,protocol.NearFightPlayerS2C,partial,"returns up to 50 recent human co-players with online/busy state and honors onlyOnline; recency is recorded when all match assets finish loading, while official retention/window and pagination are unverified"
+5185,protocol.SearchPlayerC2S,5186,protocol.SearchPlayerS2C,basic,custom handler in internal/gateway/handlers.go
+5187,protocol.ScratchCardC2S,5188,protocol.ScratchCardS2C,basic,rolls scratch-card outcome server-side and persists it
+5189,protocol.NextScratchCardPoolC2S,5190,protocol.NextScratchCardPoolS2C,basic,advances scratch-card pool for the activity
+5191,protocol.WatchJoinRoomC2S,5192,protocol.WatchJoinRoomS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5193,protocol.WatchRefreshRoomStateC2S,5194,protocol.WatchRefreshRoomStateS2C,basic,returns the current room snapshot for spectators
+5195,protocol.WatchExitRoomC2S,5196,protocol.WatchExitRoomS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5197,protocol.BattlePassGetRewardC2S,5198,protocol.BattlePassGetRewardS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5199,protocol.BattlePassTaskRewardC2S,5200,protocol.BattlePassTaskRewardS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5201,protocol.BattlePassUpLvC2S,5202,protocol.BattlePassUpLvS2C,basic,buys levels with configured cost item; atomic consume + snapshot push
+5203,protocol.FriendSendMsgC2S,5204,protocol.FriendSendMsgS2C,basic,custom handler in internal/gateway/handlers.go
+5205,protocol.GetChatMsgC2S,5206,protocol.GetChatMsgS2C,basic,custom handler in internal/gateway/handlers.go
+5207,protocol.ReadChatMsgC2S,5208,protocol.ReadChatMsgS2C,basic,custom handler in internal/gateway/handlers.go
+5209,protocol.DelChatMsgInfoC2S,5210,protocol.DelChatMsgInfoS2C,partial,persists a per-player high-water cursor that hides existing messages from only the caller and leaves the other participant history intact; server-side visibility semantics are inferred from the client-local delete flow
+5211,protocol.SelectRelicC2S,5212,protocol.SelectRelicS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5213,protocol.MonsterPursuitC2S,5214,protocol.MonsterPursuitS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5215,protocol.PVEShopBuyC2S,5216,protocol.PVEShopBuyS2C,partial,"PVE Shop(22) persists the entry card, three-card map-pool offer, sale flags, purchases, gold, cards, UPSN and reconnect phase; entry reward/pool outside tutorial and Land_infos[22] price mapping are inferred; assistant funding and talent discounts are not open"
+5217,protocol.ClientCheckTaskC2S,5218,protocol.ClientCheckTaskS2C,basic,records client-reported task counter
+5219,protocol.PveHeroUpLvC2S,5220,protocol.PveHeroUpLvS2C,partial,"validates resource-backed PVE EXP items and level thresholds, atomically consumes inventory and persists per-hero level/EXP, then pushes BagItemChangeS2C; gameplay reward sources for EXP items remain partial"
+5221,protocol.StartMatchC2S,5222,protocol.StartMatchS2C,basic,custom handler in internal/gateway/handlers.go
+5223,protocol.CancelMatchC2S,5224,protocol.CancelMatchS2C,basic,custom handler in internal/gateway/handlers.go
+5225,protocol.MatchSuccessC2S,5226,protocol.MatchSuccessS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5227,protocol.AccuseC2S,5228,protocol.AccuseS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5229,protocol.SingleCampaignC2S,5230,protocol.SingleCampaignS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5231,protocol.DevChargeC2S,5232,protocol.DevChargeS2C,basic,dev-gated instant purchase: order created and completed with item grant
+5233,protocol.AskReviveTeammateC2S,5234,protocol.AskReviveTeammateS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5235,protocol.GetSignInRewardC2S,5236,protocol.GetSignInRewardS2C,basic,"selects the requested SignIn_infos/FixSignIn_infos activity, validates all seven SignIn_datas reward days, enforces the next daily claim under the client’s 04:00 Asia/Shanghai reset, then transactionally grants configured inventory and advances the count; updated signInReward is returned and BagItemChangeS2C is pushed"
+5237,protocol.ChatMapMarkersC2S,5238,protocol.ChatMapMarkersS2C,basic,"validates resource-backed battle chat marks and structured battle-message types, then broadcasts to other active room members with a 600 ms per-player cooldown; optional admin packet trace retains this battle-message payload, while stdout logs do not"
+5239,protocol.AbroadCreateOrderC2S,5240,protocol.AbroadCreateOrderS2C,basic,records overseas order intent; returns order id as cpExtInfo
+5243,protocol.AgeVerifyC2S,5244,protocol.AgeVerifyS2C,basic,persists age-verify answer; deterministic empty ack
+5245,protocol.ChangeNameC2S,5246,protocol.ChangeNameS2C,basic,custom handler in internal/gateway/handlers.go
+5247,protocol.ClientClickConfirmTaskC2S,5248,protocol.ClientClickConfirmTaskS2C,basic,records click-confirm counter for guide tasks
+5249,protocol.BuyRelicC2S,5250,protocol.BuyRelicS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5251,protocol.BuyLightGiftC2S,5252,protocol.BuyLightGiftS2C,basic,records light-gift tier purchase
+5253,protocol.LightGiftC2S,5254,protocol.LightGiftS2C,basic,returns light-gift activity state
+5255,protocol.AcquisitionC2S,5256,protocol.AcquisitionS2C,basic,returns acquisition (invite) activity state; validates configured activity
+5257,protocol.AcquisitionRewardC2S,5258,protocol.AcquisitionRewardS2C,basic,claims acquisition reward tier via task_rewards
+5259,protocol.SelectMechanismC2S,5260,protocol.SelectMechanismS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5261,protocol.GachaCountRewardC2S,5262,protocol.GachaCountRewardS2C,partial,"uses the configured pool milestones to grant all eligible unclaimed rewards atomically and persist the highest claimed draw threshold; the C2S contains no milestone ID, so claiming all eligible tiers is inferred"
+5263,protocol.GetPlayerSimpleC2S,5264,protocol.GetPlayerSimpleS2C,basic,custom handler in internal/gateway/handlers.go
+5265,protocol.RoleCardCollectC2S,5266,protocol.RoleCardCollectS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5267,protocol.GMPlayerSettingC2S,5268,protocol.GMPlayerSettingS2C,basic,empty ack echoing debug switches
+5269,protocol.SetFriendNoteC2S,5270,protocol.SetFriendNoteS2C,basic,custom handler in internal/gateway/handlers.go
+5271,protocol.SetOnlineStatusC2S,5272,protocol.SetOnlineStatusS2C,basic,custom handler in internal/gateway/handlers.go
+5305,protocol.ChooseSkinC2S,5306,protocol.ChooseSkinS2C,basic,custom handler in internal/gateway/handlers.go
+5307,protocol.TimeWastingC2S,5308,protocol.TimeWastingS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5309,protocol.VoteC2S,5310,protocol.VoteS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5311,protocol.VoteSelectC2S,5312,protocol.VoteSelectS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5313,protocol.NotifyStoryC2S,5314,protocol.NotifyStoryS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5315,protocol.PveHeroTalentUpC2S,5316,protocol.PveHeroTalentUpS2C,partial,"validates the next Character_infos.pveBreak talent, configured level gate and material costs, atomically consumes inventory and persists the ordered talent list; gameplay reward sources for materials remain partial"
+5317,protocol.SelectEventC2S,5318,protocol.SelectEventS2C,partial,"PVE replacement skill 10202 offer; persists two resource-backed event IDs and action SN, validates the exact offer/index, applies the selected event transactionally, and resumes the same choice on reconnect; profile talent progression still gates availability"
+5319,protocol.CampScoreC2S,5320,protocol.CampScoreS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5321,protocol.ActivityMissionRewardC2S,5322,protocol.ActivityMissionRewardS2C,basic,claims activity mission reward; recorded in task_rewards
+5323,protocol.VendorBuyCardC2S,5324,protocol.VendorBuyCardS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5325,protocol.TransferStarDiscC2S,5326,protocol.TransferStarDiscS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5327,protocol.GetHeroInfoC2S,5328,protocol.GetHeroInfoS2C,partial,"requires both players to be in the same active room; returns match-scoped damage, injuries, deaths, kills, healing score, and the target hero’s resource-resolved active-skill cooldown; counters are updated by resolved combat and HP changes"
+5329,protocol.CreateMatchTeamC2S,5330,protocol.CreateMatchTeamS2C,basic,custom handler in internal/gateway/handlers.go
+5331,protocol.ChangeMatchTeamC2S,5332,protocol.ChangeMatchTeamS2C,basic,custom handler in internal/gateway/handlers.go
+5333,protocol.JoinMatchTeamC2S,5334,protocol.JoinMatchTeamS2C,basic,custom handler in internal/gateway/handlers.go
+5335,protocol.ExitMatchTeamC2S,5336,protocol.ExitMatchTeamS2C,basic,custom handler in internal/gateway/handlers.go
+5337,protocol.RefreshMatchTeamInfoC2S,5338,protocol.RefreshMatchTeamInfoS2C,basic,requires an authenticated current team member before returning the full persisted team snapshot; nonexistent teams and nonmembers receive InvalidParam without team data
+5339,protocol.ChinaCreateOrderC2S,5340,protocol.ChinaCreateOrderS2C,basic,records CN order intent; returns goods/order/amount for SDK pay flow
+5341,protocol.MatchTeamInviteC2S,5342,protocol.MatchTeamInviteS2C,basic,friend-gated team invite; pushes MatchTeamInviteNotify to invitees
+5343,protocol.MatchTeamChatC2S,5344,protocol.MatchTeamChatS2C,basic,team quick-chat validates configured room-chat indices and reaches only current members of the specified match team; it shares the 600 ms per-player cooldown
+5345,protocol.MatchTeamReadyC2S,5346,protocol.MatchTeamReadyS2C,basic,custom handler in internal/gateway/handlers.go
+5347,protocol.PlayerChatC2S,5348,protocol.PlayerChatS2C,basic,"validates structured battle-message types and room-member recipients, limits payloads to 200 single-line Unicode characters, and applies a 600 ms per-player cooldown; optional admin packet trace retains the battle-message payload, while stdout logs do not"
+5349,protocol.SyncSingleGameDataC2S,5350,protocol.SyncSingleGameDataS2C,basic,persists single-game blob + campaign progress; echoes level/score
+5351,protocol.SingleGameDataC2S,5352,protocol.SingleGameDataS2C,basic,returns stored single-game blob from store
+5353,protocol.GetActivityPassRewardC2S,5354,protocol.GetActivityPassRewardS2C,basic,claims free-track mission rewards and echoes the claimed mission ids
+5355,protocol.ApplyChangeSlotC2S,5356,protocol.ApplyChangeSlotS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5357,protocol.OpsChangeSlotC2S,5358,protocol.OpsChangeSlotS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5359,protocol.RookieGachaRewardC2S,5360,protocol.RookieGachaRewardS2C,partial,"validates the rookie banner, draw threshold, and selected configured item; grants it once and persists the claim threshold; the selected-item handling follows the decompiled client flow"
+5361,protocol.LiveGiftPackageC2S,5362,protocol.LiveGiftPackageS2C,basic,grants live gift package items and pushes BagItemChangeS2C
+5363,protocol.LaborActDiceC2S,5364,protocol.LaborActDiceS2C,basic,rolls labor-activity die server-side and persists it
+5365,protocol.ActionOverTimeLogC2S,5366,protocol.ActionOverTimeLogS2C,basic,logs overtime action payload; not stored per player
+5369,protocol.ClientHarmonyC2S,5370,protocol.ClientHarmonyS2C,basic,echoes the client anti-harmony (angel mode) switch with ERR=0 and persists players.is_harmony/harmony_type (schema v5); the decompiled callback only treats errId==0 as success and ignores the response body
+5371,protocol.MailStarC2S,5372,protocol.MailStarS2C,basic,custom handler in internal/gateway/handlers.go
+5373,protocol.SetCardAltArtC2S,5374,protocol.SetCardAltArtS2C,basic,implemented: validates request, persists state where required, echoes S2C
+5377,protocol.SelectRewardCardC2S,5378,protocol.SelectRewardCardS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5379,protocol.GetReturnInfoC2S,5380,protocol.GetReturnInfoS2C,basic,reports the zeroed comeback-campaign state
+5381,protocol.ReturnGiftClaimC2S,5382,protocol.ReturnGiftClaimS2C,basic,claims one-time return-player gift bundle
+5383,protocol.ReturnSignInClaimC2S,5384,protocol.ReturnSignInClaimS2C,basic,claims one return sign-in day (free or advanced)
+5385,protocol.ReturnSurveyFinishC2S,5386,protocol.ReturnSurveyFinishS2C,basic,records return-player survey completion
+5387,protocol.FlipCardC2S,5388,protocol.FlipCardS2C,basic,implemented: handler present in misc_impl or dedicated handler
+5389,protocol.FlipCardProgressRewardC2S,5390,protocol.FlipCardProgressRewardS2C,basic,claims flip-card progress milestone
+5395,protocol.GetQuestionUrlC2S,5396,protocol.GetQuestionUrlS2C,basic,returns the configured customer-service question URL
+9001,protocol.CreateGuildC2S,9002,protocol.CreateGuildS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9003,protocol.SearchGuildC2S,9004,protocol.SearchGuildS2C,basic,searches guilds by name and returns matching guild infos
+9005,protocol.ApplyToGuildC2S,9006,protocol.ApplyToGuildS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9007,protocol.ProcessGuildApplicationC2S,9008,protocol.ProcessGuildApplicationS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9009,protocol.SendGuildInvitationC2S,9010,protocol.SendGuildInvitationS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9011,protocol.ProcessGuildInvitationC2S,9012,protocol.ProcessGuildInvitationS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9013,protocol.GetGuildInfoC2S,9014,protocol.GetGuildInfoS2C,basic,returns full guild info for the requested guild
+9015,protocol.UpdateGuildSettingsC2S,9016,protocol.UpdateGuildSettingsS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9017,protocol.UpdateGuildInAnnouncementC2S,9018,protocol.UpdateGuildInAnnouncementS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9019,protocol.TransferGuildMasterC2S,9020,protocol.TransferGuildMasterS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9021,protocol.ChangeGuildMemberTitleC2S,9022,protocol.ChangeGuildMemberTitleS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9023,protocol.KickGuildMemberC2S,9024,protocol.KickGuildMemberS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9025,protocol.ImpeachGuildMasterC2S,9026,protocol.ImpeachGuildMasterS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9027,protocol.ExitGuildC2S,9028,protocol.ExitGuildS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9029,protocol.DisbandGuildC2S,9030,protocol.DisbandGuildS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9031,protocol.GuildMissionRewardC2S,9032,protocol.GuildMissionRewardS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9033,protocol.GetGuildMemberChangeMsgC2S,9034,protocol.GetGuildMemberChangeMsgS2C,basic,returns the guild membership change log
+9035,protocol.SendGuildChatMsgC2S,9036,protocol.SendGuildChatMsgS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9037,protocol.GetGuildChatMsgC2S,9038,protocol.GetGuildChatMsgS2C,basic,returns stored guild chat messages
+9039,protocol.GuildMemberC2S,9040,protocol.GuildMemberS2C,basic,implemented: handler present in misc_impl or dedicated handler
+9041,protocol.GetGuildsInfoC2S,9042,protocol.GetGuildsInfoS2C,basic,returns the guild list overview
+50000,protocol.TestRpcEchoC2S,50001,protocol.TestRpcEchoS2C,basic,echoes payload back for connectivity probe

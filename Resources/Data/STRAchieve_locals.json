@@ -1,0 +1,1026 @@
+[
+  {
+    "id": 1000,
+    "simplified": "本场游戏的赢家是..."
+  },
+  {
+    "id": 1001,
+    "simplified": "击倒对手最多的玩家是..."
+  },
+  {
+    "id": 1002,
+    "simplified": "造成伤害最多的玩家是..."
+  },
+  {
+    "id": 1003,
+    "simplified": "单次伤害最高的玩家是..."
+  },
+  {
+    "id": 1004,
+    "simplified": "倒下次数最多的玩家是..."
+  },
+  {
+    "id": 1005,
+    "simplified": "承受伤害最多的玩家是..."
+  },
+  {
+    "id": 1006,
+    "simplified": "最倒霉的玩家是..."
+  },
+  {
+    "id": 1007,
+    "simplified": "我的第[color=#FCCA4C]{0}[/color]次天选之星"
+  },
+  {
+    "id": 1008,
+    "simplified": "截图已保存至{0}"
+  },
+  {
+    "id": 2000,
+    "simplified": "本场游戏的赢家"
+  },
+  {
+    "id": 2001,
+    "simplified": "击倒数量:"
+  },
+  {
+    "id": 2002,
+    "simplified": "累计直接伤害:"
+  },
+  {
+    "id": 2003,
+    "simplified": "最高单次pk伤害:"
+  },
+  {
+    "id": 2004,
+    "simplified": "累计倒下次数:"
+  },
+  {
+    "id": 2005,
+    "simplified": "累计承受伤害:"
+  },
+  {
+    "id": 2006,
+    "simplified": "触发陷阱次数:"
+  },
+  {
+    "id": 2007,
+    "simplified": "转账金额最多"
+  },
+  {
+    "id": 2008,
+    "simplified": "对BOSS最后一击"
+  },
+  {
+    "id": 2009,
+    "simplified": "治疗评分最高"
+  },
+  {
+    "id": 2010,
+    "simplified": "移动步数最多"
+  },
+  {
+    "id": 2011,
+    "simplified": "移动步数最少"
+  },
+  {
+    "id": 2012,
+    "simplified": "累积星币最多"
+  },
+  {
+    "id": 2013,
+    "simplified": "战斗投掷为6次数最多"
+  },
+  {
+    "id": 3001,
+    "simplified": "击倒次数"
+  },
+  {
+    "id": 3002,
+    "simplified": "倒下次数"
+  },
+  {
+    "id": 3003,
+    "simplified": "输出伤害"
+  },
+  {
+    "id": 3004,
+    "simplified": "承受伤害"
+  },
+  {
+    "id": 3005,
+    "simplified": "治疗评分"
+  },
+  {
+    "id": 4000,
+    "simplified": "天选之星"
+  },
+  {
+    "id": 4001,
+    "simplified": "破坏王"
+  },
+  {
+    "id": 4002,
+    "simplified": "大荒星陨"
+  },
+  {
+    "id": 4003,
+    "simplified": "一拳超人"
+  },
+  {
+    "id": 4004,
+    "simplified": "死神"
+  },
+  {
+    "id": 4005,
+    "simplified": "百折不挠"
+  },
+  {
+    "id": 4006,
+    "simplified": "排雷大师"
+  },
+  {
+    "id": 4007,
+    "simplified": "大富翁"
+  },
+  {
+    "id": 4008,
+    "simplified": "终结者"
+  },
+  {
+    "id": 4009,
+    "simplified": "终极医师"
+  },
+  {
+    "id": 4010,
+    "simplified": "长跑冠军"
+  },
+  {
+    "id": 4011,
+    "simplified": "蜗牛"
+  },
+  {
+    "id": 4012,
+    "simplified": "囤积者"
+  },
+  {
+    "id": 4013,
+    "simplified": "作战大师"
+  },
+  {
+    "id": 10000,
+    "simplified": "一血"
+  },
+  {
+    "id": 10100,
+    "simplified": "势如破竹"
+  },
+  {
+    "id": 10200,
+    "simplified": "震慑八方"
+  },
+  {
+    "id": 10300,
+    "simplified": "魔神降临"
+  },
+  {
+    "id": 20000,
+    "simplified": "战斗高手"
+  },
+  {
+    "id": 20100,
+    "simplified": "战斗大师"
+  },
+  {
+    "id": 20200,
+    "simplified": "战狂"
+  },
+  {
+    "id": 30000,
+    "simplified": "无所谓"
+  },
+  {
+    "id": 30100,
+    "simplified": "超鬼"
+  },
+  {
+    "id": 30200,
+    "simplified": "死神"
+  },
+  {
+    "id": 40000,
+    "simplified": "擦破皮"
+  },
+  {
+    "id": 40100,
+    "simplified": "皮糙肉厚"
+  },
+  {
+    "id": 40200,
+    "simplified": "团队坦克"
+  },
+  {
+    "id": 50000,
+    "simplified": "粗心大意"
+  },
+  {
+    "id": 50100,
+    "simplified": "习以为常"
+  },
+  {
+    "id": 50200,
+    "simplified": "故意的？"
+  },
+  {
+    "id": 60000,
+    "simplified": "小惊喜"
+  },
+  {
+    "id": 60100,
+    "simplified": "动物追踪者"
+  },
+  {
+    "id": 70000,
+    "simplified": "看看效果"
+  },
+  {
+    "id": 70100,
+    "simplified": "此路不通"
+  },
+  {
+    "id": 80000,
+    "simplified": "天罚"
+  },
+  {
+    "id": 80100,
+    "simplified": "买彩票吧"
+  },
+  {
+    "id": 80200,
+    "simplified": "渡劫"
+  },
+  {
+    "id": 90000,
+    "simplified": "小感冒"
+  },
+  {
+    "id": 90100,
+    "simplified": "大感冒"
+  },
+  {
+    "id": 90200,
+    "simplified": "常客"
+  },
+  {
+    "id": 100000,
+    "simplified": "意外之财"
+  },
+  {
+    "id": 100100,
+    "simplified": "超级幸运儿"
+  },
+  {
+    "id": 100200,
+    "simplified": "作弊了？"
+  },
+  {
+    "id": 110000,
+    "simplified": "棋盘拯救者"
+  },
+  {
+    "id": 120000,
+    "simplified": "首尝胜果"
+  },
+  {
+    "id": 120100,
+    "simplified": "小有成就"
+  },
+  {
+    "id": 120200,
+    "simplified": "游戏大师"
+  },
+  {
+    "id": 130000,
+    "simplified": "派对爱好者"
+  },
+  {
+    "id": 130100,
+    "simplified": "派对狂热者"
+  },
+  {
+    "id": 130200,
+    "simplified": "没星趴我怎么活"
+  },
+  {
+    "id": 140000,
+    "simplified": "愉快90天"
+  },
+  {
+    "id": 170100,
+    "simplified": "商业高手"
+  },
+  {
+    "id": 170200,
+    "simplified": "探案高手"
+  },
+  {
+    "id": 170300,
+    "simplified": "大修女长"
+  },
+  {
+    "id": 170400,
+    "simplified": "完美忍者"
+  },
+  {
+    "id": 170500,
+    "simplified": "超级社员"
+  },
+  {
+    "id": 170600,
+    "simplified": "辣妹"
+  },
+  {
+    "id": 170700,
+    "simplified": "游戏人生"
+  },
+  {
+    "id": 170800,
+    "simplified": "打工战士"
+  },
+  {
+    "id": 170900,
+    "simplified": "铁人"
+  },
+  {
+    "id": 171000,
+    "simplified": "街舞达人"
+  },
+  {
+    "id": 171100,
+    "simplified": "小猎手"
+  },
+  {
+    "id": 171200,
+    "simplified": "公主"
+  },
+  {
+    "id": 171300,
+    "simplified": "大当家"
+  },
+  {
+    "id": 171400,
+    "simplified": "神秘怪盗"
+  },
+  {
+    "id": 171500,
+    "simplified": "参战"
+  },
+  {
+    "id": 171600,
+    "simplified": "绿洲女王"
+  },
+  {
+    "id": 171700,
+    "simplified": "家政机器人"
+  },
+  {
+    "id": 171800,
+    "simplified": "暗区少主"
+  },
+  {
+    "id": 171900,
+    "simplified": "午夜闪光"
+  },
+  {
+    "id": 172000,
+    "simplified": "网络魅影"
+  },
+  {
+    "id": 172100,
+    "simplified": "新人调查员"
+  },
+  {
+    "id": 172200,
+    "simplified": "机械超人"
+  },
+  {
+    "id": 172300,
+    "simplified": "风水师"
+  },
+  {
+    "id": 172400,
+    "simplified": "三神御主"
+  },
+  {
+    "id": 172500,
+    "simplified": "枪匠"
+  },
+  {
+    "id": 172600,
+    "simplified": "沼之蛟龙"
+  },
+  {
+    "id": 172700,
+    "simplified": "毒苹果"
+  },
+  {
+    "id": 172800,
+    "simplified": "怪力乱神"
+  },
+  {
+    "id": 172900,
+    "simplified": "魔渊幼体"
+  },
+  {
+    "id": 179400,
+    "simplified": "飘浮魔法"
+  },
+  {
+    "id": 179500,
+    "simplified": "怪力少女"
+  },
+  {
+    "id": 179600,
+    "simplified": "改变生活"
+  },
+  {
+    "id": 179700,
+    "simplified": "敞开心扉"
+  },
+  {
+    "id": 179800,
+    "simplified": "超天酱"
+  },
+  {
+    "id": 179900,
+    "simplified": "糖糖"
+  },
+  {
+    "id": 180100,
+    "simplified": "商业之主"
+  },
+  {
+    "id": 180200,
+    "simplified": "古怪神探"
+  },
+  {
+    "id": 180300,
+    "simplified": "战斗修女"
+  },
+  {
+    "id": 180400,
+    "simplified": "暗影忍者"
+  },
+  {
+    "id": 180500,
+    "simplified": "精英社员"
+  },
+  {
+    "id": 180600,
+    "simplified": "猩红辣妹"
+  },
+  {
+    "id": 180700,
+    "simplified": "游戏大师"
+  },
+  {
+    "id": 180800,
+    "simplified": "看板娘"
+  },
+  {
+    "id": 180900,
+    "simplified": "终结者"
+  },
+  {
+    "id": 181000,
+    "simplified": "肉弹战车"
+  },
+  {
+    "id": 181100,
+    "simplified": "完美猎手"
+  },
+  {
+    "id": 181200,
+    "simplified": "危险生物"
+  },
+  {
+    "id": 181300,
+    "simplified": "帮派大佬"
+  },
+  {
+    "id": 181400,
+    "simplified": "命运之主"
+  },
+  {
+    "id": 181500,
+    "simplified": "刀刀暴击"
+  },
+  {
+    "id": 181600,
+    "simplified": "女王的侍从"
+  },
+  {
+    "id": 181700,
+    "simplified": "清扫专家"
+  },
+  {
+    "id": 181800,
+    "simplified": "暗区话事人"
+  },
+  {
+    "id": 181900,
+    "simplified": "无可阻挡"
+  },
+  {
+    "id": 182000,
+    "simplified": "老练黑客"
+  },
+  {
+    "id": 182100,
+    "simplified": "纸巫女"
+  },
+  {
+    "id": 182200,
+    "simplified": "老练操控者"
+  },
+  {
+    "id": 182300,
+    "simplified": "完美帮手"
+  },
+  {
+    "id": 182400,
+    "simplified": "御主威名"
+  },
+  {
+    "id": 182500,
+    "simplified": "神枪手"
+  },
+  {
+    "id": 182600,
+    "simplified": "化龙"
+  },
+  {
+    "id": 182700,
+    "simplified": "极端主义"
+  },
+  {
+    "id": 182800,
+    "simplified": "力大无穷"
+  },
+  {
+    "id": 182900,
+    "simplified": "魔渊领主"
+  },
+  {
+    "id": 189400,
+    "simplified": "远野汉娜大胜利"
+  },
+  {
+    "id": 189500,
+    "simplified": "橘雪莉大胜利"
+  },
+  {
+    "id": 189600,
+    "simplified": "调制高手"
+  },
+  {
+    "id": 189700,
+    "simplified": "真实的我"
+  },
+  {
+    "id": 189800,
+    "simplified": "主播女孩"
+  },
+  {
+    "id": 189900,
+    "simplified": "可爱主播"
+  },
+  {
+    "id": 190100,
+    "simplified": "荣誉市民"
+  },
+  {
+    "id": 200000,
+    "simplified": "吃到撑"
+  },
+  {
+    "id": 210000,
+    "simplified": "闪避大师"
+  },
+  {
+    "id": 220000,
+    "simplified": "人见人爱"
+  },
+  {
+    "id": 220100,
+    "simplified": "社交明星"
+  },
+  {
+    "id": 270100,
+    "simplified": "初出茅庐"
+  },
+  {
+    "id": 270200,
+    "simplified": "小试牛刀"
+  },
+  {
+    "id": 270300,
+    "simplified": "破除噩梦"
+  },
+  {
+    "id": 270400,
+    "simplified": "一起疯狂"
+  },
+  {
+    "id": 320100,
+    "simplified": "凶险通路"
+  },
+  {
+    "id": 1000000,
+    "simplified": "鬼见愁"
+  },
+  {
+    "id": 1000100,
+    "simplified": "主宰棋盘"
+  },
+  {
+    "id": 1010000,
+    "simplified": "啊？"
+  },
+  {
+    "id": 1010100,
+    "simplified": "啊！？"
+  },
+  {
+    "id": 1010200,
+    "simplified": "作弊吧？"
+  },
+  {
+    "id": 1020000,
+    "simplified": "你什么超能力？"
+  },
+  {
+    "id": 1030000,
+    "simplified": "乱吃东西的代价"
+  },
+  {
+    "id": 1040100,
+    "simplified": "噩梦终结"
+  },
+  {
+    "id": 1050100,
+    "simplified": "硬核高玩"
+  },
+  {
+    "id": 2000000,
+    "simplified": "星趴新手"
+  },
+  {
+    "id": 2000100,
+    "simplified": "星趴高手"
+  },
+  {
+    "id": 2000200,
+    "simplified": "星趴老手"
+  },
+  {
+    "id": 2010000,
+    "simplified": "我的朋友很少"
+  },
+  {
+    "id": 2010100,
+    "simplified": "我的朋友很多"
+  },
+  {
+    "id": 2020000,
+    "simplified": "私交甚好"
+  },
+  {
+    "id": 2020100,
+    "simplified": "三两好友"
+  },
+  {
+    "id": 2020200,
+    "simplified": "大家的好伙伴"
+  },
+  {
+    "id": 2020300,
+    "simplified": "伙伴成群"
+  },
+  {
+    "id": 2020400,
+    "simplified": "交际花"
+  },
+  {
+    "id": 2030000,
+    "simplified": "刚刚入坑"
+  },
+  {
+    "id": 2030100,
+    "simplified": "收藏家"
+  },
+  {
+    "id": 2030200,
+    "simplified": "顶尖囤积者"
+  },
+  {
+    "id": 2040000,
+    "simplified": "是他让我加的！"
+  },
+  {
+    "id": 2040100,
+    "simplified": "加入公会"
+  },
+  {
+    "id": 10001,
+    "simplified": "首次击倒玩家"
+  },
+  {
+    "id": 10101,
+    "simplified": "累计击倒≥10人"
+  },
+  {
+    "id": 10201,
+    "simplified": "累计击倒≥100人"
+  },
+  {
+    "id": 10301,
+    "simplified": "累计击倒≥999人"
+  },
+  {
+    "id": 20001,
+    "simplified": "累计直接伤害≥100"
+  },
+  {
+    "id": 20101,
+    "simplified": "累计直接伤害≥1000"
+  },
+  {
+    "id": 20201,
+    "simplified": "累计直接伤害≥3000"
+  },
+  {
+    "id": 30001,
+    "simplified": "累计被击倒≥10次"
+  },
+  {
+    "id": 30101,
+    "simplified": "累计被击倒≥100次"
+  },
+  {
+    "id": 30201,
+    "simplified": "累计被击倒≥300次"
+  },
+  {
+    "id": 40001,
+    "simplified": "累计承受伤害≥100点"
+  },
+  {
+    "id": 40101,
+    "simplified": "累计承受伤害≥1000点"
+  },
+  {
+    "id": 40201,
+    "simplified": "累计承受伤害≥3000点"
+  },
+  {
+    "id": 50001,
+    "simplified": "累计踩中陷阱≥1次"
+  },
+  {
+    "id": 50101,
+    "simplified": "累计踩中陷阱≥10次"
+  },
+  {
+    "id": 50201,
+    "simplified": "累计踩中陷阱≥50次"
+  },
+  {
+    "id": 60001,
+    "simplified": "累计放置≥1个陷阱"
+  },
+  {
+    "id": 60101,
+    "simplified": "累计放置≥10个陷阱"
+  },
+  {
+    "id": 70001,
+    "simplified": "累计放置≥1个路障"
+  },
+  {
+    "id": 70101,
+    "simplified": "累计放置≥10个路障"
+  },
+  {
+    "id": 80001,
+    "simplified": "被雷劈≥1次"
+  },
+  {
+    "id": 80101,
+    "simplified": "累计被雷劈≥10次"
+  },
+  {
+    "id": 80201,
+    "simplified": "累计被雷劈≥30次"
+  },
+  {
+    "id": 90001,
+    "simplified": "累计住院≥1次"
+  },
+  {
+    "id": 90101,
+    "simplified": "累计住院≥10次"
+  },
+  {
+    "id": 90201,
+    "simplified": "累计住院≥30次"
+  },
+  {
+    "id": 100001,
+    "simplified": "首次彩票中奖"
+  },
+  {
+    "id": 100101,
+    "simplified": "累计彩票中奖≥10次"
+  },
+  {
+    "id": 100201,
+    "simplified": "累计彩票中奖≥30次"
+  },
+  {
+    "id": 110001,
+    "simplified": "击倒小怪兽≥1次"
+  },
+  {
+    "id": 120001,
+    "simplified": "首胜"
+  },
+  {
+    "id": 120101,
+    "simplified": "累计胜利≥10次"
+  },
+  {
+    "id": 120201,
+    "simplified": "累计胜利≥100次"
+  },
+  {
+    "id": 130001,
+    "simplified": "累计参与派对≥10次"
+  },
+  {
+    "id": 130101,
+    "simplified": "累计参与派对≥100次"
+  },
+  {
+    "id": 130201,
+    "simplified": "累计参与派对≥365次"
+  },
+  {
+    "id": 140001,
+    "simplified": "累计登录≥90天"
+  },
+  {
+    "id": 170101,
+    "simplified": "累计使用{1}完成游戏≥{0}次"
+  },
+  {
+    "id": 180101,
+    "simplified": "累计使用{1}胜利≥{0}次"
+  },
+  {
+    "id": 190101,
+    "simplified": "累计击倒小偷≥100次"
+  },
+  {
+    "id": 200001,
+    "simplified": "累计吃团子≥60次"
+  },
+  {
+    "id": 210001,
+    "simplified": "从未受到撞击的局数≥10局"
+  },
+  {
+    "id": 220001,
+    "simplified": "累计获得点赞≥300次"
+  },
+  {
+    "id": 220101,
+    "simplified": "累计获得点赞≥1000次"
+  },
+  {
+    "id": 270101,
+    "simplified": "合作挑战普通难度胜利≥1次"
+  },
+  {
+    "id": 270201,
+    "simplified": "合作挑战困难难度胜利≥1次"
+  },
+  {
+    "id": 270301,
+    "simplified": "合作挑战噩梦难度胜利≥1次"
+  },
+  {
+    "id": 270401,
+    "simplified": "合作挑战疯狂难度胜利≥1次"
+  },
+  {
+    "id": 320101,
+    "simplified": "丛林冒险地图中激活机关同时下沉3名角色。"
+  },
+  {
+    "id": 1000001,
+    "simplified": "单局击倒玩家次数≥5"
+  },
+  {
+    "id": 1000101,
+    "simplified": "单局击倒玩家次数≥10"
+  },
+  {
+    "id": 1010001,
+    "simplified": "最高单次pk伤害≥15点"
+  },
+  {
+    "id": 1010101,
+    "simplified": "最高单次pk伤害≥20点"
+  },
+  {
+    "id": 1010201,
+    "simplified": "最高单次pk伤害≥25点"
+  },
+  {
+    "id": 1020001,
+    "simplified": "单局获得≥100星币"
+  },
+  {
+    "id": 1030001,
+    "simplified": "单局吃团子传送到医院的次数≥3次"
+  },
+  {
+    "id": 1040101,
+    "simplified": "合作挑战模式(噩梦难度或以上)胜利时进度≤15"
+  },
+  {
+    "id": 1050101,
+    "simplified": "合作挑战模式（噩梦难度或以上）在未有角色被击倒的情况下通关"
+  },
+  {
+    "id": 2000001,
+    "simplified": "账号等级达到≥10级"
+  },
+  {
+    "id": 2000101,
+    "simplified": "账号等级达到≥30级"
+  },
+  {
+    "id": 2000201,
+    "simplified": "账号等级达到≥50级"
+  },
+  {
+    "id": 2010001,
+    "simplified": "拥有≥5个角色"
+  },
+  {
+    "id": 2010101,
+    "simplified": "拥有≥10个角色"
+  },
+  {
+    "id": 2020001,
+    "simplified": "与1个角色缔结契约"
+  },
+  {
+    "id": 2020101,
+    "simplified": "与2个角色缔结契约"
+  },
+  {
+    "id": 2020201,
+    "simplified": "与3个角色缔结契约"
+  },
+  {
+    "id": 2020301,
+    "simplified": "与4个角色缔结契约"
+  },
+  {
+    "id": 2020401,
+    "simplified": "与5个角色缔结契约"
+  },
+  {
+    "id": 2030001,
+    "simplified": "拥有≥3个骰子"
+  },
+  {
+    "id": 2030101,
+    "simplified": "拥有≥5个骰子"
+  },
+  {
+    "id": 2030201,
+    "simplified": "拥有≥10个骰子"
+  },
+  {
+    "id": 2040001,
+    "simplified": "好友数量≥1个"
+  },
+  {
+    "id": 2040101,
+    "simplified": "成为公会一员"
+  }
+]

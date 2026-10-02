@@ -1,0 +1,1706 @@
+[
+  {
+    "id": 10001,
+    "nameID": 10001,
+    "icon": "UT_SGBBuilding_10001",
+    "cardPackID": [
+      101
+    ],
+    "cardTag": [
+      {
+        "value": 1,
+        "name": "SinglePlayerTagType_Prosperity"
+      }
+    ],
+    "triggerPriority": 2000,
+    "desID": 1000101,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10001",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10001",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10001",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          3
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10001",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          4
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      }
+    ]
+  },
+  {
+    "id": 10002,
+    "nameID": 10002,
+    "icon": "UT_SGBBuilding_10002",
+    "cardPackID": [
+      102
+    ],
+    "cardTag": [
+      {
+        "value": 2,
+        "name": "SinglePlayerTagType_Promotion"
+      }
+    ],
+    "triggerPriority": 2001,
+    "desID": 1000201,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10002",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          2,
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "addPrice": 1
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10002",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          2,
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "addPrice": 8
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10002",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          2,
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "addPrice": 25
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10002",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          2,
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "addPrice": 45
+      }
+    ]
+  },
+  {
+    "id": 10003,
+    "nameID": 10003,
+    "icon": "UT_SGBBuilding_10003",
+    "cardPackID": [
+      103
+    ],
+    "cardTag": [
+      {
+        "value": 3,
+        "name": "SinglePlayerTagType_Dice"
+      }
+    ],
+    "triggerPriority": 1000,
+    "desID": 1000301,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10003",
+        "triggerPoint": [
+          6
+        ],
+        "triggerParam": [
+          6
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10003",
+        "triggerPoint": [
+          6
+        ],
+        "triggerParam": [
+          12
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10003",
+        "triggerPoint": [
+          6
+        ],
+        "triggerParam": [
+          18
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_10003",
+        "triggerPoint": [
+          6
+        ],
+        "triggerParam": [
+          24
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      }
+    ]
+  },
+  {
+    "id": 20001,
+    "nameID": 20001,
+    "icon": "UT_SGBBuilding_20001",
+    "cardPackID": [
+      102
+    ],
+    "rarity": 1,
+    "cardTag": [
+      {
+        "value": 2,
+        "name": "SinglePlayerTagType_Promotion"
+      }
+    ],
+    "triggerPriority": 1001,
+    "desID": 2000101,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20001",
+        "triggerTimes": 9,
+        "walkParam": [
+          3
+        ],
+        "walkTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          2
+        ]
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20001",
+        "triggerTimes": 9,
+        "walkParam": [
+          6
+        ],
+        "walkTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          4
+        ]
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20001",
+        "triggerTimes": 9,
+        "walkParam": [
+          9
+        ],
+        "walkTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          6
+        ]
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20001",
+        "triggerTimes": 9,
+        "walkParam": [
+          12
+        ],
+        "walkTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "nameID": 20002,
+    "icon": "UT_SGBBuilding_20002",
+    "cardPackID": [
+      101
+    ],
+    "rarity": 1,
+    "cardTag": [
+      {
+        "value": 1,
+        "name": "SinglePlayerTagType_Prosperity"
+      }
+    ],
+    "triggerPriority": 2002,
+    "desID": 2000201,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20002",
+        "triggerPoint": [
+          3
+        ],
+        "triggerParam": [
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          2
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20002",
+        "triggerPoint": [
+          3
+        ],
+        "triggerParam": [
+          3
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          3
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20002",
+        "triggerPoint": [
+          3
+        ],
+        "triggerParam": [
+          6
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          4
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20002",
+        "triggerPoint": [
+          3
+        ],
+        "triggerParam": [
+          9
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          5
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      }
+    ]
+  },
+  {
+    "id": 20003,
+    "nameID": 20003,
+    "icon": "UT_SGBBuilding_20003",
+    "cardPackID": [
+      103
+    ],
+    "rarity": 1,
+    "cardTag": [
+      {
+        "value": 3,
+        "name": "SinglePlayerTagType_Dice"
+      }
+    ],
+    "triggerPriority": 3001,
+    "desID": 2000301,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20003",
+        "triggerPoint": [
+          2,
+          4,
+          6
+        ],
+        "triggerParam": [
+          2,
+          1
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20003",
+        "triggerPoint": [
+          2,
+          4,
+          6
+        ],
+        "triggerParam": [
+          4,
+          1
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20003",
+        "triggerPoint": [
+          2,
+          4,
+          6
+        ],
+        "triggerParam": [
+          6,
+          1
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20003",
+        "triggerPoint": [
+          2,
+          4,
+          6
+        ],
+        "triggerParam": [
+          8,
+          1
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      }
+    ]
+  },
+  {
+    "id": 20004,
+    "nameID": 20004,
+    "icon": "UT_SGBBuilding_20004",
+    "cardPackID": [
+      101
+    ],
+    "rarity": 1,
+    "cardTag": [
+      {
+        "value": 1,
+        "name": "SinglePlayerTagType_Prosperity"
+      }
+    ],
+    "triggerPriority": 2003,
+    "desID": 2000401,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20004",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "otherParam": [
+          1
+        ]
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20004",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "otherParam": [
+          1
+        ]
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20004",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          4
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "otherParam": [
+          1
+        ]
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20004",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          6
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "otherParam": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20005,
+    "nameID": 20005,
+    "icon": "UT_SGBBuilding_20005",
+    "cardPackID": [
+      102
+    ],
+    "rarity": 1,
+    "cardTag": [
+      {
+        "value": 2,
+        "name": "SinglePlayerTagType_Promotion"
+      }
+    ],
+    "triggerPriority": 1002,
+    "desID": 2000501,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20005",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "addPrice": 3
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20005",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "addPrice": 15
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20005",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "addPrice": 35
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20005",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "addPrice": 65
+      }
+    ]
+  },
+  {
+    "id": 20006,
+    "nameID": 20006,
+    "icon": "UT_SGBBuilding_20006",
+    "cardPackID": [
+      101,
+      103
+    ],
+    "rarity": 2,
+    "cardTag": [
+      {
+        "value": 1,
+        "name": "SinglePlayerTagType_Prosperity"
+      },
+      {
+        "value": 3,
+        "name": "SinglePlayerTagType_Dice"
+      }
+    ],
+    "triggerPriority": 2004,
+    "desID": 2000601,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20006",
+        "triggerPoint": [
+          1,
+          6
+        ],
+        "triggerParam": [
+          2
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20006",
+        "triggerPoint": [
+          1,
+          6
+        ],
+        "triggerParam": [
+          4
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20006",
+        "triggerPoint": [
+          1,
+          6
+        ],
+        "triggerParam": [
+          6
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20006",
+        "triggerPoint": [
+          1,
+          6
+        ],
+        "triggerParam": [
+          8
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      }
+    ]
+  },
+  {
+    "id": 20007,
+    "nameID": 20007,
+    "icon": "UT_SGBBuilding_20007",
+    "cardPackID": [
+      102
+    ],
+    "rarity": 2,
+    "cardTag": [
+      {
+        "value": 2,
+        "name": "SinglePlayerTagType_Promotion"
+      }
+    ],
+    "triggerPriority": 1003,
+    "desID": 2000701,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20007",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          1
+        ],
+        "otherParam": [
+          1
+        ]
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20007",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          2
+        ],
+        "otherParam": [
+          1
+        ]
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20007",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          2
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          2
+        ],
+        "otherParam": [
+          1
+        ]
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20007",
+        "triggerPoint": [
+          -1
+        ],
+        "triggerParam": [
+          2
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          3
+        ],
+        "otherParam": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20008,
+    "nameID": 20008,
+    "icon": "UT_SGBBuilding_20008",
+    "cardPackID": [
+      101
+    ],
+    "rarity": 2,
+    "cardTag": [
+      {
+        "value": 1,
+        "name": "SinglePlayerTagType_Prosperity"
+      }
+    ],
+    "triggerPriority": 1004,
+    "desID": 2000801,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20008",
+        "triggerPoint": [
+          3,
+          4
+        ],
+        "triggerTimes": 1,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          2
+        ]
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20008",
+        "triggerPoint": [
+          3,
+          4
+        ],
+        "triggerTimes": 1,
+        "triggerTL": "SG_BuildingTriggerGold_01",
+        "stopParam": [
+          3
+        ]
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20008",
+        "triggerPoint": [
+          3,
+          4
+        ],
+        "triggerTimes": 1,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          4
+        ]
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20008",
+        "triggerPoint": [
+          3,
+          4
+        ],
+        "triggerTimes": 1,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20009,
+    "nameID": 20009,
+    "icon": "UT_SGBBuilding_20009",
+    "cardPackID": [
+      103
+    ],
+    "rarity": 2,
+    "cardTag": [
+      {
+        "value": 3,
+        "name": "SinglePlayerTagType_Dice"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2000901,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20009",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          6
+        ],
+        "triggerTimes": 9
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20009",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          12
+        ],
+        "triggerTimes": 9
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20009",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          18
+        ],
+        "triggerTimes": 9
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20009",
+        "triggerPoint": [
+          1
+        ],
+        "triggerParam": [
+          24
+        ],
+        "triggerTimes": 9
+      }
+    ]
+  },
+  {
+    "id": 20010,
+    "nameID": 20010,
+    "icon": "UT_SGBBuilding_20010",
+    "cardPackID": [
+      101
+    ],
+    "rarity": 3,
+    "cardTag": [
+      {
+        "value": 1,
+        "name": "SinglePlayerTagType_Prosperity"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001001,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "building": "SG_Building_20010",
+        "triggerTimes": 9,
+        "walkParam": [
+          6,
+          1
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 2,
+        "building": "SG_Building_20010",
+        "triggerTimes": 9,
+        "walkParam": [
+          12,
+          2
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 3,
+        "building": "SG_Building_20010",
+        "triggerTimes": 9,
+        "walkParam": [
+          18,
+          3
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 4,
+        "building": "SG_Building_20010",
+        "triggerTimes": 9,
+        "walkParam": [
+          24,
+          4
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      }
+    ]
+  },
+  {
+    "id": 20011,
+    "nameID": 20011,
+    "icon": "UT_SGBBuilding_20011",
+    "cardPackID": [
+      102
+    ],
+    "rarity": 3,
+    "cardTag": [
+      {
+        "value": 2,
+        "name": "SinglePlayerTagType_Promotion"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001101,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "building": "SG_Building_20011",
+        "triggerPoint": [
+          5
+        ],
+        "triggerParam": [
+          1,
+          1
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          1002,
+          70,
+          2005,
+          30
+        ]
+      },
+      {
+        "level": 2,
+        "building": "SG_Building_20011",
+        "triggerPoint": [
+          5
+        ],
+        "triggerParam": [
+          2,
+          1
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          1002,
+          70,
+          2005,
+          30
+        ]
+      },
+      {
+        "level": 3,
+        "building": "SG_Building_20011",
+        "triggerPoint": [
+          5
+        ],
+        "triggerParam": [
+          2,
+          2
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          1002,
+          70,
+          2005,
+          30
+        ]
+      },
+      {
+        "level": 4,
+        "building": "SG_Building_20011",
+        "triggerPoint": [
+          5
+        ],
+        "triggerParam": [
+          3,
+          2
+        ],
+        "triggerTimes": 9,
+        "walkParam": [
+          1002,
+          70,
+          2005,
+          30
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20012,
+    "nameID": 20012,
+    "icon": "UT_SGBBuilding_20012",
+    "cardPackID": [
+      103
+    ],
+    "rarity": 3,
+    "cardTag": [
+      {
+        "value": 3,
+        "name": "SinglePlayerTagType_Dice"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001201,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "building": "SG_Building_20012",
+        "triggerParam": [
+          1
+        ],
+        "triggerTimes": 9,
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 2,
+        "building": "SG_Building_20012",
+        "triggerParam": [
+          2
+        ],
+        "triggerTimes": 9,
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 3,
+        "building": "SG_Building_20012",
+        "triggerParam": [
+          3
+        ],
+        "triggerTimes": 9,
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 4,
+        "building": "SG_Building_20012",
+        "triggerParam": [
+          4
+        ],
+        "triggerTimes": 9,
+        "walkTL": "SG_BuildingTriggerGold_02"
+      }
+    ]
+  },
+  {
+    "id": 20013,
+    "nameID": 20013,
+    "icon": "UT_SGBBuilding_20013",
+    "cardPackID": [
+      104
+    ],
+    "cardTag": [
+      {
+        "value": 4,
+        "name": "SinglePlayerTagType_Pirate"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001301,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_20013",
+        "triggerTimes": 9,
+        "stopParam": [
+          12,
+          -1
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_20013",
+        "triggerTimes": 9,
+        "stopParam": [
+          18,
+          -1
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_20013",
+        "triggerTimes": 9,
+        "stopParam": [
+          24,
+          -1
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Uncommon",
+        "building": "SG_Building_20013",
+        "triggerTimes": 9,
+        "stopParam": [
+          30,
+          -1
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      }
+    ]
+  },
+  {
+    "id": 20014,
+    "nameID": 20014,
+    "icon": "UT_SGBBuilding_20014",
+    "cardPackID": [
+      104
+    ],
+    "rarity": 1,
+    "cardTag": [
+      {
+        "value": 4,
+        "name": "SinglePlayerTagType_Pirate"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001401,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20014",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          4
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "walkParam": [
+          2
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          4
+        ],
+        "stopTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20014",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          8
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "walkParam": [
+          4
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          8
+        ],
+        "stopTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20014",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          12
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "walkParam": [
+          6
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          12
+        ],
+        "stopTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20014",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          16
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02",
+        "walkParam": [
+          8
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          16
+        ],
+        "stopTL": "SG_BuildingTriggerGold_02"
+      }
+    ]
+  },
+  {
+    "id": 20015,
+    "nameID": 20015,
+    "icon": "UT_SGBBuilding_20015",
+    "cardPackID": [
+      104
+    ],
+    "rarity": 2,
+    "cardTag": [
+      {
+        "value": 4,
+        "name": "SinglePlayerTagType_Pirate"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001501,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20015",
+        "triggerTimes": 9,
+        "stopParam": [
+          4,
+          4
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20015",
+        "triggerTimes": 9,
+        "stopParam": [
+          8,
+          4
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20015",
+        "triggerTimes": 9,
+        "stopParam": [
+          12,
+          4
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20015",
+        "triggerTimes": 9,
+        "stopParam": [
+          16,
+          4
+        ],
+        "stopTL": "SG_BuildingTriggerGold_01"
+      }
+    ]
+  },
+  {
+    "id": 20016,
+    "nameID": 20016,
+    "icon": "UT_SGBBuilding_20016",
+    "cardPackID": [
+      104
+    ],
+    "rarity": 2,
+    "cardTag": [
+      {
+        "value": 4,
+        "name": "SinglePlayerTagType_Pirate"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001601,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20016",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          20014,
+          20013
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTrigger",
+        "walkParam": [
+          4,
+          20013
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20016",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          20014,
+          20013
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTrigger",
+        "walkParam": [
+          8,
+          20013
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20016",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          20014,
+          20013
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTrigger",
+        "walkParam": [
+          12,
+          20013
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20016",
+        "triggerPoint": [
+          4
+        ],
+        "triggerParam": [
+          20014,
+          20013
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTrigger",
+        "walkParam": [
+          16,
+          20013
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02"
+      }
+    ]
+  },
+  {
+    "id": 20017,
+    "nameID": 20017,
+    "icon": "UT_SGBBuilding_20017",
+    "cardPackID": [
+      104,
+      103
+    ],
+    "rarity": 1,
+    "cardTag": [
+      {
+        "value": 4,
+        "name": "SinglePlayerTagType_Pirate"
+      },
+      {
+        "value": 3,
+        "name": "SinglePlayerTagType_Dice"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001701,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20017",
+        "triggerTimes": 9,
+        "walkParam": [
+          20013,
+          1
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          6,
+          1
+        ],
+        "stopTimes": 1,
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20017",
+        "triggerTimes": 9,
+        "walkParam": [
+          20013,
+          1
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          12,
+          1
+        ],
+        "stopTimes": 1,
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20017",
+        "triggerTimes": 9,
+        "walkParam": [
+          20013,
+          1
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          18,
+          1
+        ],
+        "stopTimes": 1,
+        "stopTL": "SG_BuildingTriggerGold_01"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Rare",
+        "building": "SG_Building_20017",
+        "triggerTimes": 9,
+        "walkParam": [
+          20013,
+          2
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          24,
+          2
+        ],
+        "stopTimes": 1,
+        "stopTL": "SG_BuildingTriggerGold_01"
+      }
+    ]
+  },
+  {
+    "id": 20018,
+    "nameID": 20018,
+    "icon": "UT_SGBBuilding_20018",
+    "cardPackID": [
+      104
+    ],
+    "rarity": 3,
+    "cardTag": [
+      {
+        "value": 4,
+        "name": "SinglePlayerTagType_Pirate"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001801,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "building": "SG_Building_20018",
+        "triggerTimes": 9,
+        "walkParam": [
+          8
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          20013,
+          12
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      },
+      {
+        "level": 2,
+        "building": "SG_Building_20018",
+        "triggerTimes": 9,
+        "walkParam": [
+          16
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          20013,
+          16
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      },
+      {
+        "level": 3,
+        "building": "SG_Building_20018",
+        "triggerTimes": 9,
+        "walkParam": [
+          24
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          20013,
+          20
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      },
+      {
+        "level": 4,
+        "building": "SG_Building_20018",
+        "triggerTimes": 9,
+        "walkParam": [
+          32
+        ],
+        "walkTL": "SG_BuildingTriggerGold_02",
+        "stopParam": [
+          20013,
+          24
+        ],
+        "stopTL": "SG_BuildingTrigger"
+      }
+    ]
+  },
+  {
+    "id": 20019,
+    "nameID": 20019,
+    "icon": "UT_SGBBuilding_20019",
+    "cardPackID": [
+      103
+    ],
+    "rarity": 2,
+    "cardTag": [
+      {
+        "value": 3,
+        "name": "SinglePlayerTagType_Dice"
+      }
+    ],
+    "triggerPriority": 100,
+    "desID": 2001901,
+    "singlePlayerCardConfigureItems": [
+      {
+        "level": 1,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20019",
+        "triggerPoint": [
+          4,
+          6
+        ],
+        "triggerParam": [
+          10003,
+          6,
+          8
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 2,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20019",
+        "triggerPoint": [
+          4,
+          6
+        ],
+        "triggerParam": [
+          10003,
+          8,
+          16
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 3,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20019",
+        "triggerPoint": [
+          4,
+          6
+        ],
+        "triggerParam": [
+          10003,
+          10,
+          24
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      },
+      {
+        "level": 4,
+        "plinth": "SG_Plinth_Epic",
+        "building": "SG_Building_20019",
+        "triggerPoint": [
+          4,
+          6
+        ],
+        "triggerParam": [
+          10003,
+          12,
+          36
+        ],
+        "triggerTimes": 9,
+        "triggerTL": "SG_BuildingTriggerGold_02"
+      }
+    ]
+  }
+]

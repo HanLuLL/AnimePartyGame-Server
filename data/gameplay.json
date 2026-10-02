@@ -1,0 +1,9 @@
+{
+  "autoCreateAccount": true,
+  "storyEnabled": true,
+  "initialGold": 0,
+  "initialEffectCards": 0,
+  "initialCombatCards": 0,
+  "gmAllowedAccounts": null,
+  "logFullPayload": false
+}

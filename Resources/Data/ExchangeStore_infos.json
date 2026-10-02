@@ -1,0 +1,241 @@
+[
+  {
+    "shopTabType": {
+      "value": 1,
+      "name": "ShopTabType_Activity"
+    },
+    "nameID": 100,
+    "currencyBar": 9,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1782331200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1788710399
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 30,
+      "name": "ShopTabType_Activity2"
+    },
+    "nameID": 30,
+    "currencyBar": 12,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1783540800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1788364799
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 3,
+      "name": "ShopTabType_Role"
+    },
+    "nameID": 2000,
+    "currencyBar": 2
+  },
+  {
+    "shopTabType": {
+      "value": 21,
+      "name": "ShopTabType_StarLego"
+    },
+    "nameID": 2100,
+    "currencyBar": 8,
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 12,
+      "name": "ShopTabType_ShiyuShiyuGacha"
+    },
+    "nameID": 3200,
+    "currencyBar": 6
+  },
+  {
+    "shopTabType": {
+      "value": 11,
+      "name": "ShopTabType_Recycle"
+    },
+    "nameID": 3100,
+    "currencyBar": 7
+  },
+  {
+    "shopTabType": {
+      "value": 29,
+      "name": "ShopTabType_PreviousFashion"
+    },
+    "nameID": 290,
+    "currencyBar": 11
+  },
+  {
+    "shopTabType": {
+      "value": 31,
+      "name": "ShopTabType_PreviousFashion2"
+    },
+    "nameID": 291,
+    "currencyBar": 13
+  },
+  {
+    "shopTabType": {
+      "value": 2,
+      "name": "ShopTabType_Groceries"
+    },
+    "nameID": 1000,
+    "goodsRefreshType": {
+      "value": 1,
+      "name": "GoodsRefreshType_Daily"
+    },
+    "workdayGoods": {
+      "10": 2,
+      "11": 2,
+      "12": 2,
+      "13": 2
+    },
+    "weekendGoods": {
+      "11": 4,
+      "12": 2,
+      "14": 2
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 26,
+      "name": "ShopTabType_PVE"
+    },
+    "nameID": 2600,
+    "currencyBar": 10
+  },
+  {
+    "shopTabType": {
+      "value": 10,
+      "name": "ShopTabType_Hide"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 33,
+      "name": "ShopTabType_Activity3"
+    },
+    "nameID": 100,
+    "currencyBar": 14,
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 36,
+      "name": "ShopTabType_Activity4"
+    },
+    "nameID": 777,
+    "currencyBar": 15,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1780516800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 39,
+      "name": "ShopTabType_SeasonShop"
+    },
+    "nameID": 555,
+    "currencyBar": 16,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1780516800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1788364799
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 40,
+      "name": "ShopTabType_MemoryGlow"
+    },
+    "nameID": 556,
+    "currencyBar": 17
+  },
+  {
+    "shopTabType": {
+      "value": 41,
+      "name": "ShopTabType_ComebackShop"
+    },
+    "nameID": 444,
+    "currencyBar": 18
+  },
+  {
+    "shopTabType": {
+      "value": 43,
+      "name": "ShopTabType_ActivityMGWT"
+    },
+    "nameID": 222,
+    "currencyBar": 19,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 44,
+      "name": "ShopTabType_GuildStore"
+    },
+    "nameID": 33
+  }
+]

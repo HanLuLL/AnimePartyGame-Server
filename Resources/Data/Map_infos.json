@@ -1,0 +1,767 @@
+[
+  {
+    "id": 81003,
+    "mapName": 81003,
+    "mapDescription": 810030,
+    "mapGallery": 810031,
+    "mids": [
+      1
+    ],
+    "mapeventIDs": [
+      31001
+    ],
+    "mapImage": "UT_MapPreview_003",
+    "mapSceneImage": "UT_MapScene_003",
+    "preloadCharacterIds": [
+      1003
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    },
+    "LabelType": 2
+  },
+  {
+    "id": 81005,
+    "mapName": 81005,
+    "mapDescription": 810050,
+    "mapGallery": 810051,
+    "mids": [
+      5
+    ],
+    "mapeventIDs": [
+      31004
+    ],
+    "mapImage": "UT_MapPreview_005",
+    "mapSceneImage": "UT_MapScene_005",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    },
+    "LabelType": 2
+  },
+  {
+    "id": 81004,
+    "mapName": 81004,
+    "mapDescription": 810040,
+    "mapGallery": 810041,
+    "mids": [
+      4
+    ],
+    "mapeventIDs": [
+      31001,
+      31003
+    ],
+    "mapImage": "UT_MapPreview_004",
+    "mapSceneImage": "UT_MapScene_004",
+    "preloadCharacterIds": [
+      1003
+    ]
+  },
+  {
+    "id": 81006,
+    "mapName": 81006,
+    "mapDescription": 810060,
+    "mapGallery": 810061,
+    "mids": [
+      6
+    ],
+    "mapeventIDs": [
+      31002
+    ],
+    "mapImage": "UT_MapPreview_006",
+    "mapSceneImage": "UT_MapScene_006",
+    "preloadCharacterIds": [
+      1001,
+      1003
+    ]
+  },
+  {
+    "id": 81007,
+    "mapName": 81007,
+    "mapDescription": 810070,
+    "mapGallery": 810071,
+    "mids": [
+      21
+    ],
+    "mapImage": "UT_MapPreview_007",
+    "mapSceneImage": "UT_MapScene_021",
+    "TutorialId": 81007,
+    "preloadCharacterIds": [
+      1001,
+      1002
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1780516800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "LabelType": 1
+  },
+  {
+    "id": 81011,
+    "mapName": 81011,
+    "mapDescription": 810110,
+    "mapGallery": 810111,
+    "mids": [
+      11
+    ],
+    "mapeventIDs": [
+      31005
+    ],
+    "mapImage": "UT_MapPreview_011",
+    "mapSceneImage": "UT_MapScene_011",
+    "spLand": {
+      "value": 25,
+      "name": "LandType_Gimmick"
+    },
+    "preloadCharacterIds": [
+      1001
+    ]
+  },
+  {
+    "id": 81099,
+    "mapName": 81099,
+    "mids": [
+      999
+    ]
+  },
+  {
+    "id": 82009,
+    "mapName": 81009,
+    "mapGallery": 810091,
+    "mids": [
+      9
+    ],
+    "mapeventIDs": [
+      32034
+    ],
+    "mapImage": "UT_MapPreview_009",
+    "mapSceneImage": "UT_MapScene_009",
+    "mapSpecialCard": [
+      20025,
+      20026
+    ],
+    "spLand": {
+      "value": 23,
+      "name": "LandType_Gift"
+    }
+  },
+  {
+    "id": 82007,
+    "mapName": 82007,
+    "mapDescription": 820070,
+    "mapGallery": 820071,
+    "mids": [
+      7
+    ],
+    "difficultyIds": [
+      82007
+    ],
+    "mapImage": "UT_MapPreview_007",
+    "mapSceneImage": "UT_MapScene_007",
+    "TutorialId": 82007,
+    "mapSpecialEvent": [
+      30204
+    ],
+    "mapSpecialRelic": [
+      50053,
+      50054,
+      50055
+    ],
+    "preloadCharacterIds": [
+      1002,
+      1004,
+      1005,
+      1001
+    ]
+  },
+  {
+    "id": 82008,
+    "mapName": 81008,
+    "mapDescription": 810080,
+    "mapGallery": 810081,
+    "mids": [
+      8
+    ],
+    "difficultyIds": [
+      82008
+    ],
+    "mapImage": "UT_MapPreview_008",
+    "mapSceneImage": "UT_MapScene_008",
+    "TutorialId": 82008,
+    "mapSpecialCard": [
+      21017
+    ],
+    "mapSpecialRelic": [
+      50037,
+      50038,
+      50039
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1007,
+      1008,
+      1009,
+      1010,
+      1011
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    },
+    "LabelType": 2
+  },
+  {
+    "id": 82010,
+    "mapName": 81010,
+    "mapDescription": 810100,
+    "mapGallery": 810101,
+    "mids": [
+      10
+    ],
+    "difficultyIds": [
+      82010
+    ],
+    "mapImage": "UT_MapPreview_010",
+    "mapSceneImage": "UT_MapScene_010",
+    "TutorialId": 82010,
+    "mapSpecialCard": [
+      21009,
+      21023
+    ],
+    "mapSpecialRelic": [
+      50070,
+      50071
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1013,
+      1014,
+      1015,
+      1016,
+      1017
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    },
+    "LabelType": 2
+  },
+  {
+    "id": 82012,
+    "mapName": 81012,
+    "mapDescription": 810120,
+    "mapGallery": 810121,
+    "mids": [
+      12,
+      13,
+      14
+    ],
+    "difficultyIds": [
+      8201201,
+      8201202
+    ],
+    "mapImage": "UT_MapPreview_012",
+    "mapSceneImage": "UT_MapScene_012",
+    "TutorialId": 82012,
+    "mapSpecialCard": [
+      21010
+    ],
+    "mapSpecialRelic": [
+      50049,
+      50050,
+      50051
+    ],
+    "preloadCharacterIds": [
+      1020,
+      1021,
+      1022,
+      1023,
+      1001
+    ]
+  },
+  {
+    "id": 82013,
+    "mapName": 82013,
+    "mapDescription": 820130,
+    "mapGallery": 820131,
+    "mids": [
+      15
+    ],
+    "difficultyIds": [
+      82013
+    ],
+    "mapeventIDs": [
+      31006
+    ],
+    "mapImage": "UT_MapPreview_013",
+    "mapSceneImage": "UT_MapScene_013",
+    "TutorialId": 82013,
+    "mapSpecialEvent": [
+      30204
+    ],
+    "mapSpecialRelic": [
+      50056,
+      50057,
+      50058,
+      50059,
+      50060,
+      50061
+    ],
+    "preloadCharacterIds": [
+      1026,
+      1027,
+      1028,
+      1029,
+      1030,
+      1031,
+      1032,
+      2026,
+      2027,
+      1001,
+      1002
+    ],
+    "storyIds": [
+      8201301,
+      8201302,
+      8201303,
+      8201304,
+      8201305,
+      8201306,
+      8201307,
+      8201308
+    ]
+  },
+  {
+    "id": 82014,
+    "mapName": 82014,
+    "mapDescription": 820140,
+    "mapGallery": 820141,
+    "mids": [
+      16
+    ],
+    "difficultyIds": [
+      82014
+    ],
+    "mapImage": "UT_MapPreview_014",
+    "mapSceneImage": "UT_MapScene_014",
+    "TutorialId": 82014,
+    "mapSpecialCard": [
+      21014,
+      21015,
+      21016
+    ],
+    "mapSpecialEvent": [
+      30207
+    ],
+    "spLand": {
+      "value": 26,
+      "name": "LandType_Vendor"
+    },
+    "mapSpecialRelic": [
+      50062,
+      50063,
+      50064
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1034,
+      1035,
+      1036,
+      1037,
+      1038,
+      1039,
+      1033,
+      1040
+    ]
+  },
+  {
+    "id": 82015,
+    "mapName": 82015,
+    "mapDescription": 820150,
+    "mapGallery": 820151,
+    "mids": [
+      17
+    ],
+    "difficultyIds": [
+      82015
+    ],
+    "mapImage": "UT_MapPreview_015",
+    "mapSceneImage": "UT_MapScene_015",
+    "TutorialId": 82015,
+    "mapSpecialCard": [
+      21020,
+      21021,
+      21022
+    ],
+    "mapSpecialRelic": [
+      50067,
+      50068,
+      50069
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1043,
+      1044,
+      1045,
+      1046,
+      1047,
+      1048,
+      1049,
+      1050,
+      1053
+    ],
+    "storyIds": [
+      8201501,
+      8201502,
+      8201503,
+      8201504,
+      8201505,
+      8201506,
+      8201507,
+      8201508,
+      8201509
+    ]
+  },
+  {
+    "id": 82016,
+    "mapName": 82016,
+    "mapDescription": 820160,
+    "mapGallery": 820161,
+    "mids": [
+      23
+    ],
+    "difficultyIds": [
+      82016
+    ],
+    "mapImage": "UT_MapPreview_016",
+    "mapSceneImage": "UT_MapScene_016",
+    "TutorialId": 82016,
+    "mapSpecialCard": [
+      21025
+    ],
+    "mapSpecialRelic": [
+      50092,
+      50093
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1067,
+      1068,
+      1069,
+      1070,
+      1022,
+      1023
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    },
+    "beginTimeMap": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endTimeMap": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    },
+    "LabelType": 1,
+    "MapMark": 1
+  },
+  {
+    "id": 83001,
+    "mapName": 83001,
+    "mapDescription": 830010,
+    "mapGallery": 830011,
+    "mids": [
+      19
+    ],
+    "difficultyIds": [
+      8300101,
+      8300102
+    ],
+    "mapImage": "UT_MapPreview_019",
+    "mapSceneImage": "UT_MapScene_019",
+    "TutorialId": 83001,
+    "mapSpecialCard": [
+      21010
+    ],
+    "mapSpecialRelic": [
+      50073,
+      50074
+    ],
+    "preloadCharacterIds": [
+      1020,
+      1021,
+      1022,
+      1023,
+      1001,
+      1024,
+      1061,
+      1040,
+      1059
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    }
+  },
+  {
+    "id": 83002,
+    "mapName": 83002,
+    "mapDescription": 830020,
+    "mapGallery": 830021,
+    "mids": [
+      22
+    ],
+    "difficultyIds": [
+      8300201,
+      8300202
+    ],
+    "mapImage": "UT_MapPreview_019",
+    "mapSceneImage": "UT_MapScene_019",
+    "TutorialId": 83002,
+    "mapSpecialRelic": [
+      50073,
+      50074
+    ],
+    "preloadCharacterIds": [
+      1028,
+      1029,
+      1031,
+      1032,
+      1001,
+      1002,
+      1061,
+      1025,
+      3051,
+      1059
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    }
+  },
+  {
+    "id": 83003,
+    "mapName": 83003,
+    "mapDescription": 830030,
+    "mapGallery": 830031,
+    "mids": [
+      20
+    ],
+    "difficultyIds": [
+      8300301
+    ],
+    "mapImage": "UT_MapPreview_020",
+    "mapSceneImage": "UT_MapScene_020",
+    "TutorialId": 83003,
+    "mapSpecialCard": [
+      21024
+    ],
+    "spLand": {
+      "value": 27,
+      "name": "LandType_MindTraining"
+    },
+    "mapSpecialRelic": [
+      50072,
+      50077,
+      50073,
+      50074,
+      50075,
+      50076
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1062,
+      1063,
+      1064,
+      1065,
+      1066,
+      1061,
+      1056,
+      1059
+    ],
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767211200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          3376742399
+        ]
+      }
+    }
+  },
+  {
+    "id": 101,
+    "mapName": 101,
+    "mids": [
+      103
+    ],
+    "difficultyIds": [
+      103
+    ],
+    "mapeventIDs": [
+      34003
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1052,
+      1051
+    ]
+  },
+  {
+    "id": 102,
+    "mapName": 102,
+    "mids": [
+      104
+    ],
+    "difficultyIds": [
+      102
+    ],
+    "mapeventIDs": [
+      34009,
+      34010,
+      34011,
+      34012,
+      34013
+    ],
+    "preloadCharacterIds": [
+      1060,
+      1002
+    ]
+  },
+  {
+    "id": 103,
+    "mapName": 103,
+    "mids": [
+      102
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1003
+    ]
+  },
+  {
+    "id": 1001,
+    "mids": [
+      1001
+    ],
+    "difficultyIds": [
+      1001
+    ],
+    "preloadCharacterIds": [
+      1001
+    ]
+  },
+  {
+    "id": 1002,
+    "mids": [
+      1002
+    ],
+    "difficultyIds": [
+      1002
+    ],
+    "mapeventIDs": [
+      33001,
+      33002
+    ],
+    "preloadCharacterIds": [
+      1001,
+      1002,
+      1004,
+      1005
+    ]
+  }
+]

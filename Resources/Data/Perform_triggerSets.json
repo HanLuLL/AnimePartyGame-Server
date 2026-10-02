@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1001,
+    "performTriggerSetConfigureItems": [
+      {
+        "triggerId": 101
+      },
+      {
+        "triggerId": 102
+      },
+      {
+        "triggerId": 103
+      },
+      {
+        "triggerId": 104
+      },
+      {
+        "triggerId": 105
+      },
+      {
+        "triggerId": 106
+      },
+      {
+        "triggerId": 107
+      },
+      {
+        "triggerId": 108
+      },
+      {
+        "triggerId": 109
+      },
+      {
+        "triggerId": 121
+      },
+      {
+        "triggerId": 122
+      },
+      {
+        "triggerId": 123
+      },
+      {
+        "triggerId": 124
+      },
+      {
+        "triggerId": 125
+      },
+      {
+        "triggerId": 126
+      },
+      {
+        "triggerId": 127
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "performTriggerSetConfigureItems": [
+      {
+        "triggerId": 201
+      },
+      {
+        "triggerId": 202
+      },
+      {
+        "triggerId": 203
+      },
+      {
+        "triggerId": 204
+      },
+      {
+        "triggerId": 205
+      },
+      {
+        "triggerId": 206
+      },
+      {
+        "triggerId": 207
+      },
+      {
+        "triggerId": 208
+      },
+      {
+        "triggerId": 209
+      },
+      {
+        "triggerId": 210
+      },
+      {
+        "triggerId": 211
+      },
+      {
+        "triggerId": 222
+      },
+      {
+        "triggerId": 223
+      },
+      {
+        "triggerId": 224
+      },
+      {
+        "triggerId": 225
+      },
+      {
+        "triggerId": 226
+      },
+      {
+        "triggerId": 227
+      }
+    ]
+  }
+]

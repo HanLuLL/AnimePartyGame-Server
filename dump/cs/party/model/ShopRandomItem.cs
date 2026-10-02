@@ -1,0 +1,172 @@
+using System;
+using System.CodeDom.Compiler;
+using System.Diagnostics;
+using Google.Protobuf;
+using Google.Protobuf.Collections;
+using Google.Protobuf.Reflection;
+
+namespace party.model;
+
+public sealed class ShopRandomItem : IMessage<ShopRandomItem>, IMessage, IEquatable<ShopRandomItem>, IDeepCloneable<ShopRandomItem>, IBufferMessage
+{
+	private static readonly MessageParser<ShopRandomItem> _parser = new MessageParser<ShopRandomItem>(() => new ShopRandomItem());
+
+	private UnknownFieldSet _unknownFields;
+
+	public const int GoodsIdFieldNumber = 1;
+
+	private static readonly FieldCodec<int> _repeated_goodsId_codec = FieldCodec.ForSFixed32(10u);
+
+	private readonly RepeatedField<int> goodsId_ = new RepeatedField<int>();
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public static MessageParser<ShopRandomItem> Parser => _parser;
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public static MessageDescriptor Descriptor => ModelReflection.Descriptor.MessageTypes[51];
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	MessageDescriptor IMessage.Descriptor => Descriptor;
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public RepeatedField<int> GoodsId => goodsId_;
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public ShopRandomItem()
+	{
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public ShopRandomItem(ShopRandomItem other)
+		: this()
+	{
+		goodsId_ = other.goodsId_.Clone();
+		_unknownFields = UnknownFieldSet.Clone(other._unknownFields);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public ShopRandomItem Clone()
+	{
+		return new ShopRandomItem(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public override bool Equals(object other)
+	{
+		return Equals(other as ShopRandomItem);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public bool Equals(ShopRandomItem other)
+	{
+		if (other == null)
+		{
+			return false;
+		}
+		if (other == this)
+		{
+			return true;
+		}
+		if (!goodsId_.Equals(other.goodsId_))
+		{
+			return false;
+		}
+		return object.Equals(_unknownFields, other._unknownFields);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public override int GetHashCode()
+	{
+		int num = 1;
+		num ^= goodsId_.GetHashCode();
+		if (_unknownFields != null)
+		{
+			num ^= _unknownFields.GetHashCode();
+		}
+		return num;
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public override string ToString()
+	{
+		return JsonFormatter.ToDiagnosticString(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public void WriteTo(CodedOutputStream output)
+	{
+		output.WriteRawMessage(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	void IBufferMessage.InternalWriteTo(ref WriteContext output)
+	{
+		goodsId_.WriteTo(ref output, _repeated_goodsId_codec);
+		if (_unknownFields != null)
+		{
+			_unknownFields.WriteTo(ref output);
+		}
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public int CalculateSize()
+	{
+		int num = 0;
+		num += goodsId_.CalculateSize(_repeated_goodsId_codec);
+		if (_unknownFields != null)
+		{
+			num += _unknownFields.CalculateSize();
+		}
+		return num;
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public void MergeFrom(ShopRandomItem other)
+	{
+		if (other != null)
+		{
+			goodsId_.Add(other.goodsId_);
+			_unknownFields = UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+		}
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public void MergeFrom(CodedInputStream input)
+	{
+		input.ReadRawMessage(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	void IBufferMessage.InternalMergeFrom(ref ParseContext input)
+	{
+		uint num;
+		while ((num = input.ReadTag()) != 0)
+		{
+			if (num != 10 && num != 13)
+			{
+				_unknownFields = UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+			}
+			else
+			{
+				goodsId_.AddEntriesFrom(ref input, _repeated_goodsId_codec);
+			}
+		}
+	}
+}

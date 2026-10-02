@@ -1,0 +1,392 @@
+[
+  {
+    "shopTabType": {
+      "value": 1,
+      "name": "ShopTabType_Activity"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 30,
+      "name": "ShopTabType_Activity2"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 2,
+      "name": "ShopTabType_Groceries"
+    },
+    "goodsPurchaseType": {
+      "value": 3,
+      "name": "GoodsPurchaseType_DailyStarCoin"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 3,
+      "name": "ShopTabType_Role"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 7,
+      "name": "ShopTabType_Recharge"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 8,
+      "name": "ShopTabType_Exchange"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 9,
+      "name": "ShopTabType_GiftPackage"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 10,
+      "name": "ShopTabType_Hide"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 11,
+      "name": "ShopTabType_Recycle"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 12,
+      "name": "ShopTabType_ShiyuShiyuGacha"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 13,
+      "name": "ShopTabType_Day7GiftPackage"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 28,
+      "name": "ShopTabType_Day7GiftPackage_PVE"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 14,
+      "name": "ShopTabType_Skin"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 15,
+      "name": "ShopTabType_Avatar"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 16,
+      "name": "ShopTabType_ProfileCard"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 17,
+      "name": "ShopTabType_Finisher"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 18,
+      "name": "ShopTabType_Dice"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 19,
+      "name": "ShopTabType_Card"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 21,
+      "name": "ShopTabType_StarLego"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 22,
+      "name": "ShopTabType_BeginnerPack"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 23,
+      "name": "ShopTabType_MonthlyCard"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 25,
+      "name": "ShopTabType_BattlePass"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 26,
+      "name": "ShopTabType_PVE"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 27,
+      "name": "ShopTabType_Collaboration"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 29,
+      "name": "ShopTabType_PreviousFashion"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 31,
+      "name": "ShopTabType_PreviousFashion2"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 32,
+      "name": "ShopTabType_SkinSell"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 33,
+      "name": "ShopTabType_Activity3"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 34,
+      "name": "ShopTabType_BattlePassMap"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 35,
+      "name": "ShopTabType_BattlePassLevel"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 36,
+      "name": "ShopTabType_Activity4"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 37,
+      "name": "ShopTabType_Day7GiftPackage_PVE_year"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 38,
+      "name": "ShopTabType_Expression"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 41,
+      "name": "ShopTabType_ComebackShop"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 42,
+      "name": "ShopTabType_ComebackSignIn"
+    },
+    "goodsPurchaseType": {
+      "value": 1,
+      "name": "GoodsPurchaseType_Recharge"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 39,
+      "name": "ShopTabType_SeasonShop"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 40,
+      "name": "ShopTabType_MemoryGlow"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 43,
+      "name": "ShopTabType_ActivityMGWT"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 44,
+      "name": "ShopTabType_GuildStore"
+    },
+    "goodsPurchaseType": {
+      "value": 2,
+      "name": "GoodsPurchaseType_Exchange"
+    }
+  }
+]

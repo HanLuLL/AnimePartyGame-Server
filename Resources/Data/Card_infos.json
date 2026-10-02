@@ -1,0 +1,2069 @@
+[
+  {
+    "id": 10001,
+    "nameID": 10001,
+    "cardNumb": 100010,
+    "descId": 100011,
+    "image": "UT_HandCard_10001",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 1,
+    "params": [
+      1,
+      3
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10002,
+    "nameID": 10002,
+    "cardNumb": 100020,
+    "descId": 100021,
+    "image": "UT_HandCard_10002",
+    "effectType": {
+      "value": 2,
+      "name": "EffectType_Defense"
+    },
+    "cardType": {
+      "value": 2,
+      "name": "CardType_Defend"
+    },
+    "isPlayable": true,
+    "cost": 1,
+    "params": [
+      1,
+      3
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10003,
+    "nameID": 10003,
+    "cardNumb": 100030,
+    "descId": 100031,
+    "image": "UT_HandCard_10003",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 2,
+    "params": [
+      1,
+      6
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10004,
+    "nameID": 10004,
+    "cardNumb": 100040,
+    "descId": 100041,
+    "image": "UT_HandCard_10004",
+    "effectType": {
+      "value": 2,
+      "name": "EffectType_Defense"
+    },
+    "cardType": {
+      "value": 2,
+      "name": "CardType_Defend"
+    },
+    "isPlayable": true,
+    "cost": 2,
+    "params": [
+      1,
+      6
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10005,
+    "nameID": 10005,
+    "cardNumb": 100050,
+    "descId": 100051,
+    "image": "UT_HandCard_10005",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 3,
+    "params": [
+      1,
+      10
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10006,
+    "nameID": 10006,
+    "cardNumb": 100060,
+    "descId": 100061,
+    "image": "UT_HandCard_10006",
+    "imageSfw": "UT_HandCard_10006_sfw",
+    "effectType": {
+      "value": 2,
+      "name": "EffectType_Defense"
+    },
+    "cardType": {
+      "value": 2,
+      "name": "CardType_Defend"
+    },
+    "isPlayable": true,
+    "cost": 3,
+    "params": [
+      1,
+      10
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10007,
+    "nameID": 10007,
+    "descId": 100071,
+    "image": "UT_HandCard_10007",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 4,
+    "params": [
+      1,
+      20
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10008,
+    "nameID": 10008,
+    "descId": 100081,
+    "image": "UT_HandCard_10008",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 2,
+    "params": [
+      3,
+      3,
+      1
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10009,
+    "nameID": 10009,
+    "descId": 100091,
+    "image": "UT_HandCard_10009",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 5,
+    "params": [
+      5,
+      5,
+      10010
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10010,
+    "nameID": 10010,
+    "descId": 100101,
+    "image": "UT_HandCard_10010",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 3,
+    "params": [
+      6,
+      6,
+      50
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10011,
+    "nameID": 10011,
+    "descId": 100111,
+    "image": "UT_HandCard_10011",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 2,
+    "params": [
+      0,
+      0,
+      1,
+      10271101,
+      2
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 10012,
+    "nameID": 10012,
+    "descId": 100121,
+    "image": "UT_HandCard_10012",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 2,
+    "params": [
+      0,
+      0,
+      1,
+      1261201,
+      1,
+      1261202,
+      4
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 10013,
+    "nameID": 10013,
+    "descId": 100131,
+    "image": "UT_HandCard_10013",
+    "effectType": {
+      "value": 1,
+      "name": "EffectType_Attack"
+    },
+    "cardType": {
+      "value": 1,
+      "name": "CardType_Attack"
+    },
+    "isPlayable": true,
+    "cost": 3,
+    "params": [
+      3,
+      3,
+      1,
+      1261203,
+      -9,
+      -3
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 20001,
+    "nameID": 20001,
+    "cardNumb": 200010,
+    "descId": 200011,
+    "image": "UT_HandCard_20001",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      6,
+      1,
+      -3
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performTarget": [
+      2000100
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20002,
+    "nameID": 20002,
+    "cardNumb": 200020,
+    "descId": 200021,
+    "image": "UT_HandCard_20002",
+    "effectType": {
+      "value": 4,
+      "name": "EffectType_Reply"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      2
+    ],
+    "performCast": [
+      2000200
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      1,
+      498
+    ]
+  },
+  {
+    "id": 20003,
+    "nameID": 20003,
+    "cardNumb": 200030,
+    "descId": 200031,
+    "image": "UT_HandCard_20003",
+    "effectType": {
+      "value": 5,
+      "name": "EffectType_Quick"
+    },
+    "cardType": {
+      "value": 4,
+      "name": "CardType_Counter"
+    },
+    "isPlayable": true,
+    "performCast": [
+      2000300
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20004,
+    "nameID": 20004,
+    "cardNumb": 200040,
+    "descId": 200041,
+    "image": "UT_HandCard_20004",
+    "effectType": {
+      "value": 6,
+      "name": "EffectType_Trap"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 3,
+      "name": "CardTargetType_Land"
+    },
+    "isPlayable": true,
+    "params": [
+      3,
+      1,
+      2001
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20005,
+    "nameID": 20005,
+    "cardNumb": 200050,
+    "descId": 200051,
+    "image": "UT_HandCard_20005",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      6
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20006,
+    "nameID": 20006,
+    "cardNumb": 200060,
+    "descId": 200061,
+    "image": "UT_HandCard_20006",
+    "imageSfw": "UT_HandCard_20006_sfw",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      -2,
+      3
+    ],
+    "buffIds": [
+      2000601
+    ],
+    "performCast": [
+      2000600
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20007,
+    "nameID": 20007,
+    "cardNumb": 200070,
+    "descId": 200071,
+    "image": "UT_HandCard_20007",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      2
+    ],
+    "buffIds": [
+      2000701
+    ],
+    "performTarget": [
+      2000700
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20008,
+    "nameID": 20008,
+    "cardNumb": 200080,
+    "descId": 200081,
+    "image": "UT_HandCard_20008",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      10,
+      1,
+      3,
+      1
+    ],
+    "buffIds": [
+      2000801
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performTarget": [
+      2000800
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20009,
+    "nameID": 20009,
+    "cardNumb": 200090,
+    "descId": 200091,
+    "image": "UT_HandCard_20009",
+    "imageSfw": "UT_HandCard_20009_sfw",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      -3,
+      5,
+      -5
+    ],
+    "performCast": [
+      2000900
+    ],
+    "performTarget": [
+      2000901
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20010,
+    "nameID": 20010,
+    "cardNumb": 200100,
+    "descId": 200101,
+    "image": "UT_HandCard_20010",
+    "effectType": {
+      "value": 6,
+      "name": "EffectType_Trap"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 3,
+      "name": "CardTargetType_Land"
+    },
+    "isPlayable": true,
+    "params": [
+      10,
+      1,
+      2100
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20011,
+    "nameID": 20011,
+    "cardNumb": 200110,
+    "descId": 200111,
+    "image": "UT_HandCard_20011",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "isGalleryShow": true
+  },
+  {
+    "id": 20012,
+    "nameID": 20012,
+    "cardNumb": 200120,
+    "descId": 200121,
+    "image": "UT_HandCard_20012",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      10,
+      1,
+      -2
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performTarget": [
+      2001200
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20013,
+    "nameID": 20013,
+    "cardNumb": 200130,
+    "descId": 200131,
+    "image": "UT_HandCard_20013",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      3,
+      1,
+      -5
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performTarget": [
+      2001300
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20014,
+    "nameID": 20014,
+    "cardNumb": 200140,
+    "descId": 200141,
+    "image": "UT_HandCard_20014",
+    "effectType": {
+      "value": 4,
+      "name": "EffectType_Reply"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      4
+    ],
+    "performCast": [
+      2001400
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      1,
+      500
+    ]
+  },
+  {
+    "id": 20015,
+    "nameID": 20015,
+    "cardNumb": 200150,
+    "descId": 200151,
+    "image": "UT_HandCard_20015",
+    "effectType": {
+      "value": 5,
+      "name": "EffectType_Quick"
+    },
+    "cardType": {
+      "value": 4,
+      "name": "CardType_Counter"
+    },
+    "isPlayable": true,
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20017,
+    "nameID": 20017,
+    "cardNumb": 200170,
+    "descId": 200171,
+    "image": "UT_HandCard_20017",
+    "effectType": {
+      "value": 5,
+      "name": "EffectType_Quick"
+    },
+    "cardType": {
+      "value": 4,
+      "name": "CardType_Counter"
+    },
+    "isPlayable": true,
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20018,
+    "nameID": 20018,
+    "cardNumb": 200180,
+    "descId": 200181,
+    "image": "UT_HandCard_20018",
+    "effectType": {
+      "value": 6,
+      "name": "EffectType_Trap"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 3,
+      "name": "CardTargetType_Land"
+    },
+    "isPlayable": true,
+    "params": [
+      3,
+      1,
+      2002
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20019,
+    "nameID": 20019,
+    "cardNumb": 200190,
+    "descId": 200191,
+    "image": "UT_HandCard_20019",
+    "effectType": {
+      "value": 4,
+      "name": "EffectType_Reply"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      6,
+      1,
+      -2,
+      -2,
+      2005
+    ],
+    "buffIds": [
+      2001901
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performTarget": [
+      2001900
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20020,
+    "nameID": 20020,
+    "cardNumb": 200200,
+    "descId": 200201,
+    "image": "UT_HandCard_20020",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      5
+    ],
+    "buffIds": [
+      2002001
+    ],
+    "performCast": [
+      2002000
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20021,
+    "nameID": 20021,
+    "cardNumb": 200210,
+    "descId": 200211,
+    "image": "UT_HandCard_20021",
+    "imageSfw": "UT_HandCard_20021_sfw",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      2006
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20022,
+    "nameID": 20022,
+    "descId": 200221,
+    "image": "UT_HandCard_20022",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      5
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performCast": [
+      2002201
+    ],
+    "performTarget": [
+      2002200
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20023,
+    "nameID": 20023,
+    "descId": 200231,
+    "image": "UT_HandCard_20023",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      3
+    ],
+    "performCast": [
+      2002301
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20024,
+    "nameID": 20024,
+    "descId": 200241,
+    "image": "UT_HandCard_20024",
+    "imageSfw": "UT_HandCard_20024_sfw",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "isPlayable": true,
+    "params": [
+      3
+    ],
+    "performCast": [
+      8000300
+    ],
+    "performTarget": [
+      8000301
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20025,
+    "nameID": 20025,
+    "descId": 200251,
+    "image": "UT_HandCard_20025",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      9,
+      1,
+      -1,
+      -4
+    ],
+    "buffIds": [
+      2002501
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performTarget": [
+      2002500
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20026,
+    "nameID": 20026,
+    "descId": 200261,
+    "image": "UT_HandCard_20026",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      3
+    ],
+    "buffIds": [
+      2002601
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 20027,
+    "nameID": 20027,
+    "descId": 200271,
+    "image": "UT_HandCard_20027",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      2,
+      1,
+      113
+    ],
+    "performTarget": [
+      2002700
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 20028,
+    "nameID": 20028,
+    "descId": 200281,
+    "image": "UT_HandCard_20028",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      10,
+      1,
+      -1,
+      -1
+    ],
+    "cardIds": [
+      20003,
+      20015,
+      20017
+    ],
+    "performTarget": [
+      2002800
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 20029,
+    "nameID": 20029,
+    "descId": 200291,
+    "image": "UT_HandCard_20028",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      10,
+      1,
+      -1,
+      -1
+    ],
+    "performTarget": [
+      2002800
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 20030,
+    "nameID": 20030,
+    "descId": 200301,
+    "image": "UT_HandCard_20030",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isPlayable": true,
+    "params": [
+      5,
+      1,
+      -2,
+      1
+    ],
+    "performTarget": [
+      2003000
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 20031,
+    "nameID": 20030,
+    "descId": 200311,
+    "image": "UT_HandCard_20030",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      5,
+      1,
+      -2,
+      1,
+      3,
+      1
+    ],
+    "performTarget": [
+      2003000,
+      2003100
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 20032,
+    "nameID": 20032,
+    "descId": 200321,
+    "image": "UT_HandCard_20032",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      6,
+      -1,
+      1
+    ],
+    "performTarget": [
+      11406
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 20033,
+    "nameID": 20033,
+    "descId": 200331,
+    "image": "UT_HandCard_20033",
+    "effectType": {
+      "value": 6,
+      "name": "EffectType_Trap"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 3,
+      "name": "CardTargetType_Land"
+    },
+    "isPlayable": true,
+    "params": [
+      10,
+      1,
+      2101
+    ],
+    "isGalleryShow": true,
+    "isDedicated": true
+  },
+  {
+    "id": 21001,
+    "nameID": 21001,
+    "descId": 210011,
+    "image": "UT_HandCard_21001",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      5,
+      1,
+      -6
+    ],
+    "performTarget": [
+      2000100
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      2,
+      97
+    ]
+  },
+  {
+    "id": 21002,
+    "nameID": 21002,
+    "descId": 210021,
+    "image": "UT_HandCard_21002",
+    "imageSfw": "UT_HandCard_21002_sfw",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      1,
+      1
+    ],
+    "performCast": [
+      4000700
+    ],
+    "performTarget": [
+      4000700
+    ],
+    "isGalleryShow": true,
+    "RecomBase": 11
+  },
+  {
+    "id": 21003,
+    "nameID": 21003,
+    "descId": 210031,
+    "image": "UT_HandCard_21003",
+    "imageSfw": "UT_HandCard_21003_sfw",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "buffIds": [
+      3000201
+    ],
+    "performTarget": [
+      2000800
+    ],
+    "isGalleryShow": true,
+    "RecomBase": 10
+  },
+  {
+    "id": 21004,
+    "nameID": 21004,
+    "descId": 210041,
+    "image": "UT_HandCard_21004",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      -4,
+      5
+    ],
+    "buffIds": [
+      2100401
+    ],
+    "performCast": [
+      2000800
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21005,
+    "nameID": 21005,
+    "descId": 210051,
+    "image": "UT_HandCard_21005",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      6
+    ],
+    "buffIds": [
+      2100501
+    ],
+    "performCast": [
+      2000800
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21006,
+    "nameID": 21006,
+    "descId": 210061,
+    "image": "UT_HandCard_21006",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      3,
+      3
+    ],
+    "performTarget": [
+      4000100
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      1,
+      499
+    ]
+  },
+  {
+    "id": 21007,
+    "nameID": 21007,
+    "descId": 210071,
+    "image": "UT_HandCard_21007",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      6,
+      2,
+      -4
+    ],
+    "performTarget": [
+      2000900
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      2,
+      99
+    ]
+  },
+  {
+    "id": 21008,
+    "nameID": 21008,
+    "descId": 210081,
+    "image": "UT_HandCard_21008",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isHostile": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "performCast": [
+      8000300
+    ],
+    "performTarget": [
+      8000301
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21009,
+    "nameID": 21009,
+    "descId": 210091,
+    "image": "UT_HandCard_21009",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      10,
+      1,
+      -3,
+      10150101
+    ],
+    "buffIds": [
+      2100901
+    ],
+    "performTarget": [
+      2100900
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21010,
+    "nameID": 21010,
+    "descId": 210101,
+    "image": "UT_HandCard_21010",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 8,
+      "name": "CardType_Curse"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      1,
+      -1,
+      3,
+      -1
+    ],
+    "buffIds": [
+      2101001
+    ],
+    "performCast": [
+      2002201
+    ],
+    "performTarget": [
+      2101000
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21012,
+    "nameID": 21012,
+    "descId": 210121,
+    "image": "UT_HandCard_20001",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      6,
+      1,
+      -3
+    ],
+    "performTarget": [
+      2000100
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      2,
+      100
+    ]
+  },
+  {
+    "id": 21013,
+    "nameID": 21013,
+    "descId": 210131,
+    "image": "UT_HandCard_20013",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      3,
+      1,
+      -5
+    ],
+    "performTarget": [
+      2001300
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      2,
+      98
+    ]
+  },
+  {
+    "id": 21014,
+    "nameID": 21014,
+    "descId": 210141,
+    "image": "UT_HandCard_21014",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      2,
+      1
+    ],
+    "performTarget": [
+      2101400
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      3,
+      1000
+    ]
+  },
+  {
+    "id": 21015,
+    "nameID": 21015,
+    "descId": 210151,
+    "image": "UT_HandCard_21015",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      3,
+      2,
+      2
+    ],
+    "buffIds": [
+      2101501
+    ],
+    "performTarget": [
+      2000800
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      3,
+      998
+    ]
+  },
+  {
+    "id": 21016,
+    "nameID": 21016,
+    "descId": 210161,
+    "image": "UT_HandCard_21016",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      3
+    ],
+    "performTarget": [
+      2101600
+    ],
+    "isGalleryShow": true,
+    "RecomPlus": [
+      3,
+      999
+    ]
+  },
+  {
+    "id": 21017,
+    "nameID": 21017,
+    "descId": 210171,
+    "image": "UT_HandCard_21017",
+    "effectType": {
+      "value": 8,
+      "name": "EffectType_Choose"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isPlayable": true,
+    "params": [
+      21018,
+      21019,
+      0
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21018,
+    "nameID": 21018,
+    "descId": 210181,
+    "image": "UT_HandCard_21018",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      -3,
+      -3,
+      2101802,
+      10010
+    ],
+    "buffIds": [
+      2101801
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21019,
+    "nameID": 21019,
+    "descId": 210191,
+    "image": "UT_HandCard_21019",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isHostile": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      -1,
+      -3,
+      10081102,
+      10091202,
+      6
+    ],
+    "buffIds": [
+      2101901
+    ],
+    "performCast": [
+      2101901
+    ],
+    "performTarget": [
+      2101900
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21020,
+    "nameID": 21020,
+    "descId": 210201,
+    "image": "UT_HandCard_21020",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 3,
+      "name": "CardTargetType_Land"
+    },
+    "isPlayable": true,
+    "params": [
+      5,
+      3,
+      1053,
+      10531201
+    ],
+    "performCast": [
+      8000300
+    ],
+    "performTarget": [
+      2102001,
+      2102002
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21021,
+    "nameID": 21021,
+    "descId": 210211,
+    "image": "UT_HandCard_21021",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isFriendly": true,
+    "isContainMonster": true,
+    "isPlayable": true,
+    "params": [
+      1,
+      1050
+    ],
+    "buffIds": [
+      2102101
+    ],
+    "performTarget": [
+      4000100
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21022,
+    "nameID": 21022,
+    "descId": 210221,
+    "image": "UT_HandCard_21022",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 8,
+      "name": "CardType_Curse"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "params": [
+      10490101,
+      1,
+      104901,
+      4,
+      21020
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21023,
+    "nameID": 21023,
+    "descId": 210231,
+    "image": "UT_HandCard_21023",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 1,
+      "name": "CardTargetType_Self"
+    },
+    "isPlayable": true,
+    "params": [
+      8,
+      888,
+      88,
+      8,
+      88
+    ],
+    "buffIds": [
+      2102301
+    ],
+    "performCast": [
+      2102301
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21024,
+    "nameID": 21024,
+    "descId": 210241,
+    "image": "UT_HandCard_21024",
+    "effectType": {
+      "value": 3,
+      "name": "EffectType_Direct"
+    },
+    "cardType": {
+      "value": 3,
+      "name": "CardType_Effect"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainSelf": true,
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      1,
+      1
+    ],
+    "performTarget": [
+      2102401
+    ],
+    "isGalleryShow": true
+  },
+  {
+    "id": 21025,
+    "nameID": 21025,
+    "descId": 210251,
+    "image": "UT_HandCard_21025",
+    "effectType": {
+      "value": 7,
+      "name": "EffectType_Normal"
+    },
+    "cardType": {
+      "value": 8,
+      "name": "CardType_Curse"
+    },
+    "cardTargetType": {
+      "value": 2,
+      "name": "CardTargetType_Target"
+    },
+    "isContainHospitalPlayer": true,
+    "isContainPlayer": true,
+    "isFriendly": true,
+    "isPlayable": true,
+    "params": [
+      21025,
+      1,
+      1,
+      1
+    ],
+    "performCast": [
+      2102502
+    ],
+    "performTarget": [
+      2102501
+    ],
+    "isGalleryShow": true
+  }
+]

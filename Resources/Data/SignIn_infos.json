@@ -1,0 +1,204 @@
+[
+  {
+    "id": 50101,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1735588800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1736798399
+        ]
+      }
+    },
+    "signinRewardID": 50101,
+    "icon": "UT_Activity_50101_Entrance",
+    "bg": "UT_Activity_50101_BG",
+    "title": 50101,
+    "headline": 50102,
+    "description": 50103
+  },
+  {
+    "id": 50410,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1735588800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1736798399
+        ]
+      }
+    },
+    "signinRewardID": 50410,
+    "icon": "UT_Activity_50101_Entrance",
+    "bg": "UT_Activity_50101_BG",
+    "title": 504101,
+    "headline": 504102,
+    "description": 504103
+  },
+  {
+    "id": 50725,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1735588800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1736798399
+        ]
+      }
+    },
+    "signinRewardID": 50725,
+    "icon": "UT_Activity_50101_Entrance",
+    "bg": "UT_Activity_50101_BG",
+    "title": 507251,
+    "headline": 507252,
+    "description": 507253
+  },
+  {
+    "id": 51219,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1735588800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1736798399
+        ]
+      }
+    },
+    "signinRewardID": 51219,
+    "icon": "UT_Activity_50101_Entrance",
+    "bg": "UT_Activity_51219_BG",
+    "title": 512191,
+    "headline": 512191,
+    "description": 507253
+  },
+  {
+    "id": 69999,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          946583999
+        ]
+      }
+    },
+    "signinRewardID": 69999,
+    "bg": "UT_Activity_51219_BG",
+    "title": 512191,
+    "headline": 512191,
+    "description": 507253
+  },
+  {
+    "id": 60227,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          946583999
+        ]
+      }
+    },
+    "signinRewardID": 60227,
+    "bg": "UT_Activity_60227_BG",
+    "title": 602271,
+    "headline": 602272,
+    "description": 50103
+  },
+  {
+    "id": 69998,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          946583999
+        ]
+      }
+    },
+    "signinRewardID": 69998,
+    "bg": "UT_Activity_6999801_BG",
+    "title": 699981,
+    "headline": 699981,
+    "description": 699981
+  },
+  {
+    "id": 60904,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          946583999
+        ]
+      }
+    },
+    "signinRewardID": 60903,
+    "bg": "UT_Activity_60903_BG",
+    "title": 609031,
+    "headline": 609031,
+    "description": 504103
+  },
+  {
+    "id": 60925,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          946583999
+        ]
+      }
+    },
+    "signinRewardID": 60925,
+    "bg": "UT_Activity_60925_BG",
+    "title": 609251,
+    "headline": 609251,
+    "description": 504103
+  }
+]

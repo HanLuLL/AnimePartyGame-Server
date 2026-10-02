@@ -1,0 +1,951 @@
+[
+  {
+    "shopTabType": {
+      "value": 7,
+      "name": "ShopTabType_Recharge"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 100000,
+        "operationGoodsID": "com.feimo.astralpartycn.1000",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 2,
+          "name": "MerchandiselType_Currency"
+        },
+        "rechargeIcon": "UT_Item_Currency_8",
+        "itemID": 8,
+        "itemNum": 60,
+        "bonuseItemID": 2,
+        "goodsBonuses": 60,
+        "originalPriceCN": 600,
+        "discountPriceCN": 600,
+        "originalPriceUS": 100,
+        "discountPriceUS": 100,
+        "originalPriceJP": 160,
+        "discountPriceJP": 160
+      },
+      {
+        "goodsID": 100010,
+        "operationGoodsID": "com.feimo.astralpartycn.1001",
+        "goodsOrder": 10,
+        "merchandiselType": {
+          "value": 2,
+          "name": "MerchandiselType_Currency"
+        },
+        "rechargeIcon": "UT_Recharge_100010_Pay",
+        "itemID": 8,
+        "itemNum": 300,
+        "bonuseItemID": 2,
+        "goodsBonuses": 300,
+        "originalPriceCN": 3000,
+        "discountPriceCN": 3000,
+        "originalPriceUS": 500,
+        "discountPriceUS": 500,
+        "originalPriceJP": 800,
+        "discountPriceJP": 800
+      },
+      {
+        "goodsID": 100015,
+        "operationGoodsID": "com.feimo.astralpartycn.1002",
+        "goodsOrder": 15,
+        "merchandiselType": {
+          "value": 2,
+          "name": "MerchandiselType_Currency"
+        },
+        "rechargeIcon": "UT_Recharge_100011_Pay",
+        "itemID": 8,
+        "itemNum": 680,
+        "bonuseItemID": 2,
+        "goodsBonuses": 680,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 1000,
+        "discountPriceUS": 1000,
+        "originalPriceJP": 1500,
+        "discountPriceJP": 1500
+      },
+      {
+        "goodsID": 100016,
+        "operationGoodsID": "com.feimo.astralpartycn.1006",
+        "goodsOrder": 18,
+        "merchandiselType": {
+          "value": 2,
+          "name": "MerchandiselType_Currency"
+        },
+        "rechargeIcon": "UT_Recharge_100018_Pay",
+        "itemID": 8,
+        "itemNum": 980,
+        "bonuseItemID": 2,
+        "goodsBonuses": 980,
+        "originalPriceCN": 9800,
+        "discountPriceCN": 9800,
+        "originalPriceUS": 1400,
+        "discountPriceUS": 1400,
+        "originalPriceJP": 2180,
+        "discountPriceJP": 2180
+      },
+      {
+        "goodsID": 100020,
+        "operationGoodsID": "com.feimo.astralpartycn.1003",
+        "goodsOrder": 20,
+        "merchandiselType": {
+          "value": 2,
+          "name": "MerchandiselType_Currency"
+        },
+        "rechargeIcon": "UT_Recharge_100020_Pay",
+        "itemID": 8,
+        "itemNum": 1280,
+        "bonuseItemID": 2,
+        "goodsBonuses": 1280,
+        "originalPriceCN": 12600,
+        "discountPriceCN": 12600,
+        "originalPriceUS": 1800,
+        "discountPriceUS": 1800,
+        "originalPriceJP": 2800,
+        "discountPriceJP": 2800
+      },
+      {
+        "goodsID": 100030,
+        "operationGoodsID": "com.feimo.astralpartycn.1004",
+        "goodsOrder": 30,
+        "merchandiselType": {
+          "value": 2,
+          "name": "MerchandiselType_Currency"
+        },
+        "rechargeIcon": "UT_Recharge_100030_Pay",
+        "itemID": 8,
+        "itemNum": 3280,
+        "bonuseItemID": 2,
+        "goodsBonuses": 3280,
+        "originalPriceCN": 32000,
+        "discountPriceCN": 32000,
+        "originalPriceUS": 4600,
+        "discountPriceUS": 4600,
+        "originalPriceJP": 7200,
+        "discountPriceJP": 7200
+      },
+      {
+        "goodsID": 100040,
+        "operationGoodsID": "com.feimo.astralpartycn.1005",
+        "goodsOrder": 40,
+        "merchandiselType": {
+          "value": 2,
+          "name": "MerchandiselType_Currency"
+        },
+        "rechargeIcon": "UT_Recharge_100040_Pay",
+        "itemID": 8,
+        "itemNum": 6480,
+        "bonuseItemID": 2,
+        "goodsBonuses": 6480,
+        "originalPriceCN": 62900,
+        "discountPriceCN": 62900,
+        "originalPriceUS": 9000,
+        "discountPriceUS": 9000,
+        "originalPriceJP": 14000,
+        "discountPriceJP": 14000
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 23,
+      "name": "ShopTabType_MonthlyCard"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 230000,
+        "operationGoodsID": "com.feimo.astralpartycn.2000",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 4,
+          "name": "MerchandiselType_MonthlyCard"
+        },
+        "name": 230000,
+        "itemID": 98,
+        "itemNum": 1,
+        "originalPriceCN": 2000,
+        "discountPriceCN": 2000,
+        "originalPriceUS": 299,
+        "discountPriceUS": 299,
+        "originalPriceJP": 470,
+        "discountPriceJP": 470
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 13,
+      "name": "ShopTabType_Day7GiftPackage"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 110001,
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 3,
+          "name": "MerchandiselType_Day7GiftPackage"
+        },
+        "name": 110001,
+        "itemID": 99,
+        "itemNum": 1,
+        "originalPriceCN": 3400,
+        "discountPriceCN": 3400,
+        "originalPriceUS": 499,
+        "discountPriceUS": 499,
+        "originalPriceJP": 780,
+        "discountPriceJP": 780,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1715630399
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 28,
+      "name": "ShopTabType_Day7GiftPackage_PVE"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 110002,
+        "operationGoodsID": "com.feimo.astralpartycn.3000",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 3,
+          "name": "MerchandiselType_Day7GiftPackage"
+        },
+        "name": 110002,
+        "itemID": 99,
+        "itemNum": 1,
+        "originalPriceCN": 3400,
+        "discountPriceCN": 3400,
+        "originalPriceUS": 499,
+        "discountPriceUS": 499,
+        "originalPriceJP": 780,
+        "discountPriceJP": 780,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1740081600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1742540399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 110007,
+        "operationGoodsID": "com.feimo.astralpartycn.3001",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 3,
+          "name": "MerchandiselType_Day7GiftPackage"
+        },
+        "name": 110002,
+        "itemID": 99,
+        "itemNum": 1,
+        "originalPriceCN": 3400,
+        "discountPriceCN": 3400,
+        "originalPriceUS": 499,
+        "discountPriceUS": 499,
+        "originalPriceJP": 780,
+        "discountPriceJP": 780,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1781107199
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 37,
+      "name": "ShopTabType_Day7GiftPackage_PVE_year"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 120001,
+        "operationGoodsID": "com.feimo.astralpartycn.3002",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 3,
+          "name": "MerchandiselType_Day7GiftPackage"
+        },
+        "name": 110002,
+        "itemID": 99,
+        "itemNum": 1,
+        "originalPriceCN": 3400,
+        "discountPriceCN": 3400,
+        "originalPriceUS": 499,
+        "discountPriceUS": 499,
+        "originalPriceJP": 780,
+        "discountPriceJP": 780,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 25,
+      "name": "ShopTabType_BattlePass"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 250000,
+        "operationGoodsID": "com.feimo.astralpartycn.4000",
+        "merchandiselType": {
+          "value": 5,
+          "name": "MerchandiselType_BattlePass"
+        },
+        "name": 250000,
+        "itemID": 97,
+        "itemNum": 1,
+        "originalPriceCN": 4100,
+        "discountPriceCN": 4100,
+        "originalPriceUS": 599,
+        "discountPriceUS": 599,
+        "originalPriceJP": 940,
+        "discountPriceJP": 940,
+        "param": 2
+      },
+      {
+        "goodsID": 250001,
+        "operationGoodsID": "com.feimo.astralpartycn.4001",
+        "merchandiselType": {
+          "value": 5,
+          "name": "MerchandiselType_BattlePass"
+        },
+        "name": 250001,
+        "itemID": 96,
+        "itemNum": 1,
+        "originalPriceCN": 8200,
+        "discountPriceCN": 8200,
+        "originalPriceUS": 1199,
+        "discountPriceUS": 1199,
+        "originalPriceJP": 1880,
+        "discountPriceJP": 1880,
+        "param": 4
+      },
+      {
+        "goodsID": 250002,
+        "operationGoodsID": "com.feimo.astralpartycn.4002",
+        "merchandiselType": {
+          "value": 5,
+          "name": "MerchandiselType_BattlePass"
+        },
+        "name": 250002,
+        "itemID": 95,
+        "itemNum": 1,
+        "originalPriceCN": 4100,
+        "discountPriceCN": 4100,
+        "originalPriceUS": 600,
+        "discountPriceUS": 600,
+        "originalPriceJP": 940,
+        "discountPriceJP": 940,
+        "param": 4
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 27,
+      "name": "ShopTabType_Collaboration"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 270000,
+        "operationGoodsID": "com.feimo.astralpartycn.8004",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270000,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91044,
+        "itemNum": 1,
+        "originalPriceCN": 11000,
+        "discountPriceCN": 11000,
+        "originalPriceUS": 1600,
+        "discountPriceUS": 1600,
+        "originalPriceJP": 2490,
+        "discountPriceJP": 2490,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270001,
+        "operationGoodsID": "com.feimo.astralpartycn.8005",
+        "goodsOrder": 2,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270001,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91045,
+        "itemNum": 1,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 990,
+        "discountPriceUS": 990,
+        "originalPriceJP": 1540,
+        "discountPriceJP": 1540,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270002,
+        "operationGoodsID": "com.feimo.astralpartycn.8006",
+        "goodsOrder": 3,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270002,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91046,
+        "itemNum": 1,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 990,
+        "discountPriceUS": 990,
+        "originalPriceJP": 1540,
+        "discountPriceJP": 1540,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270003,
+        "goodsOrder": 6,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270003,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91064,
+        "itemNum": 1,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 1400,
+        "discountPriceUS": 1400,
+        "originalPriceJP": 1400,
+        "discountPriceJP": 1400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270004,
+        "goodsOrder": 5,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270004,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91065,
+        "itemNum": 1,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 1400,
+        "discountPriceUS": 1400,
+        "originalPriceJP": 1400,
+        "discountPriceJP": 1400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270005,
+        "goodsOrder": 4,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270005,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91066,
+        "itemNum": 1,
+        "originalPriceCN": 11000,
+        "discountPriceCN": 11000,
+        "originalPriceUS": 2200,
+        "discountPriceUS": 2200,
+        "originalPriceJP": 2200,
+        "discountPriceJP": 2200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270006,
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270006,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91070,
+        "itemNum": 1,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 990,
+        "discountPriceUS": 990,
+        "originalPriceJP": 1400,
+        "discountPriceJP": 1400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1727506800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1764518399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270007,
+        "operationGoodsID": "com.feimo.astralpartycn.8001",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270007,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91108,
+        "itemNum": 1,
+        "originalPriceCN": 9200,
+        "discountPriceCN": 9200,
+        "originalPriceUS": 1350,
+        "discountPriceUS": 1350,
+        "originalPriceJP": 2100,
+        "discountPriceJP": 2100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270008,
+        "operationGoodsID": "com.feimo.astralpartycn.8002",
+        "goodsOrder": 2,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270008,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91109,
+        "itemNum": 1,
+        "originalPriceCN": 6200,
+        "discountPriceCN": 6200,
+        "originalPriceUS": 900,
+        "discountPriceUS": 900,
+        "originalPriceJP": 1400,
+        "discountPriceJP": 1400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270009,
+        "operationGoodsID": "com.feimo.astralpartycn.8003",
+        "goodsOrder": 3,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270009,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91110,
+        "itemNum": 1,
+        "originalPriceCN": 6200,
+        "discountPriceCN": 6200,
+        "originalPriceUS": 900,
+        "discountPriceUS": 900,
+        "originalPriceJP": 1400,
+        "discountPriceJP": 1400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270010,
+        "operationGoodsID": "com.feimo.astralpartycn.8007",
+        "goodsOrder": 1,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270010,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91126,
+        "itemNum": 1,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 990,
+        "discountPriceUS": 990,
+        "originalPriceJP": 1540,
+        "discountPriceJP": 1540,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788400800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270011,
+        "operationGoodsID": "com.feimo.astralpartycn.8008",
+        "goodsOrder": 2,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270011,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91127,
+        "itemNum": 1,
+        "originalPriceCN": 6800,
+        "discountPriceCN": 6800,
+        "originalPriceUS": 990,
+        "discountPriceUS": 990,
+        "originalPriceJP": 1540,
+        "discountPriceJP": 1540,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788400800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 270012,
+        "operationGoodsID": "com.feimo.astralpartycn.8009",
+        "goodsOrder": 3,
+        "merchandiselType": {
+          "value": 6,
+          "name": "MerchandiselType_Collaboration"
+        },
+        "name": 270012,
+        "rechargeIcon": "UT_Item_Gift_Common",
+        "itemID": 91125,
+        "itemNum": 1,
+        "originalPriceCN": 13600,
+        "discountPriceCN": 11000,
+        "originalPriceUS": 1980,
+        "discountPriceUS": 1600,
+        "originalPriceJP": 3080,
+        "discountPriceJP": 2490,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788400800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 34,
+      "name": "ShopTabType_BattlePassMap"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 340001,
+        "operationGoodsID": "com.feimo.astralpartycn.6001",
+        "merchandiselType": {
+          "value": 8,
+          "name": "MerchandiselType_BattlePassMap"
+        },
+        "name": 340001,
+        "itemID": 94,
+        "itemNum": 1,
+        "originalPriceCN": 2000,
+        "discountPriceCN": 2000,
+        "originalPriceUS": 299,
+        "discountPriceUS": 299,
+        "originalPriceJP": 460,
+        "discountPriceJP": 460,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1770321600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              4101983999
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 35,
+      "name": "ShopTabType_BattlePassLevel"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 350001,
+        "operationGoodsID": "com.feimo.astralpartycn.6002",
+        "merchandiselType": {
+          "value": 9,
+          "name": "MerchandiselType_BattlePassLevel"
+        },
+        "name": 350001,
+        "itemID": 93,
+        "itemNum": 1,
+        "originalPriceCN": 4100,
+        "discountPriceCN": 4100,
+        "originalPriceUS": 599,
+        "discountPriceUS": 599,
+        "originalPriceJP": 930,
+        "discountPriceJP": 930,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1770321600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              4101983999
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 42,
+      "name": "ShopTabType_ComebackSignIn"
+    },
+    "rechargeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 360001,
+        "operationGoodsID": "com.feimo.astralpartycn.6003",
+        "merchandiselType": {
+          "value": 10,
+          "name": "MerchandiselType_ComebackSignIn"
+        },
+        "name": 360001,
+        "itemID": 90,
+        "itemNum": 1,
+        "originalPriceCN": 4100,
+        "discountPriceCN": 4100,
+        "originalPriceUS": 599,
+        "discountPriceUS": 599,
+        "originalPriceJP": 930,
+        "discountPriceJP": 930,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              4101983999
+            ]
+          }
+        }
+      }
+    ]
+  }
+]

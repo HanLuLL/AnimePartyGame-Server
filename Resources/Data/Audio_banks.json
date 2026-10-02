@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "loadKey": "Assets/WwiseData/Banks/UISFX.asset",
+    "bankName": "UISFX"
+  },
+  {
+    "id": 11,
+    "loadKey": "Assets/WwiseData/Banks/LOGIN.asset",
+    "bankName": "LOGIN"
+  },
+  {
+    "id": 12,
+    "loadKey": "Assets/WwiseData/Banks/HOME.asset",
+    "bankName": "HOME"
+  },
+  {
+    "id": 13,
+    "loadKey": "Assets/WwiseData/Banks/BATTLE.asset",
+    "bankName": "BATTLE"
+  },
+  {
+    "id": 14,
+    "loadKey": "Assets/WwiseData/Banks/NGOBGM.asset",
+    "bankName": "NGOBGM"
+  },
+  {
+    "id": 20,
+    "loadKey": "Assets/WwiseData/Banks/ROLE_COMMON.asset",
+    "bankName": "ROLE_COMMON"
+  },
+  {
+    "id": 21,
+    "loadKey": "Assets/WwiseData/Banks/Npc_01.asset",
+    "bankName": "Npc_01"
+  },
+  {
+    "id": 22,
+    "loadKey": "Assets/WwiseData/Banks/Hero_home.asset",
+    "bankName": "Hero_home"
+  },
+  {
+    "id": 23,
+    "loadKey": "Assets/WwiseData/Banks/BATTLE_WW.asset",
+    "bankName": "BATTLE_WW"
+  },
+  {
+    "id": 24,
+    "loadKey": "Assets/WwiseData/Banks/VA11BGM.asset",
+    "bankName": "VA11BGM"
+  },
+  {
+    "id": 25,
+    "loadKey": "Assets/WwiseData/Banks/Hero_Guide.asset",
+    "bankName": "Hero_Guide"
+  },
+  {
+    "id": 1018,
+    "loadKey": "Assets/WwiseData/Banks/BATTLE_1018.asset",
+    "bankName": "BATTLE_1018"
+  },
+  {
+    "id": 100101001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_101.asset",
+    "bankName": "Hero_101"
+  },
+  {
+    "id": 100102001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_102.asset",
+    "bankName": "Hero_102"
+  },
+  {
+    "id": 100103001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_103.asset",
+    "bankName": "Hero_103"
+  },
+  {
+    "id": 100104001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_104.asset",
+    "bankName": "Hero_104"
+  },
+  {
+    "id": 100105001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_105.asset",
+    "bankName": "Hero_105"
+  },
+  {
+    "id": 100106001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_106.asset",
+    "bankName": "Hero_106"
+  },
+  {
+    "id": 100107001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_107.asset",
+    "bankName": "Hero_107"
+  },
+  {
+    "id": 100108001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_108.asset",
+    "bankName": "Hero_108"
+  },
+  {
+    "id": 100109001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_109.asset",
+    "bankName": "Hero_109"
+  },
+  {
+    "id": 100110001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_110.asset",
+    "bankName": "Hero_110"
+  },
+  {
+    "id": 100111001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_111.asset",
+    "bankName": "Hero_111"
+  },
+  {
+    "id": 100112001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_112.asset",
+    "bankName": "Hero_112"
+  },
+  {
+    "id": 100113001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_113.asset",
+    "bankName": "Hero_113"
+  },
+  {
+    "id": 100114001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_114.asset",
+    "bankName": "Hero_114"
+  },
+  {
+    "id": 100115001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_115.asset",
+    "bankName": "Hero_115"
+  },
+  {
+    "id": 100115002,
+    "loadKey": "Assets/WwiseData/Banks/BATTLE_115.asset",
+    "bankName": "BATTLE_115"
+  },
+  {
+    "id": 100116001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_116.asset",
+    "bankName": "Hero_116"
+  },
+  {
+    "id": 100117001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_117.asset",
+    "bankName": "Hero_117"
+  },
+  {
+    "id": 100118001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_118.asset",
+    "bankName": "Hero_118"
+  },
+  {
+    "id": 100119001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_119.asset",
+    "bankName": "Hero_119"
+  },
+  {
+    "id": 100120001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_120.asset",
+    "bankName": "Hero_120"
+  },
+  {
+    "id": 100120002,
+    "loadKey": "Assets/WwiseData/Banks/BATTLE_120.asset",
+    "bankName": "BATTLE_120"
+  },
+  {
+    "id": 100121001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_121.asset",
+    "bankName": "Hero_121"
+  },
+  {
+    "id": 100121002,
+    "loadKey": "Assets/WwiseData/Banks/BATTLE_121.asset",
+    "bankName": "BATTLE_121"
+  },
+  {
+    "id": 100122001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_122.asset",
+    "bankName": "Hero_122"
+  },
+  {
+    "id": 100123001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_123.asset",
+    "bankName": "Hero_123"
+  },
+  {
+    "id": 100123002,
+    "loadKey": "Assets/WwiseData/Banks/BATTLE_123.asset",
+    "bankName": "BATTLE_123"
+  },
+  {
+    "id": 100124001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_124.asset",
+    "bankName": "Hero_124"
+  },
+  {
+    "id": 100125001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_125.asset",
+    "bankName": "Hero_125"
+  },
+  {
+    "id": 100127001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_127.asset",
+    "bankName": "Hero_127"
+  },
+  {
+    "id": 100128001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_128.asset",
+    "bankName": "Hero_128"
+  },
+  {
+    "id": 100129001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_129.asset",
+    "bankName": "Hero_129"
+  },
+  {
+    "id": 100301001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_301.asset",
+    "bankName": "Hero_301"
+  },
+  {
+    "id": 100302001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_302.asset",
+    "bankName": "Hero_302"
+  },
+  {
+    "id": 100303001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_303.asset",
+    "bankName": "Hero_303"
+  },
+  {
+    "id": 100304001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_304.asset",
+    "bankName": "Hero_304"
+  },
+  {
+    "id": 100305001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_305.asset",
+    "bankName": "Hero_305"
+  },
+  {
+    "id": 100306001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_306.asset",
+    "bankName": "Hero_306"
+  },
+  {
+    "id": 1001026001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_1026.asset",
+    "bankName": "Hero_1026"
+  },
+  {
+    "id": 1001027001,
+    "loadKey": "Assets/WwiseData/Banks/Hero_1027.asset",
+    "bankName": "Hero_1027"
+  },
+  {
+    "id": 1001061001,
+    "loadKey": "Assets/WwiseData/Banks/Monster_1061.asset",
+    "bankName": "Monster_1061"
+  }
+]

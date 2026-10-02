@@ -1,0 +1,782 @@
+[
+  {
+    "id": 100,
+    "simplified": "筹码获取概率：{0}"
+  },
+  {
+    "id": 200,
+    "simplified": "治愈"
+  },
+  {
+    "id": 201,
+    "simplified": "星光"
+  },
+  {
+    "id": 202,
+    "simplified": "标记"
+  },
+  {
+    "id": 203,
+    "simplified": "充能"
+  },
+  {
+    "id": 300,
+    "simplified": "回合开始时恢复治愈层数的生命值，回合结束时层数减半"
+  },
+  {
+    "id": 301,
+    "simplified": "等量增加轮次奖励时获得的星币数"
+  },
+  {
+    "id": 302,
+    "simplified": "受到伤害+1"
+  },
+  {
+    "id": 303,
+    "simplified": "涌动的能量\n最多拥有10层"
+  },
+  {
+    "id": 50001,
+    "simplified": "拳击手套-初级"
+  },
+  {
+    "id": 50002,
+    "simplified": "拳击手套-中级"
+  },
+  {
+    "id": 50003,
+    "simplified": "拳击手套-高级"
+  },
+  {
+    "id": 50004,
+    "simplified": "速度轮滑-初级"
+  },
+  {
+    "id": 50005,
+    "simplified": "速度轮滑-中级"
+  },
+  {
+    "id": 50006,
+    "simplified": "速度轮滑-高级"
+  },
+  {
+    "id": 50007,
+    "simplified": "夹心饼干-一般"
+  },
+  {
+    "id": 50008,
+    "simplified": "夹心饼干-可口"
+  },
+  {
+    "id": 50009,
+    "simplified": "夹心饼干-美味"
+  },
+  {
+    "id": 50010,
+    "simplified": "美工刀-初级"
+  },
+  {
+    "id": 50011,
+    "simplified": "美工刀-锋利"
+  },
+  {
+    "id": 50012,
+    "simplified": "手电筒-一般"
+  },
+  {
+    "id": 50013,
+    "simplified": "手电筒-强光"
+  },
+  {
+    "id": 50014,
+    "simplified": "手电筒-爆闪"
+  },
+  {
+    "id": 50015,
+    "simplified": "银行卡-余额少"
+  },
+  {
+    "id": 50016,
+    "simplified": "银行卡-余额多"
+  },
+  {
+    "id": 50017,
+    "simplified": "银行卡-用不完"
+  },
+  {
+    "id": 50018,
+    "simplified": "摩托头盔-一般"
+  },
+  {
+    "id": 50019,
+    "simplified": "摩托头盔-中级"
+  },
+  {
+    "id": 50020,
+    "simplified": "摩托头盔-高级"
+  },
+  {
+    "id": 50021,
+    "simplified": "医疗箱-紧急治疗"
+  },
+  {
+    "id": 50022,
+    "simplified": "医疗箱-完备治疗"
+  },
+  {
+    "id": 50023,
+    "simplified": "肾上腺素-一般"
+  },
+  {
+    "id": 50024,
+    "simplified": "肾上腺素-高效"
+  },
+  {
+    "id": 50025,
+    "simplified": "额外电池"
+  },
+  {
+    "id": 50026,
+    "simplified": "会员推荐信"
+  },
+  {
+    "id": 50027,
+    "simplified": "维生素药丸"
+  },
+  {
+    "id": 50028,
+    "simplified": "大背包"
+  },
+  {
+    "id": 50029,
+    "simplified": "魔法秘典"
+  },
+  {
+    "id": 50030,
+    "simplified": "手持风扇-小"
+  },
+  {
+    "id": 50031,
+    "simplified": "智能手表"
+  },
+  {
+    "id": 50032,
+    "simplified": "标记喷罐"
+  },
+  {
+    "id": 50033,
+    "simplified": "可口糖果"
+  },
+  {
+    "id": 50034,
+    "simplified": "大碗炖肉"
+  },
+  {
+    "id": 50035,
+    "simplified": "小猪存钱罐"
+  },
+  {
+    "id": 50036,
+    "simplified": "“8面”骰子"
+  },
+  {
+    "id": 50037,
+    "simplified": "诅咒之剑"
+  },
+  {
+    "id": 50038,
+    "simplified": "复仇之戟"
+  },
+  {
+    "id": 50039,
+    "simplified": "贯穿之铳"
+  },
+  {
+    "id": 50040,
+    "simplified": "缓冲盾牌"
+  },
+  {
+    "id": 50041,
+    "simplified": "友情徽章"
+  },
+  {
+    "id": 50042,
+    "simplified": "ATM机"
+  },
+  {
+    "id": 50043,
+    "simplified": "星币锤"
+  },
+  {
+    "id": 50044,
+    "simplified": "鹰眼瞄具"
+  },
+  {
+    "id": 50045,
+    "simplified": "忍术飞镖"
+  },
+  {
+    "id": 50046,
+    "simplified": "标靶"
+  },
+  {
+    "id": 50047,
+    "simplified": "魔法箭袋"
+  },
+  {
+    "id": 50048,
+    "simplified": "手持风扇-大"
+  },
+  {
+    "id": 50049,
+    "simplified": "佐茶蛋糕"
+  },
+  {
+    "id": 50050,
+    "simplified": "古老法杖"
+  },
+  {
+    "id": 50051,
+    "simplified": "精品剑盾"
+  },
+  {
+    "id": 50052,
+    "simplified": "普通瞄具"
+  },
+  {
+    "id": 50053,
+    "simplified": "大铁锚"
+  },
+  {
+    "id": 50054,
+    "simplified": "梦想号模型"
+  },
+  {
+    "id": 50055,
+    "simplified": "三叉戟"
+  },
+  {
+    "id": 50056,
+    "simplified": "惊涛御守"
+  },
+  {
+    "id": 50057,
+    "simplified": "迷幻海鲜汤"
+  },
+  {
+    "id": 50058,
+    "simplified": "无限之蛇"
+  },
+  {
+    "id": 50059,
+    "simplified": "交错双鲤"
+  },
+  {
+    "id": 50060,
+    "simplified": "小蛇玩偶"
+  },
+  {
+    "id": 50061,
+    "simplified": "小鲤鱼玩偶"
+  },
+  {
+    "id": 50062,
+    "simplified": "计时器"
+  },
+  {
+    "id": 50063,
+    "simplified": "重生人偶"
+  },
+  {
+    "id": 50064,
+    "simplified": "糖果会员证"
+  },
+  {
+    "id": 50065,
+    "simplified": "优雅之羽"
+  },
+  {
+    "id": 50066,
+    "simplified": "探天卫星"
+  },
+  {
+    "id": 50067,
+    "simplified": "飞羽手环"
+  },
+  {
+    "id": 50068,
+    "simplified": "鸳鸯玉佩"
+  },
+  {
+    "id": 50069,
+    "simplified": "孔雀扇"
+  },
+  {
+    "id": 50070,
+    "simplified": "大铜锣"
+  },
+  {
+    "id": 50071,
+    "simplified": "节日红包"
+  },
+  {
+    "id": 50072,
+    "simplified": "电击枪"
+  },
+  {
+    "id": 50073,
+    "simplified": "运动手环"
+  },
+  {
+    "id": 50074,
+    "simplified": "时间怀表"
+  },
+  {
+    "id": 50075,
+    "simplified": "自适应核心"
+  },
+  {
+    "id": 50076,
+    "simplified": "娱乐终端"
+  },
+  {
+    "id": 50077,
+    "simplified": "原初意识"
+  },
+  {
+    "id": 50078,
+    "simplified": "紫色飞星"
+  },
+  {
+    "id": 50079,
+    "simplified": "金色飞星"
+  },
+  {
+    "id": 50080,
+    "simplified": "时间怀表(破碎)"
+  },
+  {
+    "id": 50081,
+    "simplified": "书签"
+  },
+  {
+    "id": 50082,
+    "simplified": "磨刀石"
+  },
+  {
+    "id": 50083,
+    "simplified": "循环往复"
+  },
+  {
+    "id": 50084,
+    "simplified": "能量回收"
+  },
+  {
+    "id": 50085,
+    "simplified": "电流剑"
+  },
+  {
+    "id": 50086,
+    "simplified": "安全气囊"
+  },
+  {
+    "id": 50087,
+    "simplified": "电击手套"
+  },
+  {
+    "id": 50088,
+    "simplified": "跃迁引擎"
+  },
+  {
+    "id": 50089,
+    "simplified": "电流核心"
+  },
+  {
+    "id": 50090,
+    "simplified": "永动机"
+  },
+  {
+    "id": 50091,
+    "simplified": "电磁炮"
+  },
+  {
+    "id": 50092,
+    "simplified": "放大镜"
+  },
+  {
+    "id": 50093,
+    "simplified": "汉娜人偶"
+  },
+  {
+    "id": 500010,
+    "simplified": "攻击力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500020,
+    "simplified": "攻击力[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500030,
+    "simplified": "攻击力[color=#94FF46]+5[/color]。"
+  },
+  {
+    "id": 500040,
+    "simplified": "移动速度[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500050,
+    "simplified": "移动速度[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500060,
+    "simplified": "移动速度[color=#94FF46]+4[/color]。"
+  },
+  {
+    "id": 500070,
+    "simplified": "生命值上限[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500080,
+    "simplified": "生命值上限[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 500090,
+    "simplified": "生命值上限[color=#94FF46]+3[/color]，自身每有2点额外生命值上限，攻击力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500100,
+    "simplified": "生命值为满时，攻击力[color=#94FF46]+2[/color]，且攻击时额外上升<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>层数的攻击力。"
+  },
+  {
+    "id": 500110,
+    "simplified": "生命值为满时，攻击力[color=#94FF46]+4[/color]，且攻击时额外上升<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>层数的攻击力。"
+  },
+  {
+    "id": 500120,
+    "simplified": "击倒怪物时，恢复[color=#91e1ff]2[/color]Hp。"
+  },
+  {
+    "id": 500130,
+    "simplified": "攻击怪物时，每4层<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，使自身攻击力[color=#94FF46]+1[/color]。击中怪物后，获得[color=#91e1ff]1[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。"
+  },
+  {
+    "id": 500140,
+    "simplified": "攻击怪物时，获得[color=#91e1ff]1[/color]星币。每3层<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，使自身攻击力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500150,
+    "simplified": "获得[color=#91e1ff]4[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。"
+  },
+  {
+    "id": 500160,
+    "simplified": "获得[color=#91e1ff]7[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。"
+  },
+  {
+    "id": 500170,
+    "simplified": "获得[color=#91e1ff]3[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，所有角色轮次奖励星币[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 500180,
+    "simplified": "防御力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500190,
+    "simplified": "防御力[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500200,
+    "simplified": "防御力[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 500210,
+    "simplified": "回合开始时，获得[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。"
+  },
+  {
+    "id": 500220,
+    "simplified": "回合开始时，获得[color=#91e1ff]3[/color]层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。"
+  },
+  {
+    "id": 500230,
+    "simplified": "生命值低于50%时，攻击力[color=#94FF46]+3[/color]，且无法被反击。"
+  },
+  {
+    "id": 500240,
+    "simplified": "生命值低于50%时，攻击力[color=#94FF46]+8[/color]，且无法被反击。"
+  },
+  {
+    "id": 500250,
+    "simplified": "主动技能冷却缩减[color=#91e1ff]1[/color]。"
+  },
+  {
+    "id": 500260,
+    "simplified": "轮次奖励卡牌[color=#94FF46]+1[/color]，商店卡牌的售价[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 500270,
+    "simplified": "每获得一张卡牌，获得[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。"
+  },
+  {
+    "id": 500280,
+    "simplified": "出牌数[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500290,
+    "simplified": "每使用3张效果牌，复制最后使用的那张效果牌并加入手牌。"
+  },
+  {
+    "id": 500300,
+    "simplified": "使用主动技能后，对6格内的怪物施加[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。"
+  },
+  {
+    "id": 500310,
+    "simplified": "回合结束时，如果自己手牌少于5张，获得[color=#91e1ff]1[/color]张卡牌。"
+  },
+  {
+    "id": 500320,
+    "simplified": "使用效果牌对怪物造成伤害后，对目标施加[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。"
+  },
+  {
+    "id": 500330,
+    "simplified": "打出手牌后，获得[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。\n打出手牌后，如果生命值为满，本回合出牌数[color=#94FF46]+1[/color]（每回合最多触发1次）。"
+  },
+  {
+    "id": 500340,
+    "simplified": "回合开始时，5格内的所有角色获得[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>并恢复[color=#91e1ff]1[/color]点生命值。"
+  },
+  {
+    "id": 500350,
+    "simplified": "每使用2张效果牌，获得[color=#91e1ff]3[/color]星币。"
+  },
+  {
+    "id": 500360,
+    "simplified": "自身移动的最终点数为8时，获得[color=#91e1ff]8[/color]星币。每有8点累计移动点数，获得[color=#91e1ff]1[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。"
+  },
+  {
+    "id": 500370,
+    "simplified": "你将一直受【青之诅咒】纠缠。每击倒一个怪物，攻击力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500380,
+    "simplified": "拥有【青之诅咒】时:攻击力[color=#94FF46]+5[/color]。拥有【赤红之毒】时:防御力[color=#94FF46]+5[/color]。"
+  },
+  {
+    "id": 500390,
+    "simplified": "效果牌额外附加[color=#91e1ff]目标防御力[/color]的伤害。"
+  },
+  {
+    "id": 500400,
+    "simplified": "被攻击时，获得[color=#91e1ff]2[/color]层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>与[color=#91e1ff]3[/color]星币。"
+  },
+  {
+    "id": 500410,
+    "simplified": "转账或治疗友方角色时，自身与目标同时获得[color=#91e1ff]2[/color]层<img src='ui://xuaw6o8jkva0b0' width='32' height='32'/>。"
+  },
+  {
+    "id": 500420,
+    "simplified": "转账时，自身与目标同时获得[color=#91e1ff]1[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>与[color=#91e1ff]1[/color]星币。"
+  },
+  {
+    "id": 500430,
+    "simplified": "获得[color=#91e1ff]5[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。攻击时，如果当前持有星币大于20，则额外增加[color=#91e1ff]当前持有星币30%[/color]的攻击力，随后消耗[color=#91e1ff]6[/color]星币。"
+  },
+  {
+    "id": 500440,
+    "simplified": "攻击时先施加[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>，本次攻击增加目标<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>层数[color=#91e1ff]2[/color]倍的攻击力。"
+  },
+  {
+    "id": 500450,
+    "simplified": "出牌数[color=#94FF46]+1[/color]。对怪物使用伤害效果牌时，使怪物额外受到<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>层数的伤害。"
+  },
+  {
+    "id": 500460,
+    "simplified": "攻击力[color=#94FF46]+1[/color]。回合开始时，对4格内最近的怪物施加[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。"
+  },
+  {
+    "id": 500470,
+    "simplified": "每回合一次，对拥有【标记】的怪物使用效果牌时，施加[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>，复制使用的效果牌并返回手牌。"
+  },
+  {
+    "id": 500480,
+    "simplified": "使用主动技能后，获得[color=#91e1ff]1[/color]张卡牌，并对6格范围内的怪物施加[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。"
+  },
+  {
+    "id": 500490,
+    "simplified": "攻击力[color=#94FF46]+1[/color]。攻击茶壶时，攻击力[color=#94FF46]+1[/color]，防御力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 500500,
+    "simplified": "效果牌射程[color=#94FF46]+3[/color]，出牌数[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500510,
+    "simplified": "攻击力[color=#94FF46]+4[/color]，拥有【问题学生】时，防御力[color=#94FF46]+4[/color]。"
+  },
+  {
+    "id": 500520,
+    "simplified": "攻击力[color=#94FF46]+2[/color]，攻击时施加[color=#91e1ff]1[/color]层<img src='ui://xuaw6o8jkva0b1' width='32' height='32'/>。"
+  },
+  {
+    "id": 500530,
+    "simplified": "受到伤害时，攻击力[color=#94FF46]+1[/color]。回合开始时，失去[color=#91e1ff]1[/color]点攻击加成。"
+  },
+  {
+    "id": 500540,
+    "simplified": "移动速度[color=#94FF46]+2[/color]。每有15点累计移动点数，主动技能冷却时间[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 500550,
+    "simplified": "使用主动技能时，使一名未被强化的友方角色攻击力[color=#94FF46]+1[/color]，防御力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500560,
+    "simplified": "使用效果牌时，受到[color=#91e1ff]1[/color]点伤害。获得卡牌时，回复[color=#91e1ff]1[/color]点生命值。"
+  },
+  {
+    "id": 500570,
+    "simplified": "你的战斗骰点只会是[color=#91e1ff]1[/color]或者[color=#91e1ff]6[/color]点。"
+  },
+  {
+    "id": 500580,
+    "simplified": "回合开始时，获得卡牌直至手牌达到[color=#91e1ff]8[/color]张。出牌数[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500590,
+    "simplified": "攻击骰点只会是[color=#91e1ff]6[/color]点，且无法被反击。"
+  },
+  {
+    "id": 500600,
+    "simplified": "受到伤害后，使自身受到伤害[color=#94FF46]-2[/color]、攻击力[color=#94FF46]+2[/color]，持续1回合。"
+  },
+  {
+    "id": 500610,
+    "simplified": "使用主动技能后，获得[color=#91e1ff]1[/color]层【反击】。反击时，攻击力、防御力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500620,
+    "simplified": "获得【改造】时，额外获得[color=#91e1ff]1[/color]层。每2层【改造】，使自身攻击力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500630,
+    "simplified": "被击倒后，进度不变，攻击力、防御力、生命值上限永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500640,
+    "simplified": "怪奇糖果机售价下降为[color=#91e1ff]3[/color]星币。使用糖果卡牌时，主动技能冷却时间[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 500650,
+    "simplified": "闪避成功时，攻击力[color=#94FF46]+1[/color]，最多叠加[color=#91e1ff]4[/color]层。"
+  },
+  {
+    "id": 500660,
+    "simplified": "所有效果牌的射程[color=#94FF46]+3[/color]。回合结束时，如果自身手牌数少于6张，则获得[color=#91e1ff]1[/color]张轨道炮。"
+  },
+  {
+    "id": 500670,
+    "simplified": "使用主动技能后，获得[color=#91e1ff]1[/color]张【彩羽】。\n每使用3张【彩羽】后，获得[color=#91e1ff]1[/color]个筹码。"
+  },
+  {
+    "id": 500680,
+    "simplified": "拥有【鸳鸯连理】时，移动速度[color=#94FF46]+2[/color] 。\n解除【鸳鸯连理】时，攻击力、防御力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500690,
+    "simplified": "攻击命中后，自身获得[color=#91e1ff]2[/color]层【温焰】。\n被挑战时，消耗3层【温焰】，获得[color=#91e1ff]1[/color]层【反击】并恢复[color=#91e1ff]3[/color]点生命。"
+  },
+  {
+    "id": 500700,
+    "simplified": "使用主动技能后，4格内的所有角色攻击力[color=#94FF46]+1[/color]、受到伤害[color=#94FF46]-1[/color]，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 500710,
+    "simplified": "使用高升炮后，出牌数[color=#94FF46]+1[/color]。转账后获得[color=#91e1ff]1[/color]张高升炮。每使用3张高升炮，所有角色[color=#91e1ff]随机获得最多3种新春祝福[/color]。"
+  },
+  {
+    "id": 500720,
+    "simplified": "击倒精英单位后，获得[color=#91e1ff]1[/color]层【心智】。\n【心智】层数大于等于3时，攻击力[color=#94FF46]+2[/color]，防御力[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500730,
+    "simplified": "攻击力[color=#94FF46]+1[/color]，攻击时，如果防御方的移动速度受到影响，攻击力额外[color=#94FF46]+4[/color]。"
+  },
+  {
+    "id": 500740,
+    "simplified": "被击倒后的下一轮开始时，立即复活。该轮怪物行动时，全体怪物被时间静止。随后本筹码变为时间怀表(破碎)。"
+  },
+  {
+    "id": 500750,
+    "simplified": "心智小于等于3时，受到伤害[color=#FF4646]-1[/color]。\n心智大于等于3时，攻击力[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500760,
+    "simplified": "攻击力[color=#94FF46]+4[/color]，防御力[color=#94FF46]+4[/color]。\n回合结束时，心智层数[color=#FF4646]-1[/color]。"
+  },
+  {
+    "id": 500770,
+    "simplified": "心智增加时，生命值上限永久[color=#94FF46]+1[/color]。\n心智减少时，攻击力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500780,
+    "simplified": "放过怪物后，对目标造成[color=#91e1ff]1[/color]点伤害并获得[color=#91e1ff]1[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>。"
+  },
+  {
+    "id": 500790,
+    "simplified": "放过怪物后，对目标造成[color=#91e1ff]2[/color]点伤害并获得[color=#91e1ff]1[/color]<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>，如果目标是首领，使目标额外受到<img src='ui://xuaw6o8jkva0b2' width='32' height='32'/>层数的伤害。"
+  },
+  {
+    "id": 500800,
+    "simplified": "它好像已经失去原本的功能，且看起来像是无法修复了。"
+  },
+  {
+    "id": 500810,
+    "simplified": "效果牌伤害[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500820,
+    "simplified": "生命值低于50%时，攻击力[color=#94FF46]+4[/color]，受到伤害[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 500830,
+    "simplified": "获得[color=#91e1ff]3[/color]次强化筹码重选次数，[color=#91e1ff]3[/color]回合后选择并获得[color=#91e1ff]1[/color]个强化筹码。"
+  },
+  {
+    "id": 500840,
+    "simplified": "每累计5点移动点数，获得[color=#91e1ff]2[/color]层<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>。<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>层数大于5时，移动速度[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 500850,
+    "simplified": "攻击命中后，获得[color=#91e1ff]2[/color]层<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>，<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>层数大于7时，攻击力[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500860,
+    "simplified": "若受到超过当前生命值的伤害，消耗[color=#91e1ff]6[/color]层<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>：使得本次伤害变为[color=#91e1ff]0[/color]。\n受到伤害后获得[color=#91e1ff]1[/color]<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>。"
+  },
+  {
+    "id": 500870,
+    "simplified": "打出效果牌时，获得[color=#91e1ff]2[/color]层<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>。\n回合结束时，消耗[color=#91e1ff]4[/color]层<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>：对自身2格范围内的所有怪物造成[color=#91e1ff]2[/color]点伤害。"
+  },
+  {
+    "id": 500880,
+    "simplified": "停留在怪物突击门或疾行时，获得[color=#91e1ff]2[/color]<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>，并使得下次移动速度[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 500890,
+    "simplified": "使用技能后，本回合出牌数[color=#94FF46]+1[/color]，消耗[color=#91e1ff]5[/color]层<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>：主动技能冷却时间[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 500900,
+    "simplified": "移动速度[color=#94FF46]+2[/color]。\n回合开始时，如果自身的<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>层数低于6，则使<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>层数变为[color=#91e1ff]6[/color]。"
+  },
+  {
+    "id": 500910,
+    "simplified": "攻击力[color=#94FF46]+2[/color]。\n挑战怪物后，消耗[color=#91e1ff]4[/color]层<img src='ui://xuaw6o8jy4hks8r' width='32' height='32'/>：对目标所在地块的所有怪物造成当前攻击力50%的伤害。"
+  },
+  {
+    "id": 500920,
+    "simplified": "每拥有1层【罪证】，攻击力[color=#94FF46]+1[/color]、防御力[color=#94FF46]+1[/color]，最高叠加4层。"
+  },
+  {
+    "id": 500930,
+    "simplified": "转账后，获得[color=#91e1ff]1[/color]层【罪证】。\n回合结束时，获得自身【罪证】层数[color=#91e1ff]*2[/color]的星币。"
+  }
+]

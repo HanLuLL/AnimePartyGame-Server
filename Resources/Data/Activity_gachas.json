@@ -1,0 +1,82 @@
+[
+  {
+    "id": 20240832,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100107004,
+    "giftID": 91039,
+    "way": 950331
+  },
+  {
+    "id": 20241025,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100114003,
+    "giftID": 91043,
+    "way": 950333
+  },
+  {
+    "id": 20250127,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100113004,
+    "giftID": 91051,
+    "way": 950338
+  },
+  {
+    "id": 20250406,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100108005,
+    "giftID": 91058,
+    "way": 950340
+  },
+  {
+    "id": 20250704,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100101004,
+    "giftID": 91061,
+    "way": 950351
+  },
+  {
+    "id": 20250930,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100102005,
+    "giftID": 91072,
+    "way": 950353
+  },
+  {
+    "id": 20260211,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100117005,
+    "giftID": 91082,
+    "way": 950366
+  },
+  {
+    "id": 20260625,
+    "gachaType": {
+      "value": 4,
+      "name": "GachaType_ActivitySkin"
+    },
+    "skinID": 100112005,
+    "giftID": 91115,
+    "way": 950411
+  }
+]

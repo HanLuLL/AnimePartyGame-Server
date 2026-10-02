@@ -1,0 +1,178 @@
+[
+  {
+    "id": 50001,
+    "simplified": "+星币"
+  },
+  {
+    "id": 50002,
+    "simplified": "-星币"
+  },
+  {
+    "id": 50003,
+    "simplified": "+生命"
+  },
+  {
+    "id": 50004,
+    "simplified": "-生命"
+  },
+  {
+    "id": 50005,
+    "simplified": "+卡牌"
+  },
+  {
+    "id": 50006,
+    "simplified": "-卡牌"
+  },
+  {
+    "id": 500011,
+    "simplified": "获得5星币。"
+  },
+  {
+    "id": 500021,
+    "simplified": "失去5星币。"
+  },
+  {
+    "id": 500031,
+    "simplified": "回复2生命。"
+  },
+  {
+    "id": 500041,
+    "simplified": "失去2生命。"
+  },
+  {
+    "id": 500051,
+    "simplified": "获得1张牌。"
+  },
+  {
+    "id": 500061,
+    "simplified": "丢失1张牌。"
+  },
+  {
+    "id": 60001,
+    "simplified": "等级最高的人"
+  },
+  {
+    "id": 60002,
+    "simplified": "等级最低的人"
+  },
+  {
+    "id": 60003,
+    "simplified": "生命值最多的人"
+  },
+  {
+    "id": 60004,
+    "simplified": "生命值最少的人"
+  },
+  {
+    "id": 60005,
+    "simplified": "星币最多的人"
+  },
+  {
+    "id": 60006,
+    "simplified": "星币最少的人"
+  },
+  {
+    "id": 60007,
+    "simplified": "手牌最多的人"
+  },
+  {
+    "id": 60008,
+    "simplified": "手牌最少的人"
+  },
+  {
+    "id": 600010,
+    "simplified": "THE CHOSEN - 001"
+  },
+  {
+    "id": 600020,
+    "simplified": "THE CHOSEN - 002"
+  },
+  {
+    "id": 600030,
+    "simplified": "THE CHOSEN - 005"
+  },
+  {
+    "id": 600040,
+    "simplified": "THE CHOSEN - 006"
+  },
+  {
+    "id": 600050,
+    "simplified": "THE CHOSEN - 003"
+  },
+  {
+    "id": 600060,
+    "simplified": "THE CHOSEN - 004"
+  },
+  {
+    "id": 600070,
+    "simplified": "THE CHOSEN - 007"
+  },
+  {
+    "id": 600080,
+    "simplified": "THE CHOSEN - 008"
+  },
+  {
+    "id": 600011,
+    "simplified": "星数最高的玩家"
+  },
+  {
+    "id": 600021,
+    "simplified": "星数最低的玩家"
+  },
+  {
+    "id": 600031,
+    "simplified": "生命最高的玩家"
+  },
+  {
+    "id": 600041,
+    "simplified": "生命最低的玩家"
+  },
+  {
+    "id": 600051,
+    "simplified": "星币最多的玩家"
+  },
+  {
+    "id": 600061,
+    "simplified": "星币最少的玩家"
+  },
+  {
+    "id": 600071,
+    "simplified": "手牌最多的玩家"
+  },
+  {
+    "id": 600081,
+    "simplified": "手牌最少的玩家"
+  },
+  {
+    "id": 600012,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  },
+  {
+    "id": 600022,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  },
+  {
+    "id": 600032,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  },
+  {
+    "id": 600042,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  },
+  {
+    "id": 600052,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  },
+  {
+    "id": 600062,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  },
+  {
+    "id": 600072,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  },
+  {
+    "id": 600082,
+    "simplified": "被选中的人啊，接受你的命运吧"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 202609,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "taskGroupID": 202609,
+    "rewardGroupID": 202609,
+    "rewardAdsGroupID": 202609,
+    "rewardDetailWindowGroupID": 202609,
+    "premiumOfferLevels": 20,
+    "costPerLv": {
+      "2": 60
+    },
+    "expPerLv": 500,
+    "rewardPerLvAfterMax": {
+      "91034": 1
+    },
+    "topic": 2026090,
+    "normalName": 2026091,
+    "premiumName": 2026092,
+    "battlePassIcon": "UT_BattlePass_202609_Icon",
+    "skinID": 100127004,
+    "AccountBackgroundID": 71095,
+    "mainBG": "UT_BattlePass_202609_MainBG",
+    "buttonTexture": "UT_BattlePass_202609_ButtonTexture",
+    "taskBG": "UT_BattlePass_TaskBG",
+    "entranceFold": "UT_BattlePass_202609_Icon",
+    "entranceUnfold": "UT_BattlePass_202609_EntranceUnfold"
+  }
+]

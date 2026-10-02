@@ -1,0 +1,102 @@
+[
+  {
+    "goodsID": 110007,
+    "titleID": 1100020,
+    "descriptionID": 1100021,
+    "validityPeriod": 14,
+    "day7GiftPackageGoodsConfigureItems": [
+      {
+        "dayNumb": 1,
+        "reward": {
+          "78100": 10
+        }
+      },
+      {
+        "dayNumb": 2,
+        "reward": {
+          "78101": 5
+        }
+      },
+      {
+        "dayNumb": 3,
+        "reward": {
+          "78100": 10
+        }
+      },
+      {
+        "dayNumb": 4,
+        "reward": {
+          "78101": 5
+        }
+      },
+      {
+        "dayNumb": 5,
+        "reward": {
+          "78100": 10
+        }
+      },
+      {
+        "dayNumb": 6,
+        "reward": {
+          "78101": 5
+        }
+      },
+      {
+        "dayNumb": 7,
+        "reward": {
+          "78101": 10
+        }
+      }
+    ]
+  },
+  {
+    "goodsID": 120001,
+    "titleID": 1100020,
+    "descriptionID": 1100022,
+    "validityPeriod": 14,
+    "day7GiftPackageGoodsConfigureItems": [
+      {
+        "dayNumb": 1,
+        "reward": {
+          "78100": 14
+        }
+      },
+      {
+        "dayNumb": 2,
+        "reward": {
+          "78101": 6
+        }
+      },
+      {
+        "dayNumb": 3,
+        "reward": {
+          "78100": 14
+        }
+      },
+      {
+        "dayNumb": 4,
+        "reward": {
+          "78101": 6
+        }
+      },
+      {
+        "dayNumb": 5,
+        "reward": {
+          "78100": 14
+        }
+      },
+      {
+        "dayNumb": 6,
+        "reward": {
+          "78101": 6
+        }
+      },
+      {
+        "dayNumb": 7,
+        "reward": {
+          "78101": 12
+        }
+      }
+    ]
+  }
+]

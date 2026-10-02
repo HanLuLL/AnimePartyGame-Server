@@ -1,0 +1,100 @@
+[
+  {
+    "mapModeType": {
+      "value": 3,
+      "name": "MapModeType_Ultra"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1740812399
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1743749999
+        ]
+      }
+    },
+    "mapID": [
+      81003,
+      81005,
+      81004,
+      81006,
+      81011
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 7,
+      "name": "MapModeType_AsymmetricalBattle"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1766109600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1769875199
+        ]
+      }
+    },
+    "mapID": [
+      82009
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 11,
+      "name": "MapModeType_LuckyStarBattle"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1780516800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "mapID": [
+      81007
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 12,
+      "name": "MapModeType_MutatorPVE"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1782331200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1788364799
+        ]
+      }
+    },
+    "mapID": [
+      83001,
+      83002,
+      83003
+    ]
+  }
+]

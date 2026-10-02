@@ -1,0 +1,129 @@
+[
+  {
+    "id": 2601,
+    "orderWeight": 1,
+    "conditionType": {
+      "value": 307,
+      "name": "ConditionType_Total_PlayerCount_InvitedLv"
+    },
+    "params": [
+      1,
+      7
+    ],
+    "descId": 1010,
+    "reward": {
+      "2": 60,
+      "70055": 1
+    }
+  },
+  {
+    "id": 2602,
+    "orderWeight": 2,
+    "conditionType": {
+      "value": 307,
+      "name": "ConditionType_Total_PlayerCount_InvitedLv"
+    },
+    "params": [
+      2,
+      7
+    ],
+    "descId": 1010,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 2603,
+    "orderWeight": 3,
+    "conditionType": {
+      "value": 307,
+      "name": "ConditionType_Total_PlayerCount_InvitedLv"
+    },
+    "params": [
+      3,
+      7
+    ],
+    "descId": 1010,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 2604,
+    "orderWeight": 4,
+    "conditionType": {
+      "value": 307,
+      "name": "ConditionType_Total_PlayerCount_InvitedLv"
+    },
+    "params": [
+      4,
+      7
+    ],
+    "descId": 1010,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 2605,
+    "orderWeight": 5,
+    "conditionType": {
+      "value": 307,
+      "name": "ConditionType_Total_PlayerCount_InvitedLv"
+    },
+    "params": [
+      5,
+      7
+    ],
+    "descId": 1010,
+    "reward": {
+      "2": 60,
+      "71050": 1
+    }
+  },
+  {
+    "id": 2606,
+    "orderWeight": 1,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "params": [
+      3
+    ],
+    "descId": 2010,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 2607,
+    "orderWeight": 2,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "params": [
+      5
+    ],
+    "descId": 2010,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 2608,
+    "orderWeight": 3,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "params": [
+      7
+    ],
+    "descId": 2010,
+    "reward": {
+      "90001": 1
+    }
+  }
+]

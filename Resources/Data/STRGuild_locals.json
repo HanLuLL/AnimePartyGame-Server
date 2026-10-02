@@ -1,0 +1,342 @@
+[
+  {
+    "id": 1,
+    "simplified": "会长"
+  },
+  {
+    "id": 2,
+    "simplified": "副会长"
+  },
+  {
+    "id": 3,
+    "simplified": "精英"
+  },
+  {
+    "id": 4,
+    "simplified": "新手"
+  },
+  {
+    "id": 11,
+    "simplified": "休闲"
+  },
+  {
+    "id": 12,
+    "simplified": "社交"
+  },
+  {
+    "id": 13,
+    "simplified": "PVE"
+  },
+  {
+    "id": 14,
+    "simplified": "PVP"
+  },
+  {
+    "id": 15,
+    "simplified": "新手"
+  },
+  {
+    "id": 16,
+    "simplified": "挑战"
+  },
+  {
+    "id": 101,
+    "simplified": "<color=#FFCC00><color=#FFCC00>{0}</color></color>加入了公会"
+  },
+  {
+    "id": 102,
+    "simplified": "<color=#FFCC00>{0}</color>退出了公会"
+  },
+  {
+    "id": 103,
+    "simplified": "<color=#FFCC00>{0}</color>将<color=#FFCC00>{1}</color>请离了公会"
+  },
+  {
+    "id": 104,
+    "simplified": "<color=#FFCC00>{0}</color>将<color=#FFCC00>{1}</color>升为<color=#FFCC00>{2}</color>"
+  },
+  {
+    "id": 105,
+    "simplified": "<color=#FFCC00>{0}</color>将<color=#FFCC00>{1}</color>降为<color=#FFCC00>{2}</color>"
+  },
+  {
+    "id": 106,
+    "simplified": "<color=#FFCC00>{0}</color>对<color=#FFCC00>{1}</color>转让会长"
+  },
+  {
+    "id": 107,
+    "simplified": "<color=#FFCC00>{0}</color>成为会长"
+  },
+  {
+    "id": 108,
+    "simplified": "通过弹劾流程，<color=#FFCC00>{0}</color>成为会长"
+  },
+  {
+    "id": 109,
+    "simplified": "通过弹劾流程，<color=#FFCC00>{0}</color>成为新手"
+  },
+  {
+    "id": 1010,
+    "simplified": "每日登录"
+  },
+  {
+    "id": 1011,
+    "simplified": "完成每日登录"
+  },
+  {
+    "id": 1020,
+    "simplified": "与公会成员完成对局"
+  },
+  {
+    "id": 1021,
+    "simplified": "与公会成员完成≥{0}场对局"
+  },
+  {
+    "id": 2010,
+    "simplified": "公会活跃"
+  },
+  {
+    "id": 2011,
+    "simplified": "公会本周登录≥{0}人"
+  },
+  {
+    "id": 3000,
+    "simplified": "*不能超过20个字符，可包含“、_”\n*创建后，公会名无法进行修改"
+  },
+  {
+    "id": 3001,
+    "simplified": "在你创建自己的公会后，所有其他公会的邀请将会被取消！"
+  },
+  {
+    "id": 3002,
+    "simplified": "是否消耗{0}*{1}，{2}*{3}创建公会{4}？"
+  },
+  {
+    "id": 3003,
+    "simplified": "道具资源不足，暂时无法创建公会！"
+  },
+  {
+    "id": 3004,
+    "simplified": "公会名不能为空！"
+  },
+  {
+    "id": 3005,
+    "simplified": "公会名包含敏感字符"
+  },
+  {
+    "id": 3006,
+    "simplified": "名字已被其他公会使用，换个试试吧！"
+  },
+  {
+    "id": 3100,
+    "simplified": "招募公告包含敏感词，请修改"
+  },
+  {
+    "id": 3101,
+    "simplified": "已达本日公会设置修改次数上限，请明日再试"
+  },
+  {
+    "id": 3102,
+    "simplified": "公会设置修改成功"
+  },
+  {
+    "id": 3103,
+    "simplified": "公会内部公告包含敏感词，请修改"
+  },
+  {
+    "id": 3104,
+    "simplified": "已达本日公会内部公告修改次数上限，请明日再试"
+  },
+  {
+    "id": 3105,
+    "simplified": "公会内部公告修改成功"
+  },
+  {
+    "id": 3106,
+    "simplified": "公会标签最多选择{0}项"
+  },
+  {
+    "id": 3107,
+    "simplified": "公会设置没有发生变化"
+  },
+  {
+    "id": 3108,
+    "simplified": "公会内部公告没有发生变化"
+  },
+  {
+    "id": 3109,
+    "simplified": "文本校验资源尚未准备完成，请稍后再试"
+  },
+  {
+    "id": 3110,
+    "simplified": "确定将会长转让给{0}吗？"
+  },
+  {
+    "id": 3111,
+    "simplified": "已将会长转让给{0}"
+  },
+  {
+    "id": 3112,
+    "simplified": "确定将{0}升为{1}吗？"
+  },
+  {
+    "id": 3113,
+    "simplified": "已将{0}升为{1}"
+  },
+  {
+    "id": 3114,
+    "simplified": "确定将{0}降为{1}吗？"
+  },
+  {
+    "id": 3115,
+    "simplified": "已将{0}降为{1}"
+  },
+  {
+    "id": 3116,
+    "simplified": "确定将{0}请离公会吗？"
+  },
+  {
+    "id": 3117,
+    "simplified": "已将{0}请离公会"
+  },
+  {
+    "id": 3118,
+    "simplified": "当前没有可转让会长的副会长"
+  },
+  {
+    "id": 3119,
+    "simplified": "副会长人数已达上限"
+  },
+  {
+    "id": 3120,
+    "simplified": "确定发起弹劾会长吗？"
+  },
+  {
+    "id": 3121,
+    "simplified": "弹劾会长成功"
+  },
+  {
+    "id": 3122,
+    "simplified": "成员状态已发生变化，请刷新后重试"
+  },
+  {
+    "id": 3123,
+    "simplified": "你没有执行此操作的权限"
+  },
+  {
+    "id": 3124,
+    "simplified": "无法对自己执行此操作"
+  },
+  {
+    "id": 3125,
+    "simplified": "无法对同级或更高职位成员执行此操作"
+  },
+  {
+    "id": 3126,
+    "simplified": "会长尚未达到可弹劾的离线天数"
+  },
+  {
+    "id": 3127,
+    "simplified": "转让会长"
+  },
+  {
+    "id": 3128,
+    "simplified": "升职"
+  },
+  {
+    "id": 3129,
+    "simplified": "降职"
+  },
+  {
+    "id": 3130,
+    "simplified": "您确定要退出公会吗？"
+  },
+  {
+    "id": 3131,
+    "simplified": "已退出公会"
+  },
+  {
+    "id": 3132,
+    "simplified": "您确定要解散公会吗？"
+  },
+  {
+    "id": 3133,
+    "simplified": "公会已解散"
+  },
+  {
+    "id": 3134,
+    "simplified": "您已不在公会"
+  },
+  {
+    "id": 3135,
+    "simplified": "您已被请离了公会"
+  },
+  {
+    "id": 3136,
+    "simplified": "您所在的公会已被解散"
+  },
+  {
+    "id": 3137,
+    "simplified": "公会信息已更新，请重新进入"
+  },
+  {
+    "id": 3140,
+    "simplified": "最近{0}天的成员变动信息（最多{1}条）"
+  },
+  {
+    "id": 3141,
+    "simplified": "暂无成员变动信息"
+  },
+  {
+    "id": 3142,
+    "simplified": "成员资料暂未加载完成"
+  },
+  {
+    "id": 3143,
+    "simplified": "成员信息已更新，请重新选择"
+  },
+  {
+    "id": 3144,
+    "simplified": "暂无公会成员"
+  },
+  {
+    "id": 3150,
+    "simplified": "暂无公会内部公告"
+  },
+  {
+    "id": 3151,
+    "simplified": "公会信息加载中"
+  },
+  {
+    "id": 3152,
+    "simplified": "公会信息暂时无法加载"
+  },
+  {
+    "id": 3153,
+    "simplified": "公会内部公告已被其他管理员修改，是否用当前内容继续修改？"
+  },
+  {
+    "id": 3154,
+    "simplified": "弹劾会长"
+  },
+  {
+    "id": 3209,
+    "simplified": "今日入会申请次数已达上限，请明日再试！"
+  },
+  {
+    "id": 3210,
+    "simplified": "该公会当前无法申请加入！"
+  },
+  {
+    "id": 3211,
+    "simplified": "当前处于重新加入公会的冷却时间内，请稍后再试。"
+  },
+  {
+    "id": 3212,
+    "simplified": "已申请该公会，请勿重复提交。"
+  },
+  {
+    "id": 3213,
+    "simplified": "搜索过于频繁，请稍后再试。"
+  }
+]

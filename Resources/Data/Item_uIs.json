@@ -1,0 +1,161 @@
+[
+  {
+    "menuSubType": {
+      "value": 13,
+      "name": "ItemUIMenuSubType_All"
+    },
+    "filterNameID": 3000,
+    "itemTypes": [
+      {
+        "value": 28,
+        "name": "ItemType_Chest"
+      },
+      {
+        "value": 27,
+        "name": "ItemType_Common"
+      },
+      {
+        "value": 21,
+        "name": "ItemType_Activity"
+      },
+      {
+        "value": 29,
+        "name": "ItemType_Coupons"
+      },
+      {
+        "value": 16,
+        "name": "ItemType_Gift"
+      },
+      {
+        "value": 17,
+        "name": "ItemType_Material"
+      },
+      {
+        "value": 9,
+        "name": "ItemType_AccountHeadShot"
+      },
+      {
+        "value": 10,
+        "name": "ItemType_AccountBackground"
+      },
+      {
+        "value": 11,
+        "name": "ItemType_Dice"
+      },
+      {
+        "value": 14,
+        "name": "ItemType_CardBack"
+      },
+      {
+        "value": 22,
+        "name": "ItemType_Effect"
+      },
+      {
+        "value": 32,
+        "name": "ItemType_KV"
+      }
+    ]
+  },
+  {
+    "menuSubType": {
+      "value": 11,
+      "name": "ItemUIMenuSubType_Chest"
+    },
+    "filterNameID": 3001,
+    "itemTypes": [
+      {
+        "value": 28,
+        "name": "ItemType_Chest"
+      }
+    ]
+  },
+  {
+    "menuSubType": {
+      "value": 12,
+      "name": "ItemUIMenuSubType_Common"
+    },
+    "filterNameID": 3002,
+    "itemTypes": [
+      {
+        "value": 27,
+        "name": "ItemType_Common"
+      }
+    ]
+  },
+  {
+    "menuSubType": {
+      "value": 2,
+      "name": "ItemUIMenuSubType_Activity"
+    },
+    "filterNameID": 3003,
+    "itemTypes": [
+      {
+        "value": 21,
+        "name": "ItemType_Activity"
+      },
+      {
+        "value": 29,
+        "name": "ItemType_Coupons"
+      }
+    ]
+  },
+  {
+    "menuSubType": {
+      "value": 3,
+      "name": "ItemUIMenuSubType_Gift"
+    },
+    "filterNameID": 3101,
+    "itemTypes": [
+      {
+        "value": 16,
+        "name": "ItemType_Gift"
+      }
+    ]
+  },
+  {
+    "menuSubType": {
+      "value": 4,
+      "name": "ItemUIMenuSubType_Material"
+    },
+    "filterNameID": 3102,
+    "itemTypes": [
+      {
+        "value": 17,
+        "name": "ItemType_Material"
+      }
+    ]
+  },
+  {
+    "menuSubType": {
+      "value": 15,
+      "name": "ItemUIMenuSubType_Fashion"
+    },
+    "filterNameID": 3200,
+    "itemTypes": [
+      {
+        "value": 9,
+        "name": "ItemType_AccountHeadShot"
+      },
+      {
+        "value": 10,
+        "name": "ItemType_AccountBackground"
+      },
+      {
+        "value": 11,
+        "name": "ItemType_Dice"
+      },
+      {
+        "value": 14,
+        "name": "ItemType_CardBack"
+      },
+      {
+        "value": 22,
+        "name": "ItemType_Effect"
+      },
+      {
+        "value": 32,
+        "name": "ItemType_KV"
+      }
+    ]
+  }
+]

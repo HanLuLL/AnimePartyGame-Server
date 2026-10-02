@@ -1,0 +1,246 @@
+[
+  {
+    "id": 101,
+    "banner": "UT_Campaign_Level_103",
+    "serialNumber": 1010,
+    "name": 1031,
+    "mapID": 101,
+    "mapModeType": {
+      "value": 6,
+      "name": "MapModeType_CampaignPVE"
+    },
+    "victoryType": {
+      "value": 2,
+      "name": "VictoryType_KillMonster"
+    },
+    "victoryParams": [
+      1,
+      1051
+    ],
+    "victoryDescription": 1032,
+    "bannerVictoryDescription": 1033,
+    "firstPassReward": {
+      "2": 30
+    },
+    "protagonistInitialGold": 10,
+    "initialStar": [
+      0
+    ],
+    "initialGold": [
+      0
+    ],
+    "triggerTips": [
+      10101,
+      10301
+    ],
+    "choosingTimeType": {
+      "value": 3,
+      "name": "ChoosingTimeType_Long"
+    },
+    "heroesLimited": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      115
+    ],
+    "protagonistInitialCard": [
+      21001,
+      20005,
+      21013,
+      10005,
+      10006
+    ],
+    "buffIds": [
+      7000101
+    ]
+  },
+  {
+    "id": 102,
+    "formerID": 101,
+    "banner": "UT_Campaign_Level_103",
+    "serialNumber": 1020,
+    "name": 1031,
+    "mapID": 102,
+    "mapModeType": {
+      "value": 6,
+      "name": "MapModeType_CampaignPVE"
+    },
+    "victoryType": {
+      "value": 2,
+      "name": "VictoryType_KillMonster"
+    },
+    "victoryParams": [
+      1,
+      1060
+    ],
+    "victoryDescription": 1032,
+    "bannerVictoryDescription": 1033,
+    "firstPassReward": {
+      "2": 30
+    },
+    "botHeroIds": [
+      115
+    ],
+    "protagonistInitialGold": 12,
+    "initialStar": [
+      2
+    ],
+    "initialGold": [
+      20
+    ],
+    "choosingTimeType": {
+      "value": 3,
+      "name": "ChoosingTimeType_Long"
+    },
+    "heroesLimited": [
+      101,
+      102,
+      112,
+      118,
+      107,
+      110,
+      123
+    ],
+    "protagonistInitialCard": [
+      20008,
+      21006,
+      21002,
+      21008,
+      21003
+    ],
+    "initialCard": {
+      "115": {
+        "values": [
+          10005,
+          10005,
+          10007,
+          10007,
+          10003
+        ]
+      }
+    },
+    "buffIds": [
+      7000102
+    ]
+  },
+  {
+    "id": 103,
+    "banner": "UT_Campaign_Level_102",
+    "serialNumber": 1030,
+    "name": 1021,
+    "mapID": 103,
+    "mapModeType": {
+      "value": 5,
+      "name": "MapModeType_CampaignPVP"
+    },
+    "victoryType": {
+      "value": 1,
+      "name": "VictoryType_Star"
+    },
+    "victoryParams": [
+      3
+    ],
+    "victoryDescription": 1022,
+    "bannerVictoryDescription": 1023,
+    "firstPassReward": {
+      "2": 30
+    },
+    "botHeroIds": [
+      103,
+      108
+    ],
+    "protagonistInitialStar": 2,
+    "protagonistInitialGold": 25,
+    "initialStar": [
+      0,
+      0
+    ],
+    "initialGold": [
+      30,
+      30
+    ],
+    "triggerTips": [
+      10201,
+      10202
+    ],
+    "choosingTimeType": {
+      "value": 3,
+      "name": "ChoosingTimeType_Long"
+    },
+    "heroesLimited": [
+      101,
+      102,
+      104,
+      105,
+      106,
+      107,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "protagonistInitialCard": [
+      20022,
+      20001,
+      10005,
+      10005
+    ],
+    "buffIds": [
+      7000103
+    ]
+  },
+  {
+    "id": 1001,
+    "banner": "UT_Campaign_Level_1001",
+    "serialNumber": 10010,
+    "name": 10011,
+    "mapModeType": {
+      "value": 10,
+      "name": "MapModeType_PVENovice"
+    },
+    "bannerVictoryDescription": 10013,
+    "initialStar": [
+      0
+    ],
+    "initialGold": [
+      0
+    ],
+    "choosingTimeType": {
+      "value": 3,
+      "name": "ChoosingTimeType_Long"
+    }
+  },
+  {
+    "id": 1002,
+    "banner": "UT_Campaign_Level_103",
+    "serialNumber": 10020,
+    "name": 10021,
+    "mapModeType": {
+      "value": 10,
+      "name": "MapModeType_PVENovice"
+    },
+    "bannerVictoryDescription": 10023,
+    "initialStar": [
+      0
+    ],
+    "initialGold": [
+      0
+    ],
+    "choosingTimeType": {
+      "value": 3,
+      "name": "ChoosingTimeType_Long"
+    }
+  }
+]

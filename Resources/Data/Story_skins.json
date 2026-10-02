@@ -1,0 +1,112 @@
+[
+  {
+    "ID": 107,
+    "basePainting": "UT_Hero_Card_107",
+    "pivot": [
+      248,
+      107
+    ]
+  },
+  {
+    "ID": 1046,
+    "basePainting": "UT_Monster_Card_1046",
+    "pivot": [
+      0,
+      0
+    ]
+  },
+  {
+    "ID": 1047,
+    "basePainting": "UT_Monster_Card_1047",
+    "pivot": [
+      0,
+      0
+    ]
+  },
+  {
+    "ID": 1026,
+    "basePainting": "UT_Monster_Card_1026",
+    "pivot": [
+      248,
+      107
+    ],
+    "emoji1": "Story_Monster_Card_1026_Anger",
+    "emoji2": "Story_Monster_Card_1026_Cry",
+    "emoji3": "Story_Monster_Card_1026_Happy",
+    "emoji4": "Story_Monster_Card_1026_Hate",
+    "emoji5": "Story_Monster_Card_1026_Lost",
+    "emoji6": "Story_Monster_Card_1026_Proud",
+    "emoji7": "Story_Monster_Card_1026_Serious"
+  },
+  {
+    "ID": 1027,
+    "basePainting": "UT_Monster_Card_1027",
+    "sfwPainting": "UT_Monster_Card_1027_sfw",
+    "pivot": [
+      393,
+      98
+    ],
+    "emoji1": "Story_Monster_Card_1027_Angry",
+    "emoji2": "Story_Monster_Card_1027_Grievance",
+    "emoji3": "Story_Monster_Card_1027_Happy",
+    "emoji4": "Story_Monster_Card_1027_Lost",
+    "emoji5": "Story_Monster_Card_1027_Proud",
+    "emoji6": "Story_Monster_Card_1027_Serious",
+    "emoji7": "Story_Monster_Card_1027_Silent"
+  },
+  {
+    "ID": 1048,
+    "basePainting": "UT_Monster_Card_1048",
+    "pivot": [
+      567,
+      131
+    ],
+    "emoji1": "Story_Monster_Card_1048_Pain",
+    "emoji2": "Story_Monster_Card_1048_Shock",
+    "emoji3": "Story_Monster_Card_1048_Confusion",
+    "emoji4": "Story_Monster_Card_1048_Embarrass",
+    "emoji5": "Story_Monster_Card_1048_Smile"
+  },
+  {
+    "ID": 1050,
+    "basePainting": "UT_Monster_Card_1050",
+    "pivot": [
+      325,
+      0
+    ],
+    "emoji1": "Story_Monster_Card_1050_Cry",
+    "emoji2": "Story_Monster_Card_1050_Lost",
+    "emoji3": "Story_Monster_Card_1050_Shock",
+    "emoji4": "Story_Monster_Card_1050_Angry"
+  },
+  {
+    "ID": 1053,
+    "basePainting": "Story_Monster_Card_1053",
+    "pivot": [
+      719,
+      454
+    ],
+    "emoji1": "Story_Monster_Card_1053_Embarrass",
+    "emoji2": "Story_Monster_Card_1053_EvilSmile",
+    "emoji3": "Story_Monster_Card_1053_LookLow",
+    "emoji4": "Story_Monster_Card_1053_NoPeople",
+    "emoji5": "Story_Monster_Card_1053_Pain",
+    "emoji6": "Story_Monster_Card_1053_Shock",
+    "emoji7": "Story_Monster_Card_1053_Smile"
+  },
+  {
+    "ID": 1001230040,
+    "basePainting": "UT_Hero_Story_123_02",
+    "pivot": [
+      477,
+      222
+    ],
+    "emoji1": "Story_Monster_Hero_12302_Ahhh",
+    "emoji2": "Story_Monster_Hero_12302_Angry",
+    "emoji3": "Story_Monster_Hero_12302_chi",
+    "emoji4": "Story_Monster_Hero_12302_Embarrass",
+    "emoji5": "Story_Monster_Hero_12302_Kuso",
+    "emoji6": "Story_Monster_Hero_12302_mumumu",
+    "emoji7": "Story_Monster_Hero_12302_Smile"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 101,
+    "orderWeight": 1,
+    "taskRefreshType": {
+      "value": 1,
+      "name": "TaskRefreshType_Daily"
+    },
+    "guildMissionType": {
+      "value": 1,
+      "name": "GuildMissionType_Personal"
+    },
+    "missionConditionType": {
+      "value": 6,
+      "name": "MissionConditionType_DailyLogin"
+    },
+    "paramProgress": 1,
+    "nameID": 1010,
+    "descId": 1011,
+    "reward": {
+      "1000065": 15
+    }
+  },
+  {
+    "id": 102,
+    "orderWeight": 2,
+    "taskRefreshType": {
+      "value": 2,
+      "name": "TaskRefreshType_Weekly"
+    },
+    "guildMissionType": {
+      "value": 1,
+      "name": "GuildMissionType_Personal"
+    },
+    "missionConditionType": {
+      "value": 60,
+      "name": "MissionConditionType_Total_GuildMember_CompleteParty_Times"
+    },
+    "paramProgress": 1,
+    "nameID": 1020,
+    "descId": 1021,
+    "reward": {
+      "1000065": 45
+    }
+  },
+  {
+    "id": 103,
+    "orderWeight": 3,
+    "taskRefreshType": {
+      "value": 2,
+      "name": "TaskRefreshType_Weekly"
+    },
+    "guildMissionType": {
+      "value": 1,
+      "name": "GuildMissionType_Personal"
+    },
+    "missionConditionType": {
+      "value": 60,
+      "name": "MissionConditionType_Total_GuildMember_CompleteParty_Times"
+    },
+    "paramProgress": 3,
+    "nameID": 1020,
+    "descId": 1021,
+    "reward": {
+      "1000065": 50
+    }
+  },
+  {
+    "id": 201,
+    "orderWeight": 4,
+    "taskRefreshType": {
+      "value": 2,
+      "name": "TaskRefreshType_Weekly"
+    },
+    "guildMissionType": {
+      "value": 2,
+      "name": "GuildMissionType_Guild"
+    },
+    "missionConditionType": {
+      "value": 61,
+      "name": "MissionConditionType_Total_GuildMember_Sign_Count"
+    },
+    "paramProgress": 10,
+    "nameID": 2010,
+    "descId": 2011,
+    "reward": {
+      "1000065": 100
+    }
+  },
+  {
+    "id": 202,
+    "orderWeight": 5,
+    "taskRefreshType": {
+      "value": 2,
+      "name": "TaskRefreshType_Weekly"
+    },
+    "guildMissionType": {
+      "value": 2,
+      "name": "GuildMissionType_Guild"
+    },
+    "missionConditionType": {
+      "value": 61,
+      "name": "MissionConditionType_Total_GuildMember_Sign_Count"
+    },
+    "paramProgress": 20,
+    "nameID": 2010,
+    "descId": 2011,
+    "reward": {
+      "1000065": 200
+    }
+  },
+  {
+    "id": 203,
+    "orderWeight": 6,
+    "taskRefreshType": {
+      "value": 2,
+      "name": "TaskRefreshType_Weekly"
+    },
+    "guildMissionType": {
+      "value": 2,
+      "name": "GuildMissionType_Guild"
+    },
+    "missionConditionType": {
+      "value": 61,
+      "name": "MissionConditionType_Total_GuildMember_Sign_Count"
+    },
+    "paramProgress": 30,
+    "nameID": 2010,
+    "descId": 2011,
+    "reward": {
+      "1000065": 300
+    }
+  },
+  {
+    "id": 204,
+    "orderWeight": 7,
+    "taskRefreshType": {
+      "value": 2,
+      "name": "TaskRefreshType_Weekly"
+    },
+    "guildMissionType": {
+      "value": 2,
+      "name": "GuildMissionType_Guild"
+    },
+    "missionConditionType": {
+      "value": 61,
+      "name": "MissionConditionType_Total_GuildMember_Sign_Count"
+    },
+    "paramProgress": 40,
+    "nameID": 2010,
+    "descId": 2011,
+    "reward": {
+      "1000065": 100
+    }
+  },
+  {
+    "id": 205,
+    "orderWeight": 8,
+    "taskRefreshType": {
+      "value": 2,
+      "name": "TaskRefreshType_Weekly"
+    },
+    "guildMissionType": {
+      "value": 2,
+      "name": "GuildMissionType_Guild"
+    },
+    "missionConditionType": {
+      "value": 61,
+      "name": "MissionConditionType_Total_GuildMember_Sign_Count"
+    },
+    "paramProgress": 50,
+    "nameID": 2010,
+    "descId": 2011,
+    "reward": {
+      "1000065": 100
+    }
+  }
+]

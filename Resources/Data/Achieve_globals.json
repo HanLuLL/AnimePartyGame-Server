@@ -1,0 +1,2023 @@
+[
+  {
+    "id": 100,
+    "conditionType": {
+      "value": 2,
+      "name": "ConditionType_Total_KillCount"
+    },
+    "param": 1,
+    "icon": 100,
+    "nameID": 10000,
+    "descId": 10001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 101,
+    "conditionType": {
+      "value": 2,
+      "name": "ConditionType_Total_KillCount"
+    },
+    "param": 10,
+    "icon": 101,
+    "nameID": 10100,
+    "descId": 10101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 102,
+    "conditionType": {
+      "value": 2,
+      "name": "ConditionType_Total_KillCount"
+    },
+    "param": 100,
+    "icon": 102,
+    "nameID": 10200,
+    "descId": 10201,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 103,
+    "conditionType": {
+      "value": 2,
+      "name": "ConditionType_Total_KillCount"
+    },
+    "param": 999,
+    "icon": 103,
+    "nameID": 10300,
+    "descId": 10301,
+    "reward": {
+      "70905": 1
+    }
+  },
+  {
+    "id": 200,
+    "conditionType": {
+      "value": 3,
+      "name": "ConditionType_Total_DirectDamage"
+    },
+    "param": 100,
+    "icon": 200,
+    "nameID": 20000,
+    "descId": 20001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 201,
+    "conditionType": {
+      "value": 3,
+      "name": "ConditionType_Total_DirectDamage"
+    },
+    "param": 1000,
+    "icon": 201,
+    "nameID": 20100,
+    "descId": 20101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 202,
+    "conditionType": {
+      "value": 3,
+      "name": "ConditionType_Total_DirectDamage"
+    },
+    "param": 3000,
+    "icon": 202,
+    "nameID": 20200,
+    "descId": 20201,
+    "reward": {
+      "70913": 1
+    }
+  },
+  {
+    "id": 300,
+    "conditionType": {
+      "value": 4,
+      "name": "ConditionType_Total_DieCount"
+    },
+    "param": 10,
+    "icon": 300,
+    "nameID": 30000,
+    "descId": 30001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 301,
+    "conditionType": {
+      "value": 4,
+      "name": "ConditionType_Total_DieCount"
+    },
+    "param": 100,
+    "icon": 301,
+    "nameID": 30100,
+    "descId": 30101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 302,
+    "conditionType": {
+      "value": 4,
+      "name": "ConditionType_Total_DieCount"
+    },
+    "param": 300,
+    "icon": 302,
+    "nameID": 30200,
+    "descId": 30201,
+    "reward": {
+      "70903": 1
+    }
+  },
+  {
+    "id": 400,
+    "conditionType": {
+      "value": 5,
+      "name": "ConditionType_Total_Injured"
+    },
+    "param": 100,
+    "icon": 400,
+    "nameID": 40000,
+    "descId": 40001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 401,
+    "conditionType": {
+      "value": 5,
+      "name": "ConditionType_Total_Injured"
+    },
+    "param": 1000,
+    "icon": 401,
+    "nameID": 40100,
+    "descId": 40101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 402,
+    "conditionType": {
+      "value": 5,
+      "name": "ConditionType_Total_Injured"
+    },
+    "param": 3000,
+    "icon": 402,
+    "nameID": 40200,
+    "descId": 40201,
+    "reward": {
+      "70902": 1
+    }
+  },
+  {
+    "id": 500,
+    "conditionType": {
+      "value": 6,
+      "name": "ConditionType_Total_TrappedCount"
+    },
+    "param": 1,
+    "icon": 500,
+    "nameID": 50000,
+    "descId": 50001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 501,
+    "conditionType": {
+      "value": 6,
+      "name": "ConditionType_Total_TrappedCount"
+    },
+    "param": 10,
+    "icon": 501,
+    "nameID": 50100,
+    "descId": 50101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 502,
+    "conditionType": {
+      "value": 6,
+      "name": "ConditionType_Total_TrappedCount"
+    },
+    "param": 50,
+    "icon": 502,
+    "nameID": 50200,
+    "descId": 50201,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 600,
+    "conditionType": {
+      "value": 7,
+      "name": "ConditionType_Total_SetTrapCount"
+    },
+    "param": 1,
+    "icon": 600,
+    "nameID": 60000,
+    "descId": 60001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 601,
+    "conditionType": {
+      "value": 7,
+      "name": "ConditionType_Total_SetTrapCount"
+    },
+    "param": 10,
+    "icon": 601,
+    "nameID": 60100,
+    "descId": 60101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 700,
+    "conditionType": {
+      "value": 8,
+      "name": "ConditionType_Total_SetBarricadeCount"
+    },
+    "param": 1,
+    "icon": 700,
+    "nameID": 70000,
+    "descId": 70001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 701,
+    "conditionType": {
+      "value": 8,
+      "name": "ConditionType_Total_SetBarricadeCount"
+    },
+    "param": 10,
+    "icon": 701,
+    "nameID": 70100,
+    "descId": 70101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 800,
+    "conditionType": {
+      "value": 9,
+      "name": "ConditionType_Total_SufferThunderCount"
+    },
+    "param": 1,
+    "icon": 800,
+    "nameID": 80000,
+    "descId": 80001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 900,
+    "conditionType": {
+      "value": 10,
+      "name": "ConditionType_Total_HospitalizedCount"
+    },
+    "param": 1,
+    "icon": 900,
+    "nameID": 90000,
+    "descId": 90001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 901,
+    "conditionType": {
+      "value": 10,
+      "name": "ConditionType_Total_HospitalizedCount"
+    },
+    "param": 10,
+    "icon": 901,
+    "nameID": 90100,
+    "descId": 90101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 902,
+    "conditionType": {
+      "value": 10,
+      "name": "ConditionType_Total_HospitalizedCount"
+    },
+    "param": 30,
+    "icon": 902,
+    "nameID": 90200,
+    "descId": 90201,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1000,
+    "conditionType": {
+      "value": 11,
+      "name": "ConditionType_Total_WinLotteryCount"
+    },
+    "param": 1,
+    "icon": 1000,
+    "nameID": 100000,
+    "descId": 100001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1001,
+    "conditionType": {
+      "value": 11,
+      "name": "ConditionType_Total_WinLotteryCount"
+    },
+    "param": 10,
+    "icon": 1001,
+    "nameID": 100100,
+    "descId": 100101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1002,
+    "conditionType": {
+      "value": 11,
+      "name": "ConditionType_Total_WinLotteryCount"
+    },
+    "param": 30,
+    "icon": 1002,
+    "nameID": 100200,
+    "descId": 100201,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1100,
+    "conditionType": {
+      "value": 12,
+      "name": "ConditionType_Total_KillBossCount"
+    },
+    "param": 1,
+    "icon": 1100,
+    "nameID": 110000,
+    "descId": 110001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1200,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 1,
+    "icon": 1200,
+    "nameID": 120000,
+    "descId": 120001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1201,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 10,
+    "icon": 1201,
+    "nameID": 120100,
+    "descId": 120101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1202,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 100,
+    "icon": 1202,
+    "nameID": 120200,
+    "descId": 120201,
+    "reward": {
+      "70907": 1
+    }
+  },
+  {
+    "id": 1300,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 10,
+    "icon": 1300,
+    "nameID": 130000,
+    "descId": 130001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1301,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 100,
+    "icon": 1301,
+    "nameID": 130100,
+    "descId": 130101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1302,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 365,
+    "icon": 1302,
+    "nameID": 130200,
+    "descId": 130201,
+    "reward": {
+      "70908": 1
+    }
+  },
+  {
+    "id": 1400,
+    "conditionType": {
+      "value": 15,
+      "name": "ConditionType_Total_LoginDays"
+    },
+    "param": 90,
+    "icon": 1400,
+    "nameID": 140000,
+    "descId": 140001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 1701,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 101,
+    "icon": 1701,
+    "nameID": 170100,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1702,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 102,
+    "icon": 1702,
+    "nameID": 170200,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1703,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 103,
+    "icon": 1703,
+    "nameID": 170300,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1704,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 104,
+    "icon": 1704,
+    "nameID": 170400,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1705,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 105,
+    "icon": 1705,
+    "nameID": 170500,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1706,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 106,
+    "icon": 1706,
+    "nameID": 170600,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1707,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 107,
+    "icon": 1707,
+    "nameID": 170700,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1708,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 108,
+    "icon": 1708,
+    "nameID": 170800,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1709,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 109,
+    "icon": 1709,
+    "nameID": 170900,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1710,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 110,
+    "icon": 1710,
+    "nameID": 171000,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1711,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 111,
+    "icon": 1711,
+    "nameID": 171100,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1712,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 112,
+    "icon": 1712,
+    "nameID": 171200,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1713,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 113,
+    "icon": 1713,
+    "nameID": 171300,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1714,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 114,
+    "icon": 1714,
+    "nameID": 171400,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1715,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 115,
+    "icon": 1715,
+    "nameID": 171500,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1716,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 116,
+    "icon": 1716,
+    "nameID": 171600,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1717,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 117,
+    "icon": 1717,
+    "nameID": 171700,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1718,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 118,
+    "icon": 1718,
+    "nameID": 171800,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1719,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 119,
+    "icon": 1719,
+    "nameID": 171900,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1720,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 120,
+    "icon": 1720,
+    "nameID": 172000,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1721,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 121,
+    "icon": 1721,
+    "nameID": 172100,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1722,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 122,
+    "icon": 1722,
+    "nameID": 172200,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1723,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 123,
+    "icon": 1723,
+    "nameID": 172300,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1724,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 124,
+    "icon": 1724,
+    "nameID": 172400,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1725,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 125,
+    "icon": 1725,
+    "nameID": 172500,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1726,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 126,
+    "icon": 1726,
+    "nameID": 172600,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1727,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 127,
+    "icon": 1727,
+    "nameID": 172700,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1728,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 128,
+    "icon": 1728,
+    "nameID": 172800,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1729,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 129,
+    "icon": 1729,
+    "nameID": 172900,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1794,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 305,
+    "icon": 1794,
+    "nameID": 179400,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1795,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 306,
+    "icon": 1795,
+    "nameID": 179500,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1796,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 303,
+    "icon": 1796,
+    "nameID": 179600,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1797,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 304,
+    "icon": 1797,
+    "nameID": 179700,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1798,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 301,
+    "icon": 1798,
+    "nameID": 179800,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1799,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 50,
+    "ref": 302,
+    "icon": 1799,
+    "nameID": 179900,
+    "descId": 170101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1801,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 101,
+    "icon": 1801,
+    "nameID": 180100,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1802,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 102,
+    "icon": 1802,
+    "nameID": 180200,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1803,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 103,
+    "icon": 1803,
+    "nameID": 180300,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1804,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 104,
+    "icon": 1804,
+    "nameID": 180400,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1805,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 105,
+    "icon": 1805,
+    "nameID": 180500,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1806,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 106,
+    "icon": 1806,
+    "nameID": 180600,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1807,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 107,
+    "icon": 1807,
+    "nameID": 180700,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1808,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 108,
+    "icon": 1808,
+    "nameID": 180800,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1809,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 109,
+    "icon": 1809,
+    "nameID": 180900,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1810,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 110,
+    "icon": 1810,
+    "nameID": 181000,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1811,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 111,
+    "icon": 1811,
+    "nameID": 181100,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1812,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 112,
+    "icon": 1812,
+    "nameID": 181200,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1813,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 113,
+    "icon": 1813,
+    "nameID": 181300,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1814,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 114,
+    "icon": 1814,
+    "nameID": 181400,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1815,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 115,
+    "icon": 1815,
+    "nameID": 181500,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1816,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 116,
+    "icon": 1816,
+    "nameID": 181600,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1817,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 117,
+    "icon": 1817,
+    "nameID": 181700,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1818,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 118,
+    "icon": 1818,
+    "nameID": 181800,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1819,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 119,
+    "icon": 1819,
+    "nameID": 181900,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1820,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 120,
+    "icon": 1820,
+    "nameID": 182000,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1821,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 121,
+    "icon": 1821,
+    "nameID": 182100,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1822,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 122,
+    "icon": 1822,
+    "nameID": 182200,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1823,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 123,
+    "icon": 1823,
+    "nameID": 182300,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1824,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 124,
+    "icon": 1824,
+    "nameID": 182400,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1825,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 125,
+    "icon": 1825,
+    "nameID": 182500,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1826,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 126,
+    "icon": 1826,
+    "nameID": 182600,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1827,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 127,
+    "icon": 1827,
+    "nameID": 182700,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1828,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 128,
+    "icon": 1828,
+    "nameID": 182800,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1829,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 129,
+    "icon": 1829,
+    "nameID": 182900,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1894,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 30,
+    "ref": 305,
+    "icon": 1894,
+    "nameID": 189400,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1895,
+    "conditionType": {
+      "value": 17,
+      "name": "ConditionType_Total_Character_Done"
+    },
+    "param": 30,
+    "ref": 306,
+    "icon": 1895,
+    "nameID": 189500,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1896,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 303,
+    "icon": 1896,
+    "nameID": 189600,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1897,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 304,
+    "icon": 1897,
+    "nameID": 189700,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1898,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 301,
+    "icon": 1898,
+    "nameID": 189800,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1899,
+    "conditionType": {
+      "value": 18,
+      "name": "ConditionType_Total_Character_Win"
+    },
+    "param": 30,
+    "ref": 302,
+    "icon": 1899,
+    "nameID": 189900,
+    "descId": 180101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 1901,
+    "conditionType": {
+      "value": 19,
+      "name": "ConditionType_Total_KillThiefCount"
+    },
+    "param": 100,
+    "icon": 1901,
+    "nameID": 190100,
+    "descId": 190101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 2000,
+    "conditionType": {
+      "value": 20,
+      "name": "ConditionType_Total_EatDumplingCount"
+    },
+    "param": 60,
+    "icon": 2000,
+    "nameID": 200000,
+    "descId": 200001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 2100,
+    "conditionType": {
+      "value": 21,
+      "name": "ConditionType_Total_AvoidTrainGames"
+    },
+    "param": 10,
+    "icon": 2100,
+    "nameID": 210000,
+    "descId": 210001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 2200,
+    "conditionType": {
+      "value": 22,
+      "name": "ConditionType_Total_GetThumbsUP"
+    },
+    "param": 300,
+    "icon": 2200,
+    "nameID": 220000,
+    "descId": 220001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 2201,
+    "conditionType": {
+      "value": 22,
+      "name": "ConditionType_Total_GetThumbsUP"
+    },
+    "param": 1000,
+    "icon": 2201,
+    "nameID": 220100,
+    "descId": 220101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 2701,
+    "conditionType": {
+      "value": 29,
+      "name": "ConditionType_Total_WinGameCount_PVE_Any"
+    },
+    "param": 1,
+    "icon": 2701,
+    "nameID": 270100,
+    "descId": 270101,
+    "reward": {
+      "1": 77
+    }
+  },
+  {
+    "id": 2702,
+    "conditionType": {
+      "value": 27,
+      "name": "ConditionType_Total_WinGameCount_PVE"
+    },
+    "param": 1,
+    "ref": 1,
+    "icon": 2702,
+    "nameID": 270200,
+    "descId": 270201,
+    "reward": {
+      "1": 88
+    }
+  },
+  {
+    "id": 2703,
+    "conditionType": {
+      "value": 27,
+      "name": "ConditionType_Total_WinGameCount_PVE"
+    },
+    "param": 1,
+    "ref": 2,
+    "icon": 2703,
+    "nameID": 270300,
+    "descId": 270301,
+    "reward": {
+      "1": 99
+    }
+  },
+  {
+    "id": 2704,
+    "conditionType": {
+      "value": 27,
+      "name": "ConditionType_Total_WinGameCount_PVE"
+    },
+    "param": 1,
+    "ref": 3,
+    "icon": 2704,
+    "nameID": 270400,
+    "descId": 270401,
+    "reward": {
+      "70996": 1
+    }
+  },
+  {
+    "id": 3201,
+    "conditionType": {
+      "value": 32,
+      "name": "ConditionType_Total_SinkAllOpponents_Times"
+    },
+    "param": 1,
+    "icon": 3201,
+    "nameID": 320100,
+    "descId": 320101,
+    "reward": {
+      "71051": 1
+    }
+  },
+  {
+    "id": 10401,
+    "conditionType": {
+      "value": 104,
+      "name": "ConditionType_SingleMax_Progress15Win_PVE"
+    },
+    "param": 1,
+    "ref": 2,
+    "icon": 10401,
+    "nameID": 1040100,
+    "descId": 1040101,
+    "reward": {
+      "70031": 1
+    }
+  },
+  {
+    "id": 10501,
+    "conditionType": {
+      "value": 105,
+      "name": "ConditionType_SingleMax_NoDieWin_PVE"
+    },
+    "param": 1,
+    "ref": 2,
+    "icon": 10501,
+    "nameID": 1050100,
+    "descId": 1050101,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 10000,
+    "conditionType": {
+      "value": 100,
+      "name": "ConditionType_SingleMax_KillCount"
+    },
+    "param": 5,
+    "icon": 10000,
+    "nameID": 1000000,
+    "descId": 1000001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 10001,
+    "conditionType": {
+      "value": 100,
+      "name": "ConditionType_SingleMax_KillCount"
+    },
+    "param": 10,
+    "icon": 10001,
+    "nameID": 1000100,
+    "descId": 1000101,
+    "reward": {
+      "70904": 1
+    }
+  },
+  {
+    "id": 10100,
+    "conditionType": {
+      "value": 101,
+      "name": "ConditionType_SingleMax_PkDamage"
+    },
+    "param": 15,
+    "icon": 10100,
+    "nameID": 1010000,
+    "descId": 1010001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 10101,
+    "conditionType": {
+      "value": 101,
+      "name": "ConditionType_SingleMax_PkDamage"
+    },
+    "param": 20,
+    "icon": 10101,
+    "nameID": 1010100,
+    "descId": 1010101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 10102,
+    "conditionType": {
+      "value": 101,
+      "name": "ConditionType_SingleMax_PkDamage"
+    },
+    "param": 25,
+    "icon": 10102,
+    "nameID": 1010200,
+    "descId": 1010201,
+    "reward": {
+      "70906": 1
+    }
+  },
+  {
+    "id": 10200,
+    "conditionType": {
+      "value": 102,
+      "name": "ConditionType_SingleMax_TotalGetGoldNum"
+    },
+    "param": 100,
+    "icon": 10200,
+    "nameID": 1020000,
+    "descId": 1020001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 10300,
+    "conditionType": {
+      "value": 103,
+      "name": "ConditionType_SingleMax_EatDumplingToHospitalCount"
+    },
+    "param": 3,
+    "icon": 10300,
+    "nameID": 1030000,
+    "descId": 1030001,
+    "reward": {
+      "90001": 1
+    }
+  },
+  {
+    "id": 20000,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "param": 10,
+    "icon": 20000,
+    "nameID": 2000000,
+    "descId": 2000001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20001,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "param": 30,
+    "icon": 20001,
+    "nameID": 2000100,
+    "descId": 2000101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20002,
+    "conditionType": {
+      "value": 300,
+      "name": "ConditionType_Nurturance_PlayerLevel"
+    },
+    "param": 50,
+    "icon": 20002,
+    "nameID": 2000200,
+    "descId": 2000201,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20100,
+    "conditionType": {
+      "value": 301,
+      "name": "ConditionType_Nurturance_RoleCount"
+    },
+    "param": 5,
+    "icon": 20100,
+    "nameID": 2010000,
+    "descId": 2010001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20101,
+    "conditionType": {
+      "value": 301,
+      "name": "ConditionType_Nurturance_RoleCount"
+    },
+    "param": 10,
+    "icon": 20101,
+    "nameID": 2010100,
+    "descId": 2010101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20200,
+    "conditionType": {
+      "value": 302,
+      "name": "ConditionType_Nurturance_FavorBreakthroughCount"
+    },
+    "param": 1,
+    "icon": 20200,
+    "nameID": 2020000,
+    "descId": 2020001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20201,
+    "conditionType": {
+      "value": 302,
+      "name": "ConditionType_Nurturance_FavorBreakthroughCount"
+    },
+    "param": 2,
+    "icon": 20201,
+    "nameID": 2020100,
+    "descId": 2020101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20202,
+    "conditionType": {
+      "value": 302,
+      "name": "ConditionType_Nurturance_FavorBreakthroughCount"
+    },
+    "param": 3,
+    "icon": 20202,
+    "nameID": 2020200,
+    "descId": 2020201,
+    "reward": {
+      "70912": 1
+    }
+  },
+  {
+    "id": 20203,
+    "conditionType": {
+      "value": 302,
+      "name": "ConditionType_Nurturance_FavorBreakthroughCount"
+    },
+    "param": 4,
+    "icon": 20203,
+    "nameID": 2020300,
+    "descId": 2020301,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20204,
+    "conditionType": {
+      "value": 302,
+      "name": "ConditionType_Nurturance_FavorBreakthroughCount"
+    },
+    "param": 5,
+    "icon": 20204,
+    "nameID": 2020400,
+    "descId": 2020401,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20300,
+    "conditionType": {
+      "value": 303,
+      "name": "ConditionType_Nurturance_DiceCount"
+    },
+    "param": 3,
+    "icon": 20300,
+    "nameID": 2030000,
+    "descId": 2030001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20301,
+    "conditionType": {
+      "value": 303,
+      "name": "ConditionType_Nurturance_DiceCount"
+    },
+    "param": 5,
+    "icon": 20301,
+    "nameID": 2030100,
+    "descId": 2030101,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20302,
+    "conditionType": {
+      "value": 303,
+      "name": "ConditionType_Nurturance_DiceCount"
+    },
+    "param": 10,
+    "icon": 20302,
+    "nameID": 2030200,
+    "descId": 2030201,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20400,
+    "conditionType": {
+      "value": 304,
+      "name": "ConditionType_Total_FriendsCount"
+    },
+    "param": 1,
+    "icon": 20400,
+    "nameID": 2040000,
+    "descId": 2040001,
+    "reward": {
+      "2": 60
+    }
+  },
+  {
+    "id": 20401,
+    "conditionType": {
+      "value": 320,
+      "name": "ConditionType_JoinGuild"
+    },
+    "param": 1,
+    "icon": 20400,
+    "nameID": 2040100,
+    "descId": 2040101,
+    "reward": {
+      "2": 60
+    }
+  }
+]

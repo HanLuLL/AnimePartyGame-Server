@@ -1,0 +1,10 @@
+http://{$PUBLIC_IP} {
+	@acme path /.well-known/acme-challenge/*
+	handle @acme {
+		root * {$ACME_WEBROOT}
+		file_server
+	}
+	handle {
+		respond "ACME challenge endpoint only" 404
+	}
+}

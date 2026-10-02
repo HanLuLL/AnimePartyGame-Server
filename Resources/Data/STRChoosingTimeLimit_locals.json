@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "simplified": "短"
+  },
+  {
+    "id": 2,
+    "simplified": "中"
+  },
+  {
+    "id": 3,
+    "simplified": "长"
+  },
+  {
+    "id": 11,
+    "simplified": "普通"
+  },
+  {
+    "id": 12,
+    "simplified": "快速"
+  },
+  {
+    "id": 21,
+    "simplified": "普通"
+  },
+  {
+    "id": 22,
+    "simplified": "困难"
+  },
+  {
+    "id": 23,
+    "simplified": "噩梦"
+  },
+  {
+    "id": 24,
+    "simplified": "疯狂"
+  },
+  {
+    "id": 25,
+    "simplified": "极限"
+  },
+  {
+    "id": 26,
+    "simplified": "不跳过"
+  },
+  {
+    "id": 27,
+    "simplified": "跳过"
+  },
+  {
+    "id": 31,
+    "simplified": "无标签"
+  },
+  {
+    "id": 32,
+    "simplified": "完成任务"
+  },
+  {
+    "id": 33,
+    "simplified": "快速通关"
+  },
+  {
+    "id": 34,
+    "simplified": "新手局"
+  },
+  {
+    "id": 35,
+    "simplified": "高端局"
+  },
+  {
+    "id": 41,
+    "simplified": "简单"
+  },
+  {
+    "id": 42,
+    "simplified": "普通"
+  },
+  {
+    "id": 43,
+    "simplified": "困难"
+  },
+  {
+    "id": 101,
+    "simplified": "游玩地图"
+  },
+  {
+    "id": 102,
+    "simplified": "思考时间"
+  },
+  {
+    "id": 103,
+    "simplified": "升级所需星币"
+  },
+  {
+    "id": 104,
+    "simplified": "难度"
+  },
+  {
+    "id": 105,
+    "simplified": "游戏速度"
+  },
+  {
+    "id": 106,
+    "simplified": "跳过剧情"
+  },
+  {
+    "id": 107,
+    "simplified": "房间标签"
+  },
+  {
+    "id": 108,
+    "simplified": "房间ID："
+  },
+  {
+    "id": 210,
+    "simplified": "学习规则吧"
+  },
+  {
+    "id": 211,
+    "simplified": "千里之行，始于足下"
+  },
+  {
+    "id": 220,
+    "simplified": "想流点汗"
+  },
+  {
+    "id": 221,
+    "simplified": "建议合作挑战等级>1"
+  },
+  {
+    "id": 230,
+    "simplified": "挑战自己的技术"
+  },
+  {
+    "id": 231,
+    "simplified": "建议合作挑战等级>2"
+  },
+  {
+    "id": 240,
+    "simplified": "我们是王牌小队"
+  },
+  {
+    "id": 241,
+    "simplified": "<img src='ui://xuaw6o8jns7xat' width='30' height='30'/>建议合作挑战等级>3"
+  },
+  {
+    "id": 250,
+    "simplified": "努力地生存下去吧"
+  },
+  {
+    "id": 251,
+    "simplified": "<img src='ui://xuaw6o8jns7xat' width='40' height='40'/>建议合作挑战等级>5"
+  }
+]

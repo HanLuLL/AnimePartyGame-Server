@@ -1,0 +1,28 @@
+[
+  {
+    "id": 202607,
+    "entrance": "UT_Collaboration_202607_Entrance",
+    "background": "UT_SkinSell_202607",
+    "entranceTitle": 2026070,
+    "skinSellInfoConfigureItems": [
+      {
+        "id": 91123,
+        "originalPrice": 333,
+        "discountPrice": 249,
+        "itemID": 100120006
+      },
+      {
+        "id": 91124,
+        "originalPrice": 666,
+        "discountPrice": 499,
+        "itemID": 100128003
+      },
+      {
+        "id": 91020,
+        "originalPrice": 666,
+        "discountPrice": 499,
+        "itemID": 100107003
+      }
+    ]
+  }
+]

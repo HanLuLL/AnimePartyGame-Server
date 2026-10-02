@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "inviteTaskIDs": [
+      2601,
+      2602,
+      2603,
+      2604,
+      2605
+    ],
+    "captchaValidLv": 10,
+    "reward": {
+      "2": 150
+    },
+    "invitedTaskIDs": [
+      2606,
+      2607,
+      2608
+    ],
+    "characterImage": "UT_Acquisition_20250221_Character"
+  }
+]

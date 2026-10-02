@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "singlePlayerCardUpgradeConfigureItems": [
+      {
+        "star": 1
+      },
+      {
+        "star": 2,
+        "exp": 5
+      },
+      {
+        "star": 3,
+        "exp": 10
+      },
+      {
+        "star": 4,
+        "exp": 15
+      }
+    ]
+  }
+]

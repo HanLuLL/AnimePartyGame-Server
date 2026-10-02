@@ -1,0 +1,37 @@
+[
+  {
+    "languageType": {
+      "value": 10,
+      "name": "LanguageType_English"
+    },
+    "descriptionID": 1410,
+    "fileContentKey": "English"
+  },
+  {
+    "languageType": {
+      "value": 22,
+      "name": "LanguageType_Japanese"
+    },
+    "dataIndex": 1,
+    "descriptionID": 1422,
+    "fileContentKey": "Japanese"
+  },
+  {
+    "languageType": {
+      "value": 40,
+      "name": "LanguageType_SimplifiedChinese"
+    },
+    "dataIndex": 2,
+    "descriptionID": 1440,
+    "fileContentKey": "Simplified Chinese"
+  },
+  {
+    "languageType": {
+      "value": 41,
+      "name": "LanguageType_TraditionalChinese"
+    },
+    "dataIndex": 3,
+    "descriptionID": 1441,
+    "fileContentKey": "Traditional Chinese"
+  }
+]

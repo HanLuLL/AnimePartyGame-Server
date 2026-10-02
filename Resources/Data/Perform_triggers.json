@@ -1,0 +1,1068 @@
+[
+  {
+    "id": 101,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      0,
+      8,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      10101,
+      10102,
+      10103
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610802": 1050
+    }
+  },
+  {
+    "id": 102,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      1,
+      0,
+      5,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      10201,
+      10202,
+      10203
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610804": 1050
+    }
+  },
+  {
+    "id": 103,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      2,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 3,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      10301,
+      10302,
+      10303
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610806": 2350
+    }
+  },
+  {
+    "id": 104,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      1,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 3,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      10401,
+      10402,
+      10403
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610805": 1050
+    }
+  },
+  {
+    "id": 105,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      10501,
+      10502,
+      10503
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610803": 1050
+    }
+  },
+  {
+    "id": 106,
+    "performTriggerType": {
+      "value": 2,
+      "name": "PerformTriggerType_HeroMoveFinalPoints"
+    },
+    "performTriggerParams": [
+      -1,
+      1,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      10601,
+      10602,
+      10603
+    ],
+    "timeDelay": 500,
+    "audio": {
+      "10610808": 950
+    }
+  },
+  {
+    "id": 107,
+    "performTriggerType": {
+      "value": 2,
+      "name": "PerformTriggerType_HeroMoveFinalPoints"
+    },
+    "performTriggerParams": [
+      10,
+      -1,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      10701,
+      10702,
+      10703
+    ],
+    "timeDelay": 500,
+    "audio": {
+      "10610809": 950
+    }
+  },
+  {
+    "id": 108,
+    "performTriggerType": {
+      "value": 3,
+      "name": "PerformTriggerType_HeroStarUp"
+    },
+    "performTriggerParams": [
+      3
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      10801,
+      10802,
+      10803
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610807": 1050
+    }
+  },
+  {
+    "id": 109,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      2,
+      2,
+      0,
+      5,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      10101,
+      10102,
+      10103
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610802": 1050
+    }
+  },
+  {
+    "id": 121,
+    "performTriggerType": {
+      "value": 5,
+      "name": "PerformTriggerType_RefereeJoinBattle"
+    },
+    "performTriggerParams": [
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 10,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106123,
+      12101,
+      12102,
+      12103
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610810": 1050
+    }
+  },
+  {
+    "id": 122,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      1061,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      12201,
+      12202,
+      12203
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610815": 1050
+    }
+  },
+  {
+    "id": 123,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      1061,
+      8,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106124,
+      12301,
+      12302,
+      12303
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610817": 1050
+    }
+  },
+  {
+    "id": 124,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      2,
+      2,
+      1061,
+      5,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      12401,
+      12402,
+      12403
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610816": 1050
+    }
+  },
+  {
+    "id": 125,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      1,
+      0,
+      5,
+      -1,
+      0,
+      0,
+      1061
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      12501,
+      12502,
+      12503
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610812": 1050
+    }
+  },
+  {
+    "id": 126,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      1,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      1061
+    ],
+    "applyProbability": 1000,
+    "priority": 7,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      12601,
+      12602,
+      12603
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610818": 1050
+    }
+  },
+  {
+    "id": 127,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      2,
+      1061,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 7,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      12701,
+      12702,
+      12703
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610814": 1050
+    }
+  },
+  {
+    "id": 201,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      0,
+      8,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      20101,
+      20102,
+      20103
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610802": 1050
+    }
+  },
+  {
+    "id": 202,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      1,
+      0,
+      5,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      20201,
+      20202,
+      20203
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610804": 1050
+    }
+  },
+  {
+    "id": 203,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      2,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 3,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106123,
+      20301,
+      20302,
+      20303
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610806": 2350
+    }
+  },
+  {
+    "id": 204,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      1,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 3,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      20401,
+      20402,
+      20403
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610805": 1050
+    }
+  },
+  {
+    "id": 205,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      20501,
+      20502,
+      20503
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610803": 1050
+    }
+  },
+  {
+    "id": 206,
+    "performTriggerType": {
+      "value": 2,
+      "name": "PerformTriggerType_HeroMoveFinalPoints"
+    },
+    "performTriggerParams": [
+      -1,
+      1,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      20601,
+      20602,
+      20603
+    ],
+    "timeDelay": 500,
+    "audio": {
+      "10610808": 950
+    }
+  },
+  {
+    "id": 207,
+    "performTriggerType": {
+      "value": 2,
+      "name": "PerformTriggerType_HeroMoveFinalPoints"
+    },
+    "performTriggerParams": [
+      10,
+      -1,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106123,
+      20701,
+      10701,
+      20703
+    ],
+    "timeDelay": 500,
+    "audio": {
+      "10610809": 950
+    }
+  },
+  {
+    "id": 208,
+    "performTriggerType": {
+      "value": 3,
+      "name": "PerformTriggerType_HeroStarUp"
+    },
+    "performTriggerParams": [
+      3
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      20801,
+      20803
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610807": 1050
+    }
+  },
+  {
+    "id": 209,
+    "performTriggerType": {
+      "value": 4,
+      "name": "PerformTriggerType_MonsterShow"
+    },
+    "performTriggerParams": [
+      1066
+    ],
+    "applyProbability": 1000,
+    "priority": 3,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      20901,
+      20902,
+      20903
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610811": 550
+    }
+  },
+  {
+    "id": 210,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      2,
+      1065,
+      0,
+      -1,
+      0,
+      500,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 10,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106124,
+      21001,
+      21002,
+      21003
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610801": 1050
+    }
+  },
+  {
+    "id": 211,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      2,
+      2,
+      0,
+      5,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 1,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106121,
+      20101,
+      20102,
+      20103
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610802": 1050
+    }
+  },
+  {
+    "id": 221,
+    "performTriggerType": {
+      "value": 5,
+      "name": "PerformTriggerType_RefereeJoinBattle"
+    },
+    "performTriggerParams": [
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 10,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106123,
+      22101,
+      22102,
+      22103
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610810": 1050
+    }
+  },
+  {
+    "id": 222,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      1061,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      22201,
+      22202,
+      22203
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610815": 1050
+    }
+  },
+  {
+    "id": 223,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      2,
+      1061,
+      8,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106124,
+      22301,
+      22302,
+      22303
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610817": 1050
+    }
+  },
+  {
+    "id": 224,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      2,
+      2,
+      1061,
+      5,
+      -1,
+      0,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106123,
+      22401,
+      22402,
+      22403
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610816": 1050
+    }
+  },
+  {
+    "id": 225,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      1,
+      0,
+      5,
+      -1,
+      0,
+      0,
+      1061
+    ],
+    "applyProbability": 1000,
+    "priority": 5,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      22501,
+      22502,
+      22503
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610812": 1050
+    }
+  },
+  {
+    "id": 226,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      1,
+      1,
+      0,
+      0,
+      -1,
+      1,
+      0,
+      1061
+    ],
+    "applyProbability": 1000,
+    "priority": 7,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106122,
+      22601,
+      22602,
+      22603
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610818": 1050
+    }
+  },
+  {
+    "id": 227,
+    "performTriggerType": {
+      "value": 1,
+      "name": "PerformTriggerType_TakeDamage"
+    },
+    "performTriggerParams": [
+      0,
+      2,
+      1061,
+      0,
+      -1,
+      1,
+      0,
+      0
+    ],
+    "applyProbability": 1000,
+    "priority": 7,
+    "performTriggerActionType": {
+      "value": 1,
+      "name": "PerformTriggerActionType_RefereeCall"
+    },
+    "performTriggerActionParams": [
+      106124,
+      22701,
+      22702,
+      22703
+    ],
+    "timeDelay": 1000,
+    "audio": {
+      "10610814": 1050
+    }
+  }
+]

@@ -1,0 +1,2323 @@
+[
+  {
+    "id": 1001,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11011,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11012,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11013,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11014,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11021,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11022,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11023,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11024,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11111,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11112,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11113,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11114,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11121,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11122,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11123,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11124,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11211,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11212,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11213,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11214,
+    "mutatorPoolComposeConfigureItems": [
+      {
+        "index": 1,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "composeTypes": [
+          {
+            "value": 8,
+            "name": "MutatorType_Special1"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "composeTypes": [
+          {
+            "value": 9,
+            "name": "MutatorType_Special2"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 6,
+            "name": "MutatorType_Bad"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 10,
+            "name": "MutatorType_Special3"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 3,
+            "name": "MutatorType_QuiteGood"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "composeTypes": [
+          {
+            "value": 11,
+            "name": "MutatorType_Special4"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 4,
+            "name": "MutatorType_Middle"
+          },
+          {
+            "value": 5,
+            "name": "MutatorType_QuiteBad"
+          },
+          {
+            "value": 2,
+            "name": "MutatorType_Good"
+          }
+        ]
+      }
+    ]
+  }
+]

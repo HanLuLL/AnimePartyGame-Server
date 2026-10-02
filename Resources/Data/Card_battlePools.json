@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1001,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      },
+      {
+        "cardId": 10007
+      },
+      {
+        "cardId": 10008
+      },
+      {
+        "cardId": 10009
+      },
+      {
+        "cardId": 10010
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      },
+      {
+        "cardId": 10007
+      },
+      {
+        "cardId": 10008
+      },
+      {
+        "cardId": 10009
+      },
+      {
+        "cardId": 10010
+      }
+    ]
+  },
+  {
+    "id": 101005,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      }
+    ]
+  },
+  {
+    "id": 102005,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      }
+    ]
+  },
+  {
+    "id": 103006,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      }
+    ]
+  },
+  {
+    "id": 102006,
+    "cardBattlePoolConfigureItems": [
+      {
+        "cardId": 10001
+      },
+      {
+        "cardId": 10002
+      },
+      {
+        "cardId": 10003
+      },
+      {
+        "cardId": 10004
+      },
+      {
+        "cardId": 10005
+      },
+      {
+        "cardId": 10006
+      },
+      {
+        "cardId": 10007
+      },
+      {
+        "cardId": 10008
+      }
+    ]
+  }
+]

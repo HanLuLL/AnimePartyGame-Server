@@ -1,0 +1,32 @@
+[
+  {
+    "id": 606261,
+    "scratchoffPoolId": 30,
+    "spends": {
+      "2": 500
+    },
+    "targetItemID": 91062,
+    "skinID": 100115004,
+    "accountBackgroundID": 71415,
+    "decriptionID": 5007044,
+    "ruleTitleID": 5012445,
+    "ruleDecriptionID": 5012446,
+    "ruleSheetField1": 5012447,
+    "ruleSheetField2": 5012448
+  },
+  {
+    "id": 606271,
+    "scratchoffPoolId": 31,
+    "spends": {
+      "2": 500
+    },
+    "targetItemID": 91116,
+    "skinID": 100121005,
+    "accountBackgroundID": 71421,
+    "decriptionID": 6006274,
+    "ruleTitleID": 5012445,
+    "ruleDecriptionID": 5012446,
+    "ruleSheetField1": 5012447,
+    "ruleSheetField2": 5012448
+  }
+]

@@ -1,0 +1,3341 @@
+[
+  {
+    "id": 3,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      2
+    ]
+  },
+  {
+    "id": 7,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      7
+    ]
+  },
+  {
+    "id": 8,
+    "wayType": {
+      "value": 112,
+      "name": "WayType_StarDiscStore"
+    },
+    "wayParam": [
+      8
+    ]
+  },
+  {
+    "id": 13,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      13
+    ]
+  },
+  {
+    "id": 14,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14
+    ]
+  },
+  {
+    "id": 21,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      21
+    ]
+  },
+  {
+    "id": 29,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      29
+    ]
+  },
+  {
+    "id": 10,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      39
+    ]
+  },
+  {
+    "id": 130,
+    "wayType": {
+      "value": 130,
+      "name": "WayType_PlayParty"
+    }
+  },
+  {
+    "id": 133,
+    "wayType": {
+      "value": 130,
+      "name": "WayType_PlayParty"
+    },
+    "wayParam": [
+      3
+    ]
+  },
+  {
+    "id": 134,
+    "wayType": {
+      "value": 130,
+      "name": "WayType_PlayParty"
+    },
+    "wayParam": [
+      4
+    ]
+  },
+  {
+    "id": 137,
+    "wayType": {
+      "value": 130,
+      "name": "WayType_PlayParty"
+    },
+    "wayParam": [
+      7
+    ]
+  },
+  {
+    "id": 1300,
+    "wayType": {
+      "value": 131,
+      "name": "WayType_PlayPartyWetherMatch"
+    }
+  },
+  {
+    "id": 602,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      2
+    ]
+  },
+  {
+    "id": 603,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      3
+    ]
+  },
+  {
+    "id": 605,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      5
+    ]
+  },
+  {
+    "id": 606,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      6
+    ]
+  },
+  {
+    "id": 607,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      7
+    ]
+  },
+  {
+    "id": 610,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      10
+    ]
+  },
+  {
+    "id": 611,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      12
+    ]
+  },
+  {
+    "id": 70001,
+    "wayType": {
+      "value": 10,
+      "name": "WayType_Default"
+    }
+  },
+  {
+    "id": 70002,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50030
+    ]
+  },
+  {
+    "id": 70003,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50010
+    ]
+  },
+  {
+    "id": 70004,
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayParam": [
+      1
+    ]
+  },
+  {
+    "id": 70008,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50020
+    ]
+  },
+  {
+    "id": 70019,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      11,
+      31020
+    ]
+  },
+  {
+    "id": 70020,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      11,
+      31232
+    ]
+  },
+  {
+    "id": 70023,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50040
+    ]
+  },
+  {
+    "id": 70024,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      404010
+    ]
+  },
+  {
+    "id": 70025,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      406070
+    ]
+  },
+  {
+    "id": 70026,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202406
+    ]
+  },
+  {
+    "id": 70028,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202408
+    ]
+  },
+  {
+    "id": 70029,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202507
+    ]
+  },
+  {
+    "id": 70037,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50050
+    ]
+  },
+  {
+    "id": 70038,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50060
+    ]
+  },
+  {
+    "id": 70039,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50070
+    ]
+  },
+  {
+    "id": 70040,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50080
+    ]
+  },
+  {
+    "id": 70041,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      15,
+      50090
+    ]
+  },
+  {
+    "id": 70042,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60000
+    ]
+  },
+  {
+    "id": 70043,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60001
+    ]
+  },
+  {
+    "id": 70044,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60002
+    ]
+  },
+  {
+    "id": 70045,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60003
+    ]
+  },
+  {
+    "id": 70046,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60004
+    ]
+  },
+  {
+    "id": 70047,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60005
+    ]
+  },
+  {
+    "id": 70048,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60006
+    ]
+  },
+  {
+    "id": 70049,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60007
+    ]
+  },
+  {
+    "id": 70050,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60008
+    ]
+  },
+  {
+    "id": 70051,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60009
+    ]
+  },
+  {
+    "id": 70052,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60010
+    ]
+  },
+  {
+    "id": 70053,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60011
+    ]
+  },
+  {
+    "id": 70054,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60012
+    ]
+  },
+  {
+    "id": 70055,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60013
+    ]
+  },
+  {
+    "id": 70056,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      38,
+      60014
+    ]
+  },
+  {
+    "id": 70101,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      101
+    ]
+  },
+  {
+    "id": 70102,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      102
+    ]
+  },
+  {
+    "id": 70103,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      103
+    ]
+  },
+  {
+    "id": 70104,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      104
+    ]
+  },
+  {
+    "id": 70105,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      105
+    ]
+  },
+  {
+    "id": 70106,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      106
+    ]
+  },
+  {
+    "id": 70107,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      107
+    ]
+  },
+  {
+    "id": 70108,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      108
+    ]
+  },
+  {
+    "id": 70109,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      109
+    ]
+  },
+  {
+    "id": 70110,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      110
+    ]
+  },
+  {
+    "id": 70111,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      111
+    ]
+  },
+  {
+    "id": 70112,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      112
+    ]
+  },
+  {
+    "id": 70113,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      113
+    ]
+  },
+  {
+    "id": 70114,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      114
+    ]
+  },
+  {
+    "id": 70115,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      115
+    ]
+  },
+  {
+    "id": 70116,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      116
+    ]
+  },
+  {
+    "id": 70117,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      117
+    ]
+  },
+  {
+    "id": 70118,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      118
+    ]
+  },
+  {
+    "id": 70119,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      119
+    ]
+  },
+  {
+    "id": 70120,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      120
+    ]
+  },
+  {
+    "id": 70121,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      121
+    ]
+  },
+  {
+    "id": 70122,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      122
+    ]
+  },
+  {
+    "id": 70123,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      123
+    ]
+  },
+  {
+    "id": 70124,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      124
+    ]
+  },
+  {
+    "id": 70125,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      125
+    ]
+  },
+  {
+    "id": 70126,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      126
+    ]
+  },
+  {
+    "id": 70127,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      127
+    ]
+  },
+  {
+    "id": 70128,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      128
+    ]
+  },
+  {
+    "id": 70129,
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayParam": [
+      129
+    ]
+  },
+  {
+    "id": 70901,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      11,
+      31010
+    ]
+  },
+  {
+    "id": 70902,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      402
+    ]
+  },
+  {
+    "id": 70903,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      302
+    ]
+  },
+  {
+    "id": 70904,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      10001
+    ]
+  },
+  {
+    "id": 70905,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      103
+    ]
+  },
+  {
+    "id": 70906,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      10102
+    ]
+  },
+  {
+    "id": 70907,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      1202
+    ]
+  },
+  {
+    "id": 70908,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      1302
+    ]
+  },
+  {
+    "id": 70912,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      20202
+    ]
+  },
+  {
+    "id": 70913,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      202
+    ]
+  },
+  {
+    "id": 70999,
+    "wayType": {
+      "value": 20,
+      "name": "WayType_Crowdfunding"
+    }
+  },
+  {
+    "id": 71003,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      11,
+      31030
+    ]
+  },
+  {
+    "id": 71012,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      16,
+      50060
+    ]
+  },
+  {
+    "id": 71018,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      16,
+      50050
+    ]
+  },
+  {
+    "id": 71023,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      407120
+    ]
+  },
+  {
+    "id": 71201,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      101
+    ]
+  },
+  {
+    "id": 71202,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      102
+    ]
+  },
+  {
+    "id": 71203,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      103
+    ]
+  },
+  {
+    "id": 71204,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      104
+    ]
+  },
+  {
+    "id": 71205,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      105
+    ]
+  },
+  {
+    "id": 71206,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      106
+    ]
+  },
+  {
+    "id": 71207,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      107
+    ]
+  },
+  {
+    "id": 71208,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      108
+    ]
+  },
+  {
+    "id": 71209,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      109
+    ]
+  },
+  {
+    "id": 71210,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      110
+    ]
+  },
+  {
+    "id": 71211,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      111
+    ]
+  },
+  {
+    "id": 71212,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      112
+    ]
+  },
+  {
+    "id": 71213,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      113
+    ]
+  },
+  {
+    "id": 71214,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      114
+    ]
+  },
+  {
+    "id": 71215,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      115
+    ]
+  },
+  {
+    "id": 71216,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      116
+    ]
+  },
+  {
+    "id": 71217,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      117
+    ]
+  },
+  {
+    "id": 71218,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      118
+    ]
+  },
+  {
+    "id": 71219,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      119
+    ]
+  },
+  {
+    "id": 71220,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      120
+    ]
+  },
+  {
+    "id": 71221,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      121
+    ]
+  },
+  {
+    "id": 71222,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      122
+    ]
+  },
+  {
+    "id": 71223,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      123
+    ]
+  },
+  {
+    "id": 71224,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      124
+    ]
+  },
+  {
+    "id": 71225,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      125
+    ]
+  },
+  {
+    "id": 71226,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      126
+    ]
+  },
+  {
+    "id": 71227,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      127
+    ]
+  },
+  {
+    "id": 71228,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      128
+    ]
+  },
+  {
+    "id": 71229,
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayParam": [
+      129
+    ]
+  },
+  {
+    "id": 71301,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80001
+    ]
+  },
+  {
+    "id": 71307,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80000
+    ]
+  },
+  {
+    "id": 71312,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80002
+    ]
+  },
+  {
+    "id": 71408,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80003
+    ]
+  },
+  {
+    "id": 72001,
+    "wayType": {
+      "value": 40,
+      "name": "WayType_Task"
+    },
+    "wayParam": [
+      1,
+      1402
+    ]
+  },
+  {
+    "id": 72003,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      50080
+    ]
+  },
+  {
+    "id": 72009,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      50070
+    ]
+  },
+  {
+    "id": 72026,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72001
+    ]
+  },
+  {
+    "id": 72027,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72002
+    ]
+  },
+  {
+    "id": 72028,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72003
+    ]
+  },
+  {
+    "id": 72029,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72004
+    ]
+  },
+  {
+    "id": 72030,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72005
+    ]
+  },
+  {
+    "id": 72031,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72006
+    ]
+  },
+  {
+    "id": 72032,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72007
+    ]
+  },
+  {
+    "id": 72033,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      18,
+      72008
+    ]
+  },
+  {
+    "id": 75006
+  },
+  {
+    "id": 75007,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      19,
+      75007
+    ]
+  },
+  {
+    "id": 75008,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      19,
+      75008
+    ]
+  },
+  {
+    "id": 75009,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      19,
+      75009
+    ]
+  },
+  {
+    "id": 75010,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      404300
+    ]
+  },
+  {
+    "id": 75011,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      19,
+      75011
+    ]
+  },
+  {
+    "id": 75012,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      19,
+      75012
+    ]
+  },
+  {
+    "id": 77016,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      9,
+      50310
+    ]
+  },
+  {
+    "id": 78001,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30080
+    ]
+  },
+  {
+    "id": 78002,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30090
+    ]
+  },
+  {
+    "id": 78003,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30100
+    ]
+  },
+  {
+    "id": 78004,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30110
+    ]
+  },
+  {
+    "id": 78005,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30120
+    ]
+  },
+  {
+    "id": 78006,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30130
+    ]
+  },
+  {
+    "id": 78007,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30140
+    ]
+  },
+  {
+    "id": 78008,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30150
+    ]
+  },
+  {
+    "id": 78009,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      12,
+      31000
+    ]
+  },
+  {
+    "id": 78010,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      9,
+      50320
+    ]
+  },
+  {
+    "id": 78011,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30180
+    ]
+  },
+  {
+    "id": 90001,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30010
+    ]
+  },
+  {
+    "id": 140010,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40010
+    ]
+  },
+  {
+    "id": 140111,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40111
+    ]
+  },
+  {
+    "id": 140124,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40124
+    ]
+  },
+  {
+    "id": 140137,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40137
+    ]
+  },
+  {
+    "id": 140151,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40151
+    ]
+  },
+  {
+    "id": 140165,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40165
+    ]
+  },
+  {
+    "id": 408303,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      408303
+    ]
+  },
+  {
+    "id": 408022,
+    "wayType": {
+      "value": 121,
+      "name": "WayType_ActivityPopup"
+    },
+    "wayParam": [
+      408022
+    ]
+  },
+  {
+    "id": 404010,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      404010
+    ]
+  },
+  {
+    "id": 950140,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      9,
+      50140
+    ]
+  },
+  {
+    "id": 950150,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      9,
+      50367
+    ]
+  },
+  {
+    "id": 404300,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      404300
+    ]
+  },
+  {
+    "id": 405230,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      405230
+    ]
+  },
+  {
+    "id": 23230000,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      23,
+      230000
+    ]
+  },
+  {
+    "id": 406280,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      406280
+    ]
+  },
+  {
+    "id": 202406,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202406
+    ]
+  },
+  {
+    "id": 408160,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      408160
+    ]
+  },
+  {
+    "id": 202408,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202408
+    ]
+  },
+  {
+    "id": 1480000,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80000
+    ]
+  },
+  {
+    "id": 1480001,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80001
+    ]
+  },
+  {
+    "id": 1480002,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80002
+    ]
+  },
+  {
+    "id": 1480003,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80003
+    ]
+  },
+  {
+    "id": 1480004,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80004
+    ]
+  },
+  {
+    "id": 1480005,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80005
+    ]
+  },
+  {
+    "id": 1480006,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80006
+    ]
+  },
+  {
+    "id": 1480007,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80007
+    ]
+  },
+  {
+    "id": 1480008,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80008
+    ]
+  },
+  {
+    "id": 1480009,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80009
+    ]
+  },
+  {
+    "id": 1480010,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80010
+    ]
+  },
+  {
+    "id": 1480011,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80011
+    ]
+  },
+  {
+    "id": 1480012,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80012
+    ]
+  },
+  {
+    "id": 1480013,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80013
+    ]
+  },
+  {
+    "id": 1480014,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80014
+    ]
+  },
+  {
+    "id": 1480015,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80015
+    ]
+  },
+  {
+    "id": 1480016,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80016
+    ]
+  },
+  {
+    "id": 1480017,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80017
+    ]
+  },
+  {
+    "id": 1480018,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80018
+    ]
+  },
+  {
+    "id": 1480019,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80019
+    ]
+  },
+  {
+    "id": 1480020,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80020
+    ]
+  },
+  {
+    "id": 1480021,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80021
+    ]
+  },
+  {
+    "id": 1480022,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80022
+    ]
+  },
+  {
+    "id": 1480023,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      14,
+      80023
+    ]
+  },
+  {
+    "id": 950230,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      9,
+      50230
+    ]
+  },
+  {
+    "id": 950240,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      9,
+      50240
+    ]
+  },
+  {
+    "id": 950310,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50310
+    ]
+  },
+  {
+    "id": 950330,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      9,
+      50330
+    ]
+  },
+  {
+    "id": 950331,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50331
+    ]
+  },
+  {
+    "id": 950333,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50333
+    ]
+  },
+  {
+    "id": 950338,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50338
+    ]
+  },
+  {
+    "id": 950340,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50340
+    ]
+  },
+  {
+    "id": 950416,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50416
+    ]
+  },
+  {
+    "id": 5010401,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      10401
+    ]
+  },
+  {
+    "id": 2626001,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      26,
+      26001
+    ]
+  },
+  {
+    "id": 2626002,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      26,
+      26002
+    ]
+  },
+  {
+    "id": 409300,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      409300
+    ]
+  },
+  {
+    "id": 408304,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      505200
+    ]
+  },
+  {
+    "id": 70996,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      2704
+    ]
+  },
+  {
+    "id": 202410,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202410
+    ]
+  },
+  {
+    "id": 410250,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      410250
+    ]
+  },
+  {
+    "id": 410255,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      410255
+    ]
+  },
+  {
+    "id": 410256,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      410256
+    ]
+  },
+  {
+    "id": 950336,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50336
+    ]
+  },
+  {
+    "id": 1320101,
+    "wayType": {
+      "value": 132,
+      "name": "WayType_Campaign"
+    },
+    "wayParam": [
+      101
+    ]
+  },
+  {
+    "id": 1320102,
+    "wayType": {
+      "value": 132,
+      "name": "WayType_Campaign"
+    },
+    "wayParam": [
+      102
+    ]
+  },
+  {
+    "id": 1320103,
+    "wayType": {
+      "value": 132,
+      "name": "WayType_Campaign"
+    },
+    "wayParam": [
+      103
+    ]
+  },
+  {
+    "id": 122202411,
+    "wayType": {
+      "value": 122,
+      "name": "WayType_Collaboration"
+    },
+    "wayParam": [
+      202411
+    ]
+  },
+  {
+    "id": 122202507,
+    "wayType": {
+      "value": 122,
+      "name": "WayType_Collaboration"
+    },
+    "wayParam": [
+      202507
+    ]
+  },
+  {
+    "id": 411220,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      411220
+    ]
+  },
+  {
+    "id": 202412,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202412
+    ]
+  },
+  {
+    "id": 412200,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      412200
+    ]
+  },
+  {
+    "id": 50101,
+    "wayType": {
+      "value": 123,
+      "name": "WayType_SignIn"
+    },
+    "wayParam": [
+      50101
+    ]
+  },
+  {
+    "id": 501244,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      501244
+    ]
+  },
+  {
+    "id": 501245,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      501245
+    ]
+  },
+  {
+    "id": 501246,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      501246
+    ]
+  },
+  {
+    "id": 501247,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      501247
+    ]
+  },
+  {
+    "id": 502211,
+    "wayType": {
+      "value": 123,
+      "name": "WayType_SignIn"
+    },
+    "wayParam": [
+      50101
+    ]
+  },
+  {
+    "id": 502212,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      502212
+    ]
+  },
+  {
+    "id": 502213,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      502213
+    ]
+  },
+  {
+    "id": 202502,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202502
+    ]
+  },
+  {
+    "id": 502218,
+    "wayType": {
+      "value": 121,
+      "name": "WayType_ActivityPopup"
+    },
+    "wayParam": [
+      502218
+    ]
+  },
+  {
+    "id": 28110002,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      28,
+      110002
+    ]
+  },
+  {
+    "id": 28110003,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      28,
+      110003
+    ]
+  },
+  {
+    "id": 28110005,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      28,
+      110005
+    ]
+  },
+  {
+    "id": 28110006,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      28,
+      110006
+    ]
+  },
+  {
+    "id": 28110007,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      28,
+      110007
+    ]
+  },
+  {
+    "id": 28110008,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      37,
+      120001
+    ]
+  },
+  {
+    "id": 406101,
+    "wayType": {
+      "value": 40,
+      "name": "WayType_Task"
+    },
+    "wayParam": [
+      6,
+      101
+    ]
+  },
+  {
+    "id": 406105,
+    "wayType": {
+      "value": 40,
+      "name": "WayType_Task"
+    },
+    "wayParam": [
+      6,
+      105
+    ]
+  },
+  {
+    "id": 406000,
+    "wayType": {
+      "value": 40,
+      "name": "WayType_Task"
+    },
+    "wayParam": [
+      6
+    ]
+  },
+  {
+    "id": 70909,
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayParam": [
+      3,
+      3201
+    ]
+  },
+  {
+    "id": 504101,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      504101
+    ]
+  },
+  {
+    "id": 504031,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      504031
+    ]
+  },
+  {
+    "id": 504032,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      504032
+    ]
+  },
+  {
+    "id": 202504,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202504
+    ]
+  },
+  {
+    "id": 504251,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      504251
+    ]
+  },
+  {
+    "id": 830170,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      8,
+      30170
+    ]
+  },
+  {
+    "id": 505301,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      505301
+    ]
+  },
+  {
+    "id": 505202,
+    "wayType": {
+      "value": 121,
+      "name": "WayType_ActivityPopup"
+    },
+    "wayParam": [
+      505202
+    ]
+  },
+  {
+    "id": 202506,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202506
+    ]
+  },
+  {
+    "id": 506061,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      506061
+    ]
+  },
+  {
+    "id": 507040,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      507040
+    ]
+  },
+  {
+    "id": 507041,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      507041
+    ]
+  },
+  {
+    "id": 950360,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50406
+    ]
+  },
+  {
+    "id": 2626003,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      26,
+      26003
+    ]
+  },
+  {
+    "id": 950351,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50351
+    ]
+  },
+  {
+    "id": 508011,
+    "wayType": {
+      "value": 150,
+      "name": "WayType_SkinBundlingSales"
+    },
+    "wayParam": [
+      320000
+    ]
+  },
+  {
+    "id": 507043,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      507043
+    ]
+  },
+  {
+    "id": 202508,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202508
+    ]
+  },
+  {
+    "id": 509051,
+    "wayType": {
+      "value": 160,
+      "name": "WayType_ActivityVA11HallA"
+    },
+    "wayParam": [
+      509051,
+      1
+    ]
+  },
+  {
+    "id": 122202509,
+    "wayType": {
+      "value": 122,
+      "name": "WayType_Collaboration"
+    },
+    "wayParam": [
+      202509
+    ]
+  },
+  {
+    "id": 509280,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      509280
+    ]
+  },
+  {
+    "id": 510010,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      510010
+    ]
+  },
+  {
+    "id": 950353,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50353
+    ]
+  },
+  {
+    "id": 202510,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202510
+    ]
+  },
+  {
+    "id": 509281,
+    "wayType": {
+      "value": 150,
+      "name": "WayType_SkinBundlingSales"
+    },
+    "wayParam": [
+      320001
+    ]
+  },
+  {
+    "id": 510311,
+    "wayType": {
+      "value": 150,
+      "name": "WayType_SkinBundlingSales"
+    },
+    "wayParam": [
+      320002
+    ]
+  },
+  {
+    "id": 510300,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      510300
+    ]
+  },
+  {
+    "id": 202511,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202511
+    ]
+  },
+  {
+    "id": 512050,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      512050
+    ]
+  },
+  {
+    "id": 512070,
+    "wayType": {
+      "value": 180,
+      "name": "WayType_ActivitySinglePLayer"
+    },
+    "wayParam": [
+      512070
+    ]
+  },
+  {
+    "id": 512191,
+    "wayType": {
+      "value": 150,
+      "name": "WayType_SkinBundlingSales"
+    },
+    "wayParam": [
+      320003
+    ]
+  },
+  {
+    "id": 202602,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202602
+    ]
+  },
+  {
+    "id": 602100,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      602100
+    ]
+  },
+  {
+    "id": 950366,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50366
+    ]
+  },
+  {
+    "id": 950411,
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50411
+    ]
+  },
+  {
+    "id": 140179,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40179
+    ]
+  },
+  {
+    "id": 140193,
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayParam": [
+      1,
+      40193
+    ]
+  },
+  {
+    "id": 602080,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      602080
+    ]
+  },
+  {
+    "id": 602090,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      602090
+    ]
+  },
+  {
+    "id": 602070,
+    "wayType": {
+      "value": 190,
+      "name": "WayType_ActivityStore"
+    },
+    "wayParam": [
+      602070
+    ]
+  },
+  {
+    "id": 599990,
+    "wayType": {
+      "value": 200,
+      "name": "WayType_ActivityRookieTask"
+    },
+    "wayParam": [
+      599990
+    ]
+  },
+  {
+    "id": 210111,
+    "wayType": {
+      "value": 210,
+      "name": "WayType_CharacterProfile"
+    },
+    "wayParam": [
+      111
+    ]
+  },
+  {
+    "id": 210108,
+    "wayType": {
+      "value": 210,
+      "name": "WayType_CharacterProfile"
+    },
+    "wayParam": [
+      108
+    ]
+  },
+  {
+    "id": 602060,
+    "wayType": {
+      "value": 220,
+      "name": "WayType_ActivityLevelPass"
+    },
+    "wayParam": [
+      602060
+    ]
+  },
+  {
+    "id": 602270,
+    "wayType": {
+      "value": 230,
+      "name": "WayType_Anniversary_2Nd"
+    },
+    "wayParam": [
+      320004
+    ]
+  },
+  {
+    "id": 602272,
+    "wayType": {
+      "value": 240,
+      "name": "WayType_ActivityStore2"
+    },
+    "wayParam": [
+      602272
+    ]
+  },
+  {
+    "id": 202603,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202603
+    ]
+  },
+  {
+    "id": 603130,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      603130
+    ]
+  },
+  {
+    "id": 604170,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      604170
+    ]
+  },
+  {
+    "id": 202604,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202604
+    ]
+  },
+  {
+    "id": 605010,
+    "wayType": {
+      "value": 250,
+      "name": "WayType_ActivityDice"
+    },
+    "wayParam": [
+      605010
+    ]
+  },
+  {
+    "id": 604171,
+    "wayType": {
+      "value": 150,
+      "name": "WayType_SkinBundlingSales"
+    },
+    "wayParam": [
+      320007
+    ]
+  },
+  {
+    "id": 605211,
+    "wayType": {
+      "value": 190,
+      "name": "WayType_ActivityStore"
+    },
+    "wayParam": [
+      605211
+    ]
+  },
+  {
+    "id": 605212,
+    "wayType": {
+      "value": 190,
+      "name": "WayType_ActivityStore"
+    },
+    "wayParam": [
+      605212
+    ]
+  },
+  {
+    "id": 606041,
+    "wayType": {
+      "value": 240,
+      "name": "WayType_ActivityStore2"
+    },
+    "wayParam": [
+      606041
+    ]
+  },
+  {
+    "id": 202605,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202605
+    ]
+  },
+  {
+    "id": 606191,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      606191
+    ]
+  },
+  {
+    "id": 605210,
+    "wayType": {
+      "value": 260,
+      "name": "WayType_ActivityNGO"
+    },
+    "wayParam": [
+      605210
+    ]
+  },
+  {
+    "id": 202606,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202606
+    ]
+  },
+  {
+    "id": 606251,
+    "wayType": {
+      "value": 270,
+      "name": "WayType_ActivityStoreSeason"
+    },
+    "wayParam": [
+      606251
+    ]
+  },
+  {
+    "id": 606271,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      606271
+    ]
+  },
+  {
+    "id": 606261,
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayParam": [
+      606261
+    ]
+  },
+  {
+    "id": 607091,
+    "wayType": {
+      "value": 190,
+      "name": "WayType_ActivityStore"
+    },
+    "wayParam": [
+      607091
+    ]
+  },
+  {
+    "id": 202607,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202607
+    ]
+  },
+  {
+    "id": 607311,
+    "wayType": {
+      "value": 270,
+      "name": "WayType_ActivityStoreSeason"
+    },
+    "wayParam": [
+      607311
+    ]
+  },
+  {
+    "id": 607301,
+    "wayType": {
+      "value": 150,
+      "name": "WayType_SkinBundlingSales"
+    },
+    "wayParam": [
+      320008
+    ]
+  },
+  {
+    "id": 202609,
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayParam": [
+      202609
+    ]
+  },
+  {
+    "id": 609031,
+    "wayType": {
+      "value": 122,
+      "name": "WayType_Collaboration"
+    },
+    "wayParam": [
+      202609
+    ]
+  },
+  {
+    "id": 610010,
+    "wayType": {
+      "value": 280,
+      "name": "WayType_ActivityBingo"
+    },
+    "wayParam": [
+      610010
+    ]
+  },
+  {
+    "id": 609032,
+    "wayType": {
+      "value": 290,
+      "name": "WayType_ActivityMGWT"
+    },
+    "wayParam": [
+      609031
+    ]
+  }
+]

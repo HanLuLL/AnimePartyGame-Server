@@ -1,0 +1,46 @@
+[
+  {
+    "id": 5001,
+    "nameID": 50010,
+    "desiID": 50011,
+    "Icon": "UT_Hero_ProfilePhoto_1004",
+    "model": "DiceConstruction_Monster_5001",
+    "monsterRadius": 5.0,
+    "canAttack": true,
+    "monsterAttackTimeline": "SG_MonsterAttack_5001",
+    "maxHp": 100,
+    "attack": 6,
+    "defense": 2
+  },
+  {
+    "id": 5002,
+    "nameID": 50020,
+    "desiID": 50021,
+    "Icon": "UT_Hero_ProfilePhoto_1005",
+    "model": "DiceConstruction_Monster_5002",
+    "monsterRadius": 4.0,
+    "canAttack": true,
+    "monsterAttackTimeline": "SG_MonsterAttack_5002",
+    "maxHp": 60,
+    "attack": 5,
+    "defense": 1
+  },
+  {
+    "id": 5003,
+    "nameID": 50030,
+    "desiID": 50031,
+    "Icon": "UT_Hero_ProfilePhoto_1002",
+    "model": "DiceConstruction_Monster_5003",
+    "monsterRadius": 5.0,
+    "canAttack": true,
+    "monsterAttackTimeline": "SG_MonsterAttack_5003",
+    "maxHp": 30,
+    "attack": 3,
+    "triggerPoint": [
+      6
+    ],
+    "triggerParam": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 605210,
+    "bg": "UT_NGO_BG",
+    "titleImages": [
+      "UT_NGO_Title_CN",
+      "UT_NGO_Title_EN",
+      "UT_NGO_Title_JP",
+      "UT_NGO_Title_CN"
+    ],
+    "mainHeros": [
+      "UT_Hero_Card_302",
+      "UT_Hero_Card_302"
+    ],
+    "mainHerosSFW": [
+      "UT_Hero_Card_302",
+      "UT_Hero_Card_302"
+    ],
+    "taskBeginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "taskEndTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "scratchoffPoolIds": [
+      29
+    ],
+    "rewards": {
+      "70046": 1,
+      "71039": 1,
+      "91004": 1
+    },
+    "ScratchVoice": 804,
+    "spends": {
+      "1000012": 1
+    }
+  },
+  {
+    "id": 606191,
+    "bg": "UT_Activity_202406070_BG",
+    "titleImages": [
+      "UT_Activity_202406070_Title_CN_Rerun",
+      "UT_Activity_202406070_Title_EN_Rerun",
+      "UT_Activity_202406070_Title_JP_Rerun",
+      "UT_Activity_202406070_Title_CN_Rerun"
+    ],
+    "mainHeros": [
+      "UT_Hero_Card_115",
+      "UT_Activity_202406070_MainHero_01"
+    ],
+    "mainHerosSFW": [
+      "UT_Hero_Card_115",
+      "UT_Activity_202406070_MainHero_01"
+    ],
+    "taskNPC": "UT_Activity_202406070_TaskNPC",
+    "taskBeginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "taskEndTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "endHero": "UT_Activity_202406070_EndHero",
+    "endHeroSFW": "UT_Activity_202406070_EndHero",
+    "scratchoffHeros": [
+      "UT_Hero_Card_113",
+      "UT_Activity_202406070_ScratchoffHero_01"
+    ],
+    "scratchoffHerosSFW": [
+      "UT_Hero_Card_113",
+      "UT_Activity_202406070_ScratchoffHero_01"
+    ],
+    "scratchoffNPC": "UT_Activity_202406070_ScratchoffNPC",
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1781812800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1785340799
+        ]
+      }
+    },
+    "scratchoffPoolIds": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "rewards": {
+      "71020": 1,
+      "78009": 1,
+      "90001": 20
+    },
+    "ScratchVoice": 806,
+    "spends": {
+      "1000025": 5
+    }
+  }
+]

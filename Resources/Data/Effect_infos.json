@@ -1,0 +1,1347 @@
+[
+  {
+    "id": 1,
+    "effectName": "Gold_UP",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2,
+    "effectName": "Gold_Down",
+    "isHeroSupport": true
+  },
+  {
+    "id": 3,
+    "effectName": "Gold_Die_01"
+  },
+  {
+    "id": 4,
+    "effectName": "Heal_Common",
+    "isHeroSupport": true
+  },
+  {
+    "id": 5,
+    "effectName": "Hit_Common"
+  },
+  {
+    "id": 6,
+    "effectName": "Hit_Common_02"
+  },
+  {
+    "id": 7,
+    "effectName": "Shield_Common",
+    "isHeroSupport": true
+  },
+  {
+    "id": 8,
+    "effectName": "Walk_Smoke",
+    "isHeroSupport": true
+  },
+  {
+    "id": 9,
+    "isHeroSupport": true
+  },
+  {
+    "id": 10,
+    "effectName": "Ui_GeZi_Effect"
+  },
+  {
+    "id": 11,
+    "effectName": "MoveArrow"
+  },
+  {
+    "id": 12,
+    "effectName": "LevelUp",
+    "isHeroSupport": true
+  },
+  {
+    "id": 13,
+    "effectName": "Card_Get",
+    "isHeroSupport": true
+  },
+  {
+    "id": 14,
+    "effectName": "Card_loss",
+    "isHeroSupport": true
+  },
+  {
+    "id": 15,
+    "effectName": "Buff_SXBK",
+    "isHeroSupport": true
+  },
+  {
+    "id": 17,
+    "effectName": "Defense_Up_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 20,
+    "effectName": "Thinking",
+    "isHeroSupport": true
+  },
+  {
+    "id": 21,
+    "effectName": "Hand_Card_Glow"
+  },
+  {
+    "id": 22,
+    "effectName": "Card_guide"
+  },
+  {
+    "id": 23,
+    "effectName": "UsingCard"
+  },
+  {
+    "id": 24,
+    "effectName": "Xuanpai"
+  },
+  {
+    "id": 25,
+    "effectName": "Lockin_loop"
+  },
+  {
+    "id": 26
+  },
+  {
+    "id": 27,
+    "effectName": "lotteryticket_BG"
+  },
+  {
+    "id": 28,
+    "effectName": "Ui_MiaoZhun"
+  },
+  {
+    "id": 29,
+    "effectName": "Attack_Range"
+  },
+  {
+    "id": 30,
+    "effectName": "Region_Select"
+  },
+  {
+    "id": 31,
+    "effectName": "BeReborn",
+    "isHeroSupport": true
+  },
+  {
+    "id": 32,
+    "effectName": "Stun_Dead",
+    "isHeroSupport": true
+  },
+  {
+    "id": 33,
+    "effectName": "Battle_victory"
+  },
+  {
+    "id": 34,
+    "effectName": "Battle_Lvup",
+    "isHeroSupport": true
+  },
+  {
+    "id": 35,
+    "effectName": "JieSuan_Win"
+  },
+  {
+    "id": 36,
+    "effectName": "Land_Common_WalkStop_01"
+  },
+  {
+    "id": 37,
+    "effectName": "WalkDirection",
+    "isHeroSupport": true
+  },
+  {
+    "id": 41,
+    "effectName": "LevelStar_Red"
+  },
+  {
+    "id": 42,
+    "effectName": "LevelStar_Green"
+  },
+  {
+    "id": 43,
+    "effectName": "LevelStar_Blue"
+  },
+  {
+    "id": 44,
+    "effectName": "LevelStar_Yellow"
+  },
+  {
+    "id": 45,
+    "effectName": "Walk_Stop_Red"
+  },
+  {
+    "id": 46,
+    "effectName": "Walk_Stop_Green"
+  },
+  {
+    "id": 47,
+    "effectName": "Walk_Stop_Blue"
+  },
+  {
+    "id": 48,
+    "effectName": "Walk_Stop_Yellow"
+  },
+  {
+    "id": 49,
+    "effectName": "Vfx_Warning"
+  },
+  {
+    "id": 50,
+    "effectName": "BattleShow_Atk_Normal"
+  },
+  {
+    "id": 51,
+    "effectName": "BattleShow_Atk_High"
+  },
+  {
+    "id": 52,
+    "effectName": "Fight_Touzi_6"
+  },
+  {
+    "id": 53,
+    "effectName": "Cost_Down"
+  },
+  {
+    "id": 54,
+    "effectName": "Vfx_Like"
+  },
+  {
+    "id": 55,
+    "effectName": "SkinBackGround_UI"
+  },
+  {
+    "id": 56,
+    "effectName": "Signal_01"
+  },
+  {
+    "id": 57,
+    "effectName": "Signal_02"
+  },
+  {
+    "id": 58,
+    "effectName": "Signal_03"
+  },
+  {
+    "id": 59,
+    "effectName": "Signal_04"
+  },
+  {
+    "id": 60,
+    "effectName": "Hand_Card_Glow"
+  },
+  {
+    "id": 61,
+    "effectName": "Hand_Card_Glow_1"
+  },
+  {
+    "id": 62,
+    "effectName": "Hand_Card_Glow_1_01"
+  },
+  {
+    "id": 64,
+    "effectName": "BattleShow_Atk_Normal_Layer1"
+  },
+  {
+    "id": 65,
+    "effectName": "BattleShow_Atk_High_Layer1"
+  },
+  {
+    "id": 66,
+    "effectName": "Signal_05",
+    "isHeroSupport": true
+  },
+  {
+    "id": 67,
+    "effectName": "Signal_06",
+    "isHeroSupport": true
+  },
+  {
+    "id": 68,
+    "effectName": "Signal_07",
+    "isHeroSupport": true
+  },
+  {
+    "id": 69,
+    "effectName": "Hand_Card_Select"
+  },
+  {
+    "id": 70,
+    "effectName": "Signal_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 71,
+    "effectName": "Signal_04",
+    "isHeroSupport": true
+  },
+  {
+    "id": 100,
+    "effectName": "TouZi_6"
+  },
+  {
+    "id": 101,
+    "effectName": "TouZi_10"
+  },
+  {
+    "id": 102,
+    "effectName": "DuBo_TouZi"
+  },
+  {
+    "id": 103,
+    "effectName": "TouZi_20_1"
+  },
+  {
+    "id": 104,
+    "effectName": "TouZi_20_2"
+  },
+  {
+    "id": 105,
+    "effectName": "MarkingSpray"
+  },
+  {
+    "id": 106,
+    "effectName": "Relic_New"
+  },
+  {
+    "id": 1000,
+    "effectName": "LauncherEffect"
+  },
+  {
+    "id": 1001,
+    "effectName": "GachaFx_Sr"
+  },
+  {
+    "id": 1002,
+    "effectName": "GachaFx_Ssr"
+  },
+  {
+    "id": 1003,
+    "effectName": "GachaFx_loop_Sr"
+  },
+  {
+    "id": 1004,
+    "effectName": "GachaFx_loop_Ssr"
+  },
+  {
+    "id": 1005,
+    "effectName": "GachaFx_Repeat_Ssr"
+  },
+  {
+    "id": 1006,
+    "effectName": "Fx_Gacha_Skin_1_bottom"
+  },
+  {
+    "id": 1007,
+    "effectName": "Fx_Gacha_Skin_1_top"
+  },
+  {
+    "id": 1008,
+    "effectName": "Fx_Gacha_Skin_2_bottom"
+  },
+  {
+    "id": 1009,
+    "effectName": "Fx_Gacha_Skin_2_top"
+  },
+  {
+    "id": 1010,
+    "effectName": "Battle_victory"
+  },
+  {
+    "id": 1011,
+    "effectName": "BattleShow_Gold"
+  },
+  {
+    "id": 1012,
+    "effectName": "CardChageFire"
+  },
+  {
+    "id": 1013,
+    "effectName": "UILine"
+  },
+  {
+    "id": 1014,
+    "effectName": "Fx_Warning_Prompt_Red"
+  },
+  {
+    "id": 2000,
+    "effectName": "Dustbin"
+  },
+  {
+    "id": 2001,
+    "effectName": "RoadLine_0"
+  },
+  {
+    "id": 2002,
+    "effectName": "RoadLine_1"
+  },
+  {
+    "id": 3000,
+    "effectName": "Gold_Down_SG"
+  },
+  {
+    "id": 3001,
+    "effectName": "Gold_UP_SG"
+  },
+  {
+    "id": 3002,
+    "effectName": "SG_Common_Jump"
+  },
+  {
+    "id": 3003,
+    "effectName": "SG_Building_Enter"
+  },
+  {
+    "id": 3004,
+    "effectName": "SG_Building_GainExp"
+  },
+  {
+    "id": 3005,
+    "effectName": "SG_Building_GoldUp_01"
+  },
+  {
+    "id": 3006,
+    "effectName": "SG_Building_GoldUp_02"
+  },
+  {
+    "id": 3007,
+    "effectName": "SG_Building_Heal"
+  },
+  {
+    "id": 3008,
+    "effectName": "SG_Building_LevelUp"
+  },
+  {
+    "id": 3009,
+    "effectName": "SG_Land_Trigger"
+  },
+  {
+    "id": 3100,
+    "effectName": "SG_Bullet_BlueFire"
+  },
+  {
+    "id": 3101,
+    "effectName": "SG_Bullet_BlueFire_Hit"
+  },
+  {
+    "id": 3102,
+    "effectName": "SG_Bullet_Cactus"
+  },
+  {
+    "id": 3103,
+    "effectName": "SG_Bullet_Cactus_Hit"
+  },
+  {
+    "id": 3104,
+    "effectName": "SG_Bullet_Water"
+  },
+  {
+    "id": 3105,
+    "effectName": "SG_Bullet_Water_Hit"
+  },
+  {
+    "id": 3106,
+    "effectName": "SG_Bullet_Cannon"
+  },
+  {
+    "id": 3107,
+    "effectName": "SG_Bullet_Cannon_Hit"
+  },
+  {
+    "id": 3108,
+    "effectName": "SG_Building_SendExp"
+  },
+  {
+    "id": 3109,
+    "effectName": "SG_Building_PowerUp"
+  },
+  {
+    "id": 3110,
+    "effectName": "Region_Select_SinglePlay"
+  },
+  {
+    "id": 10401,
+    "effectName": "Skill_104_Bust"
+  },
+  {
+    "id": 10402,
+    "effectName": "Skill_104_Ready",
+    "isHeroSupport": true
+  },
+  {
+    "id": 10601,
+    "effectName": "106_A_Buff",
+    "isHeroSupport": true
+  },
+  {
+    "id": 10602,
+    "effectName": "Show_106_02"
+  },
+  {
+    "id": 10603,
+    "effectName": "Talent_106_02"
+  },
+  {
+    "id": 10701,
+    "effectName": "107_A_Buff",
+    "isHeroSupport": true
+  },
+  {
+    "id": 10702,
+    "effectName": "107_05_A_Buff",
+    "isHeroSupport": true
+  },
+  {
+    "id": 11101,
+    "effectName": "Summon_111_Shadow"
+  },
+  {
+    "id": 11102,
+    "effectName": "Summon_111_Shadow_Hit"
+  },
+  {
+    "id": 11103,
+    "effectName": "Summon_111_Shadow_Tail"
+  },
+  {
+    "id": 11201,
+    "effectName": "Skill_112_Movedown",
+    "isHeroSupport": true
+  },
+  {
+    "id": 11202,
+    "effectName": "Skill_112_Heal",
+    "isHeroSupport": true
+  },
+  {
+    "id": 11203,
+    "effectName": "Summon_112_Heal"
+  },
+  {
+    "id": 11301,
+    "effectName": "Skill_113_Break"
+  },
+  {
+    "id": 11302,
+    "effectName": "Fight_113_03_BG"
+  },
+  {
+    "id": 11401,
+    "effectName": "Skill_lanhaiqing",
+    "isHeroSupport": true
+  },
+  {
+    "id": 11402,
+    "effectName": "Skill_114_Astrology",
+    "isHeroSupport": true
+  },
+  {
+    "id": 11403,
+    "effectName": "Buff_114_Lock",
+    "isHeroSupport": true
+  },
+  {
+    "id": 11404,
+    "effectName": "Skill_114_Astrology_03",
+    "isHeroSupport": true
+  },
+  {
+    "id": 11501,
+    "effectName": "Skill_taidao"
+  },
+  {
+    "id": 11502,
+    "effectName": "Fx_115_02_start",
+    "isCharacterObj": true
+  },
+  {
+    "id": 11503,
+    "effectName": "Fx_115_02_Talent_time"
+  },
+  {
+    "id": 11504,
+    "effectName": "Fx_115_02_end",
+    "isCharacterObj": true
+  },
+  {
+    "id": 11505,
+    "effectName": "Fx_115_02_Walk",
+    "isCharacterObj": true
+  },
+  {
+    "id": 11609,
+    "effectName": "116_Card_vfx"
+  },
+  {
+    "id": 11709,
+    "effectName": "BattleShow_Atk_117"
+  },
+  {
+    "id": 11901,
+    "effectName": "Skill_119_02_Hit"
+  },
+  {
+    "id": 12001,
+    "effectName": "120_Buff_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12002,
+    "effectName": "120_Buff_02",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12003,
+    "effectName": "120_Buff_03",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12101,
+    "effectName": "Fight_121_03",
+    "isHeroSupport": true,
+    "isCharacterObj": true
+  },
+  {
+    "id": 12201,
+    "effectName": "Skill_122_Hit"
+  },
+  {
+    "id": 12202,
+    "effectName": "Skill_122_02_Shoot"
+  },
+  {
+    "id": 12203,
+    "effectName": "Skill_122_02_Hit"
+  },
+  {
+    "id": 12301,
+    "effectName": "Buff_123_02",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12501,
+    "effectName": "Buff_125_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12502,
+    "effectName": "Skill_125_Hit"
+  },
+  {
+    "id": 12601,
+    "effectName": "Fight_126_Rain"
+  },
+  {
+    "id": 12602,
+    "effectName": "Buff_126_Awake",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12701,
+    "effectName": "Buff_127_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12801,
+    "effectName": "Skill_128_Charge",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12802,
+    "effectName": "Skill_128_Charge_Hit",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12803,
+    "effectName": "Buff_128_Self",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12804,
+    "effectName": "Skill_128_Charge_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12901,
+    "effectName": "Skill_129_Skill"
+  },
+  {
+    "id": 12903,
+    "effectName": "Summon_129_Tentacle_Show"
+  },
+  {
+    "id": 12904,
+    "effectName": "Summon_129_Tentacle_Attack"
+  },
+  {
+    "id": 12905,
+    "effectName": "Summon_129_Tentacle_MoveDownHit",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12911,
+    "effectName": "Summon_129_Land"
+  },
+  {
+    "id": 12912,
+    "effectName": "Summon_129_Land_MoveDown",
+    "isHeroSupport": true
+  },
+  {
+    "id": 12913,
+    "effectName": "Summon_129_Land_Stop",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30101,
+    "effectName": "301_Buff",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30301,
+    "effectName": "Skill_303_Hit_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30302,
+    "effectName": "Skill_303_Hit_02",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30303,
+    "effectName": "Skill_303_Hit_03",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30401,
+    "effectName": "Buff_304_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30402,
+    "effectName": "Buff_304_02",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30501,
+    "effectName": "Buff_305_Awakening",
+    "isHeroSupport": true
+  },
+  {
+    "id": 30502,
+    "effectName": "Skill_305_MoveUp"
+  },
+  {
+    "id": 30601,
+    "effectName": "Skill_306_Skill"
+  },
+  {
+    "id": 30602,
+    "effectName": "Skill_306_Hit"
+  },
+  {
+    "id": 30603,
+    "effectName": "Buff_306",
+    "isHeroSupport": true
+  },
+  {
+    "id": 100301,
+    "effectName": "Boss_Begin"
+  },
+  {
+    "id": 100302,
+    "effectName": "Boss_Hit"
+  },
+  {
+    "id": 100401,
+    "effectName": "1004_Skill"
+  },
+  {
+    "id": 101001,
+    "effectName": "Hitchangmao"
+  },
+  {
+    "id": 101101,
+    "effectName": "1011_Buff_defend",
+    "isHeroSupport": true
+  },
+  {
+    "id": 101102,
+    "effectName": "1011_Buff_attack",
+    "isHeroSupport": true
+  },
+  {
+    "id": 101103,
+    "effectName": "Buff_1011_ExPassive",
+    "isHeroSupport": true
+  },
+  {
+    "id": 101701,
+    "effectName": "Shield_Buff",
+    "isHeroSupport": true
+  },
+  {
+    "id": 102001,
+    "effectName": "Chain_Link"
+  },
+  {
+    "id": 102201,
+    "effectName": "Skill_1022_Missile"
+  },
+  {
+    "id": 102601,
+    "effectName": "Skill_1026_Hit"
+  },
+  {
+    "id": 102602,
+    "effectName": "Skill_1026_Ready",
+    "isHeroSupport": true
+  },
+  {
+    "id": 102603,
+    "effectName": "Skill_1026_Wave"
+  },
+  {
+    "id": 102701,
+    "effectName": "Buff_1027_High",
+    "isHeroSupport": true
+  },
+  {
+    "id": 102702,
+    "effectName": "Buff_1027_Low",
+    "isHeroSupport": true
+  },
+  {
+    "id": 103001,
+    "effectName": "Skill_1030_Hit"
+  },
+  {
+    "id": 103101,
+    "effectName": "Skill_1031_Wave"
+  },
+  {
+    "id": 103301,
+    "effectName": "Skill_1033_Hit"
+  },
+  {
+    "id": 104601,
+    "effectName": "Buff_1046_Fire",
+    "isHeroSupport": true
+  },
+  {
+    "id": 104701,
+    "effectName": "Buff_1047_Assemble",
+    "isHeroSupport": true
+  },
+  {
+    "id": 104702,
+    "effectName": "Buff_1047_Heal"
+  },
+  {
+    "id": 104902,
+    "effectName": "Buff_1049_Fire",
+    "isHeroSupport": true
+  },
+  {
+    "id": 104903,
+    "effectName": "Buff_1049_Fire_Hit"
+  },
+  {
+    "id": 105401,
+    "effectName": "Skill_1054_Firecrackers"
+  },
+  {
+    "id": 105501,
+    "effectName": "Skill_1055_Talent"
+  },
+  {
+    "id": 105701,
+    "effectName": "Skill_1057_Talent"
+  },
+  {
+    "id": 105702,
+    "effectName": "Buff_1057_Talent",
+    "isHeroSupport": true
+  },
+  {
+    "id": 105703,
+    "effectName": "Show_Common_Mechanoid"
+  },
+  {
+    "id": 105704,
+    "effectName": "Show_Common_Mechanoid_Large"
+  },
+  {
+    "id": 106101,
+    "effectName": "Skill_1061_YellowCard"
+  },
+  {
+    "id": 106102,
+    "effectName": "Skill_1061_RedCard"
+  },
+  {
+    "id": 106201,
+    "effectName": "Skill_1062_Hit"
+  },
+  {
+    "id": 106502,
+    "effectName": "Skill_1065_Skill"
+  },
+  {
+    "id": 106503,
+    "effectName": "Skill_1065_Summon"
+  },
+  {
+    "id": 106504,
+    "effectName": "Buff_1065_01"
+  },
+  {
+    "id": 106505,
+    "effectName": "Buff_1065_02"
+  },
+  {
+    "id": 106506,
+    "effectName": "Buff_1065_03"
+  },
+  {
+    "id": 106507,
+    "effectName": "Buff_1065_04"
+  },
+  {
+    "id": 106511,
+    "effectName": "Buff_1065_01",
+    "isHeroSupport": true
+  },
+  {
+    "id": 106512,
+    "effectName": "Buff_1065_02",
+    "isHeroSupport": true
+  },
+  {
+    "id": 106513,
+    "effectName": "Buff_1065_03",
+    "isHeroSupport": true
+  },
+  {
+    "id": 106514,
+    "effectName": "Buff_1065_04",
+    "isHeroSupport": true
+  },
+  {
+    "id": 106601,
+    "effectName": "Skill_1066_Talent"
+  },
+  {
+    "id": 106602,
+    "effectName": "Skill_1066_Hit"
+  },
+  {
+    "id": 106701,
+    "effectName": "Skill_1067_Skill"
+  },
+  {
+    "id": 106702,
+    "effectName": "Skill_1067_Skill_Hit"
+  },
+  {
+    "id": 106703,
+    "effectName": "Buff_1067_Stage2",
+    "isHeroSupport": true
+  },
+  {
+    "id": 106704,
+    "effectName": "Buff_1067_Target",
+    "isHeroSupport": true
+  },
+  {
+    "id": 106801,
+    "effectName": "Buff_1068",
+    "isHeroSupport": true
+  },
+  {
+    "id": 200100,
+    "effectName": "XianJing_Gold"
+  },
+  {
+    "id": 200200,
+    "effectName": "XianJing_Hit"
+  },
+  {
+    "id": 200300,
+    "effectName": "LeiYun"
+  },
+  {
+    "id": 200301,
+    "effectName": "LeiYun_Hit"
+  },
+  {
+    "id": 200500,
+    "effectName": "GuoQiBianDang_Loop"
+  },
+  {
+    "id": 200600,
+    "effectName": "ShouBenglei"
+  },
+  {
+    "id": 200700,
+    "effectName": "Vfx_Tuanzi"
+  },
+  {
+    "id": 210000,
+    "effectName": "LuZhang"
+  },
+  {
+    "id": 210100,
+    "effectName": "LuZhang_Plus"
+  },
+  {
+    "id": 230000,
+    "effectName": "Land_1027_Gourd"
+  },
+  {
+    "id": 240000,
+    "effectName": "Land_Common_PoisonFog"
+  },
+  {
+    "id": 250000,
+    "effectName": "Summon_1033_Body"
+  },
+  {
+    "id": 250100,
+    "effectName": "Summon_1068_Body"
+  },
+  {
+    "id": 260000,
+    "effectName": "Summon_2700_MandarinDuck"
+  },
+  {
+    "id": 260001,
+    "effectName": "Summon_2700_Take"
+  },
+  {
+    "id": 1000100,
+    "effectName": "Buff_SXBK"
+  },
+  {
+    "id": 1000201,
+    "effectName": "Defense_Up_01"
+  },
+  {
+    "id": 2000100,
+    "effectName": "Buff_Common_Movedown",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2000101,
+    "effectName": "Jiguangbi_01"
+  },
+  {
+    "id": 2000102,
+    "effectName": "Jiguangbi_02"
+  },
+  {
+    "id": 2000103,
+    "effectName": "Jiguangbi_03"
+  },
+  {
+    "id": 2001201,
+    "effectName": "DanGong_01"
+  },
+  {
+    "id": 2001202,
+    "effectName": "DanGong_02"
+  },
+  {
+    "id": 2001203,
+    "effectName": "DanGong_03"
+  },
+  {
+    "id": 2000700,
+    "effectName": "SoulLink_0"
+  },
+  {
+    "id": 2000800,
+    "effectName": "Buff_KuangBao",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2000900,
+    "effectName": "ZiBao",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2001301,
+    "effectName": "Hit_Banzhuan_01"
+  },
+  {
+    "id": 2001302,
+    "effectName": "Hit_Banzhuan_02"
+  },
+  {
+    "id": 2001303,
+    "effectName": "Hit_Banzhuan_03"
+  },
+  {
+    "id": 2002100,
+    "effectName": "ShouBenglei"
+  },
+  {
+    "id": 2000300,
+    "effectName": "Shield_Common",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2000400
+  },
+  {
+    "id": 2001900,
+    "effectName": "PoisonedBuff",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2001901,
+    "effectName": "GuoQiBianDang_Loop"
+  },
+  {
+    "id": 2001902,
+    "effectName": "Buff_Diaoxue",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2001000
+  },
+  {
+    "id": 2002000,
+    "effectName": "Buff_SXBK",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2002700,
+    "effectName": "Zhaomengji_Heal"
+  },
+  {
+    "id": 2002701,
+    "effectName": "Zhaomengji_Heal_01"
+  },
+  {
+    "id": 2002702,
+    "effectName": "Zhaomengji_Heal_02"
+  },
+  {
+    "id": 2002703,
+    "effectName": "Zhaomengji_Heal_03"
+  },
+  {
+    "id": 2002800,
+    "effectName": "Zhaomengji_Damage"
+  },
+  {
+    "id": 2003000,
+    "effectName": "Skill_121_LightHit"
+  },
+  {
+    "id": 2003001,
+    "effectName": "Skill_121_HeavyHit"
+  },
+  {
+    "id": 2003002,
+    "effectName": "Skill_121_01_LightHit"
+  },
+  {
+    "id": 2003003,
+    "effectName": "Skill_121_01_HeavyHit"
+  },
+  {
+    "id": 2003004,
+    "effectName": "Fight_121_03_PigeonLight"
+  },
+  {
+    "id": 2003005,
+    "effectName": "Fight_121_03_PigeonHeavy"
+  },
+  {
+    "id": 2100900,
+    "effectName": "Skill_1016_Firecrackers"
+  },
+  {
+    "id": 2100901,
+    "effectName": "WaterTown_Wave"
+  },
+  {
+    "id": 2101000,
+    "effectName": "Buff_1018_Lock",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2101400,
+    "effectName": "Card_21015_Hit"
+  },
+  {
+    "id": 2101500,
+    "effectName": "Card_21014_Buff",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2101600,
+    "effectName": "Card_21016_Hit"
+  },
+  {
+    "id": 2101900,
+    "effectName": "Card_21019_Hit"
+  },
+  {
+    "id": 2101901,
+    "effectName": "Buff_10081102_Hit"
+  },
+  {
+    "id": 2101902,
+    "effectName": "Buff_10081102_Dot",
+    "isHeroSupport": true
+  },
+  {
+    "id": 2102001,
+    "effectName": "Card_21020_Teleport"
+  },
+  {
+    "id": 2102501,
+    "effectName": "Card_21025_Hit"
+  },
+  {
+    "id": 3001600,
+    "effectName": "LeiYun"
+  },
+  {
+    "id": 3001604,
+    "effectName": "LeiYun_Hit",
+    "isHeroSupport": true
+  },
+  {
+    "id": 3002000,
+    "effectName": "Vfx_Shield",
+    "isHeroSupport": true
+  },
+  {
+    "id": 6000100,
+    "effectName": "Relic_50071_Bless",
+    "isHeroSupport": true
+  },
+  {
+    "id": 6000200,
+    "effectName": "Relic_50078_StarLitHit"
+  },
+  {
+    "id": 6000300,
+    "effectName": "Relic_50079_StarHeavyHit"
+  },
+  {
+    "id": 6000400,
+    "effectName": "Relic_50087_Hit"
+  },
+  {
+    "id": 6000500,
+    "effectName": "Relic_50091_Hit"
+  },
+  {
+    "id": 7300101,
+    "effectName": "Fight_EX_HIT"
+  },
+  {
+    "id": 7300102,
+    "effectName": "Fight_SmokeTrail"
+  },
+  {
+    "id": 7300201,
+    "effectName": "Fight_EX_HIT_02"
+  },
+  {
+    "id": 7300301,
+    "effectName": "Fight_EX_HIT_03"
+  },
+  {
+    "id": 7300401,
+    "effectName": "Fight_EX_HIT_04"
+  },
+  {
+    "id": 7300501,
+    "effectName": "Fight_EX_HIT_05"
+  },
+  {
+    "id": 7300601,
+    "effectName": "Fight_EX_HIT_06"
+  },
+  {
+    "id": 7300701,
+    "effectName": "Fight_EX_HIT_07"
+  },
+  {
+    "id": 7300801,
+    "effectName": "Fight_EX_HIT_08"
+  },
+  {
+    "id": 7300901,
+    "effectName": "Fight_EX_HIT_09"
+  },
+  {
+    "id": 7301001,
+    "effectName": "Fight_EX_HIT_06"
+  },
+  {
+    "id": 7301101,
+    "effectName": "Fight_EX_HIT_10"
+  },
+  {
+    "id": 7301201,
+    "effectName": "Fight_EX_HIT_11"
+  },
+  {
+    "id": 8000600,
+    "effectName": "Divination_BG"
+  },
+  {
+    "id": 8000700,
+    "effectName": "shoping_Lihgt_01"
+  },
+  {
+    "id": 8000701,
+    "effectName": "Card_shine"
+  },
+  {
+    "id": 8000900,
+    "effectName": "lotteryticket_Chose"
+  },
+  {
+    "id": 8001100,
+    "effectName": "PaoTai_02"
+  },
+  {
+    "id": 8001300,
+    "effectName": "Teleport_Up"
+  },
+  {
+    "id": 8001301,
+    "effectName": "Teleport"
+  },
+  {
+    "id": 8001302,
+    "effectName": "DiDi_FightGo"
+  },
+  {
+    "id": 8001303,
+    "effectName": "DiDi_FightGo"
+  },
+  {
+    "id": 8001700,
+    "effectName": "Blood_Hit"
+  },
+  {
+    "id": 8000100,
+    "effectName": "Land_Common_Tips"
+  },
+  {
+    "id": 9000100,
+    "effectName": "Buff_Mutator_60111"
+  },
+  {
+    "id": 9000200,
+    "effectName": "Mutator_60114"
+  }
+]

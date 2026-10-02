@@ -1,0 +1,163 @@
+[
+  {
+    "id": 202609,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "battlePassTaskConfigureItems": [
+      {
+        "id": 508001,
+        "orderWeight": 1,
+        "taskRefreshType": {
+          "value": 1,
+          "name": "TaskRefreshType_Daily"
+        },
+        "conditionType": {
+          "value": 15,
+          "name": "ConditionType_Total_LoginDays"
+        },
+        "param": 1,
+        "nameID": 150,
+        "descId": 151,
+        "exp": 550,
+        "icon": "UT_Item_Currency_51"
+      },
+      {
+        "id": 508002,
+        "orderWeight": 2,
+        "taskRefreshType": {
+          "value": 1,
+          "name": "TaskRefreshType_Daily"
+        },
+        "conditionType": {
+          "value": 14,
+          "name": "ConditionType_Total_DoneGameCount"
+        },
+        "param": 1,
+        "nameID": 140,
+        "descId": 141,
+        "exp": 250,
+        "icon": "UT_Item_Currency_51",
+        "way": 130
+      },
+      {
+        "id": 508003,
+        "orderWeight": 3,
+        "taskRefreshType": {
+          "value": 1,
+          "name": "TaskRefreshType_Daily"
+        },
+        "conditionType": {
+          "value": 14,
+          "name": "ConditionType_Total_DoneGameCount"
+        },
+        "param": 2,
+        "nameID": 140,
+        "descId": 141,
+        "exp": 250,
+        "icon": "UT_Item_Currency_51",
+        "way": 130
+      },
+      {
+        "id": 508004,
+        "orderWeight": 4,
+        "taskRefreshType": {
+          "value": 1,
+          "name": "TaskRefreshType_Daily"
+        },
+        "conditionType": {
+          "value": 311,
+          "name": "ConditionType_Total_ShopBuy_Count"
+        },
+        "param": 2,
+        "nameID": 250,
+        "descId": 251,
+        "exp": 150,
+        "icon": "UT_Item_Currency_51",
+        "way": 130
+      },
+      {
+        "id": 508005,
+        "orderWeight": 10,
+        "taskRefreshType": {
+          "value": 2,
+          "name": "TaskRefreshType_Weekly"
+        },
+        "conditionType": {
+          "value": 14,
+          "name": "ConditionType_Total_DoneGameCount"
+        },
+        "param": 5,
+        "nameID": 140,
+        "descId": 141,
+        "exp": 1000,
+        "icon": "UT_Item_Currency_51",
+        "way": 130
+      },
+      {
+        "id": 508006,
+        "orderWeight": 20,
+        "taskRefreshType": {
+          "value": 2,
+          "name": "TaskRefreshType_Weekly"
+        },
+        "conditionType": {
+          "value": 14,
+          "name": "ConditionType_Total_DoneGameCount"
+        },
+        "param": 10,
+        "nameID": 140,
+        "descId": 141,
+        "exp": 1000,
+        "icon": "UT_Item_Currency_51",
+        "way": 130
+      },
+      {
+        "id": 508007,
+        "orderWeight": 40,
+        "taskRefreshType": {
+          "value": 2,
+          "name": "TaskRefreshType_Weekly"
+        },
+        "conditionType": {
+          "value": 13,
+          "name": "ConditionType_Total_WinGameCount"
+        },
+        "param": 5,
+        "nameID": 120,
+        "descId": 121,
+        "exp": 1000,
+        "icon": "UT_Item_Currency_51",
+        "way": 130
+      },
+      {
+        "id": 508008,
+        "orderWeight": 50,
+        "taskRefreshType": {
+          "value": 2,
+          "name": "TaskRefreshType_Weekly"
+        },
+        "conditionType": {
+          "value": 319,
+          "name": "ConditionType_Total_SingleMode_Round_Count"
+        },
+        "param": 100,
+        "nameID": 260,
+        "descId": 261,
+        "exp": 1000,
+        "icon": "UT_Item_Currency_51"
+      }
+    ]
+  }
+]

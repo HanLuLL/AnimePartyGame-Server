@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "simplified": "申请好友"
+  },
+  {
+    "id": 2,
+    "simplified": "同意"
+  },
+  {
+    "id": 3,
+    "simplified": "拒绝"
+  },
+  {
+    "id": 4,
+    "simplified": "拉黑"
+  },
+  {
+    "id": 5,
+    "simplified": "解除好友"
+  },
+  {
+    "id": 6,
+    "simplified": "解除拉黑"
+  },
+  {
+    "id": 7,
+    "simplified": "聊天"
+  },
+  {
+    "id": 8,
+    "simplified": "修改备注"
+  },
+  {
+    "id": 101,
+    "simplified": "已发送好友申请"
+  },
+  {
+    "id": 102,
+    "simplified": "已成为好友"
+  },
+  {
+    "id": 104,
+    "simplified": "已拉黑"
+  },
+  {
+    "id": 105,
+    "simplified": "已解除了{0}的好友关系"
+  },
+  {
+    "id": 106,
+    "simplified": "已解除了{0}的拉黑"
+  },
+  {
+    "id": 1001,
+    "simplified": "数据载入中...."
+  },
+  {
+    "id": 1002,
+    "simplified": "操作频繁，稍后再试！"
+  },
+  {
+    "id": 1003,
+    "simplified": "今日申请好友次数过多，请明日再试！"
+  },
+  {
+    "id": 1004,
+    "simplified": "好友数量已达到上限！"
+  },
+  {
+    "id": 1005,
+    "simplified": "对方的好友数量已达到上限！"
+  },
+  {
+    "id": 1006,
+    "simplified": "您的黑名单数量已达到上限！"
+  },
+  {
+    "id": 1007,
+    "simplified": "该房间已满员或已解散，无法加入！"
+  },
+  {
+    "id": 1008,
+    "simplified": "确定要解除{0}的好友关系吗？"
+  },
+  {
+    "id": 1009,
+    "simplified": "请输入UID"
+  },
+  {
+    "id": 1010,
+    "simplified": "无法添加自己为好友"
+  },
+  {
+    "id": 1011,
+    "simplified": "备注修改完成"
+  },
+  {
+    "id": 2001,
+    "simplified": "在线"
+  },
+  {
+    "id": 2002,
+    "simplified": "隐身"
+  },
+  {
+    "id": 2003,
+    "simplified": "我的状态"
+  }
+]

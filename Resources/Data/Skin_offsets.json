@@ -1,0 +1,2188 @@
+[
+  {
+    "id": 1,
+    "imageName": "UT_Hero_Card_101",
+    "offsetX": -220.0,
+    "offsetY": -40.0,
+    "characterStateSkinOffsetX": 80.0,
+    "characterStateSkinOffsetY": -65.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 2,
+    "imageName": "UT_Hero_Card_101_Max",
+    "offsetX": -140.1999969482422,
+    "offsetY": 54.5,
+    "characterStateSkinOffsetX": 151.0,
+    "characterStateSkinOffsetY": -40.20000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 3,
+    "imageName": "UT_Hero_Card_101_01",
+    "offsetX": -40.0,
+    "offsetY": 38.0,
+    "characterStateSkinOffsetX": 235.0,
+    "characterStateSkinOffsetY": -40.20000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 4,
+    "imageName": "UT_Hero_Card_101_01_sfw",
+    "offsetX": -40.0,
+    "offsetY": 38.0,
+    "characterStateSkinOffsetX": 235.0,
+    "characterStateSkinOffsetY": -40.20000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 5,
+    "imageName": "UT_Hero_Card_101_02",
+    "offsetX": -200.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 90.0,
+    "characterStateSkinOffsetY": -60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 6,
+    "imageName": "UT_Hero_Card_102",
+    "offsetX": -10.0,
+    "offsetY": -54.7599983215332,
+    "characterStateSkinOffsetX": 249.5,
+    "characterStateSkinOffsetY": -65.4000015258789,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 7,
+    "imageName": "UT_Hero_Card_102_Max",
+    "offsetX": 12.699999809265137,
+    "offsetY": 134.89999389648438,
+    "characterStateSkinOffsetX": 242.5,
+    "characterStateSkinOffsetY": 28.299999237060547,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 8,
+    "imageName": "UT_Hero_Card_102_01",
+    "offsetX": -18.0,
+    "offsetY": -32.0,
+    "characterStateSkinOffsetX": 135.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6800000071525574
+  },
+  {
+    "id": 9,
+    "imageName": "UT_Hero_Card_102_01_sfw",
+    "offsetX": -18.0,
+    "offsetY": -32.0,
+    "characterStateSkinOffsetX": 135.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6800000071525574
+  },
+  {
+    "id": 10,
+    "imageName": "UT_Hero_Card_102_02",
+    "offsetX": -120.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -66.0,
+    "characterStateSkinScale": 0.6800000071525574
+  },
+  {
+    "id": 11,
+    "imageName": "UT_Hero_Card_102_03",
+    "offsetX": -100.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -66.0,
+    "characterStateSkinScale": 0.6800000071525574
+  },
+  {
+    "id": 12,
+    "imageName": "UT_Hero_Card_102_04",
+    "offsetX": -220.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 80.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6800000071525574
+  },
+  {
+    "id": 13,
+    "imageName": "UT_Hero_Card_103",
+    "offsetX": -130.0,
+    "offsetY": -54.459999084472656,
+    "characterStateSkinOffsetX": 106.4000015258789,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 14,
+    "imageName": "UT_Hero_Card_103_sfw",
+    "offsetX": -130.0,
+    "offsetY": -54.459999084472656,
+    "characterStateSkinOffsetX": 106.4000015258789,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 15,
+    "imageName": "UT_Hero_Card_103_Max",
+    "offsetX": -40.400001525878906,
+    "offsetY": -19.610000610351562,
+    "characterStateSkinOffsetX": 168.89999389648438,
+    "characterStateSkinOffsetY": -53.900001525878906,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 16,
+    "imageName": "UT_Hero_Card_103_Max_sfw",
+    "offsetX": -40.400001525878906,
+    "offsetY": -19.610000610351562,
+    "characterStateSkinOffsetX": 168.89999389648438,
+    "characterStateSkinOffsetY": -53.900001525878906,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 17,
+    "imageName": "UT_Hero_Card_103_01",
+    "offsetX": -20.0,
+    "offsetY": -10.0,
+    "characterStateSkinOffsetX": 220.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 18,
+    "imageName": "UT_Hero_Card_103_01_sfw",
+    "offsetX": -20.0,
+    "offsetY": -10.0,
+    "characterStateSkinOffsetX": 220.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 19,
+    "imageName": "UT_Hero_Card_103_02",
+    "offsetX": -150.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 120.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 20,
+    "imageName": "UT_Hero_Card_103_03",
+    "offsetX": -100.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 21,
+    "imageName": "UT_Hero_Card_104",
+    "offsetX": -220.6999969482422,
+    "offsetY": 15.739999771118164,
+    "characterStateSkinOffsetX": 78.55000305175781,
+    "characterStateSkinOffsetY": -42.79999923706055,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 22,
+    "imageName": "UT_Hero_Card_104_Max",
+    "offsetX": 65.91000366210938,
+    "offsetY": 28.25,
+    "characterStateSkinOffsetX": 260.17999267578125,
+    "characterStateSkinOffsetY": -75.19999694824219,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 23,
+    "imageName": "UT_Hero_Card_104_01",
+    "offsetY": -66.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 24,
+    "imageName": "UT_Hero_Card_104_01_sfw",
+    "offsetY": -66.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 25,
+    "imageName": "UT_Hero_Card_104_02",
+    "offsetX": -320.0,
+    "offsetY": -66.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 26,
+    "imageName": "UT_Hero_Card_104_02_sfw",
+    "offsetX": -320.0,
+    "offsetY": -66.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 27,
+    "imageName": "UT_Hero_Card_105",
+    "offsetX": -33.599998474121094,
+    "offsetY": -22.100000381469727,
+    "characterStateSkinOffsetX": 170.6999969482422,
+    "characterStateSkinOffsetY": -89.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 28,
+    "imageName": "UT_Hero_Card_105_Max",
+    "offsetX": -98.3499984741211,
+    "offsetY": 2.200000047683716,
+    "characterStateSkinOffsetX": 198.3800048828125,
+    "characterStateSkinOffsetY": -36.70000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 29,
+    "imageName": "UT_Hero_Card_105_Max_CA",
+    "offsetX": -98.3499984741211,
+    "offsetY": 2.200000047683716,
+    "characterStateSkinOffsetX": 198.3800048828125,
+    "characterStateSkinOffsetY": -36.70000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 30,
+    "imageName": "UT_Hero_Card_105_01",
+    "offsetX": -100.0,
+    "offsetY": 150.0,
+    "characterStateSkinOffsetX": 198.3800048828125,
+    "characterStateSkinOffsetY": -36.70000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 31,
+    "imageName": "UT_Hero_Card_106",
+    "offsetX": 56.599998474121094,
+    "offsetY": -22.299999237060547,
+    "characterStateSkinOffsetX": 234.39999389648438,
+    "characterStateSkinOffsetY": -60.400001525878906,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 32,
+    "imageName": "UT_Hero_Card_106_Max",
+    "offsetX": -12.399999618530273,
+    "offsetY": -29.43000030517578,
+    "characterStateSkinOffsetX": 175.10000610351562,
+    "characterStateSkinOffsetY": -52.20000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 33,
+    "imageName": "UT_Hero_Card_106_Max_sfw",
+    "offsetX": -12.399999618530273,
+    "offsetY": -29.43000030517578,
+    "characterStateSkinOffsetX": 175.10000610351562,
+    "characterStateSkinOffsetY": -52.20000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 34,
+    "imageName": "UT_Hero_Card_106_01",
+    "offsetX": 50.0,
+    "offsetY": -29.43000030517578,
+    "characterStateSkinOffsetX": 233.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 35,
+    "imageName": "UT_Hero_Card_106_02",
+    "offsetX": -220.0,
+    "offsetY": -25.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -75.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 36,
+    "imageName": "UT_Hero_Card_106_02_sfw",
+    "offsetX": -220.0,
+    "offsetY": -25.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -75.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 37,
+    "imageName": "UT_Hero_Card_107",
+    "offsetX": 19.5,
+    "offsetY": -37.20000076293945,
+    "characterStateSkinOffsetX": 230.0,
+    "characterStateSkinOffsetY": -115.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 38,
+    "imageName": "UT_Hero_Card_107_Max",
+    "offsetX": -3.5999999046325684,
+    "offsetY": 62.900001525878906,
+    "characterStateSkinOffsetX": 233.0,
+    "characterStateSkinOffsetY": -8.399999618530273,
+    "characterStateSkinScale": 0.550000011920929
+  },
+  {
+    "id": 39,
+    "imageName": "UT_Hero_Card_107_Max_sfw",
+    "offsetX": -3.5999999046325684,
+    "offsetY": 62.900001525878906,
+    "characterStateSkinOffsetX": 233.0,
+    "characterStateSkinOffsetY": -8.399999618530273,
+    "characterStateSkinScale": 0.550000011920929
+  },
+  {
+    "id": 40,
+    "imageName": "UT_Hero_Card_107_01",
+    "offsetX": -329.6000061035156,
+    "offsetY": 151.89999389648438,
+    "characterStateSkinOffsetX": 89.0,
+    "characterStateSkinOffsetY": 39.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 41,
+    "imageName": "UT_Hero_Card_107_02",
+    "offsetY": -10.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 42,
+    "imageName": "UT_Hero_Card_107_02_sfw",
+    "offsetY": -10.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 43,
+    "imageName": "UT_Hero_Card_107_03",
+    "offsetX": -100.0,
+    "offsetY": 20.0,
+    "characterStateSkinOffsetX": 120.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 44,
+    "imageName": "UT_Hero_Card_107_03_sfw",
+    "offsetX": -100.0,
+    "offsetY": 20.0,
+    "characterStateSkinOffsetX": 120.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 45,
+    "imageName": "UT_Hero_Card_107_04",
+    "offsetX": -50.0,
+    "offsetY": -40.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -81.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 46,
+    "imageName": "UT_Hero_Card_107_05",
+    "offsetX": -240.0,
+    "offsetY": 50.0,
+    "characterStateSkinOffsetX": 75.0,
+    "characterStateSkinOffsetY": -30.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 47,
+    "imageName": "UT_Hero_Card_108",
+    "offsetX": 110.0,
+    "offsetY": 90.0,
+    "characterStateSkinOffsetX": 228.89999389648438,
+    "characterStateSkinOffsetY": -3.5,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 48,
+    "imageName": "UT_Hero_Card_108_Max",
+    "offsetX": -374.70001220703125,
+    "offsetY": 131.60000610351562,
+    "characterStateSkinOffsetX": -71.30000305175781,
+    "characterStateSkinOffsetY": -21.700000762939453,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 49,
+    "imageName": "UT_Hero_Card_108_Max_sfw",
+    "offsetX": -374.70001220703125,
+    "offsetY": 131.60000610351562,
+    "characterStateSkinOffsetX": -71.30000305175781,
+    "characterStateSkinOffsetY": -21.700000762939453,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 50,
+    "imageName": "UT_Hero_Card_108_01",
+    "offsetX": -69.80000305175781,
+    "offsetY": 163.1199951171875,
+    "characterStateSkinOffsetX": 194.0,
+    "characterStateSkinOffsetY": 14.699999809265137,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 51,
+    "imageName": "UT_Hero_Card_108_01_sfw",
+    "offsetX": -69.80000305175781,
+    "offsetY": 163.1199951171875,
+    "characterStateSkinOffsetX": 194.0,
+    "characterStateSkinOffsetY": 14.699999809265137,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 52,
+    "imageName": "UT_Hero_Card_108_sfw",
+    "offsetX": 110.0,
+    "offsetY": 90.0,
+    "characterStateSkinOffsetX": 228.89999389648438,
+    "characterStateSkinOffsetY": -3.5,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 53,
+    "imageName": "UT_Hero_Card_108_02",
+    "offsetX": -40.0,
+    "offsetY": 20.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 54,
+    "imageName": "UT_Hero_Card_108_02_sfw",
+    "offsetX": -40.0,
+    "offsetY": 20.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 55,
+    "imageName": "UT_Hero_Card_108_03",
+    "offsetX": -40.0,
+    "offsetY": 66.0,
+    "characterStateSkinOffsetX": 166.0,
+    "characterStateSkinOffsetY": -33.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 56,
+    "imageName": "UT_Hero_Card_108_03_sfw",
+    "offsetX": -40.0,
+    "offsetY": 66.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 57,
+    "imageName": "UT_Hero_Card_108_04",
+    "offsetX": -300.0,
+    "offsetY": 80.0,
+    "characterStateSkinOffsetX": 70.0,
+    "characterStateSkinOffsetY": 30.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 58,
+    "imageName": "UT_Hero_Card_108_04_sfw",
+    "offsetX": -300.0,
+    "offsetY": 80.0,
+    "characterStateSkinOffsetX": 70.0,
+    "characterStateSkinOffsetY": 30.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 59,
+    "imageName": "UT_Hero_Card_109",
+    "offsetX": -197.39999389648438,
+    "offsetY": 153.60000610351562,
+    "characterStateSkinOffsetX": 62.900001525878906,
+    "characterStateSkinOffsetY": 60.70000076293945,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 60,
+    "imageName": "UT_Hero_Card_109_Max",
+    "offsetX": -301.0,
+    "characterStateSkinOffsetX": 138.10000610351562,
+    "characterStateSkinOffsetY": -27.639999389648438,
+    "characterStateSkinScale": 0.5
+  },
+  {
+    "id": 61,
+    "imageName": "UT_Hero_Card_109_Max_2",
+    "offsetX": -120.0,
+    "offsetY": 140.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": 30.0,
+    "characterStateSkinScale": 0.550000011920929
+  },
+  {
+    "id": 62,
+    "imageName": "UT_Hero_Card_109_01",
+    "offsetX": -150.0,
+    "offsetY": 50.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -55.0,
+    "characterStateSkinScale": 0.5
+  },
+  {
+    "id": 63,
+    "imageName": "UT_Hero_Card_110",
+    "offsetX": -18.299999237060547,
+    "offsetY": 122.5999984741211,
+    "characterStateSkinOffsetX": 134.60000610351562,
+    "characterStateSkinOffsetY": -32.400001525878906,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 64,
+    "imageName": "UT_Hero_Card_110_Max",
+    "offsetX": -172.6999969482422,
+    "offsetY": 186.3000030517578,
+    "characterStateSkinOffsetX": 129.60000610351562,
+    "characterStateSkinOffsetY": 59.5,
+    "characterStateSkinScale": 0.550000011920929
+  },
+  {
+    "id": 65,
+    "imageName": "UT_Hero_Card_111",
+    "offsetX": -45.0,
+    "offsetY": -90.0,
+    "characterStateSkinOffsetX": 161.0,
+    "characterStateSkinOffsetY": -91.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 66,
+    "imageName": "UT_Hero_Card_111_Max",
+    "offsetX": 30.0,
+    "offsetY": 240.0,
+    "characterStateSkinOffsetX": 722.0,
+    "characterStateSkinOffsetY": 123.0,
+    "characterStateSkinScale": 0.6000000238418579,
+    "isCharacterStateSkinFlipX": true
+  },
+  {
+    "id": 67,
+    "imageName": "UT_Hero_Card_112",
+    "offsetX": 62.900001525878906,
+    "offsetY": -17.809999465942383,
+    "characterStateSkinOffsetX": 223.1999969482422,
+    "characterStateSkinOffsetY": -59.400001525878906,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 68,
+    "imageName": "UT_Hero_Card_112_Max",
+    "offsetX": -164.3000030517578,
+    "offsetY": -79.16000366210938,
+    "characterStateSkinOffsetX": 117.0999984741211,
+    "characterStateSkinOffsetY": -81.19999694824219,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 69,
+    "imageName": "UT_Hero_Card_112_Max_sfw",
+    "offsetX": -164.3000030517578,
+    "offsetY": -79.16000366210938,
+    "characterStateSkinOffsetX": 117.0999984741211,
+    "characterStateSkinOffsetY": -81.19999694824219,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 70,
+    "imageName": "UT_Hero_Card_112_01",
+    "offsetX": -164.3000030517578,
+    "offsetY": -79.16000366210938,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 71,
+    "imageName": "UT_Hero_Card_112_01_sfw",
+    "offsetX": -164.3000030517578,
+    "offsetY": -79.16000366210938,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 72,
+    "imageName": "UT_Hero_Card_112_02",
+    "offsetX": -50.0,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 73,
+    "imageName": "UT_Hero_Card_112_02_sfw",
+    "offsetX": -50.0,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 74,
+    "imageName": "UT_Hero_Card_112_03",
+    "offsetX": -150.0,
+    "offsetY": 10.0,
+    "characterStateSkinOffsetX": 175.0,
+    "characterStateSkinOffsetY": -30.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 75,
+    "imageName": "UT_Hero_Card_112_03_sfw",
+    "offsetX": -150.0,
+    "offsetY": 10.0,
+    "characterStateSkinOffsetX": 175.0,
+    "characterStateSkinOffsetY": -30.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 76,
+    "imageName": "UT_Hero_Card_113",
+    "offsetX": 10.0,
+    "offsetY": -25.280000686645508,
+    "characterStateSkinOffsetX": 179.6999969482422,
+    "characterStateSkinOffsetY": -60.72999954223633,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 77,
+    "imageName": "UT_Hero_Card_113_Max",
+    "offsetX": -152.3000030517578,
+    "offsetY": 68.0,
+    "characterStateSkinOffsetX": 190.39999389648438,
+    "characterStateSkinOffsetY": -24.399999618530273,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 78,
+    "imageName": "UT_Hero_Card_113_Max_sfw",
+    "offsetX": -152.3000030517578,
+    "offsetY": 68.0,
+    "characterStateSkinOffsetX": 190.39999389648438,
+    "characterStateSkinOffsetY": -24.399999618530273,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 79,
+    "imageName": "UT_Hero_Card_113_01_sfw",
+    "offsetX": 38.0,
+    "offsetY": -28.0,
+    "characterStateSkinOffsetX": 185.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 80,
+    "imageName": "UT_Hero_Card_113_01",
+    "offsetX": 38.0,
+    "offsetY": -28.0,
+    "characterStateSkinOffsetX": 185.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 81,
+    "imageName": "UT_Hero_Card_113_02",
+    "offsetX": -200.0,
+    "offsetY": 40.0,
+    "characterStateSkinOffsetX": 66.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 82,
+    "imageName": "UT_Hero_Card_113_02_sfw",
+    "offsetX": -200.0,
+    "offsetY": 40.0,
+    "characterStateSkinOffsetX": 66.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 83,
+    "imageName": "UT_Hero_Card_113_03",
+    "offsetX": -320.0,
+    "offsetY": -10.0,
+    "characterStateSkinOffsetX": 35.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 84,
+    "imageName": "UT_Hero_Card_113_03_sfw",
+    "offsetX": -320.0,
+    "offsetY": -10.0,
+    "characterStateSkinOffsetX": 35.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 85,
+    "imageName": "UT_Hero_Card_114",
+    "offsetX": -41.0,
+    "offsetY": 3.0,
+    "characterStateSkinOffsetX": 206.0,
+    "characterStateSkinOffsetY": -67.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 86,
+    "imageName": "UT_Hero_Card_114_sfw",
+    "offsetX": -41.0,
+    "offsetY": 3.0,
+    "characterStateSkinOffsetX": 206.0,
+    "characterStateSkinOffsetY": -67.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 87,
+    "imageName": "UT_Hero_Card_114_Max",
+    "offsetX": -136.0,
+    "offsetY": 77.0,
+    "characterStateSkinOffsetX": 133.0,
+    "characterStateSkinOffsetY": -63.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 88,
+    "imageName": "UT_Hero_Card_114_Max_sfw",
+    "offsetX": -136.0,
+    "offsetY": 77.0,
+    "characterStateSkinOffsetX": 133.0,
+    "characterStateSkinOffsetY": -63.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 89,
+    "imageName": "UT_Hero_Card_114_01",
+    "offsetY": -15.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -40.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 90,
+    "imageName": "UT_Hero_Card_114_01_sfw",
+    "offsetY": -15.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -40.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 91,
+    "imageName": "UT_Hero_Card_114_02",
+    "offsetX": 44.0,
+    "offsetY": -55.0,
+    "characterStateSkinOffsetX": 220.0,
+    "characterStateSkinOffsetY": -88.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 92,
+    "imageName": "UT_Hero_Card_114_03",
+    "offsetX": -50.0,
+    "offsetY": -55.0,
+    "characterStateSkinOffsetX": 220.0,
+    "characterStateSkinOffsetY": -88.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 93,
+    "imageName": "UT_Hero_Card_114_03_sfw",
+    "offsetX": -50.0,
+    "offsetY": -55.0,
+    "characterStateSkinOffsetX": 220.0,
+    "characterStateSkinOffsetY": -88.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 94,
+    "imageName": "UT_Hero_Card_114_04",
+    "offsetX": -240.0,
+    "characterStateSkinOffsetX": 60.0,
+    "characterStateSkinOffsetY": -70.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 95,
+    "imageName": "UT_Hero_Card_114_04_sfw",
+    "offsetX": -240.0,
+    "characterStateSkinOffsetX": 60.0,
+    "characterStateSkinOffsetY": -70.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 96,
+    "imageName": "UT_Hero_Card_115",
+    "offsetX": -30.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -55.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 97,
+    "imageName": "UT_Hero_Card_115_Max",
+    "offsetX": -400.0,
+    "offsetY": 110.0,
+    "characterStateSkinOffsetY": 5.0,
+    "characterStateSkinScale": 0.6200000047683716
+  },
+  {
+    "id": 98,
+    "imageName": "UT_Hero_Card_115_Max_sfw",
+    "offsetX": -400.0,
+    "offsetY": 110.0,
+    "characterStateSkinOffsetY": 5.0,
+    "characterStateSkinScale": 0.6200000047683716
+  },
+  {
+    "id": 99,
+    "imageName": "UT_Hero_Card_115_01",
+    "offsetX": 60.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -88.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 100,
+    "imageName": "UT_Hero_Card_115_02",
+    "offsetX": -400.0,
+    "offsetY": 100.0,
+    "characterStateSkinOffsetY": 5.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 101,
+    "imageName": "UT_Hero_Card_115_03",
+    "offsetX": -300.0,
+    "offsetY": 120.0,
+    "characterStateSkinOffsetY": 5.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 102,
+    "imageName": "UT_Hero_Card_115_04",
+    "offsetX": -270.0,
+    "offsetY": 360.0,
+    "characterStateSkinOffsetX": 922.0,
+    "characterStateSkinOffsetY": 150.0,
+    "characterStateSkinScale": 0.6000000238418579,
+    "isCharacterStateSkinFlipX": true
+  },
+  {
+    "id": 103,
+    "imageName": "UT_Hero_Card_116",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 104,
+    "imageName": "UT_Hero_Card_116_Max",
+    "offsetY": -35.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -55.0,
+    "characterStateSkinScale": 0.6200000047683716
+  },
+  {
+    "id": 105,
+    "imageName": "UT_Hero_Card_116_Max_sfw",
+    "offsetY": -35.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -55.0,
+    "characterStateSkinScale": 0.6200000047683716
+  },
+  {
+    "id": 106,
+    "imageName": "UT_Hero_Card_116_01",
+    "offsetY": -40.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 107,
+    "imageName": "UT_Hero_Card_116_01_sfw",
+    "offsetY": -40.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 108,
+    "imageName": "UT_Hero_Card_116_02",
+    "offsetX": -70.0,
+    "offsetY": 50.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 109,
+    "imageName": "UT_Hero_Card_116_02_sfw",
+    "offsetX": -70.0,
+    "offsetY": 50.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 110,
+    "imageName": "UT_Hero_Card_117",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 111,
+    "imageName": "UT_Hero_Card_117_sfw",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 112,
+    "imageName": "UT_Hero_Card_117_Max",
+    "offsetX": -285.0,
+    "offsetY": 33.0,
+    "characterStateSkinOffsetX": 55.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 113,
+    "imageName": "UT_Hero_Card_117_Max_sfw",
+    "offsetX": -285.0,
+    "offsetY": 33.0,
+    "characterStateSkinOffsetX": 55.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 114,
+    "imageName": "UT_Hero_Card_117_01",
+    "offsetX": -150.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 115,
+    "imageName": "UT_Hero_Card_117_01_sfw",
+    "offsetX": -150.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 116,
+    "imageName": "UT_Hero_Card_117_02",
+    "offsetX": -60.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 117,
+    "imageName": "UT_Hero_Card_117_02_sfw",
+    "offsetX": -60.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 118,
+    "imageName": "UT_Hero_Card_117_03",
+    "offsetX": -230.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 119,
+    "imageName": "UT_Hero_Card_117_03_sfw",
+    "offsetX": -230.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 120,
+    "imageName": "UT_Hero_Card_118",
+    "offsetX": -80.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -99.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 121,
+    "imageName": "UT_Hero_Card_118_Max",
+    "offsetX": -150.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 122,
+    "imageName": "UT_Hero_Card_118_01",
+    "offsetX": -220.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 123,
+    "imageName": "UT_Hero_Card_119",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 235.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 124,
+    "imageName": "UT_Hero_Card_119_Max",
+    "offsetX": -185.0,
+    "offsetY": -33.0,
+    "characterStateSkinOffsetX": 90.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 125,
+    "imageName": "UT_Hero_Card_119_01",
+    "offsetX": -50.0,
+    "offsetY": 30.0,
+    "characterStateSkinOffsetX": 222.0,
+    "characterStateSkinOffsetY": -55.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 126,
+    "imageName": "UT_Hero_Card_119_02",
+    "offsetX": -200.0,
+    "offsetY": -80.0,
+    "characterStateSkinOffsetX": 90.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.5799999833106995
+  },
+  {
+    "id": 127,
+    "imageName": "UT_Hero_Card_120",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 210.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 128,
+    "imageName": "UT_Hero_Card_120_sfw",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 210.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 129,
+    "imageName": "UT_Hero_Card_120_Max",
+    "offsetX": -30.0,
+    "offsetY": 15.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -65.0,
+    "characterStateSkinScale": 0.550000011920929
+  },
+  {
+    "id": 130,
+    "imageName": "UT_Hero_Card_120_Max_sfw",
+    "offsetX": 15.0,
+    "offsetY": 15.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -65.0,
+    "characterStateSkinScale": 0.550000011920929
+  },
+  {
+    "id": 131,
+    "imageName": "UT_Hero_Card_120_01",
+    "offsetX": -488.0,
+    "offsetY": 370.0,
+    "characterStateSkinOffsetX": 120.0,
+    "characterStateSkinOffsetY": 120.0,
+    "characterStateSkinScale": 0.5
+  },
+  {
+    "id": 132,
+    "imageName": "UT_Hero_Card_120_01_sfw",
+    "offsetX": -488.0,
+    "offsetY": 370.0,
+    "characterStateSkinOffsetX": 120.0,
+    "characterStateSkinOffsetY": 120.0,
+    "characterStateSkinScale": 0.5
+  },
+  {
+    "id": 133,
+    "imageName": "UT_Hero_Card_120_02",
+    "offsetX": -200.0,
+    "offsetY": 100.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.5
+  },
+  {
+    "id": 134,
+    "imageName": "UT_Hero_Card_120_02_sfw",
+    "offsetX": -200.0,
+    "offsetY": 100.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.5
+  },
+  {
+    "id": 135,
+    "imageName": "UT_Hero_Card_120_03",
+    "offsetX": 80.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 136,
+    "imageName": "UT_Hero_Card_120_03_sfw",
+    "offsetX": 80.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 137,
+    "imageName": "UT_Hero_Card_120_04",
+    "offsetX": 10.0,
+    "offsetY": 200.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": 90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 138,
+    "imageName": "UT_Hero_Card_120_04_sfw",
+    "offsetX": 10.0,
+    "offsetY": 200.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": 90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 139,
+    "imageName": "UT_Hero_InGameCard_120_04",
+    "offsetX": 10.0,
+    "offsetY": 200.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -65.0,
+    "characterStateSkinScale": 0.9900000095367432
+  },
+  {
+    "id": 140,
+    "imageName": "UT_Hero_InGameCard_120_04_sfw",
+    "offsetX": 10.0,
+    "offsetY": 200.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -65.0,
+    "characterStateSkinScale": 0.9900000095367432
+  },
+  {
+    "id": 141,
+    "imageName": "UT_Hero_Card_121",
+    "offsetX": -180.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 142,
+    "imageName": "UT_Hero_Card_121_sfw",
+    "offsetX": -180.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 143,
+    "imageName": "UT_Hero_Card_121_Max",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -125.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 144,
+    "imageName": "UT_Hero_Card_121_Max_sfw",
+    "offsetX": 20.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -125.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 145,
+    "imageName": "UT_Hero_Card_121_01",
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 146,
+    "imageName": "UT_Hero_Card_121_01_sfw",
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 147,
+    "imageName": "UT_Hero_Card_121_02",
+    "offsetX": -10.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 255.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.550000011920929
+  },
+  {
+    "id": 148,
+    "imageName": "UT_Hero_Card_121_03",
+    "offsetX": -470.0,
+    "offsetY": 261.0,
+    "characterStateSkinOffsetX": -35.0,
+    "characterStateSkinOffsetY": 60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 149,
+    "imageName": "UT_Hero_Card_121_03_sfw",
+    "offsetX": -470.0,
+    "offsetY": 261.0,
+    "characterStateSkinOffsetX": -35.0,
+    "characterStateSkinOffsetY": 60.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 150,
+    "imageName": "UT_Hero_Card_122",
+    "offsetX": 65.0,
+    "offsetY": -100.0,
+    "characterStateSkinOffsetX": 255.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 151,
+    "imageName": "UT_Hero_Card_122_Max",
+    "offsetX": 5.0,
+    "offsetY": 15.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -70.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 152,
+    "imageName": "UT_Hero_Card_122_01",
+    "offsetY": 5.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 153,
+    "imageName": "UT_Hero_Card_122_01_sfw",
+    "offsetY": 5.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 154,
+    "imageName": "UT_Hero_Card_122_02",
+    "offsetX": -330.0,
+    "offsetY": 170.0,
+    "characterStateSkinOffsetX": -10.0,
+    "characterStateSkinOffsetY": 20.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 155,
+    "imageName": "UT_Hero_Card_123",
+    "offsetX": -100.0,
+    "offsetY": -80.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 156,
+    "imageName": "UT_Hero_Card_123_sfw",
+    "offsetX": -100.0,
+    "offsetY": -80.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 157,
+    "imageName": "UT_Hero_Card_123_Max",
+    "offsetX": -50.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 158,
+    "imageName": "UT_Hero_Card_123_Max_sfw",
+    "offsetX": -50.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 159,
+    "imageName": "UT_Hero_Card_123_01",
+    "offsetX": -500.0,
+    "offsetY": -80.0,
+    "characterStateSkinOffsetX": -50.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 160,
+    "imageName": "UT_Hero_Card_123_01_sfw",
+    "offsetX": -500.0,
+    "offsetY": -80.0,
+    "characterStateSkinOffsetX": -50.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 161,
+    "imageName": "UT_Hero_Card_123_01_sfw",
+    "offsetX": -500.0,
+    "offsetY": -80.0,
+    "characterStateSkinOffsetX": -50.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 162,
+    "imageName": "UT_Hero_Card_123_02",
+    "offsetX": -360.0,
+    "offsetY": 200.0,
+    "characterStateSkinOffsetX": -20.0,
+    "characterStateSkinOffsetY": -30.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 163,
+    "imageName": "UT_Hero_Card_124",
+    "offsetX": 120.0,
+    "characterStateSkinOffsetX": 300.0,
+    "characterStateSkinOffsetY": -66.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 164,
+    "imageName": "UT_Hero_Card_124_Max",
+    "offsetX": -250.0,
+    "offsetY": 250.0,
+    "characterStateSkinOffsetY": 80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 165,
+    "imageName": "UT_Hero_Card_124_01",
+    "offsetX": 70.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 166,
+    "imageName": "UT_Hero_Card_124_01_CA",
+    "offsetX": 70.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 167,
+    "imageName": "UT_Hero_Card_124_02",
+    "offsetX": -440.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": -15.0,
+    "characterStateSkinOffsetY": -85.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 168,
+    "imageName": "UT_Hero_Card_125",
+    "offsetX": 60.0,
+    "offsetY": -60.0,
+    "characterStateSkinOffsetX": 250.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 169,
+    "imageName": "UT_Hero_Card_125_Max",
+    "offsetX": -120.0,
+    "offsetY": -60.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 170,
+    "imageName": "UT_Hero_Card_125_01",
+    "offsetX": 70.0,
+    "offsetY": -30.0,
+    "characterStateSkinOffsetX": 220.0,
+    "characterStateSkinOffsetY": -105.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 171,
+    "imageName": "UT_Hero_Card_126",
+    "offsetX": -90.0,
+    "offsetY": 80.0,
+    "characterStateSkinOffsetX": 100.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 172,
+    "imageName": "UT_Hero_Card_126_Max",
+    "offsetX": -100.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 173,
+    "imageName": "UT_Hero_Card_126_01",
+    "offsetX": -220.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": -27.0,
+    "characterStateSkinOffsetY": -86.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 174,
+    "imageName": "UT_Hero_Card_127",
+    "offsetX": 5.0,
+    "offsetY": -70.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 175,
+    "imageName": "UT_Hero_Card_127_Max",
+    "offsetX": -100.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 136.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 176,
+    "imageName": "UT_Hero_Card_127_Max_sfw",
+    "offsetX": -100.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 136.0,
+    "characterStateSkinOffsetY": -120.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 177,
+    "imageName": "UT_Hero_Card_127_01",
+    "offsetX": -55.0,
+    "offsetY": -60.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 178,
+    "imageName": "UT_Hero_Card_127_01_sfw",
+    "offsetX": -55.0,
+    "offsetY": -60.0,
+    "characterStateSkinOffsetX": 150.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 179,
+    "imageName": "UT_Hero_Card_127_02",
+    "offsetX": -80.0,
+    "offsetY": -65.0,
+    "characterStateSkinOffsetX": 170.0,
+    "characterStateSkinOffsetY": -115.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 180,
+    "imageName": "UT_Hero_Card_128",
+    "offsetX": -120.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 145.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 181,
+    "imageName": "UT_Hero_Card_128_sfw",
+    "offsetX": -120.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 145.0,
+    "characterStateSkinOffsetY": -100.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 182,
+    "imageName": "UT_Hero_Card_128_Max",
+    "offsetX": 30.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 240.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 183,
+    "imageName": "UT_Hero_Card_128_Max_sfw",
+    "offsetX": 30.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 240.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 184,
+    "imageName": "UT_Hero_Card_128_01",
+    "offsetX": -10.0,
+    "offsetY": -40.0,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -75.0,
+    "characterStateSkinScale": 0.6800000071525574
+  },
+  {
+    "id": 185,
+    "imageName": "UT_Hero_Card_128_01_sfw",
+    "offsetX": -10.0,
+    "offsetY": -40.0,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -75.0,
+    "characterStateSkinScale": 0.6800000071525574
+  },
+  {
+    "id": 186,
+    "imageName": "UT_Hero_Card_129",
+    "offsetX": 50.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 255.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 187,
+    "imageName": "UT_Hero_Card_129_sfw",
+    "offsetX": 50.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": 255.0,
+    "characterStateSkinOffsetY": -50.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 188,
+    "imageName": "UT_Hero_Card_129_Max",
+    "offsetX": -30.0,
+    "offsetY": -100.0,
+    "characterStateSkinOffsetX": 190.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 189,
+    "imageName": "UT_Hero_Card_129_Max_sfw",
+    "offsetX": -30.0,
+    "offsetY": -100.0,
+    "characterStateSkinOffsetX": 190.0,
+    "characterStateSkinOffsetY": -80.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 190,
+    "imageName": "UT_Hero_Card_301",
+    "offsetX": 70.0,
+    "offsetY": -40.0,
+    "characterStateSkinOffsetX": 255.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 191,
+    "imageName": "UT_Hero_Card_301_01",
+    "offsetX": -330.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": -5.0,
+    "characterStateSkinOffsetY": -85.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 192,
+    "imageName": "UT_Hero_Card_302",
+    "offsetX": 111.0,
+    "offsetY": -60.0,
+    "characterStateSkinOffsetX": 255.0,
+    "characterStateSkinOffsetY": -110.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 193,
+    "imageName": "UT_Hero_Card_302_01",
+    "offsetX": -40.0,
+    "offsetY": -20.0,
+    "characterStateSkinOffsetX": 180.0,
+    "characterStateSkinOffsetY": -75.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 194,
+    "imageName": "UT_Hero_Card_303",
+    "offsetX": 20.0,
+    "offsetY": 99.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -90.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 195,
+    "imageName": "UT_Hero_Card_304",
+    "offsetX": 20.0,
+    "offsetY": -60.0,
+    "characterStateSkinOffsetX": 200.0,
+    "characterStateSkinOffsetY": -150.0,
+    "characterStateSkinScale": 0.6000000238418579
+  },
+  {
+    "id": 196,
+    "imageName": "UT_Hero_Card_305",
+    "offsetX": -390.0,
+    "offsetY": -50.0,
+    "characterStateSkinOffsetX": -60.0,
+    "characterStateSkinOffsetY": -65.0,
+    "characterStateSkinScale": 0.6600000262260437
+  },
+  {
+    "id": 197,
+    "imageName": "UT_Hero_Card_306",
+    "offsetX": -50.0,
+    "offsetY": -60.0,
+    "characterStateSkinOffsetX": 160.0,
+    "characterStateSkinOffsetY": -95.0,
+    "characterStateSkinScale": 0.699999988079071
+  },
+  {
+    "id": 198,
+    "imageName": "UT_Monster_Card_1001",
+    "offsetX": 211.0,
+    "offsetY": -220.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 199,
+    "imageName": "UT_Monster_Card_1002",
+    "offsetX": 80.0,
+    "offsetY": 100.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 200,
+    "imageName": "UT_Monster_Card_1003",
+    "offsetX": 58.0,
+    "offsetY": -110.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 201,
+    "imageName": "UT_Monster_Card_1004",
+    "offsetX": 58.0,
+    "offsetY": -60.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 202,
+    "imageName": "UT_Monster_Card_1005",
+    "offsetX": 200.0,
+    "offsetY": -110.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 203,
+    "imageName": "UT_Monster_Card_1007",
+    "offsetX": 250.0,
+    "offsetY": -200.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 204,
+    "imageName": "UT_Monster_Card_1008",
+    "offsetX": 250.0,
+    "offsetY": -200.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 205,
+    "imageName": "UT_Monster_Card_1009",
+    "offsetX": -335.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 206,
+    "imageName": "UT_Monster_Card_1010",
+    "offsetX": -5.0,
+    "offsetY": -110.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 207,
+    "imageName": "UT_Monster_Card_1011",
+    "offsetX": -300.0,
+    "offsetY": -25.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 208,
+    "imageName": "UT_Monster_Card_1011_sfw",
+    "offsetX": -300.0,
+    "offsetY": -25.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 209,
+    "imageName": "UT_Monster_Card_1013",
+    "offsetX": -200.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 210,
+    "imageName": "UT_Monster_Card_1014",
+    "offsetX": -100.0,
+    "offsetY": -25.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 211,
+    "imageName": "UT_Monster_Card_1015",
+    "offsetX": 50.0,
+    "offsetY": -25.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 212,
+    "imageName": "UT_Monster_Card_1016",
+    "offsetX": 33.0,
+    "offsetY": -200.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 213,
+    "imageName": "UT_Monster_Card_1017",
+    "offsetX": 33.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 214,
+    "imageName": "UT_Monster_Card_1019",
+    "offsetY": 50.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 215,
+    "imageName": "UT_Monster_Card_1018",
+    "offsetY": 50.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 216,
+    "imageName": "UT_Monster_Card_1018_sfw",
+    "offsetY": 50.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 217,
+    "imageName": "UT_Monster_Card_1020",
+    "offsetX": -100.0,
+    "offsetY": 250.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 218,
+    "imageName": "UT_Monster_Card_1021",
+    "offsetY": 233.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 219,
+    "imageName": "UT_Monster_Card_1022",
+    "offsetX": 200.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 220,
+    "imageName": "UT_Monster_Card_1023",
+    "offsetX": 150.0,
+    "offsetY": -100.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 221,
+    "imageName": "UT_Monster_Card_1024",
+    "offsetX": 150.0,
+    "offsetY": -100.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 222,
+    "imageName": "UT_Monster_Card_1025",
+    "offsetX": 220.0,
+    "offsetY": -50.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 223,
+    "imageName": "UT_Monster_Card_1026",
+    "offsetX": 150.0,
+    "offsetY": -100.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 224,
+    "imageName": "UT_Monster_Card_1027",
+    "offsetX": -19.5,
+    "offsetY": -42.5,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 225,
+    "imageName": "UT_Monster_Card_1027_sfw",
+    "offsetX": -19.5,
+    "offsetY": -42.5,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 226,
+    "imageName": "UT_Monster_Card_1028",
+    "offsetX": 58.0,
+    "offsetY": -160.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 227,
+    "imageName": "UT_Monster_Card_1029",
+    "offsetX": 121.0,
+    "offsetY": -72.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 228,
+    "imageName": "UT_Monster_Card_1030",
+    "offsetX": 190.0,
+    "offsetY": -160.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 229,
+    "imageName": "UT_Monster_Card_1031",
+    "offsetX": -272.0,
+    "offsetY": -66.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 230,
+    "imageName": "UT_Monster_Card_1032",
+    "offsetX": -169.0,
+    "offsetY": -66.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 231,
+    "imageName": "UT_Monster_Card_1033",
+    "offsetY": -68.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 232,
+    "imageName": "UT_Monster_Card_1034",
+    "offsetX": 275.0,
+    "offsetY": -140.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 233,
+    "imageName": "UT_Monster_Card_1035",
+    "offsetX": -56.0,
+    "offsetY": -203.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 234,
+    "imageName": "UT_Monster_Card_1036",
+    "offsetY": 56.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 235,
+    "imageName": "UT_Monster_Card_1037",
+    "offsetY": 5.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 236,
+    "imageName": "UT_Monster_Card_1038",
+    "offsetY": 5.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 237,
+    "imageName": "UT_Monster_Card_1039",
+    "offsetY": 5.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 238,
+    "imageName": "UT_Monster_Card_1040",
+    "offsetX": 140.0,
+    "offsetY": -100.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 239,
+    "imageName": "UT_Monster_Card_1041",
+    "offsetX": -125.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 240,
+    "imageName": "UT_Monster_Card_1042",
+    "offsetX": -385.0,
+    "offsetY": 5.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 241,
+    "imageName": "UT_Monster_Card_1043",
+    "offsetX": 269.0,
+    "offsetY": -172.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 242,
+    "imageName": "UT_Monster_Card_1044",
+    "offsetX": 79.0,
+    "offsetY": -84.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 243,
+    "imageName": "UT_Monster_Card_1045",
+    "offsetX": 240.0,
+    "offsetY": -60.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 244,
+    "imageName": "UT_Monster_Card_1046",
+    "offsetX": 82.0,
+    "offsetY": 32.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 245,
+    "imageName": "UT_Monster_Card_1047",
+    "offsetX": 97.0,
+    "offsetY": -141.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 246,
+    "imageName": "UT_Monster_Card_1048",
+    "offsetX": -163.0,
+    "offsetY": -88.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 247,
+    "imageName": "UT_Monster_Card_1053",
+    "offsetX": -250.0,
+    "offsetY": 100.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 248,
+    "imageName": "UT_Monster_Card_1054",
+    "offsetX": -200.0,
+    "offsetY": -110.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 249,
+    "imageName": "UT_Monster_Card_1055",
+    "offsetX": -100.0,
+    "offsetY": 10.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 250,
+    "imageName": "UT_Monster_Card_1056",
+    "offsetX": 90.0,
+    "offsetY": -90.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 251,
+    "imageName": "UT_Monster_Card_1057",
+    "offsetX": 120.0,
+    "offsetY": -60.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 252,
+    "imageName": "UT_Monster_Card_1058",
+    "offsetX": 60.0,
+    "offsetY": -80.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 253,
+    "imageName": "UT_Monster_Card_1059",
+    "offsetX": 120.0,
+    "offsetY": -240.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 254,
+    "imageName": "UT_Monster_Card_1061",
+    "offsetX": 60.0,
+    "offsetY": -80.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 255,
+    "imageName": "UT_Monster_Card_1062",
+    "offsetX": -190.0,
+    "offsetY": -105.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 256,
+    "imageName": "UT_Monster_Card_1063",
+    "offsetX": 170.0,
+    "offsetY": -70.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 257,
+    "imageName": "UT_Monster_Card_1064",
+    "offsetX": 120.0,
+    "offsetY": -40.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 258,
+    "imageName": "UT_Monster_Card_1065",
+    "offsetX": -480.0,
+    "offsetY": -60.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 259,
+    "imageName": "UT_Monster_Card_1066",
+    "offsetX": 45.0,
+    "offsetY": -25.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 260,
+    "imageName": "UT_Monster_Card_1067",
+    "offsetX": 100.0,
+    "offsetY": -180.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 261,
+    "imageName": "UT_Monster_Card_1068",
+    "offsetX": -120.0,
+    "offsetY": -50.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 262,
+    "imageName": "UT_Monster_Card_1069",
+    "offsetX": 100.0,
+    "offsetY": -40.0,
+    "characterStateSkinScale": 1.0
+  },
+  {
+    "id": 263,
+    "imageName": "UT_Monster_Card_1070",
+    "offsetX": 160.0,
+    "offsetY": -140.0,
+    "characterStateSkinScale": 1.0
+  }
+]

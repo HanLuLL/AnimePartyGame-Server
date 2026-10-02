@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "goldSTRid": 41,
+    "isDefault": true,
+    "upgradeDataConfigureItems": [
+      {
+        "star": 1,
+        "gold": 15
+      },
+      {
+        "star": 2,
+        "gold": 30
+      },
+      {
+        "star": 3,
+        "gold": 50
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "goldSTRid": 42,
+    "upgradeDataConfigureItems": [
+      {
+        "star": 1,
+        "gold": 20
+      },
+      {
+        "star": 2,
+        "gold": 40
+      },
+      {
+        "star": 3,
+        "gold": 60
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "goldSTRid": 43,
+    "upgradeDataConfigureItems": [
+      {
+        "star": 1,
+        "gold": 20
+      },
+      {
+        "star": 2,
+        "gold": 40
+      },
+      {
+        "star": 3,
+        "gold": 70
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "goldSTRid": 42,
+    "upgradeDataConfigureItems": [
+      {
+        "star": 1,
+        "gold": 15,
+        "goldcost": 15,
+        "costEnhance": 1,
+        "relicWeights": [
+          60000,
+          37000,
+          3000
+        ]
+      },
+      {
+        "star": 2,
+        "gold": 20,
+        "goldcost": 20,
+        "costEnhance": 2,
+        "relicWeights": [
+          40000,
+          45000,
+          15000
+        ]
+      },
+      {
+        "star": 3,
+        "gold": 25,
+        "goldcost": 25,
+        "costEnhance": 3,
+        "relicWeights": [
+          25000,
+          50000,
+          25000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "upgradeDataConfigureItems": [
+      {
+        "star": 1,
+        "gold": 15,
+        "goldcost": 15,
+        "costEnhance": 1,
+        "relicWeights": [
+          60000,
+          30000,
+          10000
+        ]
+      },
+      {
+        "star": 2,
+        "gold": 20,
+        "goldcost": 20,
+        "costEnhance": 2,
+        "relicWeights": [
+          40000,
+          40000,
+          20000
+        ]
+      },
+      {
+        "star": 3,
+        "gold": 25,
+        "goldcost": 25,
+        "costEnhance": 3,
+        "relicWeights": [
+          20000,
+          50000,
+          30000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "goldSTRid": 42,
+    "upgradeDataConfigureItems": [
+      {
+        "star": 1,
+        "gold": 15,
+        "goldcost": 15
+      },
+      {
+        "star": 2,
+        "gold": 20,
+        "goldcost": 20
+      },
+      {
+        "star": 3,
+        "gold": 25,
+        "goldcost": 25
+      }
+    ]
+  }
+]

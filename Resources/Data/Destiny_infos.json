@@ -1,0 +1,199 @@
+[
+  {
+    "id": 40001,
+    "functionName": "Destiny_40001",
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "nameID": 40001,
+    "cardNumb": 400010,
+    "descId": 400011,
+    "image": "UT_Destiny_40001",
+    "params": [
+      2
+    ],
+    "perform": 4000100
+  },
+  {
+    "id": 40002,
+    "functionName": "Destiny_40002",
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "nameID": 40002,
+    "cardNumb": 400020,
+    "descId": 400021,
+    "image": "UT_Destiny_40002",
+    "params": [
+      -2
+    ],
+    "perform": 4000200
+  },
+  {
+    "id": 40003,
+    "functionName": "Destiny_40003",
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "nameID": 40003,
+    "cardNumb": 400030,
+    "descId": 400031,
+    "image": "UT_Destiny_40003",
+    "params": [
+      -2
+    ],
+    "buffIds": [
+      4000301
+    ]
+  },
+  {
+    "id": 40004,
+    "functionName": "Destiny_40004",
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "nameID": 40004,
+    "cardNumb": 400040,
+    "descId": 400041,
+    "image": "UT_Destiny_40004",
+    "params": [
+      2
+    ],
+    "buffIds": [
+      4000401
+    ]
+  },
+  {
+    "id": 40005,
+    "functionName": "Destiny_40005",
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "nameID": 40005,
+    "cardNumb": 400050,
+    "descId": 400051,
+    "image": "UT_Destiny_40005",
+    "params": [
+      200
+    ],
+    "perform": 4000500
+  },
+  {
+    "id": 40006,
+    "functionName": "Destiny_40006",
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "nameID": 40006,
+    "cardNumb": 400060,
+    "descId": 400061,
+    "image": "UT_Destiny_40006",
+    "params": [
+      50
+    ],
+    "perform": 4000600
+  },
+  {
+    "id": 40007,
+    "functionName": "Destiny_40007",
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "nameID": 40007,
+    "cardNumb": 400070,
+    "descId": 400071,
+    "image": "UT_Destiny_40007",
+    "params": [
+      1
+    ],
+    "perform": 4000700
+  },
+  {
+    "id": 40008,
+    "functionName": "Destiny_40008",
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "nameID": 40008,
+    "cardNumb": 400080,
+    "descId": 400081,
+    "image": "UT_Destiny_40008",
+    "params": [
+      3
+    ],
+    "perform": 4000800
+  },
+  {
+    "id": 40009,
+    "functionName": "Destiny_40009",
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "nameID": 40009,
+    "cardNumb": 400090,
+    "descId": 400091,
+    "image": "UT_Destiny_40009",
+    "params": [
+      -1
+    ],
+    "perform": 4000900
+  },
+  {
+    "id": 40010,
+    "functionName": "Destiny_40010",
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "nameID": 40010,
+    "cardNumb": 400100,
+    "descId": 400101,
+    "image": "UT_Destiny_40010",
+    "params": [
+      -3
+    ],
+    "perform": 4001000
+  },
+  {
+    "id": 40011,
+    "functionName": "Destiny_40011",
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "nameID": 40011,
+    "cardNumb": 400110,
+    "descId": 400111,
+    "image": "UT_Destiny_40011",
+    "params": [
+      5
+    ],
+    "perform": 4001100
+  },
+  {
+    "id": 40012,
+    "functionName": "Destiny_40012",
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "nameID": 40012,
+    "cardNumb": 400120,
+    "descId": 400121,
+    "image": "UT_Destiny_40012",
+    "params": [
+      -5
+    ],
+    "summonId": 2200,
+    "perform": 4001200
+  }
+]

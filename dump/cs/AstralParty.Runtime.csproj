@@ -1,0 +1,81 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>AstralParty.Runtime</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\client_logic\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule" />
+    <Reference Include="UniTask">
+      <HintPath>..\client_logic\UniTask.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule" />
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime" />
+    <Reference Include="Unity.Timeline" />
+    <Reference Include="Google.Protobuf.Runtime">
+      <HintPath>..\client_logic\Google.Protobuf.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>..\client_logic\Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="AppConfig" />
+    <Reference Include="BnSdk.Runtime" />
+    <Reference Include="Unity.ResourceManager">
+      <HintPath>..\client_logic\Unity.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule" />
+    <Reference Include="UnityEngine.UnityWebRequestModule" />
+    <Reference Include="Unity.Addressables">
+      <HintPath>..\client_logic\Unity.Addressables.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="UnityEngine.InputLegacyModule" />
+    <Reference Include="UnityEngine.PhysicsModule" />
+    <Reference Include="UniTask.DOTween" />
+    <Reference Include="Unity Timer" />
+    <Reference Include="CriMw.CriWare.Runtime" />
+    <Reference Include="DOTween">
+      <HintPath>..\client_logic\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="CriMw.CriWare.Assets.Runtime" />
+    <Reference Include="Unity.TextMeshPro" />
+    <Reference Include="UnityEngine.ParticleSystemModule" />
+    <Reference Include="UnityEngine.TextCoreFontEngineModule" />
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>..\client_logic\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule" />
+    <Reference Include="UnityEngine.UIModule" />
+    <Reference Include="UnityEngine.TextRenderingModule" />
+    <Reference Include="AK.Wwise.Unity.Addressables" />
+    <Reference Include="AK.Wwise.Unity.API" />
+    <Reference Include="UnityEngine.AndroidJNIModule">
+      <HintPath>..\client_logic\UnityEngine.AndroidJNIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>..\client_logic\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI" />
+    <Reference Include="ICSharpCode.SharpZipLib" />
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>..\client_logic\UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="EasySave3.Runtime">
+      <HintPath>..\client_logic\EasySave3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="UniTask.Addressables">
+      <HintPath>..\client_logic\UniTask.Addressables.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule" />
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule" />
+  </ItemGroup>
+</Project>

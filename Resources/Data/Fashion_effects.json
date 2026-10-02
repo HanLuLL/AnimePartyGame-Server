@@ -1,0 +1,85 @@
+[
+  {
+    "id": 73001,
+    "KillVfx": 7300101,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73001"
+  },
+  {
+    "id": 73002,
+    "KillVfx": 7300201,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73002"
+  },
+  {
+    "id": 73003,
+    "KillVfx": 7300301,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73003"
+  },
+  {
+    "id": 73004,
+    "KillVfx": 7300401,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73004"
+  },
+  {
+    "id": 73005,
+    "KillVfx": 7300501,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73005"
+  },
+  {
+    "id": 73006,
+    "KillVfx": 7300601,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73006"
+  },
+  {
+    "id": 73007,
+    "KillVfx": 7300701,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73007"
+  },
+  {
+    "id": 73008,
+    "KillVfx": 7300801,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73008"
+  },
+  {
+    "id": 73009,
+    "KillVfx": 7300901,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73009"
+  },
+  {
+    "id": 73010,
+    "KillVfx": 7301001,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake"
+  },
+  {
+    "id": 73011,
+    "KillVfx": 7301101,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73010"
+  },
+  {
+    "id": 73012,
+    "KillVfx": 7301201,
+    "FlyVfx": 7300102,
+    "KillCameraShake": "ExHitCamShake",
+    "previewVideo": "VKillEffect_73012"
+  }
+]

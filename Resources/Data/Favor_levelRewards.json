@@ -1,0 +1,1220 @@
+[
+  {
+    "id": 101,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120101005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120101006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120101007": 1,
+          "120101008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70101": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71101": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76101": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120102005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120102006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120102007": 1,
+          "120102008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70102": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71102": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76102": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120103005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120103006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120103007": 1,
+          "120103008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70103": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71103": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76103": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120104005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120104006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120104007": 1,
+          "120104008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70104": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71104": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76104": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120105005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120105006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120105007": 1,
+          "120105008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70105": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71105": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76105": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120106005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120106006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120106007": 1,
+          "120106008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70106": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71106": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76106": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120107005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120107006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120107007": 1,
+          "120107008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70107": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71107": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76107": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120108005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120108006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120108007": 1,
+          "120108008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70108": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71108": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76108": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120109005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120109006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120109007": 1,
+          "120109008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70109": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71109": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76109": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120110005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120110006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120110007": 1,
+          "120110008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70110": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71110": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76110": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120111005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120111006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120111007": 1,
+          "120111008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70111": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71111": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76111": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120112005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120112006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120112007": 1,
+          "120112008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70112": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71112": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76112": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120113005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120113006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120113007": 1,
+          "120113008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70113": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71113": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76113": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120114005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120114006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120114007": 1,
+          "120114008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70114": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71114": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76114": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120115005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120115006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120115007": 1,
+          "120115008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70115": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71115": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76115": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120116005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120116006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120116007": 1,
+          "120116008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70116": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71116": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76116": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120117005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120117006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120117007": 1,
+          "120117008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70117": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71117": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76117": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120118005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120118006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120118007": 1,
+          "120118008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70118": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71118": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76118": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120119005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120119006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120119007": 1,
+          "120119008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70119": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71119": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76119": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120120005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120120006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120120007": 1,
+          "120120008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70120": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71120": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76120": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120121005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120121006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120121007": 1,
+          "120121008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70121": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71121": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76121": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120122005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120122006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120122007": 1,
+          "120122008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70122": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71122": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76122": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120123005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120123006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120123007": 1,
+          "120123008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70123": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71123": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76123": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120124005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120124006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120124007": 1,
+          "120124008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70124": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71124": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76124": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120125005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120125006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120125007": 1,
+          "120125008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70125": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71125": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76125": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120126005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120126006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120126007": 1,
+          "120126008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70126": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71126": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76126": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120127005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120127006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120127007": 1,
+          "120127008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70127": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71127": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76127": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120128005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120128006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120128007": 1,
+          "120128008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70128": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71128": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76128": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "favorLevelRewardConfigureItems": [
+      {
+        "favorLevel": 1,
+        "rewards": {
+          "120129005": 1
+        }
+      },
+      {
+        "favorLevel": 2,
+        "rewards": {
+          "120129006": 1
+        }
+      },
+      {
+        "favorLevel": 3,
+        "rewards": {
+          "120129007": 1,
+          "120129008": 1
+        }
+      },
+      {
+        "favorLevel": 4,
+        "rewards": {
+          "70129": 1
+        }
+      },
+      {
+        "favorLevel": 5,
+        "rewards": {
+          "71129": 1
+        }
+      },
+      {
+        "favorLevel": 6,
+        "rewards": {
+          "76129": 1
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "cardId": 20002,
+    "cardAltArtConfigureItems": [
+      {
+        "type": 1,
+        "altArtId": 13020002,
+        "AccountBackground": "UT_IAltArt_13020002",
+        "AccountBackgroundVideo": "VHandCard_13020002",
+        "CardFront": "UT_AltArt_CardFront_00001",
+        "CardFrontMaterial": "AltArt_UIDodge_01"
+      }
+    ]
+  },
+  {
+    "cardId": 20030,
+    "cardAltArtConfigureItems": [
+      {
+        "type": 1,
+        "altArtId": 13020030,
+        "AccountBackground": "UT_IAltArt_13020031",
+        "AccountBackgroundVideo": "VHandCard_13020031",
+        "CardFront": "UT_AltArt_CardFront_00001",
+        "CardFrontMaterial": "AltArt_UIDodge_01"
+      }
+    ]
+  },
+  {
+    "cardId": 20031,
+    "cardAltArtConfigureItems": [
+      {
+        "type": 1,
+        "altArtId": 13020031,
+        "AccountBackground": "UT_IAltArt_13020031",
+        "AccountBackgroundVideo": "VHandCard_13020031",
+        "CardFront": "UT_AltArt_CardFront_00001",
+        "CardFrontMaterial": "AltArt_UIDodge_01"
+      }
+    ]
+  },
+  {
+    "cardId": 21002,
+    "cardAltArtConfigureItems": [
+      {
+        "type": 2,
+        "altArtId": 13021002,
+        "AccountBackground": "UT_IAltArt_13021002",
+        "AccountBackgroundSfw": "UT_IAltArt_13021002_sfw",
+        "AccountBackgroundVideo": "VHandCard_13021002",
+        "AccountBackgroundVideoSfw": "VHandCard_13021002_sfw",
+        "CardFront": "UT_AltArt_CardFront_00002",
+        "CardFrontMaterial": "AltArt_UIDodge_02"
+      }
+    ]
+  }
+]

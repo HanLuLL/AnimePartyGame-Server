@@ -1,0 +1,545 @@
+[
+  {
+    "poolID": 10,
+    "combDefault": 10130101,
+    "combGuarantee": 10230101,
+    "combRole": 10330101,
+    "nameID": 100,
+    "publicityID": 101,
+    "ruleDecriptionID": 102,
+    "roleDecriptionID": 103,
+    "fashionDecriptionID": 104,
+    "giftDecriptionID": 105,
+    "backgroundCN": "UT_GachaTheme_10",
+    "backgroundCNSFW": "UT_GachaTheme_10_CN",
+    "backgroundEN": "UT_GachaTheme_10",
+    "backgroundENSFW": "UT_GachaTheme_10",
+    "backgroundJP": "UT_GachaTheme_10",
+    "backgroundJPSFW": "UT_GachaTheme_10",
+    "backgroundTC": "UT_GachaTheme_10",
+    "backgroundTCSFW": "UT_GachaTheme_10",
+    "extraReward": {
+      "3": 1
+    },
+    "way": 3
+  },
+  {
+    "poolID": 99,
+    "combDefault": 26970101,
+    "combGuarantee": 26980101,
+    "combRole": 26990101,
+    "nameID": 20269999,
+    "publicityID": 101,
+    "ruleDecriptionID": 999,
+    "roleDecriptionID": 103,
+    "fashionDecriptionID": 104,
+    "giftDecriptionID": 105,
+    "backgroundCN": "UT_GachaTheme_99",
+    "backgroundCNSFW": "UT_GachaTheme_99_sfw",
+    "backgroundEN": "UT_GachaTheme_99",
+    "backgroundENSFW": "UT_GachaTheme_99_sfw",
+    "backgroundJP": "UT_GachaTheme_99",
+    "backgroundJPSFW": "UT_GachaTheme_99_sfw",
+    "backgroundTC": "UT_GachaTheme_99",
+    "backgroundTCSFW": "UT_GachaTheme_99_sfw",
+    "progressReward": 99,
+    "extraReward": {
+      "3": 1
+    },
+    "way": 3
+  },
+  {
+    "poolID": 20260521,
+    "combDefault": 20160521,
+    "combGuarantee": 20260521,
+    "combRole": 20360521,
+    "combUP": 20460521,
+    "nameID": 20240801,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      117
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20240801",
+    "backgroundCNSFW": "UT_GachaTheme_20_20240801",
+    "backgroundEN": "UT_GachaTheme_20_20240801",
+    "backgroundENSFW": "UT_GachaTheme_20_20240801",
+    "backgroundJP": "UT_GachaTheme_20_20240801",
+    "backgroundJPSFW": "UT_GachaTheme_20_20240801",
+    "backgroundTC": "UT_GachaTheme_20_20240801",
+    "backgroundTCSFW": "UT_GachaTheme_20_20240801",
+    "extraReward": {
+      "1000050": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260522,
+    "combDefault": 30160521,
+    "combGuarantee": 30260521,
+    "combRole": 30360521,
+    "combUP": 30460521,
+    "nameID": 20251031,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      125
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20251031",
+    "backgroundCNSFW": "UT_GachaTheme_20_20251031",
+    "backgroundEN": "UT_GachaTheme_20_20251031",
+    "backgroundENSFW": "UT_GachaTheme_20_20251031",
+    "backgroundJP": "UT_GachaTheme_20_20251031",
+    "backgroundJPSFW": "UT_GachaTheme_20_20251031",
+    "backgroundTC": "UT_GachaTheme_20_20251031",
+    "backgroundTCSFW": "UT_GachaTheme_20_20251031",
+    "extraReward": {
+      "1000050": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260523,
+    "combDefault": 40160521,
+    "combGuarantee": 40260521,
+    "combRole": 40360521,
+    "combUP": 40460521,
+    "nameID": 20240831,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      103
+    ],
+    "backgroundCN": "UT_GachaTheme_30_20240830",
+    "backgroundCNSFW": "UT_GachaTheme_30_20240830",
+    "backgroundEN": "UT_GachaTheme_30_20240830",
+    "backgroundENSFW": "UT_GachaTheme_30_20240830",
+    "backgroundJP": "UT_GachaTheme_30_20240830",
+    "backgroundJPSFW": "UT_GachaTheme_30_20240830",
+    "backgroundTC": "UT_GachaTheme_30_20240830",
+    "backgroundTCSFW": "UT_GachaTheme_30_20240830",
+    "extraReward": {
+      "1000050": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260524,
+    "combDefault": 50160521,
+    "combGuarantee": 50260521,
+    "nameID": 20250718,
+    "publicityID": 601,
+    "ruleDecriptionID": 602,
+    "fashionDecriptionID": 604,
+    "giftDecriptionID": 605,
+    "upItem": [
+      100117003
+    ],
+    "skinCharacter": 202507180,
+    "skinName": 202507181,
+    "backgroundCN": "UT_GachaTheme_60_20250718",
+    "backgroundCNSFW": "UT_GachaTheme_60_20250718",
+    "backgroundEN": "UT_GachaTheme_60_20250718",
+    "backgroundENSFW": "UT_GachaTheme_60_20250718",
+    "backgroundJP": "UT_GachaTheme_60_20250718",
+    "backgroundJPSFW": "UT_GachaTheme_60_20250718",
+    "backgroundTC": "UT_GachaTheme_60_20250718",
+    "backgroundTCSFW": "UT_GachaTheme_60_20250718",
+    "progressReward": 20260524,
+    "way": 29
+  },
+  {
+    "poolID": 20260625,
+    "combDefault": 40160625,
+    "nameID": 20240832,
+    "publicityID": 401,
+    "ruleDecriptionID": 402,
+    "fashionDecriptionID": 404,
+    "giftDecriptionID": 405,
+    "otherDecriptionID": 406,
+    "backgroundCN": "UT_Hero_Card_112_03",
+    "backgroundCNSFW": "UT_Hero_Card_112_03_sfw",
+    "backgroundEN": "UT_Hero_Card_112_03",
+    "backgroundENSFW": "UT_Hero_Card_112_03_sfw",
+    "backgroundJP": "UT_Hero_Card_112_03",
+    "backgroundJPSFW": "UT_Hero_Card_112_03_sfw",
+    "backgroundTC": "UT_Hero_Card_112_03",
+    "backgroundTCSFW": "UT_Hero_Card_112_03_sfw",
+    "extraReward": {
+      "1000055": 1
+    }
+  },
+  {
+    "poolID": 20260626,
+    "combDefault": 30160626,
+    "combGuarantee": 30260626,
+    "combRole": 30360626,
+    "combUP": 30460626,
+    "nameID": 20250509,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      121
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20250509",
+    "backgroundCNSFW": "UT_GachaTheme_20_20250509",
+    "backgroundEN": "UT_GachaTheme_20_20250509",
+    "backgroundENSFW": "UT_GachaTheme_20_20250509",
+    "backgroundJP": "UT_GachaTheme_20_20250509",
+    "backgroundJPSFW": "UT_GachaTheme_20_20250509",
+    "backgroundTC": "UT_GachaTheme_20_20250509",
+    "backgroundTCSFW": "UT_GachaTheme_20_20250509",
+    "extraReward": {
+      "1000056": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260627,
+    "combDefault": 30160627,
+    "combGuarantee": 30260627,
+    "combRole": 30360627,
+    "combUP": 30460627,
+    "nameID": 20240530,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      112
+    ],
+    "backgroundCN": "UT_GachaTheme_30_20240607",
+    "backgroundCNSFW": "UT_GachaTheme_30_20240607_sfw",
+    "backgroundEN": "UT_GachaTheme_30_20240607",
+    "backgroundENSFW": "UT_GachaTheme_30_20240607_sfw",
+    "backgroundJP": "UT_GachaTheme_30_20240607",
+    "backgroundJPSFW": "UT_GachaTheme_30_20240607_sfw",
+    "backgroundTC": "UT_GachaTheme_30_20240607",
+    "backgroundTCSFW": "UT_GachaTheme_30_20240607_sfw",
+    "extraReward": {
+      "1000056": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260628,
+    "combDefault": 30160628,
+    "combGuarantee": 30260628,
+    "combRole": 30360628,
+    "combUP": 30460628,
+    "nameID": 20240802,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      106
+    ],
+    "backgroundCN": "UT_GachaTheme_30_20240802",
+    "backgroundCNSFW": "UT_GachaTheme_30_20240802",
+    "backgroundEN": "UT_GachaTheme_30_20240802",
+    "backgroundENSFW": "UT_GachaTheme_30_20240802",
+    "backgroundJP": "UT_GachaTheme_30_20240802",
+    "backgroundJPSFW": "UT_GachaTheme_30_20240802",
+    "backgroundTC": "UT_GachaTheme_30_20240802",
+    "backgroundTCSFW": "UT_GachaTheme_30_20240802",
+    "extraReward": {
+      "1000056": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260629,
+    "combDefault": 50160629,
+    "combGuarantee": 50260629,
+    "nameID": 20260629,
+    "publicityID": 601,
+    "ruleDecriptionID": 602,
+    "fashionDecriptionID": 604,
+    "giftDecriptionID": 605,
+    "upItem": [
+      100107005
+    ],
+    "skinCharacter": 202606290,
+    "skinName": 202606291,
+    "backgroundCN": "UT_GachaTheme_60_20260629",
+    "backgroundCNSFW": "UT_GachaTheme_60_20260629_sfw",
+    "backgroundEN": "UT_GachaTheme_60_20260629",
+    "backgroundENSFW": "UT_GachaTheme_60_20260629_sfw",
+    "backgroundJP": "UT_GachaTheme_60_20260629",
+    "backgroundJPSFW": "UT_GachaTheme_60_20260629_sfw",
+    "backgroundTC": "UT_GachaTheme_60_20260629",
+    "backgroundTCSFW": "UT_GachaTheme_60_20260629_sfw",
+    "progressReward": 20260629,
+    "way": 29
+  },
+  {
+    "poolID": 20260730,
+    "combDefault": 20160730,
+    "combGuarantee": 20260730,
+    "nameID": 20260730,
+    "publicityID": 701,
+    "ruleDecriptionID": 702,
+    "fashionDecriptionID": 703,
+    "giftDecriptionID": 704,
+    "upItem": [
+      100114003
+    ],
+    "skinCharacter": 202607300,
+    "skinName": 202607301,
+    "seasonSkinRerunNotUpItem": [
+      100113004,
+      100107004
+    ],
+    "seasonSkinRerunCharacter": [
+      202607302,
+      202607303
+    ],
+    "seasonSkinRerunName": [
+      202607304,
+      202607305
+    ],
+    "backgroundCN": "UT_GachaTheme_70_20260730",
+    "backgroundCNSFW": "UT_GachaTheme_70_20260730_sfw",
+    "backgroundEN": "UT_GachaTheme_70_20260730",
+    "backgroundENSFW": "UT_GachaTheme_70_20260730_sfw",
+    "backgroundJP": "UT_GachaTheme_70_20260730",
+    "backgroundJPSFW": "UT_GachaTheme_70_20260730_sfw",
+    "backgroundTC": "UT_GachaTheme_70_20260730",
+    "backgroundTCSFW": "UT_GachaTheme_70_20260730_sfw",
+    "progressReward": 20260730,
+    "way": 10
+  },
+  {
+    "poolID": 20260801,
+    "combDefault": 30160801,
+    "combGuarantee": 30260801,
+    "combRole": 30360801,
+    "combUP": 30460801,
+    "nameID": 20260801,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      129
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20260801",
+    "backgroundCNSFW": "UT_GachaTheme_20_20260801_sfw",
+    "backgroundEN": "UT_GachaTheme_20_20260801",
+    "backgroundENSFW": "UT_GachaTheme_20_20260801_sfw",
+    "backgroundJP": "UT_GachaTheme_20_20260801",
+    "backgroundJPSFW": "UT_GachaTheme_20_20260801_sfw",
+    "backgroundTC": "UT_GachaTheme_20_20260801",
+    "backgroundTCSFW": "UT_GachaTheme_20_20260801_sfw",
+    "extraReward": {
+      "1000061": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260802,
+    "combDefault": 30160802,
+    "combGuarantee": 30260802,
+    "combRole": 30360802,
+    "combUP": 30460802,
+    "nameID": 20260417,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      128
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20260417",
+    "backgroundCNSFW": "UT_GachaTheme_20_20260417_sfw",
+    "backgroundEN": "UT_GachaTheme_20_20260417",
+    "backgroundENSFW": "UT_GachaTheme_20_20260417_sfw",
+    "backgroundJP": "UT_GachaTheme_20_20260417",
+    "backgroundJPSFW": "UT_GachaTheme_20_20260417_sfw",
+    "backgroundTC": "UT_GachaTheme_20_20260417",
+    "backgroundTCSFW": "UT_GachaTheme_20_20260417_sfw",
+    "extraReward": {
+      "1000061": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260803,
+    "combDefault": 30160803,
+    "combGuarantee": 30260803,
+    "combRole": 30360803,
+    "combUP": 30460803,
+    "nameID": 20241025,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      120
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20241025",
+    "backgroundCNSFW": "UT_GachaTheme_20_20241025_sfw",
+    "backgroundEN": "UT_GachaTheme_20_20241025",
+    "backgroundENSFW": "UT_GachaTheme_20_20241025_sfw",
+    "backgroundJP": "UT_GachaTheme_20_20241025",
+    "backgroundJPSFW": "UT_GachaTheme_20_20241025_sfw",
+    "backgroundTC": "UT_GachaTheme_20_20241025",
+    "backgroundTCSFW": "UT_GachaTheme_20_20241025_sfw",
+    "extraReward": {
+      "1000061": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260804,
+    "combDefault": 50160804,
+    "combGuarantee": 50260804,
+    "nameID": 20260804,
+    "publicityID": 601,
+    "ruleDecriptionID": 602,
+    "fashionDecriptionID": 604,
+    "giftDecriptionID": 605,
+    "upItem": [
+      100104004
+    ],
+    "skinCharacter": 202608040,
+    "skinName": 202608041,
+    "backgroundCN": "UT_GachaTheme_60_20260804",
+    "backgroundCNSFW": "UT_GachaTheme_60_20260804_sfw",
+    "backgroundEN": "UT_GachaTheme_60_20260804",
+    "backgroundENSFW": "UT_GachaTheme_60_20260804_sfw",
+    "backgroundJP": "UT_GachaTheme_60_20260804",
+    "backgroundJPSFW": "UT_GachaTheme_60_20260804_sfw",
+    "backgroundTC": "UT_GachaTheme_60_20260804",
+    "backgroundTCSFW": "UT_GachaTheme_60_20260804_sfw",
+    "progressReward": 20260804,
+    "way": 29
+  },
+  {
+    "poolID": 20260805,
+    "combDefault": 30160805,
+    "combGuarantee": 30260805,
+    "combRole": 30360805,
+    "combUP": 30460805,
+    "nameID": 20241026,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      114
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20240430",
+    "backgroundCNSFW": "UT_GachaTheme_20_20240430_sfw",
+    "backgroundEN": "UT_GachaTheme_20_20240430",
+    "backgroundENSFW": "UT_GachaTheme_20_20240430_sfw",
+    "backgroundJP": "UT_GachaTheme_20_20240430",
+    "backgroundJPSFW": "UT_GachaTheme_20_20240430_sfw",
+    "backgroundTC": "UT_GachaTheme_20_20240430",
+    "backgroundTCSFW": "UT_GachaTheme_20_20240430_sfw",
+    "extraReward": {
+      "1000061": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260903,
+    "combDefault": 30160903,
+    "combGuarantee": 30260903,
+    "combRole": 30360903,
+    "combUP": 30460903,
+    "nameID": 20260206,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      127
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20260206",
+    "backgroundCNSFW": "UT_GachaTheme_20_20260206",
+    "backgroundEN": "UT_GachaTheme_20_20260206",
+    "backgroundENSFW": "UT_GachaTheme_20_20260206",
+    "backgroundJP": "UT_GachaTheme_20_20260206",
+    "backgroundJPSFW": "UT_GachaTheme_20_20260206",
+    "backgroundTC": "UT_GachaTheme_20_20260206",
+    "backgroundTCSFW": "UT_GachaTheme_20_20260206",
+    "extraReward": {
+      "1000063": 1
+    },
+    "way": 21
+  },
+  {
+    "poolID": 20260904,
+    "combDefault": 50160904,
+    "combGuarantee": 50260904,
+    "nameID": 20260904,
+    "publicityID": 601,
+    "ruleDecriptionID": 602,
+    "fashionDecriptionID": 604,
+    "giftDecriptionID": 605,
+    "upItem": [
+      100120004
+    ],
+    "skinCharacter": 202609040,
+    "skinName": 202609041,
+    "backgroundCN": "UT_GachaTheme_60_20260904",
+    "backgroundCNSFW": "UT_GachaTheme_60_20260904_sfw",
+    "backgroundEN": "UT_GachaTheme_60_20260904",
+    "backgroundENSFW": "UT_GachaTheme_60_20260904_sfw",
+    "backgroundJP": "UT_GachaTheme_60_20260904",
+    "backgroundJPSFW": "UT_GachaTheme_60_20260904_sfw",
+    "backgroundTC": "UT_GachaTheme_60_20260904",
+    "backgroundTCSFW": "UT_GachaTheme_60_20260904_sfw",
+    "progressReward": 20260904,
+    "way": 29
+  },
+  {
+    "poolID": 20260905,
+    "combDefault": 30160905,
+    "combGuarantee": 30260905,
+    "combRole": 30360905,
+    "combUP": 30460905,
+    "nameID": 20241025,
+    "publicityID": 201,
+    "ruleDecriptionID": 202,
+    "roleDecriptionID": 203,
+    "fashionDecriptionID": 204,
+    "giftDecriptionID": 205,
+    "upItem": [
+      120
+    ],
+    "backgroundCN": "UT_GachaTheme_20_20241025",
+    "backgroundCNSFW": "UT_GachaTheme_20_20241025_sfw",
+    "backgroundEN": "UT_GachaTheme_20_20241025",
+    "backgroundENSFW": "UT_GachaTheme_20_20241025_sfw",
+    "backgroundJP": "UT_GachaTheme_20_20241025",
+    "backgroundJPSFW": "UT_GachaTheme_20_20241025_sfw",
+    "backgroundTC": "UT_GachaTheme_20_20241025",
+    "backgroundTCSFW": "UT_GachaTheme_20_20241025_sfw",
+    "extraReward": {
+      "1000063": 1
+    },
+    "way": 21
+  }
+]

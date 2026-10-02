@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "value": 30,
+    "descriptionID": 1201
+  },
+  {
+    "id": 2,
+    "value": 60,
+    "descriptionID": 1202
+  },
+  {
+    "id": 3,
+    "value": 90,
+    "descriptionID": 1203
+  },
+  {
+    "id": 4,
+    "value": 120,
+    "descriptionID": 1204
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "login_event": {
+    "success": [
+      "login_game"
+    ]
+  },
+  "role_event": {
+    "create": [
+      "create_role"
+    ]
+  },
+  "level_event": {
+    "2": [
+      "lvl_2"
+    ],
+    "6": [
+      "lvl_6"
+    ],
+    "8": [
+      "lvl_8"
+    ],
+    "10": [
+      "lvl_10"
+    ],
+    "18": [
+      "tutorial_complete"
+    ],
+    "20": [
+      "lvl_20"
+    ]
+  }
+}

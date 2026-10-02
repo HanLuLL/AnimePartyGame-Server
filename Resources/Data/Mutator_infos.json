@@ -1,0 +1,793 @@
+[
+  {
+    "id": 60001,
+    "nameID": 100011,
+    "descId": 1000101,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60001",
+    "params": [
+      1000,
+      1000,
+      -1,
+      2,
+      1056,
+      150,
+      32112
+    ],
+    "buffId": [
+      6000101
+    ],
+    "preloadCharacterIds": [
+      1056,
+      1058
+    ]
+  },
+  {
+    "id": 60002,
+    "nameID": 100021,
+    "descId": 1000201,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60002",
+    "params": [
+      200,
+      1056,
+      1056,
+      100,
+      32112
+    ],
+    "buffId": [
+      6000201
+    ],
+    "preloadCharacterIds": [
+      1056,
+      1058
+    ]
+  },
+  {
+    "id": 60003,
+    "nameID": 100031,
+    "descId": 1000301,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60003",
+    "params": [
+      1056,
+      1,
+      32111
+    ],
+    "buffId": [
+      6000301
+    ],
+    "preloadCharacterIds": [
+      1056,
+      1057,
+      1058
+    ]
+  },
+  {
+    "id": 60004,
+    "nameID": 100041,
+    "descId": 1000401,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      }
+    ],
+    "icon": "UT_Mutator_60004",
+    "params": [
+      0,
+      4
+    ],
+    "buffId": [
+      6000401
+    ]
+  },
+  {
+    "id": 60005,
+    "nameID": 100051,
+    "descId": 1000501,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      }
+    ],
+    "icon": "UT_Mutator_60005",
+    "params": [
+      -200,
+      -1,
+      1
+    ],
+    "buffId": [
+      6000501
+    ]
+  },
+  {
+    "id": 60006,
+    "nameID": 100061,
+    "descId": 1000601,
+    "mutatorType": [
+      {
+        "value": 3,
+        "name": "MutatorType_QuiteGood"
+      }
+    ],
+    "icon": "UT_Mutator_60006",
+    "params": [
+      2,
+      10,
+      -1
+    ],
+    "buffId": [
+      6000601
+    ]
+  },
+  {
+    "id": 60007,
+    "nameID": 100071,
+    "descId": 1000701,
+    "mutatorType": [
+      {
+        "value": 5,
+        "name": "MutatorType_QuiteBad"
+      }
+    ],
+    "icon": "UT_Mutator_60007",
+    "params": [
+      1,
+      1
+    ],
+    "buffId": [
+      6000701
+    ]
+  },
+  {
+    "id": 60008,
+    "nameID": 100081,
+    "descId": 1000801,
+    "mutatorType": [
+      {
+        "value": 2,
+        "name": "MutatorType_Good"
+      }
+    ],
+    "icon": "UT_Mutator_60008",
+    "params": [
+      5,
+      1059,
+      2,
+      10591101
+    ],
+    "buffId": [
+      6000801,
+      6000802
+    ]
+  },
+  {
+    "id": 60009,
+    "nameID": 100091,
+    "descId": 1000901,
+    "mutatorType": [
+      {
+        "value": 2,
+        "name": "MutatorType_Good"
+      }
+    ],
+    "icon": "UT_Mutator_60009",
+    "params": [
+      330,
+      3
+    ],
+    "buffId": [
+      6000901
+    ]
+  },
+  {
+    "id": 60010,
+    "nameID": 100101,
+    "descId": 1001001,
+    "mutatorType": [
+      {
+        "value": 3,
+        "name": "MutatorType_QuiteGood"
+      }
+    ],
+    "icon": "UT_Mutator_60010",
+    "params": [
+      1
+    ],
+    "buffId": [
+      6001001,
+      10008
+    ]
+  },
+  {
+    "id": 60011,
+    "nameID": 100111,
+    "descId": 1001101,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      }
+    ],
+    "icon": "UT_Mutator_60011",
+    "params": [
+      -1,
+      1,
+      1,
+      3
+    ],
+    "buffId": [
+      6001101
+    ]
+  },
+  {
+    "id": 60012,
+    "nameID": 100121,
+    "descId": 1001201,
+    "mutatorType": [
+      {
+        "value": 3,
+        "name": "MutatorType_QuiteGood"
+      }
+    ],
+    "icon": "UT_Mutator_60012",
+    "params": [
+      6,
+      1
+    ],
+    "buffId": [
+      6001201
+    ]
+  },
+  {
+    "id": 60013,
+    "nameID": 100131,
+    "descId": 1001301,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      }
+    ],
+    "icon": "UT_Mutator_60013",
+    "params": [
+      2,
+      5,
+      2401
+    ],
+    "buffId": [
+      6001301
+    ]
+  },
+  {
+    "id": 60014,
+    "nameID": 100141,
+    "descId": 1001401,
+    "mutatorType": [
+      {
+        "value": 5,
+        "name": "MutatorType_QuiteBad"
+      }
+    ],
+    "icon": "UT_Mutator_60014",
+    "params": [
+      8,
+      2005
+    ],
+    "buffId": [
+      6001401
+    ]
+  },
+  {
+    "id": 60015,
+    "nameID": 100151,
+    "descId": 1001501,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      }
+    ],
+    "icon": "UT_Mutator_60015",
+    "params": [
+      1,
+      1,
+      3
+    ],
+    "buffId": [
+      6001501
+    ]
+  },
+  {
+    "id": 60101,
+    "nameID": 601011,
+    "descId": 6010101,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60101",
+    "params": [
+      600,
+      400,
+      1,
+      -1,
+      1023,
+      1024,
+      1,
+      1
+    ],
+    "buffId": [
+      6010101
+    ]
+  },
+  {
+    "id": 60102,
+    "nameID": 601021,
+    "descId": 6010201,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60102",
+    "params": [
+      2101001,
+      2,
+      1,
+      1
+    ],
+    "buffId": [
+      6010201
+    ]
+  },
+  {
+    "id": 60103,
+    "nameID": 601031,
+    "descId": 6010301,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 9,
+        "name": "MutatorType_Special2"
+      }
+    ],
+    "icon": "UT_Mutator_60103",
+    "params": [
+      3,
+      2101001,
+      35021
+    ],
+    "buffId": [
+      6010301
+    ]
+  },
+  {
+    "id": 60106,
+    "nameID": 601061,
+    "descId": 6010601,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60106",
+    "params": [
+      1,
+      1,
+      5,
+      4
+    ],
+    "buffId": [
+      6010601,
+      6010602,
+      6010603
+    ]
+  },
+  {
+    "id": 60107,
+    "nameID": 601071,
+    "descId": 6010701,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60107",
+    "params": [
+      1,
+      1,
+      0,
+      3,
+      60107
+    ],
+    "buffId": [
+      6010701
+    ]
+  },
+  {
+    "id": 60108,
+    "nameID": 601081,
+    "descId": 6010801,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 9,
+        "name": "MutatorType_Special2"
+      }
+    ],
+    "icon": "UT_Mutator_60108",
+    "params": [
+      6010602,
+      1,
+      5,
+      3006,
+      35051
+    ],
+    "buffId": [
+      6010801
+    ]
+  },
+  {
+    "id": 60111,
+    "nameID": 601111,
+    "descId": 6011101,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60111",
+    "params": [
+      2,
+      350910
+    ],
+    "buffId": [
+      6011101
+    ]
+  },
+  {
+    "id": 60112,
+    "nameID": 601121,
+    "descId": 6011201,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      },
+      {
+        "value": 8,
+        "name": "MutatorType_Special1"
+      }
+    ],
+    "icon": "UT_Mutator_60112",
+    "params": [
+      1,
+      0,
+      50072
+    ],
+    "buffId": [
+      6011201
+    ]
+  },
+  {
+    "id": 60113,
+    "nameID": 601131,
+    "descId": 6011301,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 9,
+        "name": "MutatorType_Special2"
+      }
+    ],
+    "icon": "UT_Mutator_60113",
+    "params": [
+      2,
+      21024,
+      1,
+      2,
+      1061,
+      10611101,
+      -1,
+      8,
+      0
+    ],
+    "buffId": [
+      6011301
+    ]
+  },
+  {
+    "id": 60114,
+    "nameID": 601141,
+    "descId": 6011401,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 11,
+        "name": "MutatorType_Special4"
+      }
+    ],
+    "icon": "UT_Mutator_60114",
+    "params": [
+      3,
+      -2,
+      1065,
+      1,
+      12,
+      5,
+      50077,
+      35071,
+      4,
+      100,
+      50,
+      9,
+      9,
+      9,
+      9,
+      99
+    ],
+    "buffId": [
+      6011401,
+      6011402,
+      10651105,
+      10651101
+    ]
+  },
+  {
+    "id": 60151,
+    "nameID": 601511,
+    "descId": 6015101,
+    "mutatorType": [
+      {
+        "value": 5,
+        "name": "MutatorType_QuiteBad"
+      },
+      {
+        "value": 10,
+        "name": "MutatorType_Special3"
+      }
+    ],
+    "icon": "UT_Mutator_60151",
+    "params": [
+      1061,
+      106101,
+      3
+    ],
+    "buffId": [
+      6015101,
+      6015102
+    ]
+  },
+  {
+    "id": 60152,
+    "nameID": 601521,
+    "descId": 6015201,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      },
+      {
+        "value": 10,
+        "name": "MutatorType_Special3"
+      }
+    ],
+    "icon": "UT_Mutator_60152",
+    "params": [
+      1061,
+      106102,
+      3
+    ],
+    "buffId": [
+      6015201,
+      6015202,
+      6015203,
+      6015204,
+      6015205
+    ]
+  },
+  {
+    "id": 60153,
+    "nameID": 601531,
+    "descId": 6015301,
+    "mutatorType": [
+      {
+        "value": 3,
+        "name": "MutatorType_QuiteGood"
+      }
+    ],
+    "icon": "UT_Mutator_60153",
+    "params": [
+      4,
+      1
+    ],
+    "buffId": [
+      6015301
+    ]
+  },
+  {
+    "id": 60154,
+    "nameID": 601541,
+    "descId": 6015401,
+    "mutatorType": [
+      {
+        "value": 2,
+        "name": "MutatorType_Good"
+      }
+    ],
+    "icon": "UT_Mutator_60154",
+    "params": [
+      300,
+      8
+    ],
+    "buffId": [
+      6015401
+    ]
+  },
+  {
+    "id": 60155,
+    "nameID": 601551,
+    "descId": 6015501,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      }
+    ],
+    "icon": "UT_Mutator_60155",
+    "params": [
+      1,
+      4,
+      1,
+      1,
+      5,
+      1
+    ],
+    "buffId": [
+      6015501
+    ]
+  },
+  {
+    "id": 60156,
+    "nameID": 601561,
+    "descId": 6015601,
+    "mutatorType": [
+      {
+        "value": 3,
+        "name": "MutatorType_QuiteGood"
+      }
+    ],
+    "icon": "UT_Mutator_60156",
+    "params": [
+      100
+    ],
+    "buffId": [
+      6015601
+    ]
+  },
+  {
+    "id": 60157,
+    "nameID": 601571,
+    "descId": 6015701,
+    "mutatorType": [
+      {
+        "value": 2,
+        "name": "MutatorType_Good"
+      }
+    ],
+    "icon": "UT_Mutator_60157",
+    "params": [
+      2,
+      2,
+      2
+    ],
+    "buffId": [
+      6015701,
+      6015702
+    ]
+  },
+  {
+    "id": 60158,
+    "nameID": 601581,
+    "descId": 6015801,
+    "mutatorType": [
+      {
+        "value": 6,
+        "name": "MutatorType_Bad"
+      }
+    ],
+    "icon": "UT_Mutator_60158",
+    "params": [
+      1
+    ],
+    "buffId": [
+      6015801
+    ]
+  },
+  {
+    "id": 60159,
+    "nameID": 601591,
+    "descId": 6015901,
+    "mutatorType": [
+      {
+        "value": 4,
+        "name": "MutatorType_Middle"
+      }
+    ],
+    "icon": "UT_Mutator_60159",
+    "params": [
+      3
+    ],
+    "buffId": [
+      6015901
+    ]
+  }
+]

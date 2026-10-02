@@ -1,0 +1,656 @@
+[
+  {
+    "id": 3,
+    "key": "INITIAL_ITEM",
+    "value": "70001#1|71001#1|72099#1|73001#1|75001#1|77002#1|78101#1",
+    "Type": "String"
+  },
+  {
+    "id": 4,
+    "key": "INITIAL_FASHION",
+    "value": "1#70001|2#71001|3#75001|4#72099|5#73001",
+    "Type": "String"
+  },
+  {
+    "id": 101,
+    "key": "HEART_BEAT_INTERVAL",
+    "value": "10000",
+    "Type": "Int"
+  },
+  {
+    "id": 102,
+    "key": "CLIENT_REQUEST_SERVERSTATE_CD",
+    "value": "60",
+    "Type": "Int"
+  },
+  {
+    "id": 201,
+    "key": "GAME_INITIAL_GOLD",
+    "value": "6",
+    "Type": "Int"
+  },
+  {
+    "id": 202,
+    "key": "GAME_INITIAL_EFFECTCARD_COUNT",
+    "value": "2",
+    "Type": "Int"
+  },
+  {
+    "id": 203,
+    "key": "GAME_INITIAL_COMBATCARD_COUNT",
+    "value": "2",
+    "Type": "Int"
+  },
+  {
+    "id": 204,
+    "key": "GAME_CARDINHAND_LIMIT",
+    "value": "7",
+    "Type": "Int"
+  },
+  {
+    "id": 205,
+    "key": "GAME_BATTLE_COST_LIMIT",
+    "value": "3",
+    "Type": "Int"
+  },
+  {
+    "id": 206,
+    "key": "GAME_LAND_BLOOD_FIXEDBLOOD",
+    "value": "1",
+    "Type": "Int"
+  },
+  {
+    "id": 207,
+    "key": "GAME_LAND_SHOP_FREECARDNUMB",
+    "value": "1",
+    "Type": "Int"
+  },
+  {
+    "id": 208,
+    "key": "GAME_LAND_LOTTERY_GOLD_BASE",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 209,
+    "key": "GAME_LAND_LOTTERY_GOLD_ADD",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 210,
+    "key": "GAME_LAND_LOTTERY_NUMB_LIMIT",
+    "value": "12",
+    "Type": "Int"
+  },
+  {
+    "id": 211,
+    "key": "GAME_RECONNECT_TIME_LIMIT",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 212,
+    "key": "GAME_ALL_RECONNECT_TIME_LIMIT",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 214,
+    "key": "GAME_HOST_TIME_OFFLINE",
+    "value": "1",
+    "Type": "Int"
+  },
+  {
+    "id": 215,
+    "key": "GAME_FIGHT_DAMAGE_THRESHOLD",
+    "value": "7",
+    "Type": "Int"
+  },
+  {
+    "id": 216,
+    "key": "GAME_FIGHT_BUST_Gold_THRESHOLD",
+    "value": "20",
+    "Type": "Int"
+  },
+  {
+    "id": 217,
+    "key": "GAME_JUDGE_DICE_LIMIT",
+    "value": "6",
+    "Type": "Int"
+  },
+  {
+    "id": 218,
+    "key": "GAME_CAMERA_SWITCH_TIME",
+    "value": "300",
+    "Type": "Int"
+  },
+  {
+    "id": 220,
+    "key": "GAME_MUTATOR_SHOW_TIME",
+    "value": "6000",
+    "Type": "Int"
+  },
+  {
+    "id": 221,
+    "key": "GAME_HERO_SCALE_LIMIT_MAX",
+    "value": "2200",
+    "Type": "Int"
+  },
+  {
+    "id": 290,
+    "key": "GAME_CHARACTER_EXPRESSION_CD",
+    "value": "600",
+    "Type": "Int"
+  },
+  {
+    "id": 291,
+    "key": "GAME_CHARACTER_EXPRESSION_DURATION",
+    "value": "8000",
+    "Type": "Int"
+  },
+  {
+    "id": 292,
+    "key": "GAME_OPERATION_TIME_LIMIT_MAX",
+    "value": "60",
+    "Type": "Int"
+  },
+  {
+    "id": 293,
+    "key": "GAME_CHANGE_PLAYORDER_ROUND",
+    "value": "99999999",
+    "Type": "Int"
+  },
+  {
+    "id": 294,
+    "key": "GAME_RESULT_TIME_LIMIT_MAX",
+    "value": "20",
+    "Type": "Int"
+  },
+  {
+    "id": 301,
+    "key": "GAME_NEED_PLAYER_COUNT",
+    "value": "4",
+    "Type": "Int"
+  },
+  {
+    "id": 302,
+    "key": "SELECT_ROLE_TIMELIMIT",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 303,
+    "key": "INGAME_RESOURCE_LOADING_TIMELIMIT",
+    "value": "300",
+    "Type": "Int"
+  },
+  {
+    "id": 304,
+    "key": "ROOM_WAIT_TIMELIMIT",
+    "value": "15",
+    "Type": "Int"
+  },
+  {
+    "id": 305,
+    "key": "ROOM_ACTIVE_TIME",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 306,
+    "key": "ROOM_CONNECT_TIMELIMIT",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 307,
+    "key": "ROOM_QUIT_TIMELIMIT",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 308,
+    "key": "ROOM_KICK_TIMELIMIT",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 309,
+    "key": "ROOM_AUDIENCE_NUMBLIMIT",
+    "value": "20",
+    "Type": "Int"
+  },
+  {
+    "id": 310,
+    "key": "ROOM_SURRENDER_PUNISHTIME",
+    "value": "120",
+    "Type": "Int"
+  },
+  {
+    "id": 311,
+    "key": "SELECT_ROLESKIN_TIMELIMIT",
+    "value": "8",
+    "Type": "Int"
+  },
+  {
+    "id": 312,
+    "key": "ROOM_PVELOCK_DIFFICULTY",
+    "value": "2",
+    "Type": "Int"
+  },
+  {
+    "id": 313,
+    "key": "ROOM_PVELOCK_LEVEL",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 314,
+    "key": "ROOM_PLAY_TIMELIMIT",
+    "value": "150",
+    "Type": "Int"
+  },
+  {
+    "id": 401,
+    "key": "FRIEND_NUMBLIMIT",
+    "value": "80",
+    "Type": "Int"
+  },
+  {
+    "id": 402,
+    "key": "FRIEND_APPLICATION_DAILYLIMIT",
+    "value": "50",
+    "Type": "Int"
+  },
+  {
+    "id": 403,
+    "key": "FRIEND_APPLICATION_AVAILABLE_DAYS",
+    "value": "7",
+    "Type": "Int"
+  },
+  {
+    "id": 404,
+    "key": "FRIEND_INVITEPARTY_AVAILABLE_SECONDS",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 405,
+    "key": "FRIEND_BLACKLIST_NUMBLIMIT",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 406,
+    "key": "FRIEND_INVITEPARTY_BUTTON_CD",
+    "value": "1",
+    "Type": "Int"
+  },
+  {
+    "id": 407,
+    "key": "FRIEND_RECENTPARTY_NUMBLIMIT",
+    "value": "5",
+    "Type": "Int"
+  },
+  {
+    "id": 408,
+    "key": "FRIEND_CHAT_RECORD_NUMBLIMIT",
+    "value": "50",
+    "Type": "Int"
+  },
+  {
+    "id": 409,
+    "key": "FRIEND_CHAT_BYTES_LIMIT",
+    "value": "100",
+    "Type": "Int"
+  },
+  {
+    "id": 410,
+    "key": "FRIEND_CHAT_SAVED_DAYS",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 411,
+    "key": "FRIEND_SHOW_MINI_LIMIT ",
+    "value": "8",
+    "Type": "Int"
+  },
+  {
+    "id": 1001,
+    "key": "AUDIO_BGM_FIGHT",
+    "value": "107",
+    "Type": "Int"
+  },
+  {
+    "id": 1101,
+    "key": "AUDIO_BANK_UI",
+    "value": "1",
+    "Type": "Int"
+  },
+  {
+    "id": 1102,
+    "key": "AUDIO_BANK_BGM_LOGIN",
+    "value": "11",
+    "Type": "Int"
+  },
+  {
+    "id": 1103,
+    "key": "AUDIO_BANK_BGM_HOME",
+    "value": "12",
+    "Type": "Int"
+  },
+  {
+    "id": 1104,
+    "key": "AUDIO_BANK_BGM_BATTLE",
+    "value": "13",
+    "Type": "Int"
+  },
+  {
+    "id": 1105,
+    "key": "AUDIO_BANK_BGM_ROLE_COMMON",
+    "value": "20",
+    "Type": "Int"
+  },
+  {
+    "id": 1106,
+    "key": "AUDIO_BANK_Npc_01",
+    "value": "21",
+    "Type": "Int"
+  },
+  {
+    "id": 1107,
+    "key": "AUDIO_BANK_HERO_HOME",
+    "value": "22",
+    "Type": "Int"
+  },
+  {
+    "id": 1108,
+    "key": "AUDIO_BANK_HERO_GUIDE",
+    "value": "25",
+    "Type": "Int"
+  },
+  {
+    "id": 1301,
+    "key": "MAIL_NUM_LIMIT",
+    "value": "200",
+    "Type": "Int"
+  },
+  {
+    "id": 1302,
+    "key": "MAIL_NUM_WARNING",
+    "value": "190",
+    "Type": "Int"
+  },
+  {
+    "id": 1303,
+    "key": "MAIL_EXPIRATION",
+    "value": "60",
+    "Type": "Int"
+  },
+  {
+    "id": 1401,
+    "key": "SPECIAL_ITEM_MONTHLY_CARD",
+    "value": "98",
+    "Type": "Int"
+  },
+  {
+    "id": 1402,
+    "key": "SPECIAL_ITEM_SUPER_GIFT",
+    "value": "77016",
+    "Type": "Int"
+  },
+  {
+    "id": 1403,
+    "key": "SPECIAL_ITEM_SUPER_BADGE",
+    "value": "78010",
+    "Type": "Int"
+  },
+  {
+    "id": 1404,
+    "key": "SPECIAL_ITEM_BATTLEPASS_NORMAL",
+    "value": "97",
+    "Type": "Int"
+  },
+  {
+    "id": 1405,
+    "key": "SPECIAL_ITEM_BATTLEPASS_PREMIUM",
+    "value": "96",
+    "Type": "Int"
+  },
+  {
+    "id": 1406,
+    "key": "SPECIAL_ITEM_STARDISC_FREE",
+    "value": "2",
+    "Type": "Int"
+  },
+  {
+    "id": 1407,
+    "key": "SPECIAL_ITEM_STARDISC_PAY",
+    "value": "8",
+    "Type": "Int"
+  },
+  {
+    "id": 1408,
+    "key": "SPECIAL_ITEM_PLAYER_EXP",
+    "value": "50",
+    "Type": "Int"
+  },
+  {
+    "id": 1409,
+    "key": "SPECIAL_ITEM_BATTLEPASS_MAP",
+    "value": "94",
+    "Type": "Int"
+  },
+  {
+    "id": 1410,
+    "key": "SPECIAL_ITEM_BATTLEPASS_LEVEL",
+    "value": "93",
+    "Type": "Int"
+  },
+  {
+    "id": 1501,
+    "key": "PVETOKEN_WEEK_LIMIT",
+    "value": "1000",
+    "Type": "Int"
+  },
+  {
+    "id": 1701,
+    "key": "HOME_PANEL_VIDEO",
+    "value": "VStartGameLoop_0206",
+    "Type": "Int"
+  },
+  {
+    "id": 1801,
+    "key": "CN_SERVER_OPENING_TIME",
+    "value": "2026-02-05 21:00:00",
+    "Type": "String"
+  },
+  {
+    "id": 1802,
+    "key": "RECHARGE_REBATE_RECIVE_TIME",
+    "value": "2026-02-05 21:00:00",
+    "Type": "String"
+  },
+  {
+    "id": 1803,
+    "key": "REBATE_EXP_DATE",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 1804,
+    "key": "GLOBAL_CELEBRATE_END_TIME",
+    "value": "2026-02-26 23:59:59",
+    "Type": "String"
+  },
+  {
+    "id": 1805,
+    "key": "IS_CN_SEVER",
+    "value": "True",
+    "Type": "Bool"
+  },
+  {
+    "id": 1901,
+    "key": "COMEBACK_TRIGGER_TIME",
+    "value": "90",
+    "Type": "Int"
+  },
+  {
+    "id": 1902,
+    "key": "COMEBACK_DURING_TIME",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 2001,
+    "key": "MAX_CREDIT_SCORE",
+    "value": "100",
+    "Type": "Int"
+  },
+  {
+    "id": 2002,
+    "key": "WEEKLY_RESET_THRESHOLD_SCORE",
+    "value": "80",
+    "Type": "Int"
+  },
+  {
+    "id": 2101,
+    "key": "MAX_STAR_EXPRESSION_COUNT",
+    "value": "80",
+    "Type": "Int"
+  },
+  {
+    "id": 2201,
+    "key": "MAX_BATTLE_RECORDS",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 2301,
+    "key": "GUILD_MEMBER_LIMIT",
+    "value": "150",
+    "Type": "Int"
+  },
+  {
+    "id": 2302,
+    "key": "GUILD_VICEGUILDMASTER_LIMIT",
+    "value": "5",
+    "Type": "Int"
+  },
+  {
+    "id": 2311,
+    "key": "GUILD_NAME_LIMIT",
+    "value": "20",
+    "Type": "Int"
+  },
+  {
+    "id": 2313,
+    "key": "GUILD_TAG_LIMIT",
+    "value": "5",
+    "Type": "Int"
+  },
+  {
+    "id": 2321,
+    "key": "GUILD_APPLICATIONS_TERM",
+    "value": "7",
+    "Type": "Int"
+  },
+  {
+    "id": 2322,
+    "key": "GUILD_JOIN_CD",
+    "value": "1",
+    "Type": "Int"
+  },
+  {
+    "id": 2323,
+    "key": "GUILD_APPLICATIONS_DAILYLIMIT",
+    "value": "5",
+    "Type": "Int"
+  },
+  {
+    "id": 2331,
+    "key": "GUILD_SETTINGS_DAILYLIMIT",
+    "value": "3",
+    "Type": "Int"
+  },
+  {
+    "id": 2332,
+    "key": "GUILD_EXTERNALANNOUNCEMENT_LIMIT",
+    "value": "300",
+    "Type": "Int"
+  },
+  {
+    "id": 2333,
+    "key": "GUILD_INTERNALANNOUNCEMENT_DAILYLIMIT",
+    "value": "3",
+    "Type": "Int"
+  },
+  {
+    "id": 2334,
+    "key": "GUILD_INTERNALANNOUNCEMENT_LIMIT",
+    "value": "300",
+    "Type": "Int"
+  },
+  {
+    "id": 2335,
+    "key": "GUILD_INVITETOGUILD_TERM",
+    "value": "7",
+    "Type": "Int"
+  },
+  {
+    "id": 2336,
+    "key": "GUILD_IMPEACH_MASTEROFFLINEDAYS",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 2337,
+    "key": "GUILD_ATUODISBAND_OFFLINE_DAYS",
+    "value": "180",
+    "Type": "Int"
+  },
+  {
+    "id": 2341,
+    "key": "GUILD_MEMBERMESSAGE_RETENTIONDAYS",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 2342,
+    "key": "GUILD_MEMBERMESSAGE_RETENTIONCOUNT",
+    "value": "300",
+    "Type": "Int"
+  },
+  {
+    "id": 2351,
+    "key": "GUILD_CHAT_RETENTIONDAYS",
+    "value": "30",
+    "Type": "Int"
+  },
+  {
+    "id": 2352,
+    "key": "GUILD_CHAT_RETENTIONCOUNT",
+    "value": "1000",
+    "Type": "Int"
+  },
+  {
+    "id": 2361,
+    "key": "GUILD_SEARCH_CD",
+    "value": "5000",
+    "Type": "Int"
+  },
+  {
+    "id": 2362,
+    "key": "GUILD_SEARCH_RESULT_ITEMSPERPAGE",
+    "value": "10",
+    "Type": "Int"
+  },
+  {
+    "id": 2363,
+    "key": "GUILD_CHATMESSAGE_CD",
+    "value": "2000",
+    "Type": "Int"
+  }
+]

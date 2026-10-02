@@ -1,0 +1,479 @@
+[
+  {
+    "id": 202609,
+    "battlePassRewardConfigureItems": [
+      {
+        "level": 1,
+        "freeRewards": {
+          "91011": 1
+        },
+        "normalRewards": {
+          "2": 300
+        },
+        "normalIcon": "UT_Recharge_100020",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "2": 300
+        },
+        "premiumIcon": "UT_Recharge_100020",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 2,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "1": 100
+        },
+        "normalIcon": "UT_Item_Currency_1_1",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "1": 100
+        },
+        "premiumIcon": "UT_Item_Currency_1_1",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 3,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "90001": 1
+        }
+      },
+      {
+        "level": 4,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 5,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "2": 60
+        },
+        "normalIcon": "UT_Recharge_100020",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "2": 60
+        },
+        "premiumIcon": "UT_Recharge_100020",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 6,
+        "freeRewards": {
+          "78100": 1
+        },
+        "normalRewards": {
+          "78100": 2
+        },
+        "normalIcon": "UT_Item_Material_78100",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "78100": 2
+        },
+        "premiumIcon": "UT_Item_Material_78100",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 7,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 8,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 9,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91011": 1
+        }
+      },
+      {
+        "level": 10,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "70100": 1
+        }
+      },
+      {
+        "level": 11,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "1": 100
+        },
+        "normalIcon": "UT_Item_Currency_1_1",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "1": 100
+        },
+        "premiumIcon": "UT_Item_Currency_1_1",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 12,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 13,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 14,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91011": 1
+        }
+      },
+      {
+        "level": 15,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "120127012": 1
+        },
+        "premiumRewards": {
+          "120127013": 1
+        }
+      },
+      {
+        "level": 16,
+        "freeRewards": {
+          "78100": 1
+        },
+        "normalRewards": {
+          "78100": 2
+        },
+        "normalIcon": "UT_Item_Material_78100",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "78100": 2
+        },
+        "premiumIcon": "UT_Item_Material_78100",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 17,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "90001": 1
+        }
+      },
+      {
+        "level": 18,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 19,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 20,
+        "freeRewards": {
+          "91037": 1
+        },
+        "normalRewards": {
+          "120127014": 1
+        },
+        "premiumRewards": {
+          "120127015": 1
+        }
+      },
+      {
+        "level": 21,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "1": 300
+        },
+        "normalIcon": "UT_Item_Currency_1_1",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "1": 300
+        },
+        "premiumIcon": "UT_Item_Currency_1_1",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 22,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "90001": 1
+        }
+      },
+      {
+        "level": 23,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 24,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "2": 60
+        },
+        "normalIcon": "UT_Recharge_100020",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "2": 60
+        },
+        "premiumIcon": "UT_Recharge_100020",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 25,
+        "freeRewards": {
+          "91037": 1
+        },
+        "normalRewards": {
+          "75074": 1
+        },
+        "normalIcon": "UT_CardBack_75074",
+        "premiumRewards": {
+          "75075": 1
+        },
+        "premiumIcon": "UT_CardBack_75075"
+      },
+      {
+        "level": 26,
+        "freeRewards": {
+          "78100": 1
+        },
+        "normalRewards": {
+          "78100": 2
+        },
+        "normalIcon": "UT_Item_Material_78100",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "78100": 2
+        },
+        "premiumIcon": "UT_Item_Material_78100",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 27,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "90001": 1
+        }
+      },
+      {
+        "level": 28,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 29,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91011": 1
+        }
+      },
+      {
+        "level": 30,
+        "freeRewards": {
+          "91037": 1
+        },
+        "normalRewards": {
+          "2": 60
+        },
+        "normalIcon": "UT_Recharge_100020",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "2": 60
+        },
+        "premiumIcon": "UT_Recharge_100020",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 31,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "1": 300
+        },
+        "normalIcon": "UT_Item_Currency_1_1",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "1": 300
+        },
+        "premiumIcon": "UT_Item_Currency_1_1",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 32,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "90001": 1
+        }
+      },
+      {
+        "level": 33,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "2": 60
+        },
+        "normalIcon": "UT_Recharge_100020",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "2": 60
+        },
+        "premiumIcon": "UT_Recharge_100020",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 34,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "91037": 1
+        }
+      },
+      {
+        "level": 35,
+        "freeRewards": {
+          "91011": 1
+        },
+        "normalRewards": {
+          "91011": 1
+        }
+      },
+      {
+        "level": 36,
+        "freeRewards": {
+          "78100": 1
+        },
+        "normalRewards": {
+          "78100": 2
+        },
+        "normalIcon": "UT_Item_Material_78100",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "78100": 2
+        },
+        "premiumIcon": "UT_Item_Material_78100",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 37,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "2": 60
+        },
+        "normalIcon": "UT_Recharge_100020",
+        "normalInfoType": 1,
+        "premiumRewards": {
+          "2": 60
+        },
+        "premiumIcon": "UT_Recharge_100020",
+        "premiumInfoType": 1
+      },
+      {
+        "level": 38,
+        "freeRewards": {
+          "91036": 1
+        },
+        "normalRewards": {
+          "91011": 1
+        }
+      },
+      {
+        "level": 39,
+        "freeRewards": {
+          "1": 30
+        },
+        "normalRewards": {
+          "71095": 1
+        },
+        "premiumRewards": {
+          "71096": 1
+        }
+      },
+      {
+        "level": 40,
+        "freeRewards": {
+          "90001": 3
+        },
+        "normalRewards": {
+          "100127004": 1
+        }
+      }
+    ]
+  }
+]

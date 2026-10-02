@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "key": "INITIAL_ITEM",
+    "value": "70001#1|71001#1|72099#1|73001#1|75001#1|77002#1|78101#1",
+    "Type": "String"
+  },
+  {
+    "id": 4,
+    "key": "INITIAL_FASHION",
+    "value": "1#70001|2#71001|3#75001|4#72099|5#73001",
+    "Type": "String"
+  },
+  {
+    "id": 1701,
+    "key": "HOME_PANEL_VIDEO",
+    "value": "316",
+    "Type": "Int"
+  },
+  {
+    "id": 1805,
+    "key": "IS_CN_SEVER",
+    "value": "True",
+    "Type": "Bool"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "landType": {
+      "value": 1,
+      "name": "LandType_Born"
+    },
+    "platformMainTexOffset": [
+      875,
+      0
+    ],
+    "isGalleryShow": true,
+    "nameID": 80001,
+    "descriptionID": 800010,
+    "landIcon": "UT_Platform_108",
+    "LandSfx": 52,
+    "params": [
+      2
+    ],
+    "perform1": 8000100
+  },
+  {
+    "landType": {
+      "value": 2,
+      "name": "LandType_FillingStation"
+    },
+    "platformMainTexOffset": [
+      125,
+      250
+    ],
+    "isGalleryShow": true,
+    "nameID": 80002,
+    "descriptionID": 800020,
+    "landIcon": "UT_Platform_Start",
+    "LandSfx": 52,
+    "params": [
+      2
+    ],
+    "perform1": 8000200
+  },
+  {
+    "landType": {
+      "value": 3,
+      "name": "LandType_Portal"
+    },
+    "platformMainTexOffset": [
+      250,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80003,
+    "descriptionID": 800030,
+    "landIcon": "UT_Platform_Teleport",
+    "LandSfx": 54,
+    "params": [
+      3
+    ],
+    "perform1": 8000300,
+    "perform2": 8000301
+  },
+  {
+    "landType": {
+      "value": 4,
+      "name": "LandType_Pursuit"
+    },
+    "platformMainTexOffset": [
+      125,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80004,
+    "descriptionID": 800040,
+    "landIcon": "UT_Platform_TeleportPoint",
+    "LandSfx": 50,
+    "perform1": 8000400,
+    "perform2": 8000401
+  },
+  {
+    "landType": {
+      "value": 6,
+      "name": "LandType_Divination"
+    },
+    "platformMainTexOffset": [
+      625,
+      500
+    ],
+    "isGalleryShow": true,
+    "nameID": 80006,
+    "descriptionID": 800060,
+    "landIcon": "UT_Platform_Divine",
+    "LandSfx": 54,
+    "params": [
+      2
+    ]
+  },
+  {
+    "landType": {
+      "value": 7,
+      "name": "LandType_Shop"
+    },
+    "platformMainTexOffset": [
+      500,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80007,
+    "descriptionID": 800070,
+    "landIcon": "UT_Platform_Shop",
+    "LandSfx": 52,
+    "params": [
+      2,
+      1,
+      3
+    ],
+    "perform1": 8000700,
+    "perform2": 8000701
+  },
+  {
+    "landType": {
+      "value": 8,
+      "name": "LandType_Event"
+    },
+    "platformMainTexOffset": [
+      375,
+      500
+    ],
+    "isGalleryShow": true,
+    "nameID": 80008,
+    "descriptionID": 800080,
+    "landIcon": "UT_Platform_Event",
+    "LandSfx": 54
+  },
+  {
+    "landType": {
+      "value": 9,
+      "name": "LandType_Lottery"
+    },
+    "platformMainTexOffset": [
+      750,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80009,
+    "descriptionID": 800090,
+    "UIElement": "UT_LandLottery_element",
+    "sfwUIElement": "UT_LandLottery_sfwelement",
+    "landIcon": "UT_Platform_Lottery",
+    "LandSfx": 52,
+    "params": [
+      1
+    ]
+  },
+  {
+    "landType": {
+      "value": 10,
+      "name": "LandType_Gamble"
+    },
+    "platformMainTexOffset": [
+      125,
+      500
+    ],
+    "isGalleryShow": true,
+    "nameID": 80010,
+    "descriptionID": 800100,
+    "landIcon": "UT_Platform_Gamble",
+    "LandSfx": 54,
+    "params": [
+      6,
+      3
+    ]
+  },
+  {
+    "landType": {
+      "value": 11,
+      "name": "LandType_Battery"
+    },
+    "platformMainTexOffset": [
+      250,
+      500
+    ],
+    "isGalleryShow": true,
+    "nameID": 80011,
+    "descriptionID": 800110,
+    "landIcon": "UT_Platform_Fire",
+    "LandSfx": 50,
+    "params": [
+      -2
+    ],
+    "perform1": 8001100
+  },
+  {
+    "landType": {
+      "value": 12,
+      "name": "LandType_MoveAgain"
+    },
+    "platformMainTexOffset": [
+      625,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80012,
+    "descriptionID": 800120,
+    "landIcon": "UT_Platform_MoveAgain",
+    "LandSfx": 54
+  },
+  {
+    "landType": {
+      "value": 13,
+      "name": "LandType_Hospital"
+    },
+    "platformMainTexOffset": [
+      875,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80013,
+    "descriptionID": 800130,
+    "landIcon": "UT_Platform_Hospital",
+    "LandSfx": 53,
+    "params": [
+      3,
+      2
+    ],
+    "perform1": 8001300,
+    "perform2": 8001301
+  },
+  {
+    "landType": {
+      "value": 14,
+      "name": "LandType_DrawCard"
+    },
+    "platformMainTexOffset": [
+      0,
+      250
+    ],
+    "isGalleryShow": true,
+    "nameID": 80014,
+    "descriptionID": 800140,
+    "landIcon": "UT_Platform_Card",
+    "LandSfx": 54,
+    "params": [
+      2
+    ],
+    "perform1": 8001400
+  },
+  {
+    "landType": {
+      "value": 15,
+      "name": "LandType_RollGold"
+    },
+    "platformMainTexOffset": [
+      0,
+      500
+    ],
+    "isGalleryShow": true,
+    "nameID": 80015,
+    "descriptionID": 800150,
+    "landIcon": "UT_Platform_Gold",
+    "LandSfx": 52,
+    "params": [
+      2,
+      3,
+      4,
+      5,
+      10
+    ],
+    "perform1": 8001500
+  },
+  {
+    "landType": {
+      "value": 16,
+      "name": "LandType_Destiny"
+    },
+    "platformMainTexOffset": [
+      750,
+      500
+    ],
+    "isGalleryShow": true,
+    "nameID": 80016,
+    "descriptionID": 800160,
+    "landIcon": "UT_Platform_Destiny",
+    "LandSfx": 54
+  },
+  {
+    "landType": {
+      "value": 17,
+      "name": "LandType_BloodLoss"
+    },
+    "platformMainTexOffset": [
+      875,
+      500
+    ],
+    "isGalleryShow": true,
+    "nameID": 80017,
+    "descriptionID": 800170,
+    "landIcon": "UT_Platform_Damage",
+    "LandSfx": 51,
+    "params": [
+      -2
+    ],
+    "perform1": 8001700
+  },
+  {
+    "landType": {
+      "value": 18,
+      "name": "LandType_Jump"
+    },
+    "platformMainTexOffset": [
+      375,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80018,
+    "descriptionID": 800180,
+    "landIcon": "UT_Platform_Jump",
+    "LandSfx": 54,
+    "perform1": 8000300,
+    "perform2": 8000301
+  },
+  {
+    "landType": {
+      "value": 19,
+      "name": "LandType_Monster"
+    },
+    "platformMainTexOffset": [
+      375,
+      250
+    ],
+    "isGalleryShow": true,
+    "nameID": 80019,
+    "descriptionID": 800190,
+    "landIcon": "UT_Platform_Monster",
+    "LandSfx": 50
+  },
+  {
+    "landType": {
+      "value": 20,
+      "name": "LandType_Heal"
+    },
+    "platformMainTexOffset": [
+      250,
+      250
+    ],
+    "isGalleryShow": true,
+    "nameID": 80020,
+    "descriptionID": 800200,
+    "landIcon": "UT_Platform_Heal",
+    "LandSfx": 54,
+    "params": [
+      2
+    ],
+    "perform1": 8001301
+  },
+  {
+    "landType": {
+      "value": 21,
+      "name": "LandType_MonsterPursuit"
+    },
+    "platformMainTexOffset": [
+      125,
+      750
+    ],
+    "isGalleryShow": true,
+    "nameID": 80021,
+    "descriptionID": 800210,
+    "landIcon": "UT_Platform_TeleportPoint",
+    "LandSfx": 50
+  },
+  {
+    "landType": {
+      "value": 22,
+      "name": "LandType_PVEShop"
+    },
+    "platformMainTexOffset": [
+      500,
+      750
+    ],
+    "nameID": 80007,
+    "descriptionID": 800070,
+    "landIcon": "UT_Platform_Shop",
+    "LandSfx": 52,
+    "params": [
+      2,
+      1,
+      3,
+      5
+    ],
+    "perform1": 8000700,
+    "perform2": 8000701
+  },
+  {
+    "landType": {
+      "value": 23,
+      "name": "LandType_Gift"
+    },
+    "platformMainTexOffset": [
+      500,
+      250
+    ],
+    "isGalleryShow": true,
+    "isSPLand": true,
+    "nameID": 80023,
+    "descriptionID": 800230,
+    "landIcon": "UT_Platform_Gift",
+    "LandSfx": 54,
+    "params": [
+      1
+    ],
+    "perform1": 8002301
+  },
+  {
+    "landType": {
+      "value": 24,
+      "name": "LandType_Relic"
+    },
+    "platformMainTexOffset": [
+      625,
+      250
+    ],
+    "isGalleryShow": true,
+    "nameID": 80024,
+    "descriptionID": 800240,
+    "landIcon": "UT_Platform_Relic",
+    "LandSfx": 52,
+    "params": [
+      5,
+      10,
+      5
+    ]
+  },
+  {
+    "landType": {
+      "value": 25,
+      "name": "LandType_Gimmick"
+    },
+    "platformMainTexOffset": [
+      750,
+      250
+    ],
+    "isGalleryShow": true,
+    "isSPLand": true,
+    "nameID": 80025,
+    "descriptionID": 800250,
+    "landIcon": "UT_Platform_Gimmick",
+    "LandSfx": 52
+  },
+  {
+    "landType": {
+      "value": 26,
+      "name": "LandType_Vendor"
+    },
+    "platformMainTexOffset": [
+      875,
+      250
+    ],
+    "isGalleryShow": true,
+    "isSPLand": true,
+    "nameID": 80026,
+    "descriptionID": 800260,
+    "landIcon": "UT_Platform_CandyGhost",
+    "LandSfx": 52,
+    "params": [
+      5,
+      21014,
+      40,
+      21015,
+      30,
+      21016,
+      30
+    ]
+  },
+  {
+    "landType": {
+      "value": 27,
+      "name": "LandType_MindTraining"
+    },
+    "platformMainTexOffset": [
+      875,
+      250
+    ],
+    "isGalleryShow": true,
+    "isSPLand": true,
+    "nameID": 80027,
+    "descriptionID": 800270,
+    "landIcon": "UT_Platform_MindTraining",
+    "LandSfx": 52,
+    "params": [
+      -2,
+      1
+    ],
+    "perform1": 8002700
+  }
+]

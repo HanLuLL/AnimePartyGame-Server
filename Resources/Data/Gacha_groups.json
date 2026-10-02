@@ -1,0 +1,6018 @@
+[
+  {
+    "groupID": 101301005,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 23,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 24,
+        "itemId": 129,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301015,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70017,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301014,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70018,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 70020,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 70021,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 70022,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301013,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 70005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 70006,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 70007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 70009,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 70010,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 70011,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 70012,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 70013,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 70014,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 70015,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 70016,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301024,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 71004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 71005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 71006,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 71007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 71008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 71009,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 71010,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 71011,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 71013,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301023,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71014,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 71015,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 71016,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 71017,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301034,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 72004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 72007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 72008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 72010,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 72023,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 72024,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301033,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 72002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 72005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 72006,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301044,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 75005,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301043,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 75003,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301042,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 73002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 73004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 73006,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301054,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 73003,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 73005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 73007,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301053,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 73008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 73009,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301064,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 77011,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 77012,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 77013,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 77014,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 77015,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 101301063,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 77006,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 77007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 77008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 77009,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 77010,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301006,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301005,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301015,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70017,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301014,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70018,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 70020,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 70021,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301013,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 70005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 70006,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 70007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 70009,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 70010,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 70011,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 70012,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 70013,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 70014,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 70015,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 70016,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301024,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 71004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 71005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 71006,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 71007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 71008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 71009,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 71010,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 71011,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 71013,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301023,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71014,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 71015,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 71016,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 71017,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301034,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 72004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 72007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 72008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 72010,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 72023,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 72024,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301033,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 72002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 72005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 72006,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301044,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 75005,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301043,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 75003,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301042,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 73002,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 73004,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 73006,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301054,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 73003,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 73005,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 73007,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301053,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 73008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 73009,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301064,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 77011,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 77012,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 77013,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 77014,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 77015,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 201301063,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 77006,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 77007,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 77008,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 77009,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 77010,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 401408305,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100107004,
+        "numberMin": 1,
+        "itemWeight": 300
+      },
+      {
+        "index": 1,
+        "itemId": 70029,
+        "numberMin": 1,
+        "itemWeight": 1900
+      },
+      {
+        "index": 2,
+        "itemId": 70030,
+        "numberMin": 1,
+        "itemWeight": 1900
+      },
+      {
+        "index": 3,
+        "itemId": 75018,
+        "numberMin": 1,
+        "itemWeight": 1800
+      },
+      {
+        "index": 4,
+        "itemId": 75019,
+        "numberMin": 1,
+        "itemWeight": 1800
+      },
+      {
+        "index": 5,
+        "itemId": 120107009,
+        "numberMin": 1,
+        "itemWeight": 500
+      },
+      {
+        "index": 6,
+        "itemId": 120107010,
+        "numberMin": 1,
+        "itemWeight": 500
+      },
+      {
+        "index": 7,
+        "itemId": 71027,
+        "numberMin": 1,
+        "itemWeight": 300
+      },
+      {
+        "index": 8,
+        "itemId": 71028,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 401408304,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 77011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 77012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 77013,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 77014,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 77015,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 401408303,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 77006,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 77007,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 77008,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 77009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 77010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 401408302,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 77001,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 77002,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 77003,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 77004,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 77005,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 401408301,
+    "gachaItemSortType": {
+      "value": 4,
+      "name": "GachaItemSortType_Other"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 1000006,
+        "numberMin": 6,
+        "itemWeight": 400000
+      },
+      {
+        "index": 1,
+        "itemId": 1000006,
+        "numberMin": 18,
+        "itemWeight": 75000
+      },
+      {
+        "index": 2,
+        "itemId": 1000006,
+        "numberMin": 30,
+        "itemWeight": 25000
+      },
+      {
+        "index": 3,
+        "itemId": 1,
+        "numberMin": 30,
+        "itemWeight": 90000
+      },
+      {
+        "index": 4,
+        "itemId": 1,
+        "numberMin": 60,
+        "itemWeight": 10000
+      },
+      {
+        "index": 5,
+        "itemId": 78100,
+        "numberMin": 3,
+        "itemWeight": 30000
+      }
+    ]
+  },
+  {
+    "groupID": 601503219,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100102003,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 601503218,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71022,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 601503217,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71021,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 71025,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 71033,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 71042,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 71048,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 71054,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 6,
+        "itemId": 71059,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 7,
+        "itemId": 71063,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 8,
+        "itemId": 71072,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 9,
+        "itemId": 71067,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 10,
+        "itemId": 71056,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 11,
+        "itemId": 71057,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 12,
+        "itemId": 71058,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 601503216,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 120102010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 120102012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 120103010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 120103012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 120116010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 120116012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 6,
+        "itemId": 120117010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 7,
+        "itemId": 120117012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 8,
+        "itemId": 120112010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 9,
+        "itemId": 120112012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 10,
+        "itemId": 120119011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 11,
+        "itemId": 120119013,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 12,
+        "itemId": 120123010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 13,
+        "itemId": 120123012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 14,
+        "itemId": 120107013,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 15,
+        "itemId": 120107015,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 16,
+        "itemId": 120104011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 17,
+        "itemId": 120104013,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 18,
+        "itemId": 120120011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 19,
+        "itemId": 120120013,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 601503215,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 120102009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 120102011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 120103009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 120103011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 120116009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 120116011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 6,
+        "itemId": 120117009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 7,
+        "itemId": 120117011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 8,
+        "itemId": 120112009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 9,
+        "itemId": 120112011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 10,
+        "itemId": 120119010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 11,
+        "itemId": 120119012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 12,
+        "itemId": 120123009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 13,
+        "itemId": 120123011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 14,
+        "itemId": 120107012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 15,
+        "itemId": 120107014,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 16,
+        "itemId": 120104010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 17,
+        "itemId": 120104012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 18,
+        "itemId": 120120010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 19,
+        "itemId": 120120012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 601503214,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75014,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 75017,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 75021,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 75025,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 75029,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 75034,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 6,
+        "itemId": 75042,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 7,
+        "itemId": 75046,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 8,
+        "itemId": 75053,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 9,
+        "itemId": 75049,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 601503213,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75013,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 75016,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 75020,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 75024,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 75028,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 75033,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 6,
+        "itemId": 75041,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 7,
+        "itemId": 75045,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 8,
+        "itemId": 75052,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 9,
+        "itemId": 75048,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 10,
+        "itemId": 75035,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 11,
+        "itemId": 75036,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 12,
+        "itemId": 75037,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 13,
+        "itemId": 75038,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 14,
+        "itemId": 75039,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 15,
+        "itemId": 75040,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 601503211,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70026,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 70028,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 70043,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 70049,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 70053,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 70058,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 6,
+        "itemId": 70068,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 7,
+        "itemId": 70071,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 8,
+        "itemId": 70078,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 9,
+        "itemId": 70075,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 10,
+        "itemId": 70059,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 11,
+        "itemId": 70060,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 12,
+        "itemId": 70061,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 13,
+        "itemId": 70062,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 14,
+        "itemId": 70063,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 15,
+        "itemId": 70064,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 16,
+        "itemId": 70065,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 17,
+        "itemId": 70066,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 202699995,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 701602069,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100112004,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701602068,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71049,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 401602065,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100117005,
+        "numberMin": 1,
+        "itemWeight": 300
+      },
+      {
+        "index": 1,
+        "itemId": 70083,
+        "numberMin": 1,
+        "itemWeight": 6900
+      },
+      {
+        "index": 2,
+        "itemId": 70084,
+        "numberMin": 1,
+        "itemWeight": 1900
+      },
+      {
+        "index": 3,
+        "itemId": 75071,
+        "numberMin": 1,
+        "itemWeight": 1800
+      },
+      {
+        "index": 4,
+        "itemId": 75070,
+        "numberMin": 1,
+        "itemWeight": 5800
+      },
+      {
+        "index": 5,
+        "itemId": 120112014,
+        "numberMin": 1,
+        "itemWeight": 500
+      },
+      {
+        "index": 6,
+        "itemId": 120112015,
+        "numberMin": 1,
+        "itemWeight": 500
+      },
+      {
+        "index": 7,
+        "itemId": 71092,
+        "numberMin": 1,
+        "itemWeight": 300
+      },
+      {
+        "index": 8,
+        "itemId": 71091,
+        "numberMin": 1,
+        "itemWeight": 2000
+      }
+    ]
+  },
+  {
+    "groupID": 401602061,
+    "gachaItemSortType": {
+      "value": 4,
+      "name": "GachaItemSortType_Other"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 1000055,
+        "numberMin": 6,
+        "itemWeight": 400000
+      },
+      {
+        "index": 1,
+        "itemId": 1000055,
+        "numberMin": 18,
+        "itemWeight": 75000
+      },
+      {
+        "index": 2,
+        "itemId": 1000055,
+        "numberMin": 30,
+        "itemWeight": 25000
+      },
+      {
+        "index": 3,
+        "itemId": 1,
+        "numberMin": 30,
+        "itemWeight": 80000
+      },
+      {
+        "index": 4,
+        "itemId": 1,
+        "numberMin": 60,
+        "itemWeight": 10000
+      },
+      {
+        "index": 5,
+        "itemId": 78100,
+        "numberMin": 3,
+        "itemWeight": 30000
+      }
+    ]
+  },
+  {
+    "groupID": 301603136,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301603135,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301603146,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301603145,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 701603139,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100116003,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701603138,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71034,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 301603166,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301603165,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 701604219,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100123003,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701604218,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71060,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 301604176,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301604175,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301604186,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301604185,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301604196,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301604195,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301604206,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301604205,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 701605249,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100117003,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701605248,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71043,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 301605216,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301605215,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301605226,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301605225,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301605236,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301605235,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 401606255,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100112005,
+        "numberMin": 1,
+        "itemWeight": 300
+      },
+      {
+        "index": 1,
+        "itemId": 70096,
+        "numberMin": 1,
+        "itemWeight": 6900
+      },
+      {
+        "index": 2,
+        "itemId": 70097,
+        "numberMin": 1,
+        "itemWeight": 1900
+      },
+      {
+        "index": 3,
+        "itemId": 75071,
+        "numberMin": 1,
+        "itemWeight": 1800
+      },
+      {
+        "index": 4,
+        "itemId": 75070,
+        "numberMin": 1,
+        "itemWeight": 5800
+      },
+      {
+        "index": 5,
+        "itemId": 120112014,
+        "numberMin": 1,
+        "itemWeight": 500
+      },
+      {
+        "index": 6,
+        "itemId": 120112015,
+        "numberMin": 1,
+        "itemWeight": 500
+      },
+      {
+        "index": 7,
+        "itemId": 71092,
+        "numberMin": 1,
+        "itemWeight": 300
+      },
+      {
+        "index": 8,
+        "itemId": 71091,
+        "numberMin": 1,
+        "itemWeight": 2000
+      }
+    ]
+  },
+  {
+    "groupID": 401606251,
+    "gachaItemSortType": {
+      "value": 4,
+      "name": "GachaItemSortType_Other"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 1000055,
+        "numberMin": 6,
+        "itemWeight": 400000
+      },
+      {
+        "index": 1,
+        "itemId": 1000055,
+        "numberMin": 18,
+        "itemWeight": 75000
+      },
+      {
+        "index": 2,
+        "itemId": 1000055,
+        "numberMin": 30,
+        "itemWeight": 25000
+      },
+      {
+        "index": 3,
+        "itemId": 1,
+        "numberMin": 30,
+        "itemWeight": 80000
+      },
+      {
+        "index": 4,
+        "itemId": 1,
+        "numberMin": 60,
+        "itemWeight": 10000
+      },
+      {
+        "index": 5,
+        "itemId": 78100,
+        "numberMin": 3,
+        "itemWeight": 30000
+      }
+    ]
+  },
+  {
+    "groupID": 701606299,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100107005,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701606298,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71064,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 301606266,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301606265,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301606276,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301606275,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301606286,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301606285,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 801607309,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100114003,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607309,
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100107004,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 100113004,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607308,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 13021002,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607307,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71032,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 71027,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 71046,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607306,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75022,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 75018,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 75026,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607305,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70045,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 70030,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 70052,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 70044,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 70029,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 70051,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607304,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 120114009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 120114010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 120107009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 120107010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 120113009,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 120113010,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607303,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71031,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 71028,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 71045,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 3,
+        "itemId": 71047,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 4,
+        "itemId": 71035,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 5,
+        "itemId": 71029,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 6,
+        "itemId": 71037,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607302,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 75023,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 75019,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 75027,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607301,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 70997,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 70994,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 2,
+        "itemId": 70995,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701607300,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 120113011,
+        "numberMin": 1,
+        "itemWeight": 1000
+      },
+      {
+        "index": 1,
+        "itemId": 120113012,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 101307303,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 1000009,
+        "numberMin": 30,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 101307302,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 1000009,
+        "numberMin": 15,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 101307301,
+    "gachaItemSortType": {
+      "value": 3,
+      "name": "GachaItemSortType_Gift"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 1000009,
+        "numberMin": 8,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701608049,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100104004,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701608048,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71073,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 301608016,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 129,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301608015,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 23,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301608026,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301608025,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 23,
+        "itemId": 129,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301608036,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301608035,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 23,
+        "itemId": 129,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301608056,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301608055,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 23,
+        "itemId": 129,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301609036,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301609035,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 23,
+        "itemId": 129,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 701609049,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 100120004,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 701609048,
+    "gachaItemSortType": {
+      "value": 2,
+      "name": "GachaItemSortType_Fashion"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 71068,
+        "numberMin": 1,
+        "itemWeight": 1000
+      }
+    ]
+  },
+  {
+    "groupID": 301609056,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 120,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  },
+  {
+    "groupID": 301609055,
+    "gachaItemSortType": {
+      "value": 1,
+      "name": "GachaItemSortType_Role"
+    },
+    "gachaGroupConfigureItems": [
+      {
+        "itemId": 103,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 1,
+        "itemId": 104,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 2,
+        "itemId": 106,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 3,
+        "itemId": 116,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 4,
+        "itemId": 126,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 5,
+        "itemId": 124,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 6,
+        "itemId": 113,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 7,
+        "itemId": 114,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 8,
+        "itemId": 101,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 9,
+        "itemId": 125,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 10,
+        "itemId": 117,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 11,
+        "itemId": 118,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 12,
+        "itemId": 119,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 13,
+        "itemId": 128,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 14,
+        "itemId": 121,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 15,
+        "itemId": 110,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 16,
+        "itemId": 115,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 17,
+        "itemId": 123,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 18,
+        "itemId": 109,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 19,
+        "itemId": 122,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 20,
+        "itemId": 127,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 21,
+        "itemId": 111,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 22,
+        "itemId": 112,
+        "numberMin": 1,
+        "itemWeight": 100
+      },
+      {
+        "index": 23,
+        "itemId": 129,
+        "numberMin": 1,
+        "itemWeight": 100
+      }
+    ]
+  }
+]

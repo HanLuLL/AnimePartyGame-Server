@@ -1,0 +1,92 @@
+[
+  {
+    "id": 50001,
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "functionName": "Divination_50001",
+    "nameID": 50001,
+    "descId": 500011,
+    "image": "UT_Destiny_40011",
+    "params": [
+      5
+    ],
+    "perform": 5000100
+  },
+  {
+    "id": 50002,
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "functionName": "Divination_50002",
+    "nameID": 50002,
+    "descId": 500021,
+    "image": "UT_Destiny_40012",
+    "params": [
+      -5
+    ],
+    "perform": 5000200
+  },
+  {
+    "id": 50003,
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "functionName": "Divination_50003",
+    "nameID": 50003,
+    "descId": 500031,
+    "image": "UT_Destiny_40001",
+    "params": [
+      2
+    ],
+    "perform": 5000300
+  },
+  {
+    "id": 50004,
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "functionName": "Divination_50004",
+    "nameID": 50004,
+    "descId": 500041,
+    "image": "UT_Destiny_40002",
+    "params": [
+      -2
+    ],
+    "perform": 5000400
+  },
+  {
+    "id": 50005,
+    "cardType": {
+      "value": 6,
+      "name": "CardType_Luck"
+    },
+    "functionName": "Divination_50005",
+    "nameID": 50005,
+    "descId": 500051,
+    "image": "UT_Destiny_40007",
+    "params": [
+      1
+    ],
+    "perform": 5000500
+  },
+  {
+    "id": 50006,
+    "cardType": {
+      "value": 7,
+      "name": "CardType_Jinx"
+    },
+    "functionName": "Divination_50006",
+    "nameID": 50006,
+    "descId": 500061,
+    "image": "UT_Destiny_40009",
+    "params": [
+      -1
+    ],
+    "perform": 5000600
+  }
+]

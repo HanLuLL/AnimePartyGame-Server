@@ -1,0 +1,4217 @@
+[
+  {
+    "combID": 10130101,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 101301005,
+        "groupWeight": 500
+      },
+      {
+        "index": 1,
+        "groupID": 101301015,
+        "groupWeight": 15
+      },
+      {
+        "index": 2,
+        "groupID": 101301014,
+        "groupWeight": 120
+      },
+      {
+        "index": 3,
+        "groupID": 101301013,
+        "groupWeight": 734
+      },
+      {
+        "index": 4,
+        "groupID": 101301024,
+        "groupWeight": 89
+      },
+      {
+        "index": 5,
+        "groupID": 101301023,
+        "groupWeight": 91
+      },
+      {
+        "index": 6,
+        "groupID": 101301034,
+        "groupWeight": 46
+      },
+      {
+        "index": 7,
+        "groupID": 101301033,
+        "groupWeight": 79
+      },
+      {
+        "index": 8,
+        "groupID": 101301044,
+        "groupWeight": 5
+      },
+      {
+        "index": 9,
+        "groupID": 101301043,
+        "groupWeight": 210
+      },
+      {
+        "index": 10,
+        "groupID": 101301042,
+        "groupWeight": 5
+      },
+      {
+        "index": 11,
+        "groupID": 101301054,
+        "groupWeight": 60
+      },
+      {
+        "index": 12,
+        "groupID": 101301053,
+        "groupWeight": 46
+      },
+      {
+        "index": 13,
+        "groupID": 101301064,
+        "groupWeight": 500
+      },
+      {
+        "index": 14,
+        "groupID": 101301063,
+        "groupWeight": 7500
+      }
+    ]
+  },
+  {
+    "combID": 10230101,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 101301005,
+        "groupWeight": 500
+      },
+      {
+        "index": 1,
+        "groupID": 101301015,
+        "groupWeight": 15
+      },
+      {
+        "index": 2,
+        "groupID": 101301014,
+        "groupWeight": 854
+      },
+      {
+        "index": 3,
+        "groupID": 101301024,
+        "groupWeight": 180
+      },
+      {
+        "index": 4,
+        "groupID": 101301034,
+        "groupWeight": 125
+      },
+      {
+        "index": 5,
+        "groupID": 101301044,
+        "groupWeight": 215
+      },
+      {
+        "index": 6,
+        "groupID": 101301042,
+        "groupWeight": 5
+      },
+      {
+        "index": 7,
+        "groupID": 101301054,
+        "groupWeight": 106
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 8000
+      }
+    ]
+  },
+  {
+    "combID": 10330101,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 101301005,
+        "groupWeight": 500
+      }
+    ]
+  },
+  {
+    "combID": 26970101,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 202699995,
+        "groupWeight": 500
+      },
+      {
+        "index": 1,
+        "groupID": 101301015,
+        "groupWeight": 15
+      },
+      {
+        "index": 2,
+        "groupID": 101301014,
+        "groupWeight": 120
+      },
+      {
+        "index": 3,
+        "groupID": 101301013,
+        "groupWeight": 734
+      },
+      {
+        "index": 4,
+        "groupID": 101301024,
+        "groupWeight": 89
+      },
+      {
+        "index": 5,
+        "groupID": 101301023,
+        "groupWeight": 91
+      },
+      {
+        "index": 6,
+        "groupID": 101301034,
+        "groupWeight": 46
+      },
+      {
+        "index": 7,
+        "groupID": 101301033,
+        "groupWeight": 79
+      },
+      {
+        "index": 8,
+        "groupID": 101301044,
+        "groupWeight": 5
+      },
+      {
+        "index": 9,
+        "groupID": 101301043,
+        "groupWeight": 210
+      },
+      {
+        "index": 10,
+        "groupID": 101301042,
+        "groupWeight": 5
+      },
+      {
+        "index": 11,
+        "groupID": 101301054,
+        "groupWeight": 60
+      },
+      {
+        "index": 12,
+        "groupID": 101301053,
+        "groupWeight": 46
+      },
+      {
+        "index": 13,
+        "groupID": 101301064,
+        "groupWeight": 500
+      },
+      {
+        "index": 14,
+        "groupID": 101301063,
+        "groupWeight": 7500
+      }
+    ]
+  },
+  {
+    "combID": 26980101,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 202699995,
+        "groupWeight": 500
+      },
+      {
+        "index": 1,
+        "groupID": 101301015,
+        "groupWeight": 15
+      },
+      {
+        "index": 2,
+        "groupID": 101301014,
+        "groupWeight": 854
+      },
+      {
+        "index": 3,
+        "groupID": 101301024,
+        "groupWeight": 180
+      },
+      {
+        "index": 4,
+        "groupID": 101301034,
+        "groupWeight": 125
+      },
+      {
+        "index": 5,
+        "groupID": 101301044,
+        "groupWeight": 215
+      },
+      {
+        "index": 6,
+        "groupID": 101301042,
+        "groupWeight": 5
+      },
+      {
+        "index": 7,
+        "groupID": 101301054,
+        "groupWeight": 106
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 8000
+      }
+    ]
+  },
+  {
+    "combID": 26990101,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 202699995,
+        "groupWeight": 500
+      }
+    ]
+  },
+  {
+    "combID": 60160206,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701602069,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701602068,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 601503211,
+        "groupWeight": 250000
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 50000
+      },
+      {
+        "index": 9,
+        "groupID": 101301063,
+        "groupWeight": 550200
+      }
+    ]
+  },
+  {
+    "combID": 60260206,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701602069,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701602068,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 101301064,
+        "groupWeight": 850200
+      }
+    ]
+  },
+  {
+    "combID": 40160206,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 401602065,
+        "groupWeight": 20000
+      },
+      {
+        "index": 1,
+        "groupID": 401408304,
+        "groupWeight": 10000
+      },
+      {
+        "index": 2,
+        "groupID": 401408303,
+        "groupWeight": 50000
+      },
+      {
+        "index": 3,
+        "groupID": 401408302,
+        "groupWeight": 300000
+      },
+      {
+        "index": 4,
+        "groupID": 401602061,
+        "groupWeight": 620000
+      }
+    ]
+  },
+  {
+    "combID": 20160313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603136,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603135,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 20260313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603136,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603135,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 20360313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603136,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603135,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 20460313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603136,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 30160313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603146,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603145,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603146,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603145,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603146,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603145,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603146,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 40160313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701603139,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701603138,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 601503211,
+        "groupWeight": 250000
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 50000
+      },
+      {
+        "index": 9,
+        "groupID": 101301063,
+        "groupWeight": 550200
+      }
+    ]
+  },
+  {
+    "combID": 40260313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701603139,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701603138,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 101301064,
+        "groupWeight": 850200
+      }
+    ]
+  },
+  {
+    "combID": 50160313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603166,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603165,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 50260313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603166,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603165,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 50360313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603166,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301603165,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 50460313,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301603166,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 40160417,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701604219,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701604218,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 601503211,
+        "groupWeight": 250000
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 50000
+      },
+      {
+        "index": 9,
+        "groupID": 101301063,
+        "groupWeight": 550200
+      }
+    ]
+  },
+  {
+    "combID": 40260417,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701604219,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701604218,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 101301064,
+        "groupWeight": 850200
+      }
+    ]
+  },
+  {
+    "combID": 20160417,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604176,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604175,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 20260417,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604176,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604175,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 20360417,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604176,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604175,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 20460417,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604176,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 20160418,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604186,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604185,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 20260418,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604186,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604185,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 20360418,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604186,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604185,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 20460418,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604186,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 40160419,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604196,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604195,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 40260419,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604196,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604195,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 40360419,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604196,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604195,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 40460419,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604196,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 50160420,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604206,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604205,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 50260420,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604206,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604205,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 50360420,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604206,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301604205,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 50460420,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301604206,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 50160521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701605249,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701605248,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 601503211,
+        "groupWeight": 250000
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 50000
+      },
+      {
+        "index": 9,
+        "groupID": 101301063,
+        "groupWeight": 550200
+      }
+    ]
+  },
+  {
+    "combID": 50260521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701605249,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701605248,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 101301064,
+        "groupWeight": 850200
+      }
+    ]
+  },
+  {
+    "combID": 20160521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605216,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605215,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 20260521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605216,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605215,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 20360521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605216,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605215,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 20460521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605216,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 30160521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605226,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605225,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605226,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605225,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605226,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605225,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605226,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 40160521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605236,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605235,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 40260521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605236,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605235,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 40360521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605236,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301605235,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 40460521,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301605236,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 40160625,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 401606255,
+        "groupWeight": 20000
+      },
+      {
+        "index": 1,
+        "groupID": 401408304,
+        "groupWeight": 10000
+      },
+      {
+        "index": 2,
+        "groupID": 401408303,
+        "groupWeight": 50000
+      },
+      {
+        "index": 3,
+        "groupID": 401408302,
+        "groupWeight": 300000
+      },
+      {
+        "index": 4,
+        "groupID": 401606251,
+        "groupWeight": 620000
+      }
+    ]
+  },
+  {
+    "combID": 30160626,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606266,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606265,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260626,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606266,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606265,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360626,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606266,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606265,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460626,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606266,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 30160627,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606276,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606275,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260627,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606276,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606275,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360627,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606276,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606275,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460627,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606276,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 30160628,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606286,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606285,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260628,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606286,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606285,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360628,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606286,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301606285,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460628,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301606286,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 50160629,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701606299,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701606298,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 601503211,
+        "groupWeight": 250000
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 50000
+      },
+      {
+        "index": 9,
+        "groupID": 101301063,
+        "groupWeight": 550200
+      }
+    ]
+  },
+  {
+    "combID": 50260629,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701606299,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701606298,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 101301064,
+        "groupWeight": 850200
+      }
+    ]
+  },
+  {
+    "combID": 20160730,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 801607309,
+        "groupWeight": 300
+      },
+      {
+        "index": 1,
+        "groupID": 701607309,
+        "groupWeight": 300
+      },
+      {
+        "index": 2,
+        "groupID": 701607308,
+        "groupWeight": 800
+      },
+      {
+        "index": 3,
+        "groupID": 701607307,
+        "groupWeight": 1500
+      },
+      {
+        "index": 4,
+        "groupID": 701607306,
+        "groupWeight": 1500
+      },
+      {
+        "index": 5,
+        "groupID": 701607305,
+        "groupWeight": 2500
+      },
+      {
+        "index": 6,
+        "groupID": 701607304,
+        "groupWeight": 3000
+      },
+      {
+        "index": 7,
+        "groupID": 701607303,
+        "groupWeight": 9000
+      },
+      {
+        "index": 8,
+        "groupID": 701607302,
+        "groupWeight": 3800
+      },
+      {
+        "index": 9,
+        "groupID": 701607301,
+        "groupWeight": 8000
+      },
+      {
+        "index": 10,
+        "groupID": 701607300,
+        "groupWeight": 3000
+      },
+      {
+        "index": 11,
+        "groupID": 101307303,
+        "groupWeight": 3200
+      },
+      {
+        "index": 12,
+        "groupID": 101307302,
+        "groupWeight": 15000
+      },
+      {
+        "index": 13,
+        "groupID": 101307301,
+        "groupWeight": 48100
+      }
+    ]
+  },
+  {
+    "combID": 20260730,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 801607309,
+        "groupWeight": 300
+      },
+      {
+        "index": 1,
+        "groupID": 701607309,
+        "groupWeight": 300
+      },
+      {
+        "index": 2,
+        "groupID": 701607308,
+        "groupWeight": 800
+      },
+      {
+        "index": 3,
+        "groupID": 701607307,
+        "groupWeight": 1500
+      },
+      {
+        "index": 4,
+        "groupID": 701607306,
+        "groupWeight": 1500
+      },
+      {
+        "index": 5,
+        "groupID": 701607305,
+        "groupWeight": 2500
+      },
+      {
+        "index": 6,
+        "groupID": 701607304,
+        "groupWeight": 3000
+      },
+      {
+        "index": 7,
+        "groupID": 701607303,
+        "groupWeight": 9000
+      },
+      {
+        "index": 8,
+        "groupID": 701607302,
+        "groupWeight": 3800
+      },
+      {
+        "index": 9,
+        "groupID": 701607301,
+        "groupWeight": 8000
+      },
+      {
+        "index": 10,
+        "groupID": 701607300,
+        "groupWeight": 3000
+      },
+      {
+        "index": 11,
+        "groupID": 101307303,
+        "groupWeight": 66300
+      }
+    ]
+  },
+  {
+    "combID": 30160801,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608016,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608015,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260801,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608016,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608015,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360801,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608016,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608015,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460801,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608016,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 30160802,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608026,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608025,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260802,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608026,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608025,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360802,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608026,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608025,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460802,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608026,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 30160803,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608036,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608035,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260803,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608036,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608035,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360803,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608036,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608035,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460803,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608036,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 50160804,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701608049,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701608048,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 601503211,
+        "groupWeight": 250000
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 50000
+      },
+      {
+        "index": 9,
+        "groupID": 101301063,
+        "groupWeight": 550200
+      }
+    ]
+  },
+  {
+    "combID": 50260804,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701608049,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701608048,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 101301064,
+        "groupWeight": 850200
+      }
+    ]
+  },
+  {
+    "combID": 30160805,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608056,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608055,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260805,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608056,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608055,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360805,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608056,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301608055,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460805,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301608056,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 30160903,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609036,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301609035,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260903,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609036,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301609035,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360903,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609036,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301609035,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460903,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609036,
+        "groupWeight": 1500
+      }
+    ]
+  },
+  {
+    "combID": 50160904,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701609049,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701609048,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 601503211,
+        "groupWeight": 250000
+      },
+      {
+        "index": 8,
+        "groupID": 101301064,
+        "groupWeight": 50000
+      },
+      {
+        "index": 9,
+        "groupID": 101301063,
+        "groupWeight": 550200
+      }
+    ]
+  },
+  {
+    "combID": 50260904,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 701609049,
+        "groupWeight": 800
+      },
+      {
+        "index": 1,
+        "groupID": 701609048,
+        "groupWeight": 3000
+      },
+      {
+        "index": 2,
+        "groupID": 601503217,
+        "groupWeight": 30000
+      },
+      {
+        "index": 3,
+        "groupID": 601503216,
+        "groupWeight": 10000
+      },
+      {
+        "index": 4,
+        "groupID": 601503215,
+        "groupWeight": 50000
+      },
+      {
+        "index": 5,
+        "groupID": 601503214,
+        "groupWeight": 6000
+      },
+      {
+        "index": 6,
+        "groupID": 601503213,
+        "groupWeight": 50000
+      },
+      {
+        "index": 7,
+        "groupID": 101301064,
+        "groupWeight": 850200
+      }
+    ]
+  },
+  {
+    "combID": 30160905,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609056,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301609055,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 1200
+      },
+      {
+        "index": 4,
+        "groupID": 201301013,
+        "groupWeight": 7340
+      },
+      {
+        "index": 5,
+        "groupID": 201301024,
+        "groupWeight": 890
+      },
+      {
+        "index": 6,
+        "groupID": 201301023,
+        "groupWeight": 910
+      },
+      {
+        "index": 7,
+        "groupID": 201301034,
+        "groupWeight": 460
+      },
+      {
+        "index": 8,
+        "groupID": 201301033,
+        "groupWeight": 790
+      },
+      {
+        "index": 9,
+        "groupID": 201301044,
+        "groupWeight": 50
+      },
+      {
+        "index": 10,
+        "groupID": 201301043,
+        "groupWeight": 2100
+      },
+      {
+        "index": 11,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 12,
+        "groupID": 201301054,
+        "groupWeight": 600
+      },
+      {
+        "index": 13,
+        "groupID": 201301053,
+        "groupWeight": 460
+      },
+      {
+        "index": 14,
+        "groupID": 201301064,
+        "groupWeight": 5000
+      },
+      {
+        "index": 15,
+        "groupID": 201301063,
+        "groupWeight": 75000
+      }
+    ]
+  },
+  {
+    "combID": 30260905,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609056,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301609055,
+        "groupWeight": 3500
+      },
+      {
+        "index": 2,
+        "groupID": 201301015,
+        "groupWeight": 150
+      },
+      {
+        "index": 3,
+        "groupID": 201301014,
+        "groupWeight": 8540
+      },
+      {
+        "index": 4,
+        "groupID": 201301024,
+        "groupWeight": 1800
+      },
+      {
+        "index": 5,
+        "groupID": 201301034,
+        "groupWeight": 1250
+      },
+      {
+        "index": 6,
+        "groupID": 201301044,
+        "groupWeight": 2150
+      },
+      {
+        "index": 7,
+        "groupID": 201301042,
+        "groupWeight": 50
+      },
+      {
+        "index": 8,
+        "groupID": 201301054,
+        "groupWeight": 1060
+      },
+      {
+        "index": 9,
+        "groupID": 201301064,
+        "groupWeight": 80000
+      }
+    ]
+  },
+  {
+    "combID": 30360905,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609056,
+        "groupWeight": 1500
+      },
+      {
+        "index": 1,
+        "groupID": 301609055,
+        "groupWeight": 3500
+      }
+    ]
+  },
+  {
+    "combID": 30460905,
+    "gachaCombConfigureItems": [
+      {
+        "groupID": 301609056,
+        "groupWeight": 1500
+      }
+    ]
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": 202411,
+    "uIWindowType": {
+      "value": 323,
+      "name": "UIWindowType_NGOStore"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1732863600
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    },
+    "PreviewIndex": [
+      1,
+      2,
+      3,
+      9,
+      10,
+      11
+    ],
+    "entrance": "UT_Collaboration_202605_Entrance",
+    "entranceTitle": 2024110,
+    "heroID": [
+      301,
+      302
+    ],
+    "bgList": [
+      "UT_NGO_BG"
+    ]
+  },
+  {
+    "id": 202507,
+    "uIWindowType": {
+      "value": 333,
+      "name": "UIWindowType_WitchWeapon"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "PreviewIndex": [
+      4,
+      5,
+      6
+    ],
+    "entrance": "UT_Collaboration_202507_Entrance",
+    "entranceTitle": 2025070,
+    "bgList": [
+      "UT_NGO_BG"
+    ]
+  },
+  {
+    "id": 202509,
+    "uIWindowType": {
+      "value": 335,
+      "name": "UIWindowType_VA11HallA"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "way": 509051,
+    "PreviewIndex": [
+      7,
+      8
+    ],
+    "entrance": "UT_Collaboration_202509_Entrance",
+    "entranceTitle": 2025090,
+    "heroID": [
+      303,
+      304
+    ],
+    "bgList": [
+      "UT_NGO_BG"
+    ]
+  },
+  {
+    "id": 202609,
+    "uIWindowType": {
+      "value": 354,
+      "name": "UIWindowType_MGWTStore"
+    },
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "PreviewIndex": [
+      12,
+      13,
+      14
+    ],
+    "entrance": "UT_MGWT_Entrance",
+    "entranceTitle": 2026090,
+    "heroID": [
+      305,
+      306
+    ]
+  }
+]

@@ -1,0 +1,1108 @@
+[
+  {
+    "panelType": {
+      "value": 11,
+      "name": "UIPanelType_Login"
+    },
+    "id": 11,
+    "PackageName": "Login",
+    "isRootInScene": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 1,
+    "needClosePrevious": true,
+    "BGMConfigID": 101,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 14,
+      "name": "UIPanelType_Home"
+    },
+    "id": 14,
+    "PackageName": "Home",
+    "isRootInScene": true,
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "showFunction": [
+      8,
+      7,
+      6,
+      2,
+      5,
+      3,
+      1,
+      0
+    ],
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          2,
+          8
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 15,
+      "name": "UIPanelType_RoomList"
+    },
+    "id": 15,
+    "PackageName": "RoomList",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "showFunction": [
+      1
+    ],
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 16,
+      "name": "UIPanelType_RoomWait"
+    },
+    "id": 16,
+    "PackageName": "RoomWait",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 105,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 17,
+      "name": "UIPanelType_RoomHero"
+    },
+    "id": 17,
+    "PackageName": "RoomHero",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 106,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 18,
+      "name": "UIPanelType_Bag"
+    },
+    "id": 18,
+    "PackageName": "Bag",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 19,
+      "name": "UIPanelType_Mail"
+    },
+    "id": 19,
+    "PackageName": "Mail",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 21,
+      "name": "UIPanelType_Fashion"
+    },
+    "id": 21,
+    "PackageName": "Fashion",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 20,
+      "name": "UIPanelType_Gacha"
+    },
+    "id": 20,
+    "PackageName": "Gacha",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "showFunction": [
+      1
+    ],
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 110,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          2,
+          8,
+          90001
+        ]
+      },
+      "1": {
+        "values": [
+          2,
+          8,
+          90002,
+          53
+        ]
+      },
+      "2": {
+        "values": [
+          2,
+          8,
+          1000057,
+          1000058
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 22,
+      "name": "UIPanelType_Task"
+    },
+    "id": 22,
+    "PackageName": "Task",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1,
+          2,
+          8
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 23,
+      "name": "UIPanelType_Hero"
+    },
+    "id": 23,
+    "PackageName": "Hero",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 24,
+      "name": "UIPanelType_Activity"
+    },
+    "id": 24,
+    "PackageName": "Activity",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1,
+          2,
+          8
+        ]
+      },
+      "1": {
+        "values": [
+          2,
+          8,
+          1000054,
+          1000055
+        ]
+      },
+      "2": {
+        "values": [
+          1000023
+        ]
+      },
+      "3": {
+        "values": [
+          1000055
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 25,
+      "name": "UIPanelType_ProductRecommendation"
+    },
+    "id": 25,
+    "PackageName": "ProductRecommendation",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 104,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1,
+          2,
+          8
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 26,
+      "name": "UIPanelType_Store"
+    },
+    "id": 26,
+    "PackageName": "Store",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 104,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1
+        ]
+      },
+      "1": {
+        "values": [
+          2,
+          8
+        ]
+      },
+      "10": {
+        "values": [
+          6
+        ]
+      },
+      "11": {
+        "values": [
+          53
+        ]
+      },
+      "12": {
+        "values": [
+          1000053
+        ]
+      },
+      "13": {
+        "values": [
+          54
+        ]
+      },
+      "14": {
+        "values": [
+          1000051
+        ]
+      },
+      "15": {
+        "values": [
+          1000052
+        ]
+      },
+      "16": {
+        "values": [
+          1000009
+        ]
+      },
+      "17": {
+        "values": [
+          1000059
+        ]
+      },
+      "18": {
+        "values": [
+          1000060
+        ]
+      },
+      "19": {
+        "values": [
+          1000064
+        ]
+      },
+      "2": {
+        "values": [
+          3
+        ]
+      },
+      "3": {
+        "values": [
+          2,
+          8,
+          3,
+          4,
+          5
+        ]
+      },
+      "4": {
+        "values": [
+          2,
+          8,
+          3
+        ]
+      },
+      "5": {
+        "values": [
+          4,
+          5
+        ]
+      },
+      "6": {
+        "values": [
+          4
+        ]
+      },
+      "7": {
+        "values": [
+          5
+        ]
+      },
+      "8": {
+        "values": [
+          1000063
+        ]
+      },
+      "9": {
+        "values": [
+          2,
+          1000055
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 27,
+      "name": "UIPanelType_Friend"
+    },
+    "id": 27,
+    "PackageName": "Friend",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 28,
+      "name": "UIPanelType_Watch"
+    },
+    "id": 28,
+    "PackageName": "Watch",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 29,
+      "name": "UIPanelType_BattlePass"
+    },
+    "id": 29,
+    "PackageName": "BattlePass",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1,
+          2
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 30,
+      "name": "UIPanelType_MatchEntrance"
+    },
+    "id": 30,
+    "PackageName": "MatchEntrance",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 31,
+      "name": "UIPanelType_Match"
+    },
+    "id": 31,
+    "PackageName": "Match",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 105,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 32,
+      "name": "UIPanelType_Campaign"
+    },
+    "id": 32,
+    "PackageName": "Campaign",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "showFunction": [
+      1
+    ],
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1,
+          2
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 33,
+      "name": "UIPanelType_SoloLevel"
+    },
+    "id": 33,
+    "PackageName": "SoloLevel",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 34,
+      "name": "UIPanelType_TrainingLevel"
+    },
+    "id": 34,
+    "PackageName": "TrainingLevel",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 49,
+      "name": "UIPanelType_ActivityStoreSeason"
+    },
+    "id": 49,
+    "PackageName": "ActivityStoreSeason",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          8,
+          2,
+          1000054,
+          1000055
+        ]
+      },
+      "1": {
+        "values": [
+          2,
+          1000054,
+          1000055
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 54,
+      "name": "UIPanelType_GuildDiscovery"
+    },
+    "id": 54,
+    "PackageName": "GuildDiscovery",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 55,
+      "name": "UIPanelType_Guild"
+    },
+    "id": 55,
+    "PackageName": "Guild",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1000065
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 35,
+      "name": "UIPanelType_ActivityNGO"
+    },
+    "id": 35,
+    "PackageName": "ActivityNgo",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 36,
+      "name": "UIPanelType_ActivityVA11HallA"
+    },
+    "id": 36,
+    "PackageName": "ActivityVA11HallA",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          8,
+          2,
+          1000031
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 53,
+      "name": "UIPanelType_ActivityMGWT"
+    },
+    "id": 53,
+    "PackageName": "ActivityMGWT",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 178,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1000064
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 37,
+      "name": "UIPanelType_ActivityRebate"
+    },
+    "id": 37,
+    "PackageName": "ActivityRebate",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 38,
+      "name": "UIPanelType_ActivityMonthGift"
+    },
+    "id": 38,
+    "PackageName": "ActivityMonthGift",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 39,
+      "name": "UIPanelType_ActivitySevenDaySignIn"
+    },
+    "id": 39,
+    "PackageName": "ActivitySevenDaySignIn",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 40,
+      "name": "UIPanelType_ActivityMapPass"
+    },
+    "id": 40,
+    "PackageName": "ActivityMapPass",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 41,
+      "name": "UIPanelType_ActivityLevelPass"
+    },
+    "id": 41,
+    "PackageName": "ActivityLevelPass",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 43,
+      "name": "UIPanelType_ActivityStore"
+    },
+    "id": 43,
+    "PackageName": "ActivityStore",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1000053
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 42,
+      "name": "UIPanelType_ActivityRookieTask"
+    },
+    "id": 42,
+    "PackageName": "ActivityRookieTask",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 44,
+      "name": "UIPanelType_ActivityReceive"
+    },
+    "id": 44,
+    "PackageName": "ActivityReceive",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 45,
+      "name": "UIPanelType_ActivityResourceWeek"
+    },
+    "id": 45,
+    "PackageName": "ActivityResourceWeek",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 46,
+      "name": "UIPanelType_SignInModuleOne"
+    },
+    "id": 46,
+    "PackageName": "SignInModuleOne",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 47,
+      "name": "UIPanelType_ActivityFree"
+    },
+    "id": 47,
+    "PackageName": "ActivityFree",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 48,
+      "name": "UIPanelType_ActivityStoreTwo"
+    },
+    "id": 48,
+    "PackageName": "ActivityStoreTwo",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1000050
+        ]
+      },
+      "1": {
+        "values": [
+          1000052
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 209,
+      "name": "UIPanelType_ActivityDice"
+    },
+    "id": 209,
+    "PackageName": "ActivityDice",
+    "needBackgroundUI": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 50,
+      "name": "UIPanelType_ActivityBrochureLight"
+    },
+    "id": 50,
+    "PackageName": "ActivityBrochureLight",
+    "needBackgroundUI": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 51,
+      "name": "UIPanelType_ActivityComeback"
+    },
+    "id": 51,
+    "PackageName": "ActivityComeback",
+    "needBackgroundUI": true,
+    "needBottomMenu": true,
+    "closeActivityHub": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          1000060
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 52,
+      "name": "UIPanelType_ActivityBingo"
+    },
+    "id": 52,
+    "PackageName": "ActivityBingo",
+    "needBackgroundUI": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 56,
+      "name": "UIPanelType_SignInModuleTwo"
+    },
+    "id": 56,
+    "PackageName": "SignInModuleTwo",
+    "needBackgroundUI": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 57,
+      "name": "UIPanelType_ActivityAdvert"
+    },
+    "id": 57,
+    "PackageName": "ActivityAdvert",
+    "needBackgroundUI": true,
+    "layer": 200,
+    "needClosePrevious": true,
+    "BGMConfigID": 102,
+    "showCurrencies": {
+      "0": {
+        "values": [
+          2,
+          1000064
+        ]
+      }
+    },
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 152,
+      "name": "UIPanelType_Background"
+    },
+    "id": 152,
+    "PackageName": "Background",
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 200,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 153,
+      "name": "UIPanelType_ActivityHub"
+    },
+    "id": 153,
+    "PackageName": "ActivityHub",
+    "needBackgroundUI": true,
+    "layer": 299,
+    "needClosePrevious": true,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 151,
+      "name": "UIPanelType_BottomMenu"
+    },
+    "id": 151,
+    "PackageName": "BottomMenu",
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 300,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 206,
+      "name": "UIPanelType_SinglePlayerStart"
+    },
+    "id": 206,
+    "PackageName": "SinglePlayerStart",
+    "isRootInScene": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 1,
+    "needClosePrevious": true,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 207,
+      "name": "UIPanelType_SinglePlayer"
+    },
+    "id": 207,
+    "PackageName": "SinglePlayer",
+    "isRootInScene": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 2,
+    "needClosePrevious": true,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 201,
+      "name": "UIPanelType_BattleInfo"
+    },
+    "id": 201,
+    "PackageName": "BattleInfo",
+    "isRootInScene": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 1,
+    "needClosePrevious": true,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 202,
+      "name": "UIPanelType_BattlePlayer"
+    },
+    "id": 202,
+    "PackageName": "BattlePlayer",
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 10,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 203,
+      "name": "UIPanelType_HandCard"
+    },
+    "id": 203,
+    "PackageName": "HandCard",
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 20,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 204,
+      "name": "UIPanelType_BattleSettlement"
+    },
+    "id": 204,
+    "PackageName": "BattleSettlement",
+    "needBackgroundUI": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 300,
+    "needClosePrevious": true,
+    "BGMConfigID": 108,
+    "MoneyLineUp": 2
+  },
+  {
+    "panelType": {
+      "value": 208,
+      "name": "UIPanelType_SinglePlayerSettlement"
+    },
+    "id": 208,
+    "PackageName": "SinglePlayerSettlement",
+    "isRootInScene": true,
+    "closeActivityHub": true,
+    "needBottomPlayerLabel": true,
+    "layer": 300,
+    "needClosePrevious": true,
+    "BGMConfigID": 108,
+    "MoneyLineUp": 2
+  }
+]

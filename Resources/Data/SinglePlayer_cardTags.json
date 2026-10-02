@@ -1,0 +1,23 @@
+[
+  {
+    "singlePlayerTagType": {
+      "value": 1,
+      "name": "SinglePlayerTagType_Prosperity"
+    },
+    "nameID": 102
+  },
+  {
+    "singlePlayerTagType": {
+      "value": 2,
+      "name": "SinglePlayerTagType_Promotion"
+    },
+    "nameID": 100
+  },
+  {
+    "singlePlayerTagType": {
+      "value": 3,
+      "name": "SinglePlayerTagType_Dice"
+    },
+    "nameID": 101
+  }
+]

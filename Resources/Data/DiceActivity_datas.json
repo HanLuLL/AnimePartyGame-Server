@@ -1,0 +1,259 @@
+[
+  {
+    "MapID": 10001,
+    "diceActivityDataConfigureItems": [
+      {
+        "DiceLandID": 1000,
+        "LandType": {
+          "value": 1,
+          "name": "DiceLandType_StartLand"
+        },
+        "icon": "ui://lypih982lbjzn"
+      },
+      {
+        "DiceLandID": 1001,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1002,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzm",
+        "Reward": {
+          "91105": 1
+        }
+      },
+      {
+        "DiceLandID": 1003,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzl",
+        "Reward": {
+          "6": 10
+        }
+      },
+      {
+        "DiceLandID": 1004,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1005,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1006,
+        "LandType": {
+          "value": 2,
+          "name": "DiceLandType_DashLand"
+        },
+        "icon": "ui://lypih982lbjzj"
+      },
+      {
+        "DiceLandID": 1007,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzm",
+        "Reward": {
+          "91105": 1
+        }
+      },
+      {
+        "DiceLandID": 1008,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1009,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzl",
+        "Reward": {
+          "6": 10
+        }
+      },
+      {
+        "DiceLandID": 1010,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1011,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1012,
+        "LandType": {
+          "value": 2,
+          "name": "DiceLandType_DashLand"
+        },
+        "icon": "ui://lypih982lbjzj"
+      },
+      {
+        "DiceLandID": 1013,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1014,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzm",
+        "Reward": {
+          "91105": 1
+        }
+      },
+      {
+        "DiceLandID": 1015,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1016,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzl",
+        "Reward": {
+          "6": 10
+        }
+      },
+      {
+        "DiceLandID": 1017,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1018,
+        "LandType": {
+          "value": 2,
+          "name": "DiceLandType_DashLand"
+        },
+        "icon": "ui://lypih982lbjzj"
+      },
+      {
+        "DiceLandID": 1019,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1020,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1021,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzm",
+        "Reward": {
+          "91105": 1
+        }
+      },
+      {
+        "DiceLandID": 1022,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      },
+      {
+        "DiceLandID": 1023,
+        "LandType": {
+          "value": 3,
+          "name": "DiceLandType_RewardLand"
+        },
+        "icon": "ui://lypih982lbjzk",
+        "Reward": {
+          "91104": 1
+        }
+      }
+    ]
+  }
+]

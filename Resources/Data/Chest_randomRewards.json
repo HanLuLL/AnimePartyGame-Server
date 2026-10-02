@@ -1,0 +1,3522 @@
+[
+  {
+    "id": 910010,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77001,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "index": 1,
+        "weight": 100,
+        "itemID": 77002,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "index": 2,
+        "weight": 100,
+        "itemID": 77003,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "index": 3,
+        "weight": 100,
+        "itemID": 77004,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "index": 4,
+        "weight": 100,
+        "itemID": 77005,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "index": 5,
+        "weight": 50,
+        "itemID": 77006,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "index": 6,
+        "weight": 50,
+        "itemID": 77007,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "index": 7,
+        "weight": 50,
+        "itemID": 77008,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "index": 8,
+        "weight": 50,
+        "itemID": 77009,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "index": 9,
+        "weight": 50,
+        "itemID": 77010,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ]
+  },
+  {
+    "id": 910011,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77011,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 1,
+        "weight": 100,
+        "itemID": 77012,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 2,
+        "weight": 100,
+        "itemID": 77013,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 3,
+        "weight": 100,
+        "itemID": 77014,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 4,
+        "weight": 100,
+        "itemID": 77015,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 910030,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77011,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 1,
+        "weight": 100,
+        "itemID": 77012,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 2,
+        "weight": 100,
+        "itemID": 77013,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 3,
+        "weight": 100,
+        "itemID": 77014,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 4,
+        "weight": 100,
+        "itemID": 77015,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9100500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91053,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 910060,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70902,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 910061,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71011,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 910070,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71010,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 910071,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 60,
+        "maxCount": 60
+      }
+    ]
+  },
+  {
+    "id": 910080,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 910081,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 180,
+        "maxCount": 180
+      }
+    ]
+  },
+  {
+    "id": 910090,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100107003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 910091,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 680,
+        "maxCount": 680
+      }
+    ]
+  },
+  {
+    "id": 9101000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 101,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 102,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101002,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 103,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101003,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 104,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101004,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 105,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101005,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 106,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101006,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 107,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101007,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 108,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101008,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 109,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101009,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 110,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101010,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 112,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101011,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 113,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78001,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101201,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78002,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101202,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101203,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101204,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101205,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78006,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101206,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78007,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101207,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78008,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 60,
+        "maxCount": 60
+      }
+    ]
+  },
+  {
+    "id": 9101302,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1,
+        "minCount": 2000,
+        "maxCount": 2000
+      }
+    ]
+  },
+  {
+    "id": 9101400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 40,
+        "maxCount": 40
+      }
+    ]
+  },
+  {
+    "id": 9101500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91011,
+        "minCount": 2,
+        "maxCount": 2
+      }
+    ]
+  },
+  {
+    "id": 9101501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78009,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9101601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78001,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101602,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78002,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101603,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101604,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101605,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101606,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78006,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101607,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78007,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101608,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78008,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72026,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101801,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9101900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72027,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9101901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9102000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100107003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9102001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71307,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9102100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 40,
+        "maxCount": 40
+      }
+    ]
+  },
+  {
+    "id": 9102200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91017,
+        "minCount": 15,
+        "maxCount": 15
+      }
+    ]
+  },
+  {
+    "id": 9102300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91011,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9102400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100101003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9102401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71301,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9102500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72028,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9102501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9102600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72029,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9102601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9102700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 10,
+        "maxCount": 10
+      }
+    ]
+  },
+  {
+    "id": 9102800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 10,
+        "maxCount": 10
+      }
+    ]
+  },
+  {
+    "id": 9102900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100112003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9102901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71312,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72030,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9103100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72031,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103101,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9103200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72032,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103201,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9103300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 72033,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9103400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 2000,
+        "itemID": 2,
+        "minCount": 5,
+        "maxCount": 5
+      },
+      {
+        "index": 1,
+        "weight": 5500,
+        "itemID": 1,
+        "minCount": 30,
+        "maxCount": 30
+      },
+      {
+        "index": 2,
+        "weight": 1000,
+        "itemID": 1,
+        "minCount": 100,
+        "maxCount": 100
+      },
+      {
+        "index": 3,
+        "weight": 300,
+        "itemID": 77001,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 4,
+        "weight": 300,
+        "itemID": 77002,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 5,
+        "weight": 300,
+        "itemID": 77003,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 6,
+        "weight": 300,
+        "itemID": 77004,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 7,
+        "weight": 300,
+        "itemID": 77005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100108004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71408,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77001,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 1,
+        "weight": 100,
+        "itemID": 77002,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 2,
+        "weight": 100,
+        "itemID": 77003,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 3,
+        "weight": 100,
+        "itemID": 77004,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 4,
+        "weight": 100,
+        "itemID": 77005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 50,
+        "itemID": 77006,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 1,
+        "weight": 50,
+        "itemID": 77007,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 2,
+        "weight": 50,
+        "itemID": 77008,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 3,
+        "weight": 50,
+        "itemID": 77009,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 4,
+        "weight": 50,
+        "itemID": 77010,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9103800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000005,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9103900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000005,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9104000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100113003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71313,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100115003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104101,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71315,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000008,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9104300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000008,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9104400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 301,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 302,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104402,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71038,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104403,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71040,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104404,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71041,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104405,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70047,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104406,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70048,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104407,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 1200,
+        "maxCount": 1200
+      }
+    ]
+  },
+  {
+    "id": 9104408,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 24,
+        "maxCount": 24
+      }
+    ]
+  },
+  {
+    "id": 9104500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 301,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71040,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104502,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70047,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104503,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 600,
+        "maxCount": 600
+      }
+    ]
+  },
+  {
+    "id": 9104504,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 12,
+        "maxCount": 12
+      }
+    ]
+  },
+  {
+    "id": 9104600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 302,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71041,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104602,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70048,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104603,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 600,
+        "maxCount": 600
+      }
+    ]
+  },
+  {
+    "id": 9104604,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 12,
+        "maxCount": 12
+      }
+    ]
+  },
+  {
+    "id": 9104700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9104800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 15,
+        "maxCount": 15
+      }
+    ]
+  },
+  {
+    "id": 9104900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100104003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9104901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71304,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000017,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9105100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000017,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9105200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100120003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105201,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71320,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77011,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77012,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105402,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77013,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105403,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77014,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105404,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77015,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100106003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71306,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000020,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9105800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000020,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9105900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100103004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9105901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71303,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000027,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9106001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000027,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9106100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100115004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106101,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71415,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91017,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ]
+  },
+  {
+    "id": 9106301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78200,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100103005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71503,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100115005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71515,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100103005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71503,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106602,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100115005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106603,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71515,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106604,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91053,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100122003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106701,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71322,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100121003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106801,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71321,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100117004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9106901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71417,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 304,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71066,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107002,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71069,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107003,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70074,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107004,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 600,
+        "maxCount": 600
+      }
+    ]
+  },
+  {
+    "id": 9107005,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000031,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9107006,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70934,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000034,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9107200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000034,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9107300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100124003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71324,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100118003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71318,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100116004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71416,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 22,
+        "maxCount": 22
+      }
+    ]
+  },
+  {
+    "id": 9107602,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 222,
+        "maxCount": 222
+      }
+    ]
+  },
+  {
+    "id": 9107603,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91011,
+        "minCount": 2,
+        "maxCount": 2
+      }
+    ]
+  },
+  {
+    "id": 9107604,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1,
+        "minCount": 2222,
+        "maxCount": 2222
+      }
+    ]
+  },
+  {
+    "id": 9107700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100120005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107701,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71420,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100114005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107801,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71414,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100119004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9107901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71319,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100107006,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71407,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000041,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9108200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000041,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9108300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 60,
+        "maxCount": 60
+      }
+    ]
+  },
+  {
+    "id": 9108301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 10,
+        "maxCount": 10
+      }
+    ]
+  },
+  {
+    "id": 9108400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 300,
+        "maxCount": 300
+      }
+    ]
+  },
+  {
+    "id": 9108401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 22,
+        "maxCount": 22
+      }
+    ]
+  },
+  {
+    "id": 9108500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 600,
+        "maxCount": 600
+      }
+    ]
+  },
+  {
+    "id": 9108501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78200,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108502,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91017,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ]
+  },
+  {
+    "id": 9108503,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1,
+        "minCount": 2000,
+        "maxCount": 2000
+      }
+    ]
+  },
+  {
+    "id": 9108600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 1200,
+        "maxCount": 1200
+      }
+    ]
+  },
+  {
+    "id": 9108601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77016,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 3200,
+        "maxCount": 3200
+      }
+    ]
+  },
+  {
+    "id": 9108701,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78009,
+        "minCount": 3,
+        "maxCount": 3
+      }
+    ]
+  },
+  {
+    "id": 9108702,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 53,
+        "minCount": 100,
+        "maxCount": 100
+      }
+    ]
+  },
+  {
+    "id": 9108703,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 73012,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100123004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108801,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71323,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70085,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71080,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9108902,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 75060,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 6,
+        "minCount": 500,
+        "maxCount": 500
+      }
+    ]
+  },
+  {
+    "id": 9109200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9109300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100107007,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71507,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100124004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71424,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90002,
+        "minCount": 30,
+        "maxCount": 30
+      }
+    ]
+  },
+  {
+    "id": 9109501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 2026,
+        "maxCount": 2026
+      }
+    ]
+  },
+  {
+    "id": 9109502,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91011,
+        "minCount": 2,
+        "maxCount": 2
+      }
+    ]
+  },
+  {
+    "id": 9109503,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1,
+        "minCount": 2026,
+        "maxCount": 2026
+      }
+    ]
+  },
+  {
+    "id": 9109504,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91017,
+        "minCount": 2,
+        "maxCount": 2
+      }
+    ]
+  },
+  {
+    "id": 9109600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91096,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100113005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109801,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71413,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100102006,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9109901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71402,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100127003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110001,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71427,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120121013,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110101,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120121014,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110102,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120121015,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120124009,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110201,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120124010,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110202,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120124011,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120127009,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120127010,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110302,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120127011,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 2000,
+        "itemID": 1,
+        "minCount": 10,
+        "maxCount": 10
+      },
+      {
+        "index": 1,
+        "weight": 1000,
+        "itemID": 1,
+        "minCount": 20,
+        "maxCount": 20
+      },
+      {
+        "index": 2,
+        "weight": 500,
+        "itemID": 1,
+        "minCount": 50,
+        "maxCount": 50
+      },
+      {
+        "index": 3,
+        "weight": 2000,
+        "itemID": 78100,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 4,
+        "weight": 1000,
+        "itemID": 78100,
+        "minCount": 2,
+        "maxCount": 2
+      },
+      {
+        "index": 5,
+        "weight": 500,
+        "itemID": 78100,
+        "minCount": 3,
+        "maxCount": 3
+      },
+      {
+        "index": 6,
+        "weight": 3000,
+        "itemID": 1000049,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9110500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 4000,
+        "itemID": 1,
+        "minCount": 100,
+        "maxCount": 100
+      },
+      {
+        "index": 1,
+        "weight": 1500,
+        "itemID": 78101,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 2,
+        "weight": 3500,
+        "itemID": 1000049,
+        "minCount": 30,
+        "maxCount": 30
+      },
+      {
+        "index": 3,
+        "weight": 500,
+        "itemID": 2,
+        "minCount": 10,
+        "maxCount": 10
+      },
+      {
+        "index": 4,
+        "weight": 300,
+        "itemID": 2,
+        "minCount": 30,
+        "maxCount": 30
+      },
+      {
+        "index": 5,
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "index": 6,
+        "weight": 100,
+        "itemID": 90002,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91011,
+        "minCount": 15,
+        "maxCount": 15
+      }
+    ]
+  },
+  {
+    "id": 9110700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91011,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110701,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77011,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110702,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77012,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110703,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77013,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110704,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77014,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9110705,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 77015,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911080,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100301003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911081,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100301004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911082,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71087,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911083,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71088,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911084,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70094,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911085,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70095,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911086,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 76002,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911090,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100301003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911091,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71087,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911092,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70094,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100301004,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911101,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71088,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911102,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70095,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 911110,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 10,
+        "maxCount": 10
+      }
+    ]
+  },
+  {
+    "id": 911120,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 15,
+        "maxCount": 15
+      }
+    ]
+  },
+  {
+    "id": 911121,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 6,
+        "minCount": 500,
+        "maxCount": 500
+      }
+    ]
+  },
+  {
+    "id": 911130,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 25,
+        "maxCount": 25
+      }
+    ]
+  },
+  {
+    "id": 911131,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 6,
+        "minCount": 500,
+        "maxCount": 500
+      }
+    ]
+  },
+  {
+    "id": 9111400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000054,
+        "minCount": 20,
+        "maxCount": 20
+      }
+    ]
+  },
+  {
+    "id": 9111500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000054,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9111600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100121005,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9111601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71421,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9111700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 13020030,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9111701,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 13020031,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9111900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 90001,
+        "minCount": 10,
+        "maxCount": 10
+      }
+    ]
+  },
+  {
+    "id": 9111901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78100,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9111902,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91017,
+        "minCount": 3,
+        "maxCount": 3
+      }
+    ]
+  },
+  {
+    "id": 9111903,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 91037,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9111904,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1,
+        "minCount": 1000,
+        "maxCount": 1000
+      }
+    ]
+  },
+  {
+    "id": 9112000,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000057,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112100,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000057,
+        "minCount": 5,
+        "maxCount": 5
+      }
+    ]
+  },
+  {
+    "id": 9112200,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 1000057,
+        "minCount": 15,
+        "maxCount": 15
+      }
+    ]
+  },
+  {
+    "id": 9112300,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100120006,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112301,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71520,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112400,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 100128003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112401,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71328,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112500,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 305,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112501,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 306,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112502,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71097,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112503,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71098,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112504,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70201,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112505,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70202,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112506,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71099,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112507,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 76003,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112508,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 1200,
+        "maxCount": 1200
+      }
+    ]
+  },
+  {
+    "id": 9112509,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 24,
+        "maxCount": 24
+      }
+    ]
+  },
+  {
+    "id": 9112600,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 305,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112601,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71097,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112602,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70201,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112603,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 600,
+        "maxCount": 600
+      }
+    ]
+  },
+  {
+    "id": 9112604,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 12,
+        "maxCount": 12
+      }
+    ]
+  },
+  {
+    "id": 9112700,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 306,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112701,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 71098,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112702,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 70202,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112703,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 2,
+        "minCount": 600,
+        "maxCount": 600
+      }
+    ]
+  },
+  {
+    "id": 9112704,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 78101,
+        "minCount": 12,
+        "maxCount": 12
+      }
+    ]
+  },
+  {
+    "id": 9112800,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120104014,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112801,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120104015,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112802,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120104016,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112900,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120123013,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112901,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120123014,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  },
+  {
+    "id": 9112902,
+    "chestRandomRewardConfigureItems": [
+      {
+        "weight": 100,
+        "itemID": 120123015,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ]
+  }
+]

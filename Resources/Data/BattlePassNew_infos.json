@@ -1,0 +1,200 @@
+[
+  {
+    "id": 340001,
+    "shopTabType": {
+      "value": 34,
+      "name": "ShopTabType_BattlePassMap"
+    },
+    "battlePassNewInfoConfigureItems": [
+      {
+        "taskId": 5122001,
+        "freeRewards": {
+          "78101": 4
+        },
+        "premiumRewards": {
+          "6": 168
+        },
+        "activityId": 512195
+      },
+      {
+        "taskId": 5122002,
+        "freeRewards": {
+          "78101": 4
+        },
+        "premiumRewards": {
+          "6": 168
+        },
+        "activityId": 512195
+      },
+      {
+        "taskId": 5122003,
+        "freeRewards": {
+          "78101": 4
+        },
+        "premiumRewards": {
+          "6": 168
+        },
+        "activityId": 512195
+      },
+      {
+        "taskId": 5122004,
+        "freeRewards": {
+          "78101": 4
+        },
+        "premiumRewards": {
+          "6": 168
+        },
+        "activityId": 512195
+      },
+      {
+        "taskId": 5122005,
+        "freeRewards": {
+          "78101": 4
+        },
+        "premiumRewards": {
+          "6": 168
+        },
+        "activityId": 512195
+      },
+      {
+        "taskId": 5122006,
+        "freeRewards": {
+          "78101": 4
+        },
+        "premiumRewards": {
+          "6": 168
+        },
+        "activityId": 512195
+      },
+      {
+        "taskId": 5122007,
+        "freeRewards": {
+          "78101": 4
+        },
+        "premiumRewards": {
+          "6": 168
+        },
+        "activityId": 512195
+      }
+    ]
+  },
+  {
+    "id": 350001,
+    "shopTabType": {
+      "value": 35,
+      "name": "ShopTabType_BattlePassLevel"
+    },
+    "battlePassNewInfoConfigureItems": [
+      {
+        "taskId": 6020601,
+        "freeRewards": {
+          "1": 800
+        },
+        "premiumRewards": {
+          "78101": 5
+        },
+        "activityId": 602060,
+        "param": 1
+      },
+      {
+        "taskId": 6020602,
+        "freeRewards": {
+          "90001": 3
+        },
+        "premiumRewards": {
+          "90001": 5
+        },
+        "activityId": 602060,
+        "param": 2
+      },
+      {
+        "taskId": 6020603,
+        "freeRewards": {
+          "91017": 5
+        },
+        "premiumRewards": {
+          "78009": 1
+        },
+        "activityId": 602060,
+        "param": 3
+      },
+      {
+        "taskId": 6020604,
+        "freeRewards": {
+          "90001": 3
+        },
+        "premiumRewards": {
+          "2": 500
+        },
+        "activityId": 602060,
+        "param": 4
+      },
+      {
+        "taskId": 6020605,
+        "freeRewards": {
+          "90001": 3
+        },
+        "premiumRewards": {
+          "72039": 1
+        },
+        "activityId": 602060,
+        "param": 5
+      },
+      {
+        "taskId": 6020606,
+        "freeRewards": {
+          "91017": 5
+        },
+        "premiumRewards": {
+          "2": 500
+        },
+        "activityId": 602060,
+        "param": 6
+      },
+      {
+        "taskId": 6020607,
+        "freeRewards": {
+          "90001": 3
+        },
+        "premiumRewards": {
+          "6": 500
+        },
+        "activityId": 602060,
+        "param": 7
+      },
+      {
+        "taskId": 6020608,
+        "freeRewards": {
+          "91011": 3
+        },
+        "premiumRewards": {
+          "2": 500
+        },
+        "activityId": 602060,
+        "param": 8
+      },
+      {
+        "taskId": 6020609,
+        "freeRewards": {
+          "90001": 3
+        },
+        "premiumRewards": {
+          "90002": 10
+        },
+        "activityId": 602060,
+        "param": 9
+      },
+      {
+        "taskId": 6020610,
+        "freeRewards": {
+          "91011": 3
+        },
+        "premiumRewards": {
+          "78200": 1
+        },
+        "activityId": 602060,
+        "param": 10
+      }
+    ]
+  }
+]

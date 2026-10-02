@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Wwise_workspace" GUID="{4D69AE51-A0B0-498F-9B27-E8692AF29B2D}" Generator="2022.1.4.8202"/>
+	<CacheRoot>../../../../Wwise_workspace/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Android" GUID="{6C9D8E58-9435-40FA-B825-87DD18688ACF}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="../../../WwiseData/Banks/Android"/>
+		<Platform Name="iOS" GUID="{3624830F-0051-4F20-A4D4-BDA8F44B8F42}" BasePlatform="iOS" BasePlatformGUID="{ECE03DB4-F948-462D-B2BB-A9173012B1F8}" Path="../../../WwiseData/Banks/iOS"/>
+		<Platform Name="Mac" GUID="{0840382B-C5ED-4503-B506-63195AABA68E}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../WwiseData/Banks/Mac"/>
+		<Platform Name="Windows" GUID="{AD705E82-D419-4C99-90F1-712A6F72FBAE}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../WwiseData/Banks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="Japanese" Id="2008704848" GUID="{CF665C2E-2644-4A9B-AC77-09170437FF71}" Default="true" UseAsStandIn="true"/>
+		<Language Name="Simplified Chinese" Id="1415774" GUID="{28D1C5C5-0C3A-49CC-974D-E5B18CD19C33}"/>
+	</Languages>
+	<FileHash>{64C0D80C-45F1-5CD0-3F4C-BBB111AE8E2C}</FileHash>
+</ProjectInfo>

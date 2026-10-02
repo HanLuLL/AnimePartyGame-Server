@@ -1,0 +1,60 @@
+[
+  {
+    "id": 100,
+    "hitEffectId": 5,
+    "initialSpeed": 300.0,
+    "maxSpeed": 300.0,
+    "initialTurnSpeed": 360.0,
+    "turnAcceleration": 540.0,
+    "hitSoundctId": 504,
+    "screenShake": "LVCamShake"
+  },
+  {
+    "id": 10003,
+    "bulletEffectid": 3104,
+    "hitEffectId": 3105,
+    "initialSpeed": 50.0,
+    "maxSpeed": 200.0,
+    "acceleration": 30.0,
+    "initialTurnSpeed": 180.0,
+    "turnAcceleration": 720.0,
+    "hitSoundctId": 10260502,
+    "screenShake": "LVCamShake"
+  },
+  {
+    "id": 20001,
+    "bulletEffectid": 3100,
+    "hitEffectId": 3101,
+    "initialSpeed": 50.0,
+    "maxSpeed": 200.0,
+    "acceleration": 30.0,
+    "initialTurnSpeed": 180.0,
+    "turnAcceleration": 720.0,
+    "hitSoundctId": 504,
+    "screenShake": "LVCamShake"
+  },
+  {
+    "id": 20007,
+    "bulletEffectid": 3106,
+    "hitEffectId": 3107,
+    "initialSpeed": 20.0,
+    "maxSpeed": 200.0,
+    "acceleration": 20.0,
+    "initialTurnSpeed": 60.0,
+    "turnAcceleration": 360.0,
+    "hitSoundctId": 504,
+    "screenShake": "LVCamShake"
+  },
+  {
+    "id": 20008,
+    "bulletEffectid": 3102,
+    "hitEffectId": 3103,
+    "initialSpeed": 10.0,
+    "maxSpeed": 200.0,
+    "acceleration": 60.0,
+    "initialTurnSpeed": 60.0,
+    "turnAcceleration": 360.0,
+    "hitSoundctId": 504,
+    "screenShake": "LVCamShake"
+  }
+]

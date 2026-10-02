@@ -1,0 +1,27 @@
+[
+  {
+    "id": 100,
+    "cardPackNameID": 100,
+    "icon": "UT_SGPack_100"
+  },
+  {
+    "id": 101,
+    "cardPackNameID": 101,
+    "icon": "UT_SGPack_101"
+  },
+  {
+    "id": 102,
+    "cardPackNameID": 102,
+    "icon": "UT_SGPack_102"
+  },
+  {
+    "id": 103,
+    "cardPackNameID": 103,
+    "icon": "UT_SGPack_103"
+  },
+  {
+    "id": 104,
+    "cardPackNameID": 104,
+    "icon": "UT_SGPack_104"
+  }
+]

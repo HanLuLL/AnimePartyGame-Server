@@ -1,0 +1,382 @@
+[
+  {
+    "id": 100,
+    "simplified": "通用"
+  },
+  {
+    "id": 101,
+    "simplified": "财富"
+  },
+  {
+    "id": 102,
+    "simplified": "晋升"
+  },
+  {
+    "id": 103,
+    "simplified": "幸运"
+  },
+  {
+    "id": 104,
+    "simplified": "海盗"
+  },
+  {
+    "id": 1000,
+    "simplified": "获得建筑"
+  },
+  {
+    "id": 1001,
+    "simplified": "获得道具"
+  },
+  {
+    "id": 50010,
+    "simplified": "海盗王嘎呜"
+  },
+  {
+    "id": 50020,
+    "simplified": "海盗精锐"
+  },
+  {
+    "id": 50030,
+    "simplified": "海盗鲨鱼"
+  },
+  {
+    "id": 50011,
+    "simplified": "海盗王嘎呜"
+  },
+  {
+    "id": 50021,
+    "simplified": "海盗精锐"
+  },
+  {
+    "id": 50031,
+    "simplified": "海盗鲨鱼"
+  },
+  {
+    "id": 10001,
+    "simplified": "小金袋"
+  },
+  {
+    "id": 10002,
+    "simplified": "存钱罐"
+  },
+  {
+    "id": 10003,
+    "simplified": "骰子雕塑"
+  },
+  {
+    "id": 20001,
+    "simplified": "小书店"
+  },
+  {
+    "id": 20002,
+    "simplified": "摇钱树"
+  },
+  {
+    "id": 20003,
+    "simplified": "四叶草之家"
+  },
+  {
+    "id": 20004,
+    "simplified": "许愿池"
+  },
+  {
+    "id": 20005,
+    "simplified": "小猪银行"
+  },
+  {
+    "id": 20006,
+    "simplified": "好运彩门"
+  },
+  {
+    "id": 20007,
+    "simplified": "招财猫金库"
+  },
+  {
+    "id": 20008,
+    "simplified": "财富殿堂"
+  },
+  {
+    "id": 20009,
+    "simplified": "幸运星币池"
+  },
+  {
+    "id": 20010,
+    "simplified": "兔耳餐厅"
+  },
+  {
+    "id": 20011,
+    "simplified": "狐狸古玩店"
+  },
+  {
+    "id": 20012,
+    "simplified": "全息体验屋"
+  },
+  {
+    "id": 20013,
+    "simplified": "宝藏"
+  },
+  {
+    "id": 20014,
+    "simplified": "船帆"
+  },
+  {
+    "id": 20015,
+    "simplified": "船锚"
+  },
+  {
+    "id": 20016,
+    "simplified": "炮台"
+  },
+  {
+    "id": 20017,
+    "simplified": "船舵"
+  },
+  {
+    "id": 20018,
+    "simplified": "船长帽子"
+  },
+  {
+    "id": 20019,
+    "simplified": "骰子塔楼"
+  },
+  {
+    "id": 1000101,
+    "simplified": "骰点结束时，获得[Astral]TriggerParam:0*Gold[/Astral]星币。"
+  },
+  {
+    "id": 1000201,
+    "simplified": "骰出[Astral]TriggerPoint:0[/Astral]时，获得[Astral]TriggerParam:0*Gold[/Astral]星币与[Astral]TriggerParam:1*Exp[/Astral]经验。\n卖出时，额外获得[Astral]addPrice[/Astral]星币。"
+  },
+  {
+    "id": 1000301,
+    "simplified": "骰出[Astral]TriggerPoint:0[/Astral]时，获得[Astral]TriggerParam:0*Gold[/Astral]星币。"
+  },
+  {
+    "id": 2000101,
+    "simplified": "停留时，使得自身与相邻的建筑获得[Astral]StopParam:0[/Astral]经验。\n经过时，获得[Astral]WalkParam:0*Gold[/Astral]星币。"
+  },
+  {
+    "id": 2000201,
+    "simplified": "停留时，使相邻<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑的骰点星币获取量永久+[Astral]StopParam:0[/Astral]。\n骰出[Astral]TriggerPoint:0[/Astral]时，获得[Astral]TriggerParam:0*Gold[/Astral]星币"
+  },
+  {
+    "id": 2000301,
+    "simplified": "骰出偶数时，获得[Astral]TriggerParam:0*Gold[/Astral]星币\n如果骰出[Astral]TriggerPoint:2[/Astral]，获得星币数永久+[Astral]TriggerParam:1[/Astral]。"
+  },
+  {
+    "id": 2000401,
+    "simplified": "骰点结束时，获得[Astral]TriggerParam:0*Gold[/Astral]星币\n每通过1个关卡，获得星币数永久+[Astral]OtherParam:0[/Astral]"
+  },
+  {
+    "id": 2000501,
+    "simplified": "骰点结束时，获得[Astral]TriggerParam:0*Exp[/Astral]经验。\n卖出时，额外获得[Astral]addPrice[/Astral]星币。"
+  },
+  {
+    "id": 2000601,
+    "simplified": "骰出6时，获得场上<img src='ui://xuaw6o8je4d2q41' width='50' height='50'/>建筑数量*[Astral]TriggerParam:0[/Astral]的星币。\n骰出1时，获得场上<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑数量*[Astral]TriggerParam:0[/Astral]的星币。"
+  },
+  {
+    "id": 2000701,
+    "simplified": "骰点结束时，使得所有【存钱罐】与【小猪银行】获得[Astral]TriggerParam:0*Exp[/Astral]经验。\n经过此建筑时，获得[Astral]WalkParam:0*Gold[/Astral]星币，卖出【存钱罐】或【小猪银行】后，使经过时获得的星币永久+1。"
+  },
+  {
+    "id": 2000801,
+    "simplified": "骰出3或4时，触发相邻<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑的骰点效果。\n停留时，使得所有<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>骰点星币获取量永久+[Astral]StopParam:0[/Astral]。"
+  },
+  {
+    "id": 2000901,
+    "simplified": "掷出两枚骰子时，获得[Astral]TriggerParam:0*Gold[/Astral]星币。\n骰点结果为1时，使得下次行动可以掷出两枚骰子。"
+  },
+  {
+    "id": 2001001,
+    "simplified": "经过时，获得[Astral]WalkParam:0*Gold[/Astral]星币，并使随机1个<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑的骰点星币获取量永久+[Astral]WalkParam:1[/Astral]。"
+  },
+  {
+    "id": 2001101,
+    "simplified": "骰出5时，自身与随机[Astral]TriggerParam:0[/Astral]个建筑获得[Astral]TriggerParam:1*Exp[/Astral]经验。\n经过时，生成1个【存钱罐】或【小猪银行】"
+  },
+  {
+    "id": 2001201,
+    "simplified": "经过时，使得下次行动可以掷出两枚骰子。\n掷出两枚骰子时，获得骰点结果*[Astral]TriggerParam:0*Gold[/Astral]的星币。"
+  },
+  {
+    "id": 2001301,
+    "simplified": "停留时，获得[Astral]StopParam:0*Gold[/Astral]星币，下次停留时获得星币-1。"
+  },
+  {
+    "id": 2001401,
+    "simplified": "经过时，获得[Astral]WalkParam:0*Gold[/Astral]星币。停留时，获得[Astral]StopParam:0*Gold[/Astral]星币。骰出4时，获得[Astral]TriggerParam:0*Gold[/Astral]星币。"
+  },
+  {
+    "id": 2001501,
+    "simplified": "经过时，角色会停留在此地块。停留时，获得[Astral]StopParam:0*Gold[/Astral]星币，并使下次骰点变为4。"
+  },
+  {
+    "id": 2001601,
+    "simplified": "骰出4时，触发附近所有【宝藏】与【船帆】的停留效果 。\n经过时，获得1个宝藏与[Astral]WalkParam:0*Gold[/Astral]星币。"
+  },
+  {
+    "id": 2001701,
+    "simplified": "经过时，随机触发[Astral]WalkParam:1[/Astral]个【宝藏】的停留效果。\n停留时，获得[Astral]StopParam:0*Gold[/Astral]星币，并随机触发1个<img src='ui://xuaw6o8je4d2q41' width='50' height='50'/>建筑的骰点效果。"
+  },
+  {
+    "id": 2001801,
+    "simplified": "停留时，触发所有【宝藏】的停留效果，随后将它们全部移除，每移除1个【宝藏】，使经过时获得的星币永久+[Astral]StopParam:1[/Astral]。\n经过时，获得[Astral]WalkParam:0*Gold[/Astral]星币。"
+  },
+  {
+    "id": 2001901,
+    "simplified": "骰出4时，移除场上一个随机的【骰子雕塑】，使得自身骰点星币获取量+[Astral]TriggerParam:1[/Astral]并继承经验。\n骰出6时，获得[Astral]TriggerParam:2*Gold[/Astral]星币。"
+  },
+  {
+    "id": 60001,
+    "simplified": "猪猪立牌"
+  },
+  {
+    "id": 60002,
+    "simplified": "兔兔立牌"
+  },
+  {
+    "id": 60003,
+    "simplified": "三叶草立牌"
+  },
+  {
+    "id": 60004,
+    "simplified": "银行卡立牌"
+  },
+  {
+    "id": 60005,
+    "simplified": "秘典立牌"
+  },
+  {
+    "id": 60006,
+    "simplified": "小浣熊立牌"
+  },
+  {
+    "id": 60007,
+    "simplified": "炸虾立牌"
+  },
+  {
+    "id": 60008,
+    "simplified": "茉莉立牌"
+  },
+  {
+    "id": 60009,
+    "simplified": "帕露南立牌"
+  },
+  {
+    "id": 60010,
+    "simplified": "米米立牌"
+  },
+  {
+    "id": 60011,
+    "simplified": "轮滑立牌"
+  },
+  {
+    "id": 60012,
+    "simplified": "刷新立牌"
+  },
+  {
+    "id": 60013,
+    "simplified": "大背包立牌"
+  },
+  {
+    "id": 60014,
+    "simplified": "小鲨鱼立牌"
+  },
+  {
+    "id": 60015,
+    "simplified": "铲子立牌"
+  },
+  {
+    "id": 60016,
+    "simplified": "大鲨鱼立牌"
+  },
+  {
+    "id": 60017,
+    "simplified": "海盗王立牌"
+  },
+  {
+    "id": 600011,
+    "simplified": "卖出建筑时，充能1\n充能4：获得1个【小猪银行】"
+  },
+  {
+    "id": 600021,
+    "simplified": "经过起始点时，使随机1个<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑的骰点星币获取量永久+1"
+  },
+  {
+    "id": 600031,
+    "simplified": "骰出6时，充能1\n充能6：获得1个随机<img src='ui://xuaw6o8je4d2q41' width='50' height='50'/>建筑"
+  },
+  {
+    "id": 600041,
+    "simplified": "回合开始时，获得当前星币总值2%的星币。"
+  },
+  {
+    "id": 600051,
+    "simplified": "回合开始时，随机1个建筑获得1经验"
+  },
+  {
+    "id": 600061,
+    "simplified": "经过<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑时，获得1星币"
+  },
+  {
+    "id": 600071,
+    "simplified": "骰出1后，下次骰点变为6"
+  },
+  {
+    "id": 600081,
+    "simplified": "骰点时获得1充能\n充能4：使得下次行动可以掷出两枚骰子"
+  },
+  {
+    "id": 600091,
+    "simplified": "购买建筑的价格下降25%\n出售建筑的售价增加25%"
+  },
+  {
+    "id": 600101,
+    "simplified": "骰点后，使得1个<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑的骰点星币获取量永久+1"
+  },
+  {
+    "id": 600111,
+    "simplified": "停留在【金币】或【卡牌】地块时，使该地块对应的建筑获得5经验"
+  },
+  {
+    "id": 600121,
+    "simplified": "刷新时，充能1\n充能3：使得随机1个<img src='ui://xuaw6o8je4d2q3z' width='50' height='50'/>建筑的骰点效果永久+1"
+  },
+  {
+    "id": 600131,
+    "simplified": "经过起始点时，随机获得1个场上已部署的建筑。"
+  },
+  {
+    "id": 600141,
+    "simplified": "经过起始点时，获得场上<img src='ui://xuaw6o8jxyg8q4h' width='50' height='50'/>建筑数量的星币"
+  },
+  {
+    "id": 600151,
+    "simplified": "触发【宝藏】停留效果时，充能1。\n充能8：获得88星币"
+  },
+  {
+    "id": 600161,
+    "simplified": "骰出4时，充能1\n充能4：触发所有【宝藏】与【船帆】的停留效果"
+  },
+  {
+    "id": 600171,
+    "simplified": "经过起始点时，使所有<img src='ui://xuaw6o8jxyg8q4h' width='50' height='50'/>类建筑的经过与停留星币获得量+4"
+  },
+  {
+    "id": 10000,
+    "simplified": "海盗王领域"
+  },
+  {
+    "id": 100001,
+    "simplified": "1-1"
+  },
+  {
+    "id": 100011,
+    "simplified": "1-2"
+  },
+  {
+    "id": 100021,
+    "simplified": "1-3"
+  }
+]

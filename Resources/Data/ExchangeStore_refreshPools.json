@@ -1,0 +1,449 @@
+[
+  {
+    "id": 10,
+    "exchangeStoreRefreshPoolConfigureItems": [
+      {
+        "goodsID": 10000,
+        "itemID": 77001,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10010,
+        "itemID": 77001,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 40,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10020,
+        "itemID": 77001,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 25,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10030,
+        "itemID": 77002,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10040,
+        "itemID": 77002,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 40,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10050,
+        "itemID": 77002,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 25,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10060,
+        "itemID": 77003,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10070,
+        "itemID": 77003,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 40,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10080,
+        "itemID": 77003,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 25,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10090,
+        "itemID": 77004,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10100,
+        "itemID": 77004,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 40,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10110,
+        "itemID": 77004,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 25,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10120,
+        "itemID": 77005,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10130,
+        "itemID": 77005,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 40,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10140,
+        "itemID": 77005,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "discountPrice": 25,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "exchangeStoreRefreshPoolConfigureItems": [
+      {
+        "goodsID": 10150,
+        "itemID": 77006,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10160,
+        "itemID": 77006,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 240,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10170,
+        "itemID": 77006,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 150,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10180,
+        "itemID": 77007,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10190,
+        "itemID": 77007,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 240,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10200,
+        "itemID": 77007,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 150,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10210,
+        "itemID": 77008,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10220,
+        "itemID": 77008,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 240,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10230,
+        "itemID": 77008,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 150,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10240,
+        "itemID": 77009,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10250,
+        "itemID": 77009,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 240,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10260,
+        "itemID": 77009,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 150,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10270,
+        "itemID": 77010,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10280,
+        "itemID": 77010,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 240,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10290,
+        "itemID": 77010,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 150,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "exchangeStoreRefreshPoolConfigureItems": [
+      {
+        "goodsID": 10300,
+        "itemID": 78001,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10310,
+        "itemID": 78002,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10320,
+        "itemID": 78003,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10330,
+        "itemID": 78004,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10340,
+        "itemID": 78005,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10350,
+        "itemID": 78006,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10360,
+        "itemID": 78007,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 10370,
+        "itemID": 78008,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "exchangeStoreRefreshPoolConfigureItems": [
+      {
+        "goodsID": 13000,
+        "itemID": 77001,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 13001,
+        "itemID": 77002,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 13002,
+        "itemID": 77003,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 13003,
+        "itemID": 77004,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 13004,
+        "itemID": 77005,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 50,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "exchangeStoreRefreshPoolConfigureItems": [
+      {
+        "goodsID": 14000,
+        "itemID": 77006,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 14001,
+        "itemID": 77007,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 14002,
+        "itemID": 77008,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 14003,
+        "itemID": 77009,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 14004,
+        "itemID": 77010,
+        "itemNum": 1,
+        "currencyID": 1,
+        "originalPrice": 300,
+        "numLimit": 1
+      }
+    ]
+  }
+]

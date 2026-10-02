@@ -1,0 +1,312 @@
+[
+  {
+    "ID": 10101,
+    "tipsID": 10101
+  },
+  {
+    "ID": 10102,
+    "tipsID": 10102
+  },
+  {
+    "ID": 10103,
+    "tipsID": 10103
+  },
+  {
+    "ID": 10104,
+    "tipsID": 10104
+  },
+  {
+    "ID": 10105,
+    "tipsID": 10105
+  },
+  {
+    "ID": 10106,
+    "tipsID": 10106
+  },
+  {
+    "ID": 10107,
+    "tipsID": 10107
+  },
+  {
+    "ID": 10108,
+    "tipsID": 10108
+  },
+  {
+    "ID": 10109,
+    "tipsID": 10109,
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 5,
+        "name": "MapModeType_CampaignPVP"
+      },
+      {
+        "value": 8,
+        "name": "MapModeType_PracticePVP"
+      }
+    ]
+  },
+  {
+    "ID": 10110,
+    "tipsID": 10110
+  },
+  {
+    "ID": 10111,
+    "tipsID": 10111
+  },
+  {
+    "ID": 10112,
+    "tipsID": 10112
+  },
+  {
+    "ID": 10113,
+    "tipsID": 10113
+  },
+  {
+    "ID": 10114,
+    "tipsID": 10114
+  },
+  {
+    "ID": 10115,
+    "tipsID": 10115
+  },
+  {
+    "ID": 10116,
+    "tipsID": 10116
+  },
+  {
+    "ID": 10117,
+    "tipsID": 10117
+  },
+  {
+    "ID": 10118,
+    "tipsID": 10118
+  },
+  {
+    "ID": 10119,
+    "tipsID": 10119
+  },
+  {
+    "ID": 10120,
+    "tipsID": 10120,
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 5,
+        "name": "MapModeType_CampaignPVP"
+      },
+      {
+        "value": 8,
+        "name": "MapModeType_PracticePVP"
+      }
+    ]
+  },
+  {
+    "ID": 10121,
+    "tipsID": 10121,
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 6,
+        "name": "MapModeType_CampaignPVE"
+      },
+      {
+        "value": 9,
+        "name": "MapModeType_PracticePVE"
+      }
+    ]
+  },
+  {
+    "ID": 10123,
+    "tipsID": 10123,
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 5,
+        "name": "MapModeType_CampaignPVP"
+      },
+      {
+        "value": 8,
+        "name": "MapModeType_PracticePVP"
+      }
+    ]
+  },
+  {
+    "ID": 10124,
+    "tipsID": 10124
+  },
+  {
+    "ID": 10125,
+    "tipsID": 10125,
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 5,
+        "name": "MapModeType_CampaignPVP"
+      },
+      {
+        "value": 8,
+        "name": "MapModeType_PracticePVP"
+      }
+    ]
+  },
+  {
+    "ID": 10126,
+    "tipsID": 10126,
+    "mapModeType": [
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      }
+    ]
+  },
+  {
+    "ID": 10127,
+    "tipsID": 10127
+  },
+  {
+    "ID": 10128,
+    "tipsID": 10128
+  },
+  {
+    "ID": 10129,
+    "tipsID": 10129
+  },
+  {
+    "ID": 10130,
+    "tipsID": 10130
+  },
+  {
+    "ID": 10131,
+    "tipsID": 10131,
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 5,
+        "name": "MapModeType_CampaignPVP"
+      },
+      {
+        "value": 8,
+        "name": "MapModeType_PracticePVP"
+      }
+    ]
+  },
+  {
+    "ID": 10132,
+    "tipsID": 10132,
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 5,
+        "name": "MapModeType_CampaignPVP"
+      },
+      {
+        "value": 8,
+        "name": "MapModeType_PracticePVP"
+      }
+    ]
+  },
+  {
+    "ID": 10133,
+    "tipsID": 10133,
+    "mapModeType": [
+      {
+        "value": 1,
+        "name": "MapModeType_Standard"
+      },
+      {
+        "value": 3,
+        "name": "MapModeType_Ultra"
+      },
+      {
+        "value": 5,
+        "name": "MapModeType_CampaignPVP"
+      },
+      {
+        "value": 8,
+        "name": "MapModeType_PracticePVP"
+      }
+    ]
+  },
+  {
+    "ID": 10134,
+    "tipsID": 10134,
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 6,
+        "name": "MapModeType_CampaignPVE"
+      },
+      {
+        "value": 9,
+        "name": "MapModeType_PracticePVE"
+      }
+    ]
+  },
+  {
+    "ID": 10135,
+    "tipsID": 10135,
+    "mapModeType": [
+      {
+        "value": 4,
+        "name": "MapModeType_Pve"
+      },
+      {
+        "value": 6,
+        "name": "MapModeType_CampaignPVE"
+      },
+      {
+        "value": 9,
+        "name": "MapModeType_PracticePVE"
+      }
+    ]
+  }
+]

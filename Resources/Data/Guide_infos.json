@@ -1,0 +1,394 @@
+[
+  {
+    "guideId": 100300,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1
+      }
+    ]
+  },
+  {
+    "guideId": 100301,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10030001
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10030101
+      },
+      {
+        "stepId": 3,
+        "dialogId": 10030102
+      },
+      {
+        "stepId": 4,
+        "dialogId": 10030103
+      }
+    ]
+  },
+  {
+    "guideId": 100302,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10030201
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10030202
+      }
+    ]
+  },
+  {
+    "guideId": 100303,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10030301
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10030302
+      },
+      {
+        "stepId": 3,
+        "dialogId": 10030303
+      }
+    ]
+  },
+  {
+    "guideId": 100304,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10030401
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10030402
+      }
+    ]
+  },
+  {
+    "guideId": 100305,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10030501
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10030502
+      }
+    ]
+  },
+  {
+    "guideId": 100306,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10030601
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10030701
+      }
+    ]
+  },
+  {
+    "guideId": 100307,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10030801
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10030802
+      }
+    ]
+  },
+  {
+    "guideId": 100400,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10040001
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10040002
+      },
+      {
+        "stepId": 3,
+        "dialogId": 10040003
+      }
+    ]
+  },
+  {
+    "guideId": 100500,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050002
+      },
+      {
+        "stepId": 2,
+        "tutorialId": 1
+      },
+      {
+        "stepId": 3,
+        "dialogId": 10050003
+      }
+    ]
+  },
+  {
+    "guideId": 100501,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050101
+      }
+    ]
+  },
+  {
+    "guideId": 100502,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050201
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10050202
+      }
+    ]
+  },
+  {
+    "guideId": 100503,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050301
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10050302
+      },
+      {
+        "stepId": 3,
+        "tutorialId": 2
+      },
+      {
+        "stepId": 4,
+        "dialogId": 10050303
+      }
+    ]
+  },
+  {
+    "guideId": 100504,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10050401
+      }
+    ]
+  },
+  {
+    "guideId": 100505,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050501
+      }
+    ]
+  },
+  {
+    "guideId": 100506,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050601
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10050602
+      }
+    ]
+  },
+  {
+    "guideId": 100507,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10050701
+      }
+    ]
+  },
+  {
+    "guideId": 100508,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050801
+      }
+    ]
+  },
+  {
+    "guideId": 100509,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10050901
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10050902
+      },
+      {
+        "stepId": 3,
+        "dialogId": 10050903
+      },
+      {
+        "stepId": 4
+      }
+    ]
+  },
+  {
+    "guideId": 100600,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10060001
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10060002
+      },
+      {
+        "stepId": 3,
+        "dialogId": 10060003
+      },
+      {
+        "stepId": 4,
+        "dialogId": 10060004
+      }
+    ]
+  },
+  {
+    "guideId": 100700,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10070001
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10070002
+      },
+      {
+        "stepId": 3,
+        "dialogId": 10070003
+      },
+      {
+        "stepId": 4,
+        "dialogId": 10070004
+      }
+    ]
+  },
+  {
+    "guideId": 100800,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 10080001
+      },
+      {
+        "stepId": 2,
+        "dialogId": 10080002,
+        "isEnd": true
+      }
+    ]
+  },
+  {
+    "guideId": 200100,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 20010000
+      },
+      {
+        "stepId": 2,
+        "isEnd": true
+      }
+    ]
+  },
+  {
+    "guideId": 200150,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 20015000
+      },
+      {
+        "stepId": 2
+      },
+      {
+        "stepId": 3
+      },
+      {
+        "stepId": 4
+      },
+      {
+        "stepId": 5,
+        "dialogId": 20015001
+      }
+    ]
+  },
+  {
+    "guideId": 200200,
+    "guideInfoConfigureItems": [
+      {
+        "stepId": 1,
+        "dialogId": 20020000
+      },
+      {
+        "stepId": 2,
+        "dialogId": 20020000
+      },
+      {
+        "stepId": 3,
+        "dialogId": 20020000
+      },
+      {
+        "stepId": 4
+      },
+      {
+        "stepId": 5
+      },
+      {
+        "stepId": 6
+      },
+      {
+        "stepId": 7,
+        "dialogId": 20020001
+      },
+      {
+        "stepId": 8
+      },
+      {
+        "stepId": 9,
+        "dialogId": 20020002,
+        "isEnd": true
+      }
+    ]
+  }
+]

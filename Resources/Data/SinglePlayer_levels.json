@@ -1,0 +1,38 @@
+[
+  {
+    "id": 10000,
+    "nameID": 100001,
+    "buildingHeight": 12.300000190734863,
+    "plinth": [
+      "SG_Plinth_Uncommon",
+      "SG_Plinth_Rare",
+      "SG_Plinth_Epic"
+    ],
+    "diceLevelProgress": 10000,
+    "bgm": 154
+  },
+  {
+    "id": 10001,
+    "nameID": 100011,
+    "buildingHeight": 12.300000190734863,
+    "plinth": [
+      "SG_Plinth_Uncommon",
+      "SG_Plinth_Rare",
+      "SG_Plinth_Epic"
+    ],
+    "diceLevelProgress": 10001,
+    "bgm": 154
+  },
+  {
+    "id": 10002,
+    "nameID": 100021,
+    "buildingHeight": 12.300000190734863,
+    "plinth": [
+      "SG_Plinth_Uncommon",
+      "SG_Plinth_Rare",
+      "SG_Plinth_Epic"
+    ],
+    "diceLevelProgress": 10002,
+    "bgm": 154
+  }
+]

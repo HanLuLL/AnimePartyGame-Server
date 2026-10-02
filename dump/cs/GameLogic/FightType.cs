@@ -1,0 +1,11 @@
+namespace GameLogic;
+
+public enum FightType
+{
+	NONE,
+	FIGHT_NOTIFY,
+	FIGHT_CARD_NOTIFY,
+	FIGHT_ATTACK_NOTIFY,
+	FIGHT_DEFEND_NOTIFY,
+	FIGHT_RESULT
+}

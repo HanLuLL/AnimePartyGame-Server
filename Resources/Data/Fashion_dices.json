@@ -1,0 +1,466 @@
+[
+  {
+    "id": 72099,
+    "DiceModel": "Dice_00",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72099"
+  },
+  {
+    "id": 72001,
+    "DiceModel": "Dice_01",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72001"
+  },
+  {
+    "id": 72002,
+    "DiceModel": "Dice_02",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72002"
+  },
+  {
+    "id": 72003,
+    "DiceModel": "Dice_03",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72003"
+  },
+  {
+    "id": 72004,
+    "DiceModel": "Dice_04",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72004"
+  },
+  {
+    "id": 72005,
+    "DiceModel": "Dice_05",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72005"
+  },
+  {
+    "id": 72006,
+    "DiceModel": "Dice_06",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72006"
+  },
+  {
+    "id": 72007,
+    "DiceModel": "Dice_07",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72007"
+  },
+  {
+    "id": 72008,
+    "DiceModel": "Dice_13",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72008"
+  },
+  {
+    "id": 72009,
+    "DiceModel": "Dice_09",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72009"
+  },
+  {
+    "id": 72010,
+    "DiceModel": "Dice_10",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72010"
+  },
+  {
+    "id": 72023,
+    "DiceModel": "Dice_17",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72023"
+  },
+  {
+    "id": 72024,
+    "DiceModel": "Dice_18",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72024"
+  },
+  {
+    "id": 72025,
+    "DiceModel": "Dice_25",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72025"
+  },
+  {
+    "id": 72026,
+    "DiceModel": "DiceChar_02",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72026"
+  },
+  {
+    "id": 72027,
+    "DiceModel": "DiceChar_07",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72027"
+  },
+  {
+    "id": 72028,
+    "DiceModel": "DiceChar_08",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72028"
+  },
+  {
+    "id": 72029,
+    "DiceModel": "DiceChar_09",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72029"
+  },
+  {
+    "id": 72030,
+    "DiceModel": "DiceChar_12",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72030"
+  },
+  {
+    "id": 72031,
+    "DiceModel": "DiceChar_01",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72031"
+  },
+  {
+    "id": 72032,
+    "DiceModel": "DiceChar_05",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72032"
+  },
+  {
+    "id": 72033,
+    "DiceModel": "DiceChar_06",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72033"
+  },
+  {
+    "id": 72034,
+    "DiceModel": "Dice_00",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72033"
+  },
+  {
+    "id": 72035,
+    "DiceModel": "Dice_34",
+    "DiceAnim": "DiceAnim_03",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72035"
+  },
+  {
+    "id": 72036,
+    "DiceModel": "Dice_35",
+    "DiceAnim": "DiceAnim_03",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72036"
+  },
+  {
+    "id": 72037,
+    "DiceModel": "Dice_39",
+    "DiceAnim": "DiceAnim_03",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72037"
+  },
+  {
+    "id": 72038,
+    "DiceModel": "Dice_43",
+    "DiceAnim": "DiceAnim_03",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72038"
+  },
+  {
+    "id": 72039,
+    "DiceModel": "Dice_45",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72039"
+  },
+  {
+    "id": 72040,
+    "DiceModel": "Dice_47",
+    "DiceAnim": "DiceAnim_03",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72040"
+  },
+  {
+    "id": 72101,
+    "DiceModel": "Dice_08",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72101"
+  },
+  {
+    "id": 72102,
+    "DiceModel": "Dice_11",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72102"
+  },
+  {
+    "id": 72103,
+    "DiceModel": "Dice_21",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72103"
+  },
+  {
+    "id": 72104,
+    "DiceModel": "Dice_12",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72104"
+  },
+  {
+    "id": 72105,
+    "DiceModel": "Dice_14",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72105"
+  },
+  {
+    "id": 72106,
+    "DiceModel": "Dice_20",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72106"
+  },
+  {
+    "id": 72107,
+    "DiceModel": "Dice_15",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72107"
+  },
+  {
+    "id": 72108,
+    "DiceModel": "Dice_16",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72108"
+  },
+  {
+    "id": 72109,
+    "DiceModel": "Dice_23",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72109"
+  },
+  {
+    "id": 72110,
+    "DiceModel": "Dice_22",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72110"
+  },
+  {
+    "id": 72111,
+    "DiceModel": "Dice_44",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72111"
+  },
+  {
+    "id": 72112,
+    "DiceModel": "Dice_24",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72112"
+  },
+  {
+    "id": 72113,
+    "DiceModel": "Dice_19",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72113"
+  },
+  {
+    "id": 72114,
+    "DiceModel": "Dice_26",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 303,
+    "previewVideo": "VDice_72114"
+  },
+  {
+    "id": 72115,
+    "DiceModel": "Dice_27",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72115"
+  },
+  {
+    "id": 72116,
+    "DiceModel": "Dice_28",
+    "DiceAnim": "DiceAnim_02",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 302,
+    "previewVideo": "VDice_72116"
+  },
+  {
+    "id": 72117,
+    "DiceModel": "Dice_29",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72117"
+  },
+  {
+    "id": 72118,
+    "DiceModel": "Dice_36",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72118"
+  },
+  {
+    "id": 72119,
+    "DiceModel": "Dice_30",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72119"
+  },
+  {
+    "id": 72120,
+    "DiceModel": "Dice_31",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72120"
+  },
+  {
+    "id": 72121,
+    "DiceModel": "Dice_37",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72121"
+  },
+  {
+    "id": 72122,
+    "DiceModel": "Dice_32",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72122"
+  },
+  {
+    "id": 72123,
+    "DiceModel": "Dice_33",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72123"
+  },
+  {
+    "id": 72124,
+    "DiceModel": "Dice_38",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72124"
+  },
+  {
+    "id": 72125,
+    "DiceModel": "Dice_40",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72125"
+  },
+  {
+    "id": 72126,
+    "DiceModel": "Dice_41",
+    "DiceAnim": "DiceAnim_03",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72126"
+  },
+  {
+    "id": 72127,
+    "DiceModel": "Dice_42",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72127"
+  },
+  {
+    "id": 72128,
+    "DiceModel": "Dice_46",
+    "DiceAnim": "DiceAnim_03",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72128"
+  },
+  {
+    "id": 72129,
+    "DiceModel": "Dice_48",
+    "DiceAnim": "DiceAnim_01",
+    "DiceVfx": "Dice_Die_1",
+    "DiceSFX": 301,
+    "previewVideo": "VDice_72129"
+  }
+]

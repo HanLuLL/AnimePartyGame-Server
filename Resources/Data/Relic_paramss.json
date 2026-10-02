@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "relicRecRoleNormalScore": 50,
+    "relicRecRoleScore": 100,
+    "relicRecGrowthScore": 50,
+    "relicRecTagTypeNdPt": 100,
+    "relicRecTagTypeScore": 40,
+    "relicRecWordTypeScore": 30,
+    "relicRecBlueScore": 10,
+    "relicRecPurpleScore": 20,
+    "relicRecOrangeScore": 30,
+    "relicRecLimitScore": 50,
+    "relicRecSLimitScore": 100
+  }
+]

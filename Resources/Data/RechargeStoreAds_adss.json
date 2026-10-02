@@ -1,0 +1,29 @@
+[
+  {
+    "shopTabType": {
+      "value": 22,
+      "name": "ShopTabType_BeginnerPack"
+    },
+    "rechargeStoreAdsAdsConfigureItems": [
+      {
+        "descriptionID": 222,
+        "way": 950150
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 24,
+      "name": "ShopTabType_AlternateRecommendation"
+    },
+    "rechargeStoreAdsAdsConfigureItems": [
+      {
+        "way": 950230
+      },
+      {
+        "index": 1,
+        "way": 950240
+      }
+    ]
+  }
+]

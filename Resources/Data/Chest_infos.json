@@ -1,0 +1,1300 @@
+[
+  {
+    "id": 91003,
+    "randomReward": [
+      910030
+    ],
+    "contentType": 3,
+    "useMax": 99
+  },
+  {
+    "id": 91004,
+    "isOptional": true,
+    "optionalReward": {
+      "101": 1,
+      "102": 1,
+      "103": 1,
+      "104": 1,
+      "105": 1,
+      "106": 1,
+      "107": 1,
+      "108": 1,
+      "109": 1,
+      "110": 1,
+      "112": 1,
+      "113": 1
+    },
+    "contentType": 2,
+    "useMax": 1
+  },
+  {
+    "id": 91005,
+    "randomReward": [
+      9100500,
+      9101301,
+      9101302
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91006,
+    "randomReward": [
+      910060,
+      910061
+    ],
+    "contentType": 1,
+    "useMax": 1
+  },
+  {
+    "id": 91007,
+    "randomReward": [
+      910070,
+      910071
+    ],
+    "contentType": 1,
+    "useMax": 1
+  },
+  {
+    "id": 91008,
+    "randomReward": [
+      910080,
+      910081
+    ],
+    "contentType": 1,
+    "useMax": 1
+  },
+  {
+    "id": 91009,
+    "randomReward": [
+      910090,
+      910091
+    ],
+    "contentType": 1,
+    "useMax": 1
+  },
+  {
+    "id": 91010,
+    "randomReward": [
+      9101000,
+      9101001,
+      9101002,
+      9101003,
+      9101004,
+      9101005,
+      9101006,
+      9101007,
+      9101008,
+      9101009,
+      9101010,
+      9101011
+    ],
+    "contentType": 1,
+    "useMax": 1
+  },
+  {
+    "id": 91011,
+    "isOptional": true,
+    "optionalReward": {
+      "77011": 1,
+      "77012": 1,
+      "77013": 1,
+      "77014": 1,
+      "77015": 1
+    },
+    "contentType": 2,
+    "useMax": 99
+  },
+  {
+    "id": 91012,
+    "randomReward": [
+      9101200,
+      9101201,
+      9101202,
+      9101203,
+      9101204,
+      9101205,
+      9101206,
+      9101207
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91013,
+    "randomReward": [
+      9101300,
+      9101301,
+      9101302
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91014,
+    "randomReward": [
+      9101400
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91015,
+    "randomReward": [
+      9101500,
+      9101501
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91016,
+    "randomReward": [
+      9101600,
+      9101601,
+      9101602,
+      9101603,
+      9101604,
+      9101605,
+      9101606,
+      9101607,
+      9101608
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91017,
+    "isOptional": true,
+    "optionalReward": {
+      "78001": 1,
+      "78002": 1,
+      "78003": 1,
+      "78004": 1,
+      "78005": 1,
+      "78006": 1,
+      "78007": 1,
+      "78008": 1
+    },
+    "contentType": 2,
+    "useMax": 99
+  },
+  {
+    "id": 91018,
+    "randomReward": [
+      9101800,
+      9101801
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91019,
+    "randomReward": [
+      9101900,
+      9101901
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91020,
+    "randomReward": [
+      9102000,
+      9102001
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91021,
+    "randomReward": [
+      9102100
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91022,
+    "randomReward": [
+      9102200
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91023,
+    "randomReward": [
+      9102300
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91024,
+    "randomReward": [
+      9102400,
+      9102401
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91025,
+    "randomReward": [
+      9102500,
+      9102501
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91026,
+    "randomReward": [
+      9102600,
+      9102601
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91027,
+    "randomReward": [
+      9102700
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91028,
+    "randomReward": [
+      9102800
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91029,
+    "randomReward": [
+      9102900,
+      9102901
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91030,
+    "randomReward": [
+      9103000,
+      9103001
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91031,
+    "randomReward": [
+      9103100,
+      9103101
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91032,
+    "randomReward": [
+      9103200,
+      9103201
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91033,
+    "randomReward": [
+      9103300,
+      9103301
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91034,
+    "randomReward": [
+      9103400
+    ],
+    "contentType": 3,
+    "useMax": 99
+  },
+  {
+    "id": 91035,
+    "randomReward": [
+      9103500,
+      9103501
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91036,
+    "randomReward": [
+      9103600
+    ],
+    "contentType": 3,
+    "useMax": 99
+  },
+  {
+    "id": 91037,
+    "randomReward": [
+      9103700
+    ],
+    "contentType": 3,
+    "useMax": 99
+  },
+  {
+    "id": 91038,
+    "randomReward": [
+      9103800
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91039,
+    "randomReward": [
+      9103900
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91040,
+    "randomReward": [
+      9104000,
+      9104001
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91041,
+    "randomReward": [
+      9104100,
+      9104101
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91042,
+    "randomReward": [
+      9104200
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91043,
+    "randomReward": [
+      9104300
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91044,
+    "randomReward": [
+      9104400,
+      9104401,
+      9104402,
+      9104403,
+      9104404,
+      9104405,
+      9104406,
+      9104407,
+      9104408
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91045,
+    "randomReward": [
+      9104500,
+      9104501,
+      9104502,
+      9104503,
+      9104504
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91046,
+    "randomReward": [
+      9104600,
+      9104601,
+      9104602,
+      9104603,
+      9104604
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91047,
+    "randomReward": [
+      9104700
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91048,
+    "randomReward": [
+      9104800
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91049,
+    "randomReward": [
+      9104900,
+      9104901
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91050,
+    "randomReward": [
+      9105000
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91051,
+    "randomReward": [
+      9105100
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91052,
+    "randomReward": [
+      9105200,
+      9105201
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91053,
+    "isOptional": true,
+    "optionalReward": {
+      "101": 1,
+      "102": 1,
+      "103": 1,
+      "104": 1,
+      "105": 1,
+      "106": 1,
+      "107": 1,
+      "108": 1,
+      "109": 1,
+      "110": 1,
+      "112": 1,
+      "113": 1,
+      "114": 1,
+      "115": 1,
+      "116": 1,
+      "117": 1,
+      "119": 1,
+      "120": 1
+    },
+    "contentType": 2,
+    "useMax": 1
+  },
+  {
+    "id": 91054,
+    "randomReward": [
+      9105400,
+      9105401,
+      9105402,
+      9105403,
+      9105404
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91055,
+    "isOptional": true,
+    "optionalReward": {
+      "101": 1,
+      "102": 1,
+      "103": 1,
+      "104": 1,
+      "105": 1,
+      "106": 1,
+      "107": 1,
+      "108": 1,
+      "109": 1,
+      "110": 1,
+      "112": 1,
+      "113": 1,
+      "114": 1,
+      "115": 1,
+      "116": 1,
+      "117": 1
+    },
+    "contentType": 2,
+    "useMax": 1
+  },
+  {
+    "id": 91056,
+    "randomReward": [
+      9105600,
+      9105601
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91057,
+    "randomReward": [
+      9105700
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91058,
+    "randomReward": [
+      9105800
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91059,
+    "randomReward": [
+      9105900,
+      9105901
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91060,
+    "randomReward": [
+      9106000
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91061,
+    "randomReward": [
+      9106001
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91062,
+    "randomReward": [
+      9106100,
+      9106101
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91063,
+    "randomReward": [
+      9106300,
+      9106301
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91064,
+    "randomReward": [
+      9106400,
+      9106401
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91065,
+    "randomReward": [
+      9106500,
+      9106501
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91066,
+    "randomReward": [
+      9106600,
+      9106601,
+      9106602,
+      9106603,
+      9106604
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91067,
+    "randomReward": [
+      9106700,
+      9106701
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91068,
+    "randomReward": [
+      9106800,
+      9106801
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91069,
+    "randomReward": [
+      9106900,
+      9106901
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91070,
+    "randomReward": [
+      9107000,
+      9107001,
+      9107002,
+      9107003,
+      9107004,
+      9107005,
+      9107006
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91071,
+    "randomReward": [
+      9107100
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91072,
+    "randomReward": [
+      9107200
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91073,
+    "randomReward": [
+      9107300,
+      9107301
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91074,
+    "randomReward": [
+      9107400,
+      9107401
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91075,
+    "randomReward": [
+      9107500,
+      9107501
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91076,
+    "randomReward": [
+      9107601,
+      9107602,
+      9107603,
+      9107604
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91077,
+    "randomReward": [
+      9107700,
+      9107701
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91078,
+    "randomReward": [
+      9107800,
+      9107801
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91079,
+    "randomReward": [
+      9107900,
+      9107901
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91080,
+    "randomReward": [
+      9108000,
+      9108001
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91081,
+    "randomReward": [
+      9108100
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91082,
+    "randomReward": [
+      9108200
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91083,
+    "randomReward": [
+      9108300,
+      9108301
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91084,
+    "randomReward": [
+      9108400,
+      9108401
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91085,
+    "randomReward": [
+      9108500,
+      9108501,
+      9108502,
+      9108503
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91086,
+    "randomReward": [
+      9108600,
+      9108601
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91087,
+    "randomReward": [
+      9108700,
+      9108701,
+      9108702,
+      9108703
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91088,
+    "randomReward": [
+      9108800,
+      9108801
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91089,
+    "randomReward": [
+      9108900,
+      9108901,
+      9108902
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91090,
+    "isOptional": true,
+    "optionalReward": {
+      "101": 1,
+      "102": 1,
+      "103": 1,
+      "104": 1,
+      "105": 1,
+      "106": 1,
+      "107": 1,
+      "108": 1,
+      "109": 1,
+      "110": 1,
+      "112": 1,
+      "113": 1,
+      "114": 1,
+      "115": 1,
+      "116": 1,
+      "117": 1,
+      "119": 1,
+      "120": 1,
+      "123": 1
+    },
+    "contentType": 2,
+    "useMax": 1
+  },
+  {
+    "id": 91091,
+    "randomReward": [
+      9109100
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91092,
+    "randomReward": [
+      9109200
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91093,
+    "randomReward": [
+      9109300,
+      9109301
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91094,
+    "randomReward": [
+      9109400,
+      9109401
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91095,
+    "randomReward": [
+      9109500,
+      9109501,
+      9109502,
+      9109503,
+      9109504
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91096,
+    "isOptional": true,
+    "optionalReward": {
+      "101": 1,
+      "102": 1,
+      "103": 1,
+      "104": 1,
+      "105": 1,
+      "106": 1,
+      "107": 1,
+      "108": 1,
+      "109": 1,
+      "110": 1,
+      "112": 1,
+      "113": 1,
+      "114": 1,
+      "115": 1,
+      "116": 1,
+      "117": 1,
+      "118": 1,
+      "119": 1,
+      "120": 1,
+      "121": 1,
+      "122": 1,
+      "123": 1,
+      "124": 1,
+      "125": 1,
+      "126": 1
+    },
+    "contentType": 2,
+    "useMax": 1
+  },
+  {
+    "id": 91097,
+    "randomReward": [
+      9109600,
+      9101301,
+      9101302
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91098,
+    "randomReward": [
+      9109800,
+      9109801
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91099,
+    "randomReward": [
+      9109900,
+      9109901
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91100,
+    "randomReward": [
+      9110000,
+      9110001
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91101,
+    "randomReward": [
+      9110100,
+      9110101,
+      9110102
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91102,
+    "randomReward": [
+      9110200,
+      9110201,
+      9110202
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91103,
+    "randomReward": [
+      9110300,
+      9110301,
+      9110302
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91104,
+    "randomReward": [
+      9110400
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91105,
+    "randomReward": [
+      9110500
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91106,
+    "randomReward": [
+      9110600
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91107,
+    "randomReward": [
+      9110700,
+      9110701,
+      9110702,
+      9110703,
+      9110704,
+      9110705
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91108,
+    "randomReward": [
+      911080,
+      911081,
+      911082,
+      911083,
+      911084,
+      911085,
+      911086
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91109,
+    "randomReward": [
+      911090,
+      911091,
+      911092
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91110,
+    "randomReward": [
+      911100,
+      911101,
+      911102
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91111,
+    "randomReward": [
+      911110
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91112,
+    "randomReward": [
+      911120,
+      911121
+    ],
+    "contentType": 2,
+    "useMax": 99
+  },
+  {
+    "id": 91113,
+    "randomReward": [
+      911130,
+      911131
+    ],
+    "contentType": 3,
+    "useMax": 99
+  },
+  {
+    "id": 91114,
+    "randomReward": [
+      9111400
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91115,
+    "randomReward": [
+      9111500
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91116,
+    "randomReward": [
+      9111600,
+      9111601
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91117,
+    "randomReward": [
+      9111700,
+      9111701
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91118,
+    "isOptional": true,
+    "optionalReward": {
+      "125": 1,
+      "126": 1,
+      "127": 1,
+      "128": 1
+    },
+    "contentType": 2,
+    "useMax": 1
+  },
+  {
+    "id": 91119,
+    "randomReward": [
+      9111900,
+      9111901,
+      9111902,
+      9111903,
+      9111904
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91120,
+    "randomReward": [
+      9112000
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91121,
+    "randomReward": [
+      9112100
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91122,
+    "randomReward": [
+      9112200
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91123,
+    "randomReward": [
+      9112300,
+      9112301
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91124,
+    "randomReward": [
+      9112400,
+      9112401
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91125,
+    "randomReward": [
+      9112500,
+      9112501,
+      9112502,
+      9112503,
+      9112504,
+      9112505,
+      9112506,
+      9112507,
+      9112508,
+      9112509
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91126,
+    "randomReward": [
+      9112600,
+      9112601,
+      9112602,
+      9112603,
+      9112604
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91127,
+    "randomReward": [
+      9112700,
+      9112701,
+      9112702,
+      9112703,
+      9112704
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91128,
+    "randomReward": [
+      9112800,
+      9112801,
+      9112802
+    ],
+    "contentType": 1,
+    "useMax": 99
+  },
+  {
+    "id": 91129,
+    "randomReward": [
+      9112900,
+      9112901,
+      9112902
+    ],
+    "contentType": 1,
+    "useMax": 99
+  }
+]

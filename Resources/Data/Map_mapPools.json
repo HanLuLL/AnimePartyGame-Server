@@ -1,0 +1,194 @@
+[
+  {
+    "id": 81003001,
+    "eventPool": 1001,
+    "effectCardPool": 1001,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81003003,
+    "eventPool": 1003,
+    "effectCardPool": 1003,
+    "battleCardPool": 1003
+  },
+  {
+    "id": 81005001,
+    "eventPool": 1001,
+    "effectCardPool": 1001,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81005003,
+    "eventPool": 1003,
+    "effectCardPool": 1003,
+    "battleCardPool": 1003
+  },
+  {
+    "id": 81004001,
+    "eventPool": 1001,
+    "effectCardPool": 1001,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81004003,
+    "eventPool": 1003,
+    "effectCardPool": 1003,
+    "battleCardPool": 1003
+  },
+  {
+    "id": 81006001,
+    "eventPool": 1001,
+    "effectCardPool": 1001,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81006003,
+    "eventPool": 1003,
+    "effectCardPool": 1003,
+    "battleCardPool": 1003
+  },
+  {
+    "id": 81007001,
+    "eventPool": 1001,
+    "effectCardPool": 1001,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81007003,
+    "eventPool": 1003,
+    "effectCardPool": 1003,
+    "battleCardPool": 1003
+  },
+  {
+    "id": 81099001,
+    "eventPool": 1001,
+    "effectCardPool": 1001,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81099003,
+    "eventPool": 1003,
+    "effectCardPool": 1003,
+    "battleCardPool": 1003
+  },
+  {
+    "id": 81011001,
+    "eventPool": 1011,
+    "effectCardPool": 1011,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81011003,
+    "eventPool": 1011,
+    "effectCardPool": 1011,
+    "battleCardPool": 1003
+  },
+  {
+    "id": 82007004,
+    "eventPool": 1004,
+    "effectCardPool": 1004,
+    "battleCardPool": 1004
+  },
+  {
+    "id": 82008004,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 82009004,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 82010004,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 82012004,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 82013004,
+    "eventPool": 1004,
+    "effectCardPool": 1004,
+    "battleCardPool": 1004
+  },
+  {
+    "id": 82014004,
+    "eventPool": 2014,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 82015004,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 82016004,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 101006,
+    "eventPool": 103006,
+    "effectCardPool": 103006,
+    "battleCardPool": 103006
+  },
+  {
+    "id": 102005,
+    "eventPool": 101005,
+    "effectCardPool": 101005,
+    "battleCardPool": 101005
+  },
+  {
+    "id": 103005,
+    "eventPool": 102005,
+    "effectCardPool": 102005,
+    "battleCardPool": 102005
+  },
+  {
+    "id": 102006,
+    "eventPool": 102006,
+    "effectCardPool": 102006,
+    "battleCardPool": 102006
+  },
+  {
+    "id": 82009007,
+    "eventPool": 82009,
+    "effectCardPool": 82009,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 81007011,
+    "eventPool": 81007,
+    "effectCardPool": 81007,
+    "battleCardPool": 1001
+  },
+  {
+    "id": 83001012,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 83002012,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  },
+  {
+    "id": 83003012,
+    "eventPool": 1005,
+    "effectCardPool": 1005,
+    "battleCardPool": 1005
+  }
+]

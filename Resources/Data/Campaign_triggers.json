@@ -1,0 +1,62 @@
+[
+  {
+    "id": 10101,
+    "campaignTriggerType": [
+      {
+        "value": 3,
+        "name": "CampaignTriggerType_FirstEnterPK"
+      }
+    ],
+    "tutorialID": 10101
+  },
+  {
+    "id": 10201,
+    "campaignTriggerType": [
+      {
+        "value": 1,
+        "name": "CampaignTriggerType_Round"
+      }
+    ],
+    "campaignTriggerParams": [
+      1
+    ],
+    "tutorialID": 10201
+  },
+  {
+    "id": 10202,
+    "campaignTriggerType": [
+      {
+        "value": 4,
+        "name": "CampaignTriggerType_FirstKill"
+      },
+      {
+        "value": 5,
+        "name": "CampaignTriggerType_FirstKilled"
+      }
+    ],
+    "tutorialID": 10202
+  },
+  {
+    "id": 10301,
+    "campaignTriggerType": [
+      {
+        "value": 7,
+        "name": "CampaignTriggerType_MapEvent"
+      }
+    ],
+    "campaignTriggerParams": [
+      32033
+    ],
+    "tutorialID": 10301
+  },
+  {
+    "id": 10302,
+    "campaignTriggerType": [
+      {
+        "value": 6,
+        "name": "CampaignTriggerType_FirstStarLevelUp"
+      }
+    ],
+    "tutorialID": 10302
+  }
+]

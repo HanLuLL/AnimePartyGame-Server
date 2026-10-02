@@ -1,0 +1,493 @@
+[
+  {
+    "id": 50101,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "2": 300
+        }
+      }
+    ]
+  },
+  {
+    "id": 50410,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "90001": 3
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "70990": 1
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "2": 300
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "78101": 5
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "90001": 3
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "90001": 3
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "91004": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 50725,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "90001": 3
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "78101": 5
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "2": 300
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "78100": 10
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "78101": 6
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "90001": 3
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "71995": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 51219,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "90001": 5
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "91005": 1
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "90001": 10
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "1": 2000
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "6": 500
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "78101": 10
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "90001": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": 69999,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "90001": 5
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "91004": 1
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "78101": 10
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "90002": 10
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "90001": 10
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "90002": 10
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "78200": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 60227,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "2": 60
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "2": 60
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "2": 120
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "2": 120
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "2": 120
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "2": 180
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "2": 240
+        }
+      }
+    ]
+  },
+  {
+    "id": 60730,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "2": 60
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "1000057": 2
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "1": 1000
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "91017": 2
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "6": 200
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "78101": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": 69998,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "2": 100
+        },
+        "rechargeReward": {
+          "91118": 1
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "78100": 10
+        },
+        "rechargeReward": {
+          "91011": 10
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "2": 300
+        },
+        "rechargeReward": {
+          "78200": 1
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "78101": 5
+        },
+        "rechargeReward": {
+          "6": 500
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "2": 500
+        },
+        "rechargeReward": {
+          "2": 500
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "91017": 5
+        },
+        "rechargeReward": {
+          "90002": 10
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "91118": 1
+        },
+        "rechargeReward": {
+          "90001": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": 60903,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "2": 60
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "90001": 2
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "1": 1000
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "91017": 2
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "6": 200
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "78101": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": 60925,
+    "signInDataConfigureItems": [
+      {
+        "day": 1,
+        "reward": {
+          "2": 60
+        }
+      },
+      {
+        "day": 2,
+        "reward": {
+          "2": 100
+        }
+      },
+      {
+        "day": 3,
+        "reward": {
+          "90001": 2
+        }
+      },
+      {
+        "day": 4,
+        "reward": {
+          "1": 1000
+        }
+      },
+      {
+        "day": 5,
+        "reward": {
+          "91017": 2
+        }
+      },
+      {
+        "day": 6,
+        "reward": {
+          "6": 200
+        }
+      },
+      {
+        "day": 7,
+        "reward": {
+          "78101": 5
+        }
+      }
+    ]
+  }
+]

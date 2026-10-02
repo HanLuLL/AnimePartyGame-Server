@@ -1,0 +1,286 @@
+[
+  {
+    "id": 10001,
+    "simplified": "准备！"
+  },
+  {
+    "id": 10002,
+    "simplified": "等一等"
+  },
+  {
+    "id": 10003,
+    "simplified": "开始！"
+  },
+  {
+    "id": 10004,
+    "simplified": "Hi！"
+  },
+  {
+    "id": 10005,
+    "simplified": "No"
+  },
+  {
+    "id": 10006,
+    "simplified": "OK"
+  },
+  {
+    "id": 20001,
+    "simplified": "真是精彩！"
+  },
+  {
+    "id": 20002,
+    "simplified": "打得不错~"
+  },
+  {
+    "id": 20003,
+    "simplified": "看我的连招！"
+  },
+  {
+    "id": 20004,
+    "simplified": " 抱歉~"
+  },
+  {
+    "id": 20005,
+    "simplified": "怎么会这样！"
+  },
+  {
+    "id": 20006,
+    "simplified": "快点行动啊~"
+  },
+  {
+    "id": 20011,
+    "simplified": "谢谢！"
+  },
+  {
+    "id": 20012,
+    "simplified": "加个好友吧"
+  },
+  {
+    "id": 21001,
+    "simplified": "真是精彩！"
+  },
+  {
+    "id": 21002,
+    "simplified": "打得不错~"
+  },
+  {
+    "id": 21003,
+    "simplified": "看我的连招！"
+  },
+  {
+    "id": 21004,
+    "simplified": " 抱歉~"
+  },
+  {
+    "id": 21005,
+    "simplified": "怎么会这样！"
+  },
+  {
+    "id": 21006,
+    "simplified": "快点行动啊~"
+  },
+  {
+    "id": 21007,
+    "simplified": "集火Boss"
+  },
+  {
+    "id": 21008,
+    "simplified": "先清理小怪"
+  },
+  {
+    "id": 21009,
+    "simplified": "请求治疗"
+  },
+  {
+    "id": 21010,
+    "simplified": "请求转账"
+  },
+  {
+    "id": 21011,
+    "simplified": "谢谢！"
+  },
+  {
+    "id": 21012,
+    "simplified": "请求给牌！"
+  },
+  {
+    "id": 21013,
+    "simplified": "我来收残血"
+  },
+  {
+    "id": 21014,
+    "simplified": "不需要治疗"
+  },
+  {
+    "id": 21015,
+    "simplified": "我技能准备好了！"
+  },
+  {
+    "id": 21016,
+    "simplified": "没关系"
+  },
+  {
+    "id": 22001,
+    "simplified": "真是精彩！"
+  },
+  {
+    "id": 22002,
+    "simplified": "打得不错~"
+  },
+  {
+    "id": 22003,
+    "simplified": "看我的连招！"
+  },
+  {
+    "id": 22004,
+    "simplified": " 抱歉~"
+  },
+  {
+    "id": 22005,
+    "simplified": "怎么会这样！"
+  },
+  {
+    "id": 22006,
+    "simplified": "快点行动啊~"
+  },
+  {
+    "id": 22011,
+    "simplified": "谢谢！"
+  },
+  {
+    "id": 22009,
+    "simplified": "请求治疗"
+  },
+  {
+    "id": 23001,
+    "simplified": "优先清除怪物强化"
+  },
+  {
+    "id": 23002,
+    "simplified": "请帮忙分担伤害"
+  },
+  {
+    "id": 23003,
+    "simplified": "优先移除改造"
+  },
+  {
+    "id": 30001,
+    "simplified": "真是精彩！"
+  },
+  {
+    "id": 30002,
+    "simplified": "你打的也太好了！"
+  },
+  {
+    "id": 30003,
+    "simplified": "我真是太厉害了！"
+  },
+  {
+    "id": 30004,
+    "simplified": "小场面~"
+  },
+  {
+    "id": 30005,
+    "simplified": "再接再厉！"
+  },
+  {
+    "id": 30006,
+    "simplified": "下次我可不会输！"
+  },
+  {
+    "id": 30007,
+    "simplified": "我无敌了！"
+  },
+  {
+    "id": 30008,
+    "simplified": "你是怎么做到的！"
+  },
+  {
+    "id": 30009,
+    "simplified": "{0}真是太棒了！"
+  },
+  {
+    "id": 40000,
+    "simplified": "我有{0}"
+  },
+  {
+    "id": 40001,
+    "simplified": "小心！"
+  },
+  {
+    "id": 40002,
+    "simplified": "移动到这里！"
+  },
+  {
+    "id": 40003,
+    "simplified": "战！"
+  },
+  {
+    "id": 40004,
+    "simplified": "赞！"
+  },
+  {
+    "id": 40005,
+    "simplified": "请求治疗"
+  },
+  {
+    "id": 40006,
+    "simplified": "请求转账"
+  },
+  {
+    "id": 40007,
+    "simplified": "{0}有{1}张手牌"
+  },
+  {
+    "id": 40008,
+    "simplified": "准备治疗{0}"
+  },
+  {
+    "id": 40009,
+    "simplified": "准备给{0}转账"
+  },
+  {
+    "id": 40010,
+    "simplified": "我的技能准备好了！"
+  },
+  {
+    "id": 40011,
+    "simplified": "我的技能还需要{0}回合准备好。"
+  },
+  {
+    "id": 40012,
+    "simplified": "小心{0}"
+  },
+  {
+    "id": 40013,
+    "simplified": "集火{0}"
+  },
+  {
+    "id": 40014,
+    "simplified": "我来解决{0}"
+  },
+  {
+    "id": 40015,
+    "simplified": "优先完成{0}的任务"
+  },
+  {
+    "id": 40016,
+    "simplified": "注意进度{0}的{1}"
+  },
+  {
+    "id": 50000,
+    "simplified": "感谢！"
+  },
+  {
+    "id": 50001,
+    "simplified": "感谢！"
+  },
+  {
+    "id": 50002,
+    "simplified": "感谢！"
+  },
+  {
+    "id": 50003,
+    "simplified": "干得好！"
+  }
+]

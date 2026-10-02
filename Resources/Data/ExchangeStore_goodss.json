@@ -1,0 +1,6956 @@
+[
+  {
+    "shopTabType": {
+      "value": 1,
+      "name": "ShopTabType_Activity"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 40192,
+        "goodsOrder": 150,
+        "itemID": 1000054,
+        "itemNum": 10,
+        "currencyID": 2,
+        "originalPrice": 280,
+        "discountPrice": 248,
+        "numLimit": 3,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788400799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40193,
+        "goodsOrder": 151,
+        "itemID": 1000054,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 28,
+        "discountPrice": 28,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788400799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40194,
+        "goodsOrder": 152,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 20,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40195,
+        "goodsOrder": 153,
+        "itemID": 100112005,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40196,
+        "goodsOrder": 154,
+        "itemID": 71092,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 500,
+        "discountPrice": 500,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40197,
+        "goodsOrder": 155,
+        "itemID": 71091,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40198,
+        "goodsOrder": 156,
+        "itemID": 120112014,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40199,
+        "goodsOrder": 157,
+        "itemID": 120112015,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40200,
+        "goodsOrder": 158,
+        "itemID": 70097,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40201,
+        "goodsOrder": 159,
+        "itemID": 70096,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 30,
+        "discountPrice": 30,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40202,
+        "goodsOrder": 160,
+        "itemID": 75071,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40203,
+        "goodsOrder": 161,
+        "itemID": 75070,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 30,
+        "discountPrice": 30,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40204,
+        "goodsOrder": 162,
+        "itemID": 1,
+        "itemNum": 10,
+        "currencyID": 1000055,
+        "originalPrice": 3,
+        "discountPrice": 3,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 40205,
+        "goodsOrder": 163,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 1000055,
+        "originalPrice": 25,
+        "discountPrice": 25,
+        "numLimit": 10,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788710399
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 3,
+      "name": "ShopTabType_Role"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 20101,
+        "goodsOrder": 101,
+        "itemID": 101,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20103,
+        "goodsOrder": 103,
+        "itemID": 103,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20104,
+        "goodsOrder": 104,
+        "itemID": 104,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20106,
+        "goodsOrder": 106,
+        "itemID": 106,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20109,
+        "goodsOrder": 109,
+        "itemID": 109,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20110,
+        "goodsOrder": 110,
+        "itemID": 110,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20111,
+        "goodsOrder": 111,
+        "itemID": 111,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20112,
+        "goodsOrder": 112,
+        "itemID": 112,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20113,
+        "goodsOrder": 113,
+        "itemID": 113,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 20114,
+        "goodsOrder": 23,
+        "itemID": 114,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1717185600
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20115,
+        "goodsOrder": 22,
+        "itemID": 115,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1720295999
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20116,
+        "goodsOrder": 21,
+        "itemID": 116,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1723406400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20117,
+        "goodsOrder": 20,
+        "itemID": 117,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1725134400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20119,
+        "goodsOrder": 19,
+        "itemID": 119,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1727640000
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20121,
+        "goodsOrder": 18,
+        "itemID": 120,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1732478400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20122,
+        "goodsOrder": 17,
+        "itemID": 122,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1737356400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20123,
+        "goodsOrder": 16,
+        "itemID": 123,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1740380400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20124,
+        "goodsOrder": 15,
+        "itemID": 118,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1746216000
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20125,
+        "goodsOrder": 14,
+        "itemID": 121,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1749412800
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20126,
+        "goodsOrder": 13,
+        "itemID": 124,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1754251200
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20127,
+        "goodsOrder": 12,
+        "itemID": 125,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1764532800
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20128,
+        "goodsOrder": 4,
+        "itemID": 126,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1767470400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20129,
+        "goodsOrder": 3,
+        "itemID": 127,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1773345600
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20130,
+        "goodsOrder": 2,
+        "itemID": 128,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157600
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1778961600
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 20131,
+        "goodsOrder": 1,
+        "itemID": 129,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 150,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1772157601
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1773367199
+            ]
+          }
+        },
+        "discountPriceLimited": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788033600
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 30020,
+        "goodsOrder": 300,
+        "itemID": 78009,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 200,
+        "discountPrice": 40,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 1
+      },
+      {
+        "goodsID": 21001,
+        "goodsOrder": 1001,
+        "itemID": 71008,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 45,
+        "discountPrice": 45,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 21002,
+        "goodsOrder": 1002,
+        "itemID": 72023,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 21003,
+        "goodsOrder": 1005,
+        "itemID": 73004,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 280,
+        "discountPrice": 280,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 21004,
+        "goodsOrder": 1004,
+        "itemID": 75004,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 30,
+        "discountPrice": 30,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 21005,
+        "goodsOrder": 1003,
+        "itemID": 72004,
+        "itemNum": 1,
+        "currencyID": 3,
+        "originalPrice": 80,
+        "discountPrice": 80,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 21,
+      "name": "ShopTabType_StarLego"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 21281,
+        "goodsOrder": 1,
+        "itemID": 127,
+        "itemNum": 1,
+        "currencyID": 1000063,
+        "originalPrice": 200,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 21282,
+        "goodsOrder": 2,
+        "itemID": 120,
+        "itemNum": 1,
+        "currencyID": 1000063,
+        "originalPrice": 200,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 21283,
+        "goodsOrder": 3,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 1000063,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 21284,
+        "goodsOrder": 4,
+        "itemID": 3,
+        "itemNum": 1,
+        "currencyID": 1000063,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 8,
+      "name": "ShopTabType_Exchange"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 30010,
+        "goodsOrder": 10,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30030,
+        "goodsOrder": 30,
+        "itemID": 77011,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 30040,
+        "goodsOrder": 40,
+        "itemID": 77012,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 30050,
+        "goodsOrder": 50,
+        "itemID": 77013,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 30060,
+        "goodsOrder": 60,
+        "itemID": 77014,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 30070,
+        "goodsOrder": 70,
+        "itemID": 77015,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 30080,
+        "goodsOrder": 80,
+        "itemID": 78001,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30090,
+        "goodsOrder": 90,
+        "itemID": 78002,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30100,
+        "goodsOrder": 100,
+        "itemID": 78003,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30110,
+        "goodsOrder": 110,
+        "itemID": 78004,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30120,
+        "goodsOrder": 120,
+        "itemID": 78005,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30130,
+        "goodsOrder": 130,
+        "itemID": 78006,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30140,
+        "goodsOrder": 140,
+        "itemID": 78007,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30150,
+        "goodsOrder": 150,
+        "itemID": 78008,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 30160,
+        "goodsOrder": 1,
+        "itemID": 78101,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 80,
+        "discountPrice": 80,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 45
+      },
+      {
+        "goodsID": 30170,
+        "goodsOrder": 20,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 68,
+        "discountPrice": 68
+      },
+      {
+        "goodsID": 30180,
+        "goodsOrder": 21,
+        "itemID": 1000057,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 12,
+      "name": "ShopTabType_ShiyuShiyuGacha"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 31000,
+        "goodsOrder": 1,
+        "itemID": 78009,
+        "itemNum": 1,
+        "currencyID": 4,
+        "originalPrice": 1,
+        "discountPrice": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 11,
+      "name": "ShopTabType_Recycle"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 31010,
+        "goodsOrder": 10,
+        "itemID": 70901,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 20,
+        "discountPrice": 12,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 31020,
+        "goodsOrder": 20,
+        "itemID": 70019,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 18,
+        "discountPrice": 18,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 31030,
+        "goodsOrder": 30,
+        "itemID": 71003,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 54,
+        "discountPrice": 50,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 31150,
+        "goodsOrder": 150,
+        "itemID": 77011,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 50,
+        "discountPrice": 50
+      },
+      {
+        "goodsID": 31170,
+        "goodsOrder": 170,
+        "itemID": 77012,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 50,
+        "discountPrice": 50
+      },
+      {
+        "goodsID": 31190,
+        "goodsOrder": 190,
+        "itemID": 77013,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 50,
+        "discountPrice": 50
+      },
+      {
+        "goodsID": 31210,
+        "goodsOrder": 210,
+        "itemID": 77014,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 50,
+        "discountPrice": 50
+      },
+      {
+        "goodsID": 31230,
+        "goodsOrder": 230,
+        "itemID": 77015,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 50,
+        "discountPrice": 50
+      },
+      {
+        "goodsID": 31231,
+        "goodsOrder": 9,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 15,
+        "discountPrice": 15
+      },
+      {
+        "goodsID": 31232,
+        "goodsOrder": 8,
+        "itemID": 76001,
+        "itemNum": 1,
+        "currencyID": 5,
+        "originalPrice": 100,
+        "discountPrice": 20,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 29,
+      "name": "ShopTabType_PreviousFashion"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 29001,
+        "goodsOrder": 70,
+        "itemID": 100102003,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29002,
+        "goodsOrder": 80,
+        "itemID": 100103003,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29003,
+        "goodsOrder": 90,
+        "itemID": 100116003,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29004,
+        "goodsOrder": 160,
+        "itemID": 71022,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29005,
+        "goodsOrder": 170,
+        "itemID": 71026,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29006,
+        "goodsOrder": 180,
+        "itemID": 71034,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29007,
+        "goodsOrder": 310,
+        "itemID": 120102010,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29008,
+        "goodsOrder": 320,
+        "itemID": 120102012,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29009,
+        "goodsOrder": 330,
+        "itemID": 120103010,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29010,
+        "goodsOrder": 340,
+        "itemID": 120103012,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29011,
+        "goodsOrder": 350,
+        "itemID": 120116010,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29012,
+        "goodsOrder": 360,
+        "itemID": 120116012,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29013,
+        "goodsOrder": 430,
+        "itemID": 75014,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29014,
+        "goodsOrder": 440,
+        "itemID": 75017,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29015,
+        "goodsOrder": 450,
+        "itemID": 75021,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29016,
+        "goodsOrder": 60,
+        "itemID": 100117003,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29017,
+        "goodsOrder": 150,
+        "itemID": 71043,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29018,
+        "goodsOrder": 290,
+        "itemID": 120117010,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29019,
+        "goodsOrder": 300,
+        "itemID": 120117012,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29020,
+        "goodsOrder": 420,
+        "itemID": 75025,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29021,
+        "goodsOrder": 50,
+        "itemID": 100112004,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29022,
+        "goodsOrder": 140,
+        "itemID": 71049,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29023,
+        "goodsOrder": 270,
+        "itemID": 120112010,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29024,
+        "goodsOrder": 280,
+        "itemID": 120112012,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29025,
+        "goodsOrder": 410,
+        "itemID": 75029,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29026,
+        "goodsOrder": 40,
+        "itemID": 100119003,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29027,
+        "goodsOrder": 130,
+        "itemID": 71055,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29028,
+        "goodsOrder": 250,
+        "itemID": 120119011,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29029,
+        "goodsOrder": 260,
+        "itemID": 120119013,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29030,
+        "goodsOrder": 400,
+        "itemID": 75034,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29031,
+        "goodsOrder": 30,
+        "itemID": 100123003,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29032,
+        "goodsOrder": 120,
+        "itemID": 71060,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29033,
+        "goodsOrder": 230,
+        "itemID": 120123010,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29034,
+        "goodsOrder": 240,
+        "itemID": 120123012,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29035,
+        "goodsOrder": 390,
+        "itemID": 75042,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29036,
+        "goodsOrder": 20,
+        "itemID": 100107005,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29037,
+        "goodsOrder": 110,
+        "itemID": 71064,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29038,
+        "goodsOrder": 210,
+        "itemID": 120107013,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29039,
+        "goodsOrder": 220,
+        "itemID": 120107015,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29040,
+        "goodsOrder": 380,
+        "itemID": 75046,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29041,
+        "goodsOrder": 10,
+        "itemID": 100104004,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29042,
+        "goodsOrder": 100,
+        "itemID": 71073,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29043,
+        "goodsOrder": 190,
+        "itemID": 120104011,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29044,
+        "goodsOrder": 200,
+        "itemID": 120104013,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29045,
+        "goodsOrder": 370,
+        "itemID": 75053,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29046,
+        "goodsOrder": 9,
+        "itemID": 100120004,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29047,
+        "goodsOrder": 99,
+        "itemID": 71068,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29048,
+        "goodsOrder": 188,
+        "itemID": 120120011,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29049,
+        "goodsOrder": 189,
+        "itemID": 120120013,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 29050,
+        "goodsOrder": 369,
+        "itemID": 75049,
+        "itemNum": 1,
+        "currencyID": 53,
+        "originalPrice": 24,
+        "discountPrice": 24,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 31,
+      "name": "ShopTabType_PreviousFashion2"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 5001,
+        "goodsOrder": 70,
+        "itemID": 71021,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5002,
+        "goodsOrder": 80,
+        "itemID": 71025,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5003,
+        "goodsOrder": 90,
+        "itemID": 71033,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5004,
+        "goodsOrder": 220,
+        "itemID": 120102009,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5005,
+        "goodsOrder": 230,
+        "itemID": 120102011,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5006,
+        "goodsOrder": 240,
+        "itemID": 120103009,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5007,
+        "goodsOrder": 250,
+        "itemID": 120103011,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5008,
+        "goodsOrder": 260,
+        "itemID": 120116009,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5009,
+        "goodsOrder": 270,
+        "itemID": 120116011,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5010,
+        "goodsOrder": 340,
+        "itemID": 75013,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5011,
+        "goodsOrder": 350,
+        "itemID": 75016,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5012,
+        "goodsOrder": 360,
+        "itemID": 75020,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5013,
+        "goodsOrder": 430,
+        "itemID": 70026,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5014,
+        "goodsOrder": 440,
+        "itemID": 70028,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5015,
+        "goodsOrder": 450,
+        "itemID": 70043,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5016,
+        "goodsOrder": 9950,
+        "itemID": 77011,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 5017,
+        "goodsOrder": 9960,
+        "itemID": 77012,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 5018,
+        "goodsOrder": 9970,
+        "itemID": 77013,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 5019,
+        "goodsOrder": 9980,
+        "itemID": 77014,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 5020,
+        "goodsOrder": 9990,
+        "itemID": 77015,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 5021,
+        "goodsOrder": 60,
+        "itemID": 71042,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5022,
+        "goodsOrder": 200,
+        "itemID": 120117009,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5023,
+        "goodsOrder": 210,
+        "itemID": 120117011,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5024,
+        "goodsOrder": 330,
+        "itemID": 75024,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5025,
+        "goodsOrder": 410,
+        "itemID": 70049,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5026,
+        "goodsOrder": 420,
+        "itemID": 70053,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5027,
+        "goodsOrder": 320,
+        "itemID": 75028,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5028,
+        "goodsOrder": 50,
+        "itemID": 71048,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5029,
+        "goodsOrder": 180,
+        "itemID": 120112009,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5030,
+        "goodsOrder": 190,
+        "itemID": 120112011,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5031,
+        "goodsOrder": 310,
+        "itemID": 75033,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5032,
+        "goodsOrder": 40,
+        "itemID": 71054,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5033,
+        "goodsOrder": 160,
+        "itemID": 120119010,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5034,
+        "goodsOrder": 170,
+        "itemID": 120119012,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5035,
+        "goodsOrder": 400,
+        "itemID": 70058,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5036,
+        "goodsOrder": 300,
+        "itemID": 75041,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5037,
+        "goodsOrder": 30,
+        "itemID": 71059,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5038,
+        "goodsOrder": 140,
+        "itemID": 120123009,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5039,
+        "goodsOrder": 150,
+        "itemID": 120123011,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5040,
+        "goodsOrder": 390,
+        "itemID": 70068,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5041,
+        "goodsOrder": 290,
+        "itemID": 75045,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5042,
+        "goodsOrder": 20,
+        "itemID": 71063,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5043,
+        "goodsOrder": 120,
+        "itemID": 120107012,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5044,
+        "goodsOrder": 130,
+        "itemID": 120107014,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5045,
+        "goodsOrder": 380,
+        "itemID": 70071,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5046,
+        "goodsOrder": 280,
+        "itemID": 75052,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5047,
+        "goodsOrder": 10,
+        "itemID": 71072,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5048,
+        "goodsOrder": 100,
+        "itemID": 120104010,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5049,
+        "goodsOrder": 110,
+        "itemID": 120104012,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5050,
+        "goodsOrder": 370,
+        "itemID": 70078,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5051,
+        "goodsOrder": 279,
+        "itemID": 75048,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 90,
+        "discountPrice": 90,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5052,
+        "goodsOrder": 9,
+        "itemID": 71067,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5053,
+        "goodsOrder": 98,
+        "itemID": 120120010,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5054,
+        "goodsOrder": 99,
+        "itemID": 120120012,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 120,
+        "discountPrice": 120,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 5055,
+        "goodsOrder": 369,
+        "itemID": 70075,
+        "itemNum": 1,
+        "currencyID": 54,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 10,
+      "name": "ShopTabType_Hide"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 999000,
+        "goodsOrder": 1,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 60,
+        "discountPrice": 60
+      },
+      {
+        "goodsID": 999001,
+        "goodsOrder": 2,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 68,
+        "discountPrice": 68
+      },
+      {
+        "goodsID": 999002,
+        "goodsOrder": 3,
+        "itemID": 1000057,
+        "itemNum": 1,
+        "currencyID": 2,
+        "originalPrice": 88,
+        "discountPrice": 88
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 26,
+      "name": "ShopTabType_PVE"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 26001,
+        "goodsOrder": 1,
+        "itemID": 78100,
+        "itemNum": 1,
+        "currencyID": 6,
+        "originalPrice": 25,
+        "discountPrice": 25,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 32
+      },
+      {
+        "goodsID": 26002,
+        "goodsOrder": 2,
+        "itemID": 78101,
+        "itemNum": 1,
+        "currencyID": 6,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 16
+      },
+      {
+        "goodsID": 26003,
+        "goodsOrder": 3,
+        "itemID": 78200,
+        "itemNum": 1,
+        "currencyID": 6,
+        "originalPrice": 1000,
+        "discountPrice": 1000,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 3,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 9,
+      "name": "ShopTabType_GiftPackage"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 50000,
+        "goodsOrder": 50,
+        "itemID": 91004,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1111,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1714420799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50001,
+        "goodsOrder": 15,
+        "rechargeIcon": "UT_Exchange_50001",
+        "itemID": 91083,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "param": 502061,
+        "great": 1100
+      },
+      {
+        "goodsID": 50002,
+        "goodsOrder": 15,
+        "rechargeIcon": "UT_Exchange_50002",
+        "itemID": 91084,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "param": 502061,
+        "great": 688
+      },
+      {
+        "goodsID": 50003,
+        "goodsOrder": 15,
+        "rechargeIcon": "UT_Exchange_50003",
+        "itemID": 91085,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 600,
+        "discountPrice": 600,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "param": 502061,
+        "great": 380
+      },
+      {
+        "goodsID": 50004,
+        "goodsOrder": 15,
+        "rechargeIcon": "UT_Exchange_50004",
+        "itemID": 91086,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1200,
+        "discountPrice": 1200,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "param": 502061,
+        "great": 210
+      },
+      {
+        "goodsID": 50005,
+        "goodsOrder": 15,
+        "rechargeIcon": "UT_Exchange_50005",
+        "itemID": 91087,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 3200,
+        "discountPrice": 3200,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "param": 502061,
+        "great": 450
+      },
+      {
+        "goodsID": 50150,
+        "goodsOrder": 1,
+        "rechargeIcon": "UT_Exchange_50140",
+        "itemID": 91005,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1714420799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50180,
+        "goodsOrder": 10,
+        "rechargeIcon": "UT_Exchange_50180",
+        "itemID": 91021,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1866,
+        "discountPrice": 1866,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50190,
+        "goodsOrder": 190,
+        "rechargeIcon": "UT_Exchange_50190",
+        "itemID": 91022,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50200,
+        "goodsOrder": 200,
+        "rechargeIcon": "UT_Exchange_50200",
+        "itemID": 91023,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 599,
+        "discountPrice": 599
+      },
+      {
+        "goodsID": 50250,
+        "goodsOrder": 8,
+        "rechargeIcon": "UT_Exchange_50250",
+        "itemID": 91027,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 130,
+        "discountPrice": 130,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50260,
+        "goodsOrder": 9,
+        "rechargeIcon": "UT_Exchange_50250",
+        "itemID": 91028,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 266,
+        "discountPrice": 266,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 50310,
+        "goodsOrder": 210,
+        "rechargeIcon": "UT_Exchange_50310",
+        "itemID": 77016,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1330,
+        "discountPrice": 1330
+      },
+      {
+        "goodsID": 50364,
+        "goodsOrder": 11,
+        "rechargeIcon": "UT_Exchange_50361",
+        "itemID": 91063,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 530,
+        "discountPrice": 530,
+        "numLimit": 3,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1770321600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1772121599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50365,
+        "goodsOrder": 10,
+        "rechargeIcon": "UT_Exchange_50365",
+        "itemID": 91081,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 519,
+        "discountPrice": 465,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1776391199
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50366,
+        "goodsOrder": 9,
+        "rechargeIcon": "UT_Exchange_50366",
+        "itemID": 91082,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 129,
+        "discountPrice": 39,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1776391199
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50367,
+        "goodsOrder": 1,
+        "rechargeIcon": "UT_Exchange_50367",
+        "itemID": 91097,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50368,
+        "goodsOrder": 11,
+        "rechargeIcon": "UT_Exchange_50361",
+        "itemID": 91063,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 530,
+        "discountPrice": 530,
+        "numLimit": 3,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1776369600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1779292799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50400,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50400",
+        "itemID": 91101,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 120,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1776369600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1779292799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50401,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50401",
+        "itemID": 91102,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 120,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1776369600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1779292799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50402,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50402",
+        "itemID": 91103,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 120,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1776369600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1779292799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50403,
+        "goodsOrder": 11,
+        "rechargeIcon": "UT_Exchange_50361",
+        "itemID": 91063,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 530,
+        "discountPrice": 530,
+        "numLimit": 3,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50404,
+        "goodsOrder": 200,
+        "rechargeIcon": "UT_Exchange_50404",
+        "itemID": 91106,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1797,
+        "discountPrice": 980,
+        "numLimit": 2,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1782331200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        },
+        "great": 460
+      },
+      {
+        "goodsID": 50405,
+        "goodsOrder": 200,
+        "rechargeIcon": "UT_Exchange_50405",
+        "itemID": 91107,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 480,
+        "discountPrice": 328,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 2,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "great": 550
+      },
+      {
+        "goodsID": 50406,
+        "goodsOrder": 11,
+        "rechargeIcon": "UT_Exchange_50361",
+        "itemID": 91063,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 530,
+        "discountPrice": 530,
+        "numLimit": 3,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1782331200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50407,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50407",
+        "itemID": 91111,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1782331200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        },
+        "param": 606261,
+        "great": 1300
+      },
+      {
+        "goodsID": 50408,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50408",
+        "itemID": 91112,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1782331200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        },
+        "param": 606261,
+        "great": 888
+      },
+      {
+        "goodsID": 50409,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50409",
+        "itemID": 91113,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1782331200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        },
+        "param": 606261,
+        "great": 800
+      },
+      {
+        "goodsID": 50410,
+        "goodsOrder": 13,
+        "rechargeIcon": "UT_Exchange_50410",
+        "itemID": 91114,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 519,
+        "discountPrice": 465,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1782331200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50411,
+        "goodsOrder": 12,
+        "rechargeIcon": "UT_Exchange_50411",
+        "itemID": 91115,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 129,
+        "discountPrice": 39,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1782331200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50412,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50407",
+        "itemID": 91111,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        },
+        "param": 607301,
+        "great": 1300
+      },
+      {
+        "goodsID": 50413,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50408",
+        "itemID": 91112,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        },
+        "param": 607301,
+        "great": 888
+      },
+      {
+        "goodsID": 50414,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50409",
+        "itemID": 91113,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        },
+        "param": 607301,
+        "great": 800
+      },
+      {
+        "goodsID": 50415,
+        "goodsOrder": 200,
+        "rechargeIcon": "UT_Exchange_50404",
+        "itemID": 91106,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1797,
+        "discountPrice": 980,
+        "numLimit": 2,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        },
+        "great": 460
+      },
+      {
+        "goodsID": 50416,
+        "goodsOrder": 3,
+        "rechargeIcon": "UT_Exchange_50416",
+        "itemID": 91120,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50417,
+        "goodsOrder": 4,
+        "rechargeIcon": "UT_Exchange_50417",
+        "itemID": 91121,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 260,
+        "discountPrice": 260,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50418,
+        "goodsOrder": 5,
+        "rechargeIcon": "UT_Exchange_50418",
+        "itemID": 91122,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 680,
+        "discountPrice": 680,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50419,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50419",
+        "itemID": 91128,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 120,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788379200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50420,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50420",
+        "itemID": 91129,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 120,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788379200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 50421,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50407",
+        "itemID": 91111,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788379200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        },
+        "param": 609031,
+        "great": 1300
+      },
+      {
+        "goodsID": 50422,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50408",
+        "itemID": 91112,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788379200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        },
+        "param": 609031,
+        "great": 888
+      },
+      {
+        "goodsID": 50423,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Exchange_50409",
+        "itemID": 91113,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788379200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        },
+        "param": 609031,
+        "great": 800
+      },
+      {
+        "goodsID": 50424,
+        "goodsOrder": 11,
+        "rechargeIcon": "UT_Exchange_50361",
+        "itemID": 91063,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 530,
+        "discountPrice": 530,
+        "numLimit": 3,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1788379200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1791993599
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 38,
+      "name": "ShopTabType_Expression"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 60000,
+        "goodsOrder": 7,
+        "itemID": 120121013,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60001,
+        "goodsOrder": 8,
+        "itemID": 120121014,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60002,
+        "goodsOrder": 9,
+        "itemID": 120121015,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60003,
+        "goodsOrder": 10,
+        "itemID": 120124009,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60004,
+        "goodsOrder": 11,
+        "itemID": 120124010,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60005,
+        "goodsOrder": 12,
+        "itemID": 120124011,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60006,
+        "goodsOrder": 13,
+        "itemID": 120127009,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60007,
+        "goodsOrder": 14,
+        "itemID": 120127010,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60008,
+        "goodsOrder": 15,
+        "itemID": 120127011,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 60009,
+        "goodsOrder": 1,
+        "itemID": 120104014,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 60010,
+        "goodsOrder": 2,
+        "itemID": 120104015,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 60011,
+        "goodsOrder": 3,
+        "itemID": 120104016,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 60012,
+        "goodsOrder": 4,
+        "itemID": 120123013,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 60013,
+        "goodsOrder": 5,
+        "itemID": 120123014,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 60014,
+        "goodsOrder": 6,
+        "itemID": 120123015,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 15,
+      "name": "ShopTabType_Avatar"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 50010,
+        "goodsOrder": 70,
+        "ItemType": "头像",
+        "itemID": 70003,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 40,
+        "discountPrice": 10,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50020,
+        "goodsOrder": 80,
+        "ItemType": "头像",
+        "itemID": 70008,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 40,
+        "discountPrice": 10,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50030,
+        "goodsOrder": 90,
+        "ItemType": "头像",
+        "itemID": 70002,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 40,
+        "discountPrice": 20,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50040,
+        "goodsOrder": 60,
+        "ItemType": "头像",
+        "itemID": 70023,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 330,
+        "discountPrice": 267,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50050,
+        "goodsOrder": 10,
+        "ItemType": "头像",
+        "itemID": 70037,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 39,
+        "discountPrice": 39,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 50060,
+        "goodsOrder": 20,
+        "ItemType": "头像",
+        "itemID": 70038,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 39,
+        "discountPrice": 39,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 50070,
+        "goodsOrder": 30,
+        "ItemType": "头像",
+        "itemID": 70039,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 39,
+        "discountPrice": 39,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 50080,
+        "goodsOrder": 40,
+        "ItemType": "头像",
+        "itemID": 70040,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 39,
+        "discountPrice": 39,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 50090,
+        "goodsOrder": 50,
+        "ItemType": "头像",
+        "itemID": 70041,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 39,
+        "discountPrice": 39,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 16,
+      "name": "ShopTabType_ProfileCard"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 50050,
+        "goodsOrder": 50,
+        "ItemType": "名片",
+        "itemID": 71018,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 80,
+        "discountPrice": 67,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50060,
+        "goodsOrder": 60,
+        "ItemType": "名片",
+        "itemID": 71012,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 267,
+        "discountPrice": 200,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 17,
+      "name": "ShopTabType_Finisher"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 73000,
+        "goodsOrder": 1,
+        "ItemType": "终结特效",
+        "itemID": 73001,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 6999,
+        "discountPrice": 6999,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1714420799
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 18,
+      "name": "ShopTabType_Dice"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 50070,
+        "goodsOrder": 70,
+        "ItemType": "骰子",
+        "itemID": 72009,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 330,
+        "discountPrice": 220,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 50080,
+        "goodsOrder": 80,
+        "ItemType": "骰子",
+        "itemID": 72003,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 530,
+        "discountPrice": 350,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 72001,
+        "goodsOrder": 3,
+        "ItemType": "骰子",
+        "itemID": 72026,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 266,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1715630400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 72002,
+        "goodsOrder": 4,
+        "ItemType": "骰子",
+        "itemID": 72027,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 399,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1715630400
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 72003,
+        "goodsOrder": 5,
+        "ItemType": "骰子",
+        "itemID": 72028,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 399,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1717704000
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 72004,
+        "goodsOrder": 6,
+        "ItemType": "骰子",
+        "itemID": 72029,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 399,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1717704000
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 72005,
+        "goodsOrder": 7,
+        "ItemType": "骰子",
+        "itemID": 72030,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 399,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1718913600
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 72006,
+        "goodsOrder": 8,
+        "ItemType": "骰子",
+        "itemID": 72031,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 399,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1718913600
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 72007,
+        "goodsOrder": 1,
+        "ItemType": "骰子",
+        "itemID": 72032,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 399,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1720728000
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 72008,
+        "goodsOrder": 2,
+        "ItemType": "骰子",
+        "itemID": 72033,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 399,
+        "discountPrice": 399,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1720728000
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 19,
+      "name": "ShopTabType_Card"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 75007,
+        "goodsOrder": 7,
+        "ItemType": "卡牌",
+        "itemID": 75007,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 130,
+        "discountPrice": 130,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 75008,
+        "goodsOrder": 8,
+        "ItemType": "卡牌",
+        "itemID": 75008,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 130,
+        "discountPrice": 130,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 75011,
+        "goodsOrder": 11,
+        "ItemType": "卡牌",
+        "itemID": 75011,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 130,
+        "discountPrice": 130,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      },
+      {
+        "goodsID": 75012,
+        "goodsOrder": 12,
+        "ItemType": "卡牌",
+        "itemID": 75012,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 130,
+        "discountPrice": 130,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 14,
+      "name": "ShopTabType_Skin"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 80000,
+        "goodsOrder": 200,
+        "rechargeIcon": "UT_Hero_Card2_107_01",
+        "ItemType": "角色立绘",
+        "itemID": 91020,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1740121200
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1741363199
+            ]
+          }
+        },
+        "discountPriceLimited": 499,
+        "numLimit": 1,
+        "param": 105
+      },
+      {
+        "goodsID": 80001,
+        "goodsOrder": 199,
+        "rechargeIcon": "UT_Hero_Card2_101_01",
+        "ItemType": "角色立绘",
+        "itemID": 91024,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1740121200
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1741363199
+            ]
+          }
+        },
+        "discountPriceLimited": 499,
+        "numLimit": 1,
+        "param": 104
+      },
+      {
+        "goodsID": 80002,
+        "goodsOrder": 198,
+        "rechargeIcon": "UT_Hero_Card2_112_01",
+        "ItemType": "角色立绘",
+        "itemID": 91029,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1740121200
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1741363199
+            ]
+          }
+        },
+        "discountPriceLimited": 499,
+        "numLimit": 1,
+        "param": 102
+      },
+      {
+        "goodsID": 80003,
+        "goodsOrder": 197,
+        "rechargeIcon": "UT_Hero_Card2_108_02",
+        "ItemType": "角色立绘",
+        "itemID": 91035,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1740121200
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1741363199
+            ]
+          }
+        },
+        "discountPriceLimited": 499,
+        "numLimit": 1,
+        "param": 101
+      },
+      {
+        "goodsID": 80004,
+        "goodsOrder": 196,
+        "rechargeIcon": "UT_Hero_Card2_113_01",
+        "ItemType": "角色立绘",
+        "itemID": 91040,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1740121200
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1741363199
+            ]
+          }
+        },
+        "discountPriceLimited": 499,
+        "numLimit": 1,
+        "param": 103
+      },
+      {
+        "goodsID": 80005,
+        "goodsOrder": 195,
+        "rechargeIcon": "UT_Hero_Card2_115_01",
+        "ItemType": "角色立绘",
+        "itemID": 91041,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1740121200
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1741363199
+            ]
+          }
+        },
+        "discountPriceLimited": 499,
+        "numLimit": 1,
+        "param": 103
+      },
+      {
+        "goodsID": 80006,
+        "goodsOrder": 194,
+        "rechargeIcon": "UT_Hero_Card2_104_01",
+        "ItemType": "角色立绘",
+        "itemID": 91049,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "beginTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1740121200
+            ]
+          }
+        },
+        "endTimeLimited": {
+          "_unknown": {
+            "field_1": [
+              1741363199
+            ]
+          }
+        },
+        "discountPriceLimited": 499,
+        "numLimit": 1,
+        "param": 105
+      },
+      {
+        "goodsID": 80007,
+        "goodsOrder": 193,
+        "rechargeIcon": "UT_Hero_Card2_106_01",
+        "ItemType": "角色立绘",
+        "itemID": 91056,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "param": 105
+      },
+      {
+        "goodsID": 80008,
+        "goodsOrder": 192,
+        "rechargeIcon": "UT_Hero_Card2_103_02",
+        "ItemType": "角色立绘",
+        "itemID": 91059,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "param": 104
+      },
+      {
+        "goodsID": 80009,
+        "goodsOrder": 191,
+        "rechargeIcon": "UT_Hero_Card2_122_01",
+        "ItemType": "角色立绘",
+        "itemID": 91067,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "param": 101
+      },
+      {
+        "goodsID": 80010,
+        "goodsOrder": 190,
+        "rechargeIcon": "UT_Hero_Card2_121_01",
+        "ItemType": "角色立绘",
+        "itemID": 91068,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 101
+      },
+      {
+        "goodsID": 80011,
+        "goodsOrder": 189,
+        "rechargeIcon": "UT_Hero_Card2_117_02",
+        "ItemType": "角色立绘",
+        "itemID": 91069,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 101
+      },
+      {
+        "goodsID": 80012,
+        "goodsOrder": 188,
+        "rechargeIcon": "UT_Hero_Card2_124_01",
+        "ItemType": "角色立绘",
+        "itemID": 91073,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 102
+      },
+      {
+        "goodsID": 80013,
+        "goodsOrder": 187,
+        "rechargeIcon": "UT_Hero_Card2_118_01",
+        "ItemType": "角色立绘",
+        "itemID": 91074,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 102
+      },
+      {
+        "goodsID": 80014,
+        "goodsOrder": 186,
+        "rechargeIcon": "UT_Hero_Card2_116_02",
+        "ItemType": "角色立绘",
+        "itemID": 91075,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "param": 102
+      },
+      {
+        "goodsID": 80015,
+        "goodsOrder": 185,
+        "rechargeIcon": "UT_Hero_Card2_120_03",
+        "ItemType": "角色立绘",
+        "itemID": 91077,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 103
+      },
+      {
+        "goodsID": 80016,
+        "goodsOrder": 184,
+        "rechargeIcon": "UT_Hero_Card2_114_03",
+        "ItemType": "角色立绘",
+        "itemID": 91078,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "param": 103
+      },
+      {
+        "goodsID": 80017,
+        "goodsOrder": 182,
+        "rechargeIcon": "UT_Hero_Card2_119_02",
+        "ItemType": "角色立绘",
+        "itemID": 91079,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 104
+      },
+      {
+        "goodsID": 80018,
+        "goodsOrder": 183,
+        "rechargeIcon": "UT_Hero_Card2_107_04",
+        "ItemType": "角色立绘",
+        "itemID": 91080,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 104
+      },
+      {
+        "goodsID": 80019,
+        "goodsOrder": 1,
+        "rechargeIcon": "UT_Hero_Card2_113_03",
+        "ItemType": "角色立绘",
+        "itemID": 91098,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "param": 104
+      },
+      {
+        "goodsID": 80020,
+        "goodsOrder": 2,
+        "rechargeIcon": "UT_Hero_Card2_102_04",
+        "ItemType": "角色立绘",
+        "itemID": 91099,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 104
+      },
+      {
+        "goodsID": 80021,
+        "goodsOrder": 3,
+        "rechargeIcon": "UT_Hero_Card2_127_01",
+        "ItemType": "角色立绘",
+        "itemID": 91100,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "param": 104
+      },
+      {
+        "goodsID": 80022,
+        "goodsOrder": 4,
+        "rechargeIcon": "UT_Hero_Card2_120_04",
+        "ItemType": "角色立绘",
+        "itemID": 91123,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 333,
+        "discountPrice": 333,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "param": 105
+      },
+      {
+        "goodsID": 80023,
+        "goodsOrder": 5,
+        "rechargeIcon": "UT_Hero_Card2_128_01",
+        "ItemType": "角色立绘",
+        "itemID": 91124,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 666,
+        "numLimit": 1,
+        "goodsLabelType": {
+          "value": 1,
+          "name": "GoodsLabelType_New"
+        },
+        "param": 105
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 32,
+      "name": "ShopTabType_SkinSell"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 320000,
+        "goodsOrder": 100,
+        "ItemType": "皮肤组合包",
+        "itemID": 1001,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1998,
+        "discountPrice": 1496,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "param": 202507
+      },
+      {
+        "goodsID": 320001,
+        "goodsOrder": 99,
+        "ItemType": "皮肤组合包",
+        "itemID": 1002,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1332,
+        "discountPrice": 997,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1759042800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1761893999
+            ]
+          }
+        },
+        "param": 202509
+      },
+      {
+        "goodsID": 320002,
+        "goodsOrder": 98,
+        "ItemType": "皮肤组合包",
+        "itemID": 1003,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 2331,
+        "discountPrice": 1746,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1761894000
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1764345599
+            ]
+          }
+        },
+        "param": 202510
+      },
+      {
+        "goodsID": 320003,
+        "goodsOrder": 97,
+        "ItemType": "皮肤组合包",
+        "itemID": 1004,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 666,
+        "discountPrice": 498,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1766109600
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1768579199
+            ]
+          }
+        },
+        "param": 202512
+      },
+      {
+        "goodsID": 320004,
+        "goodsOrder": 94,
+        "ItemType": "皮肤组合包",
+        "itemID": 1005,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1680,
+        "discountPrice": 1680,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "param": 202602
+      },
+      {
+        "goodsID": 320005,
+        "goodsOrder": 95,
+        "ItemType": "皮肤组合包",
+        "itemID": 1006,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 888,
+        "discountPrice": 888,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "param": 202601
+      },
+      {
+        "goodsID": 320006,
+        "goodsOrder": 96,
+        "ItemType": "皮肤组合包",
+        "itemID": 1007,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 888,
+        "discountPrice": 888,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "param": 202600
+      },
+      {
+        "goodsID": 320007,
+        "goodsOrder": 93,
+        "ItemType": "皮肤组合包",
+        "itemID": 1008,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1998,
+        "discountPrice": 1496,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              915134400
+            ]
+          }
+        },
+        "param": 202604
+      },
+      {
+        "goodsID": 320008,
+        "goodsOrder": 92,
+        "ItemType": "皮肤组合包",
+        "itemID": 1009,
+        "itemNum": 1,
+        "currencyID": 8,
+        "originalPrice": 1665,
+        "discountPrice": 1247,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        },
+        "param": 202607
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 33,
+      "name": "ShopTabType_Activity3"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 928046,
+        "goodsOrder": 1,
+        "itemID": 70091,
+        "itemNum": 1,
+        "currencyID": 1000051,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 928047,
+        "goodsOrder": 2,
+        "itemID": 70894,
+        "itemNum": 1,
+        "currencyID": 1000051,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 928048,
+        "goodsOrder": 3,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 1000051,
+        "originalPrice": 30,
+        "discountPrice": 30,
+        "numLimit": 5,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 928049,
+        "goodsOrder": 4,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 1000051,
+        "originalPrice": 30,
+        "discountPrice": 30,
+        "numLimit": 5,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 928050,
+        "goodsOrder": 5,
+        "itemID": 6,
+        "itemNum": 100,
+        "currencyID": 1000051,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 5,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 928051,
+        "goodsOrder": 6,
+        "itemID": 78101,
+        "itemNum": 1,
+        "currencyID": 1000051,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 10,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 928052,
+        "goodsOrder": 7,
+        "itemID": 91017,
+        "itemNum": 1,
+        "currencyID": 1000051,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 5,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 928053,
+        "goodsOrder": 8,
+        "itemID": 1,
+        "itemNum": 1,
+        "currencyID": 1000051,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 36,
+      "name": "ShopTabType_Activity4"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 930009,
+        "goodsOrder": 1,
+        "itemID": 70092,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930010,
+        "goodsOrder": 2,
+        "itemID": 75065,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930011,
+        "goodsOrder": 3,
+        "itemID": 71989,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930012,
+        "goodsOrder": 4,
+        "itemID": 91017,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 15,
+        "discountPrice": 15,
+        "numLimit": 6,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930013,
+        "goodsOrder": 5,
+        "itemID": 77006,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 15,
+        "discountPrice": 15,
+        "numLimit": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930014,
+        "goodsOrder": 6,
+        "itemID": 77007,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 15,
+        "discountPrice": 15,
+        "numLimit": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930015,
+        "goodsOrder": 7,
+        "itemID": 77008,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 15,
+        "discountPrice": 15,
+        "numLimit": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930016,
+        "goodsOrder": 8,
+        "itemID": 77009,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 15,
+        "discountPrice": 15,
+        "numLimit": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930017,
+        "goodsOrder": 9,
+        "itemID": 77010,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 15,
+        "discountPrice": 15,
+        "numLimit": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 930018,
+        "goodsOrder": 10,
+        "itemID": 1,
+        "itemNum": 1,
+        "currencyID": 1000052,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1780516800
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1785340799
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 30,
+      "name": "ShopTabType_Activity2"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 931001,
+        "goodsOrder": 1,
+        "itemID": 100105003,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931002,
+        "goodsOrder": 2,
+        "itemID": 71405,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 30,
+        "discountPrice": 30,
+        "numLimit": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931003,
+        "goodsOrder": 3,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 10,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931004,
+        "goodsOrder": 4,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 10,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931005,
+        "goodsOrder": 5,
+        "itemID": 78101,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 6,
+        "discountPrice": 6,
+        "numLimit": 10,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931006,
+        "goodsOrder": 6,
+        "itemID": 6,
+        "itemNum": 50,
+        "currencyID": 1000053,
+        "originalPrice": 3,
+        "discountPrice": 3,
+        "numLimit": 10,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931007,
+        "goodsOrder": 7,
+        "itemID": 91017,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 2,
+        "discountPrice": 2,
+        "numLimit": 10,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931008,
+        "goodsOrder": 8,
+        "itemID": 77006,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "numLimit": 2,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931009,
+        "goodsOrder": 9,
+        "itemID": 77007,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "numLimit": 2,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931010,
+        "goodsOrder": 10,
+        "itemID": 77008,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "numLimit": 2,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931011,
+        "goodsOrder": 11,
+        "itemID": 77009,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "numLimit": 2,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931012,
+        "goodsOrder": 12,
+        "itemID": 77010,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "numLimit": 2,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 931013,
+        "goodsOrder": 13,
+        "itemID": 1,
+        "itemNum": 1,
+        "currencyID": 1000053,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 39,
+      "name": "ShopTabType_SeasonShop"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 941001,
+        "goodsOrder": 1,
+        "itemID": 100114003,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 1600,
+        "discountPrice": 1600,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941002,
+        "goodsOrder": 2,
+        "itemID": 100107004,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 1600,
+        "discountPrice": 1600,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941003,
+        "goodsOrder": 3,
+        "itemID": 100113004,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 1600,
+        "discountPrice": 1600,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941004,
+        "goodsOrder": 4,
+        "itemID": 13021002,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 1000,
+        "discountPrice": 1000,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941005,
+        "goodsOrder": 5,
+        "itemID": 71032,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 600,
+        "discountPrice": 600,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941006,
+        "goodsOrder": 6,
+        "itemID": 71027,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 600,
+        "discountPrice": 600,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941007,
+        "goodsOrder": 7,
+        "itemID": 71046,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 600,
+        "discountPrice": 600,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941008,
+        "goodsOrder": 8,
+        "itemID": 75022,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941009,
+        "goodsOrder": 9,
+        "itemID": 75018,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941010,
+        "goodsOrder": 10,
+        "itemID": 75026,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941011,
+        "goodsOrder": 14,
+        "itemID": 120114009,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941012,
+        "goodsOrder": 15,
+        "itemID": 120114010,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941013,
+        "goodsOrder": 16,
+        "itemID": 120107009,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941014,
+        "goodsOrder": 17,
+        "itemID": 120107010,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941015,
+        "goodsOrder": 18,
+        "itemID": 120113009,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941016,
+        "goodsOrder": 19,
+        "itemID": 120113010,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 400,
+        "discountPrice": 400,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941017,
+        "goodsOrder": 11,
+        "itemID": 70045,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941018,
+        "goodsOrder": 12,
+        "itemID": 70030,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941019,
+        "goodsOrder": 13,
+        "itemID": 70052,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941020,
+        "goodsOrder": 20,
+        "itemID": 71031,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941021,
+        "goodsOrder": 21,
+        "itemID": 71028,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941022,
+        "goodsOrder": 22,
+        "itemID": 71045,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941023,
+        "goodsOrder": 23,
+        "itemID": 71047,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941024,
+        "goodsOrder": 24,
+        "itemID": 71035,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941025,
+        "goodsOrder": 25,
+        "itemID": 71029,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941026,
+        "goodsOrder": 26,
+        "itemID": 71037,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941027,
+        "goodsOrder": 27,
+        "itemID": 75023,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 150,
+        "discountPrice": 150,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941028,
+        "goodsOrder": 28,
+        "itemID": 75019,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 150,
+        "discountPrice": 150,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941029,
+        "goodsOrder": 29,
+        "itemID": 75027,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 150,
+        "discountPrice": 150,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941030,
+        "goodsOrder": 36,
+        "itemID": 120113011,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 150,
+        "discountPrice": 150,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941031,
+        "goodsOrder": 37,
+        "itemID": 120113012,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 150,
+        "discountPrice": 150,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941032,
+        "goodsOrder": 30,
+        "itemID": 70044,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941033,
+        "goodsOrder": 31,
+        "itemID": 70029,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941034,
+        "goodsOrder": 32,
+        "itemID": 70051,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941035,
+        "goodsOrder": 33,
+        "itemID": 70997,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941036,
+        "goodsOrder": 34,
+        "itemID": 70994,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941037,
+        "goodsOrder": 35,
+        "itemID": 70995,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 100,
+        "discountPrice": 100,
+        "numLimit": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941038,
+        "goodsOrder": 38,
+        "itemID": 1000059,
+        "itemNum": 1,
+        "currencyID": 1000009,
+        "originalPrice": 1,
+        "discountPrice": 1,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      },
+      {
+        "goodsID": 941039,
+        "goodsOrder": 39,
+        "itemID": 1000059,
+        "itemNum": 10,
+        "currencyID": 1000009,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1785355200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1788364799
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 40,
+      "name": "ShopTabType_MemoryGlow"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 951001,
+        "goodsOrder": 1,
+        "itemID": 100114003,
+        "itemNum": 1,
+        "currencyID": 1000059,
+        "originalPrice": 2400,
+        "discountPrice": 2400,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 951002,
+        "goodsOrder": 2,
+        "itemID": 100107004,
+        "itemNum": 1,
+        "currencyID": 1000059,
+        "originalPrice": 2400,
+        "discountPrice": 2400,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 951003,
+        "goodsOrder": 3,
+        "itemID": 100113004,
+        "itemNum": 1,
+        "currencyID": 1000059,
+        "originalPrice": 2400,
+        "discountPrice": 2400,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 951004,
+        "goodsOrder": 4,
+        "itemID": 13021002,
+        "itemNum": 1,
+        "currencyID": 1000059,
+        "originalPrice": 1500,
+        "discountPrice": 1500,
+        "numLimit": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 41,
+      "name": "ShopTabType_ComebackShop"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 961001,
+        "goodsOrder": 1,
+        "itemID": 78200,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 961002,
+        "goodsOrder": 2,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 961003,
+        "goodsOrder": 3,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 50,
+        "discountPrice": 50,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 961004,
+        "goodsOrder": 4,
+        "itemID": 6,
+        "itemNum": 100,
+        "currencyID": 1000060,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 961005,
+        "goodsOrder": 5,
+        "itemID": 91011,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 20,
+        "discountPrice": 20,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 961006,
+        "goodsOrder": 6,
+        "itemID": 78101,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 15
+      },
+      {
+        "goodsID": 961007,
+        "goodsOrder": 7,
+        "itemID": 91017,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 15
+      },
+      {
+        "goodsID": 961008,
+        "goodsOrder": 8,
+        "itemID": 91037,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 15
+      },
+      {
+        "goodsID": 961009,
+        "goodsOrder": 9,
+        "itemID": 1,
+        "itemNum": 100,
+        "currencyID": 1000060,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 20
+      },
+      {
+        "goodsID": 961010,
+        "goodsOrder": 10,
+        "itemID": 1,
+        "itemNum": 1,
+        "currencyID": 1000060,
+        "originalPrice": 1,
+        "discountPrice": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 43,
+      "name": "ShopTabType_ActivityMGWT"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 971001,
+        "goodsOrder": 1,
+        "itemID": 70890,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 971002,
+        "goodsOrder": 2,
+        "itemID": 70891,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 300,
+        "discountPrice": 300,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 971003,
+        "goodsOrder": 3,
+        "itemID": 75076,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 200,
+        "discountPrice": 200,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 971004,
+        "goodsOrder": 4,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 971005,
+        "goodsOrder": 5,
+        "itemID": 90002,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 971006,
+        "goodsOrder": 7,
+        "itemID": 78101,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 971007,
+        "goodsOrder": 8,
+        "itemID": 91017,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 971008,
+        "goodsOrder": 6,
+        "itemID": 6,
+        "itemNum": 50,
+        "currencyID": 1000064,
+        "originalPrice": 10,
+        "discountPrice": 10,
+        "numLimit": 10
+      },
+      {
+        "goodsID": 971009,
+        "goodsOrder": 9,
+        "itemID": 1,
+        "itemNum": 1,
+        "currencyID": 1000064,
+        "originalPrice": 1,
+        "discountPrice": 1
+      }
+    ]
+  },
+  {
+    "shopTabType": {
+      "value": 44,
+      "name": "ShopTabType_GuildStore"
+    },
+    "exchangeStoreGoodsConfigureItems": [
+      {
+        "goodsID": 981001,
+        "goodsOrder": 1,
+        "itemID": 75077,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 10000,
+        "discountPrice": 10000,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 981002,
+        "goodsOrder": 2,
+        "itemID": 71987,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 4800,
+        "discountPrice": 4800,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 981003,
+        "goodsOrder": 3,
+        "itemID": 70203,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 1800,
+        "discountPrice": 1800,
+        "numLimit": 1
+      },
+      {
+        "goodsID": 981004,
+        "goodsOrder": 4,
+        "itemID": 78009,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 4000,
+        "discountPrice": 4000,
+        "goodsRefreshType": {
+          "value": 3,
+          "name": "GoodsRefreshType_Monthly"
+        },
+        "numLimit": 1
+      },
+      {
+        "goodsID": 981005,
+        "goodsOrder": 5,
+        "itemID": 90001,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 1
+      },
+      {
+        "goodsID": 981006,
+        "goodsOrder": 6,
+        "itemID": 78100,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 60,
+        "discountPrice": 60,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 981007,
+        "goodsOrder": 7,
+        "itemID": 78101,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 240,
+        "discountPrice": 240,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 981008,
+        "goodsOrder": 8,
+        "itemID": 91036,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 30,
+        "discountPrice": 30,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 981009,
+        "goodsOrder": 9,
+        "itemID": 91037,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 180,
+        "discountPrice": 180,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 3
+      },
+      {
+        "goodsID": 981010,
+        "goodsOrder": 10,
+        "itemID": 91003,
+        "itemNum": 1,
+        "currencyID": 1000065,
+        "originalPrice": 900,
+        "discountPrice": 900,
+        "goodsRefreshType": {
+          "value": 2,
+          "name": "GoodsRefreshType_Weekly"
+        },
+        "numLimit": 3
+      }
+    ]
+  }
+]

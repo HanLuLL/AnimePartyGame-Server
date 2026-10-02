@@ -1,0 +1,194 @@
+[
+  {
+    "id": 40001,
+    "simplified": "好运"
+  },
+  {
+    "id": 40002,
+    "simplified": "霉运"
+  },
+  {
+    "id": 40003,
+    "simplified": "好运"
+  },
+  {
+    "id": 40004,
+    "simplified": "霉运"
+  },
+  {
+    "id": 40005,
+    "simplified": "鸿运当头"
+  },
+  {
+    "id": 40006,
+    "simplified": "大难临头"
+  },
+  {
+    "id": 40007,
+    "simplified": "好运"
+  },
+  {
+    "id": 40008,
+    "simplified": "鸿运当头"
+  },
+  {
+    "id": 40009,
+    "simplified": "霉运"
+  },
+  {
+    "id": 40010,
+    "simplified": "大难临头"
+  },
+  {
+    "id": 40011,
+    "simplified": "好运"
+  },
+  {
+    "id": 40012,
+    "simplified": "霉运"
+  },
+  {
+    "id": 400010,
+    "simplified": "DESTINY-002"
+  },
+  {
+    "id": 400020,
+    "simplified": "DESTINY-007"
+  },
+  {
+    "id": 400030,
+    "simplified": "DESTINY-004"
+  },
+  {
+    "id": 400040,
+    "simplified": "DESTINY-010"
+  },
+  {
+    "id": 400050,
+    "simplified": "DESTINY-006"
+  },
+  {
+    "id": 400060,
+    "simplified": "DESTINY-012"
+  },
+  {
+    "id": 400070,
+    "simplified": "DESTINY-001"
+  },
+  {
+    "id": 400080,
+    "simplified": "DESTINY-005"
+  },
+  {
+    "id": 400090,
+    "simplified": "DESTINY-008"
+  },
+  {
+    "id": 400100,
+    "simplified": "DESTINY-011"
+  },
+  {
+    "id": 400110,
+    "simplified": "DESTINY-003"
+  },
+  {
+    "id": 400120,
+    "simplified": "DESTINY-009"
+  },
+  {
+    "id": 400011,
+    "simplified": "一觉睡到自然醒，回复2点生命"
+  },
+  {
+    "id": 400021,
+    "simplified": "脚踝磨伤，受到2点伤害。"
+  },
+  {
+    "id": 400031,
+    "simplified": "带着物品刚好防身，下次受到伤害-2。"
+  },
+  {
+    "id": 400041,
+    "simplified": "最近抵抗力很弱，下次受到伤害+2."
+  },
+  {
+    "id": 400051,
+    "simplified": "你的股票暴涨，星币翻倍！"
+  },
+  {
+    "id": 400061,
+    "simplified": "外星人袭击地球遇到你，损失一半星币"
+  },
+  {
+    "id": 400071,
+    "simplified": "成为商店幸运嘉宾，抽1张卡。"
+  },
+  {
+    "id": 400081,
+    "simplified": "你中了头奖，抽3张卡。"
+  },
+  {
+    "id": 400091,
+    "simplified": "接受游戏惩罚，丢掉1张牌。"
+  },
+  {
+    "id": 400101,
+    "simplified": "台风吹到你家里，丢掉3张牌。"
+  },
+  {
+    "id": 400111,
+    "simplified": "捡到钱包，获得5星币。"
+  },
+  {
+    "id": 400121,
+    "simplified": "钱包掉了，掉落5星币到地上。"
+  },
+  {
+    "id": 400012,
+    "simplified": "神清气爽！"
+  },
+  {
+    "id": 400022,
+    "simplified": "这破鞋！"
+  },
+  {
+    "id": 400032,
+    "simplified": "大难不死"
+  },
+  {
+    "id": 400042,
+    "simplified": "不是笨蛋不感冒么？"
+  },
+  {
+    "id": 400052,
+    "simplified": "牛儿街之王"
+  },
+  {
+    "id": 400062,
+    "simplified": "外星人为啥要我星币？"
+  },
+  {
+    "id": 400072,
+    "simplified": "运气不错"
+  },
+  {
+    "id": 400082,
+    "simplified": "今晚吃鸡！"
+  },
+  {
+    "id": 400092,
+    "simplified": "啊？"
+  },
+  {
+    "id": 400102,
+    "simplified": "大风吹兮牌飞扬！"
+  },
+  {
+    "id": 400112,
+    "simplified": "这谁的？"
+  },
+  {
+    "id": 400122,
+    "simplified": "啧..钱包呢.."
+  }
+]

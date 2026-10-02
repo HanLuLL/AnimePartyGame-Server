@@ -1,0 +1,3276 @@
+[
+  {
+    "id": 1001,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 6,
+        "pvePassiveSkills": [
+          100111,
+          100112
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 6,
+        "pvePassiveSkills": [
+          100111,
+          100112
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 6,
+        "pvePassiveSkills": [
+          100111,
+          100112
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 6,
+        "pvePassiveSkills": [
+          100111,
+          100112
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 6,
+        "pvePassiveSkills": [
+          100111,
+          100112
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 9,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 1,
+        "blood": 10,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 2,
+        "blood": 10,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 3,
+        "blood": 10,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 4,
+        "blood": 11,
+        "attack": 4,
+        "defense": 1
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 88,
+        "attack": 5,
+        "defense": 6,
+        "pveActiveSkill": 100401
+      },
+      {
+        "index": 1,
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pveActiveSkill": 100401
+      },
+      {
+        "index": 2,
+        "blood": 111,
+        "attack": 6,
+        "defense": 6,
+        "pveActiveSkill": 100401
+      },
+      {
+        "index": 3,
+        "blood": 122,
+        "attack": 7,
+        "defense": 6,
+        "pveActiveSkill": 100401
+      },
+      {
+        "index": 4,
+        "blood": 155,
+        "attack": 7,
+        "defense": 6,
+        "pveActiveSkill": 100401
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 25,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 100501
+      },
+      {
+        "index": 1,
+        "blood": 30,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 100501,
+        "pvePassiveSkills": [
+          100511
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 33,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 100501,
+        "pvePassiveSkills": [
+          100511
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 33,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 100501,
+        "pvePassiveSkills": [
+          100511
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 35,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 100501,
+        "pvePassiveSkills": [
+          100511
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 10,
+        "attack": 4
+      },
+      {
+        "index": 1,
+        "blood": 10,
+        "attack": 4
+      },
+      {
+        "index": 2,
+        "blood": 11,
+        "attack": 5
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "attack": 5
+      },
+      {
+        "index": 4,
+        "blood": 12,
+        "attack": 5
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 5,
+        "attack": 4,
+        "defense": 4,
+        "pvePassiveSkills": [
+          100811
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 6,
+        "attack": 5,
+        "defense": 5,
+        "pvePassiveSkills": [
+          100811
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 6,
+        "attack": 5,
+        "defense": 5,
+        "pvePassiveSkills": [
+          100811
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 6,
+        "attack": 6,
+        "defense": 6,
+        "pvePassiveSkills": [
+          100811
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 6,
+        "attack": 6,
+        "defense": 6,
+        "pvePassiveSkills": [
+          100811
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 22,
+        "attack": 4,
+        "pvePassiveSkills": [
+          100911
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 24,
+        "attack": 4,
+        "pvePassiveSkills": [
+          100911
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 25,
+        "attack": 5,
+        "defense": 1,
+        "pvePassiveSkills": [
+          100911,
+          100912
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 29,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          100911,
+          100912
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 33,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          100911,
+          100912,
+          100913
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 11,
+        "attack": 3,
+        "defense": 4,
+        "pveActiveSkill": 101001,
+        "pvePassiveSkills": [
+          101011
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 12,
+        "attack": 4,
+        "defense": 5,
+        "pveActiveSkill": 101001,
+        "pvePassiveSkills": [
+          101011
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 13,
+        "attack": 6,
+        "defense": 7,
+        "pveActiveSkill": 101001,
+        "pvePassiveSkills": [
+          101011
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 15,
+        "attack": 7,
+        "defense": 8,
+        "pveActiveSkill": 101001,
+        "pvePassiveSkills": [
+          101011
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 15,
+        "attack": 9,
+        "defense": 10,
+        "pveActiveSkill": 101001,
+        "pvePassiveSkills": [
+          101011,
+          100913
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 140,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 101101
+      },
+      {
+        "index": 1,
+        "blood": 160,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101101
+      },
+      {
+        "index": 2,
+        "blood": 180,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101102
+      },
+      {
+        "index": 3,
+        "blood": 240,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101102
+      },
+      {
+        "index": 4,
+        "blood": 444,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101102,
+        "pvePassiveSkills": [
+          101112
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 33,
+        "attack": 3
+      },
+      {
+        "index": 1,
+        "blood": 33,
+        "attack": 3
+      },
+      {
+        "index": 2,
+        "blood": 33,
+        "attack": 3
+      },
+      {
+        "index": 3,
+        "blood": 33,
+        "attack": 3
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 120,
+        "attack": 3,
+        "pvePassiveSkills": [
+          101312
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 145,
+        "attack": 3,
+        "pvePassiveSkills": [
+          101311,
+          101312
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 160,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          101311,
+          101312
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 188,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          101311,
+          101312
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 236,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101301,
+        "pvePassiveSkills": [
+          101311,
+          101312,
+          101313
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 120,
+        "pveActiveSkill": 101401,
+        "pvePassiveSkills": [
+          101411,
+          101412,
+          101413
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 145,
+        "pveActiveSkill": 101401,
+        "pvePassiveSkills": [
+          101411,
+          101412,
+          101413
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 160,
+        "pveActiveSkill": 101401,
+        "pvePassiveSkills": [
+          101411,
+          101412,
+          101413
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 188,
+        "pveActiveSkill": 101401,
+        "pvePassiveSkills": [
+          101411,
+          101412,
+          101413
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 236,
+        "pveActiveSkill": 101401,
+        "pvePassiveSkills": [
+          101411,
+          101412,
+          101413,
+          101414,
+          101415
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 21,
+        "attack": 3,
+        "pveActiveSkill": 101501
+      },
+      {
+        "index": 1,
+        "blood": 22,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 101501
+      },
+      {
+        "index": 2,
+        "blood": 23,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101501
+      },
+      {
+        "index": 3,
+        "blood": 25,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101501
+      },
+      {
+        "index": 4,
+        "blood": 28,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 101501
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 7,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 101601,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 8,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 101601,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 8,
+        "attack": 1,
+        "defense": 2,
+        "pveActiveSkill": 101601,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 8,
+        "attack": 1,
+        "defense": 2,
+        "pveActiveSkill": 101601,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 9,
+        "attack": 1,
+        "defense": 2,
+        "pveActiveSkill": 101601,
+        "pvePassiveSkills": [
+          101611
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 8,
+        "pveActiveSkill": 101701,
+        "pvePassiveSkills": [
+          101711,
+          101611
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 9,
+        "pveActiveSkill": 101701,
+        "pvePassiveSkills": [
+          101711,
+          101611
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 9,
+        "pveActiveSkill": 101701,
+        "pvePassiveSkills": [
+          101711,
+          101611
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "pveActiveSkill": 101701,
+        "pvePassiveSkills": [
+          101711,
+          101611
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 11,
+        "pveActiveSkill": 101701,
+        "pvePassiveSkills": [
+          101711,
+          101611
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 99,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 101801,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 110,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 101801,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 120,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 101801,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 140,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 101801,
+        "pvePassiveSkills": [
+          101811
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 111,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 130,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 160,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 200,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1020,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 35,
+        "attack": 2,
+        "defense": 6,
+        "pvePassiveSkills": [
+          102011
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 36,
+        "attack": 2,
+        "defense": 6,
+        "pvePassiveSkills": [
+          102011
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 38,
+        "attack": 3,
+        "defense": 8,
+        "pvePassiveSkills": [
+          102011
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 40,
+        "attack": 4,
+        "defense": 10,
+        "pvePassiveSkills": [
+          102011
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 15,
+        "attack": 3,
+        "defense": 4,
+        "pvePassiveSkills": [
+          102111
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 16,
+        "attack": 3,
+        "defense": 4,
+        "pvePassiveSkills": [
+          102111
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 18,
+        "attack": 4,
+        "defense": 4,
+        "pvePassiveSkills": [
+          102111
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 20,
+        "attack": 4,
+        "defense": 4,
+        "pvePassiveSkills": [
+          102111
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 15,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 102201
+      },
+      {
+        "index": 1,
+        "blood": 16,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 102201
+      },
+      {
+        "index": 2,
+        "blood": 17,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 102201
+      },
+      {
+        "index": 3,
+        "blood": 21,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 102201
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 10,
+        "attack": 3,
+        "defense": 1,
+        "pvePassiveSkills": [
+          102311
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 11,
+        "attack": 3,
+        "defense": 1,
+        "pvePassiveSkills": [
+          102311
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 11,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          102311
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 12,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          102311
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 7,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          102411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 7,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          102411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 7,
+        "attack": 6,
+        "defense": 3,
+        "pvePassiveSkills": [
+          102411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 8,
+        "attack": 6,
+        "defense": 3,
+        "pvePassiveSkills": [
+          102411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 18,
+        "attack": 3,
+        "pveActiveSkill": 102501
+      },
+      {
+        "index": 1,
+        "blood": 18,
+        "attack": 4,
+        "pveActiveSkill": 102501
+      },
+      {
+        "index": 2,
+        "blood": 20,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 102501
+      },
+      {
+        "index": 3,
+        "blood": 22,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 102501
+      },
+      {
+        "index": 4,
+        "blood": 24,
+        "attack": 6,
+        "defense": 2,
+        "pveActiveSkill": 102501
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 99,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 111,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 120,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 150,
+        "attack": 6,
+        "defense": 2,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 88,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 102701,
+        "pvePassiveSkills": [
+          102711
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 100,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 102701,
+        "pvePassiveSkills": [
+          102711
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 110,
+        "attack": 3,
+        "defense": 3,
+        "pveActiveSkill": 102701,
+        "pvePassiveSkills": [
+          102711
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 135,
+        "attack": 4,
+        "defense": 4,
+        "pveActiveSkill": 102701,
+        "pvePassiveSkills": [
+          102711
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 7,
+        "attack": 2,
+        "defense": 1,
+        "pvePassiveSkills": [
+          102811
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 8,
+        "attack": 3,
+        "defense": 1,
+        "pvePassiveSkills": [
+          102811
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 8,
+        "attack": 3,
+        "defense": 2,
+        "pvePassiveSkills": [
+          102811
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 9,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          102811
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 20,
+        "attack": 3,
+        "defense": 1
+      },
+      {
+        "index": 1,
+        "blood": 22,
+        "attack": 3,
+        "defense": 2
+      },
+      {
+        "index": 2,
+        "blood": 24,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          102911
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 26,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          102911
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1030,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 6,
+        "attack": 2,
+        "pvePassiveSkills": [
+          103011
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 7,
+        "attack": 3,
+        "pveActiveSkill": 103001,
+        "pvePassiveSkills": [
+          103011
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 8,
+        "attack": 5,
+        "pveActiveSkill": 103001,
+        "pvePassiveSkills": [
+          103011
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "attack": 6,
+        "pveActiveSkill": 103001,
+        "pvePassiveSkills": [
+          103011
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1031,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 18,
+        "attack": 3,
+        "pveActiveSkill": 103101,
+        "pvePassiveSkills": [
+          103111
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 20,
+        "attack": 3,
+        "pveActiveSkill": 103101,
+        "pvePassiveSkills": [
+          103111
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 20,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 103101,
+        "pvePassiveSkills": [
+          103111
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 24,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 103101,
+        "pvePassiveSkills": [
+          103111
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1032,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 13,
+        "attack": 3,
+        "defense": 3,
+        "pvePassiveSkills": [
+          103211
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 14,
+        "attack": 4,
+        "defense": 4,
+        "pvePassiveSkills": [
+          103211
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 15,
+        "attack": 5,
+        "defense": 4,
+        "pvePassiveSkills": [
+          103211
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 16,
+        "attack": 5,
+        "defense": 5,
+        "pvePassiveSkills": [
+          103211
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1033,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 9,
+        "pveActiveSkill": 103301,
+        "pvePassiveSkills": [
+          103311
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 9,
+        "pveActiveSkill": 103301,
+        "pvePassiveSkills": [
+          103311
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 9,
+        "pveActiveSkill": 103301,
+        "pvePassiveSkills": [
+          103311
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 9,
+        "pveActiveSkill": 103301,
+        "pvePassiveSkills": [
+          103311
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1034,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 8,
+        "attack": 4,
+        "pvePassiveSkills": [
+          103411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 9,
+        "attack": 4,
+        "pvePassiveSkills": [
+          103411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 10,
+        "attack": 5,
+        "pvePassiveSkills": [
+          103411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "attack": 5,
+        "pvePassiveSkills": [
+          103411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1035,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 16,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 103501,
+        "pvePassiveSkills": [
+          103511
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 18,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 103501,
+        "pvePassiveSkills": [
+          103511
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 20,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 103501,
+        "pvePassiveSkills": [
+          103511
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 22,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 103501,
+        "pvePassiveSkills": [
+          103511
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1036,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 22,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          103611
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 24,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          103611
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 26,
+        "attack": 5,
+        "defense": 3,
+        "pvePassiveSkills": [
+          103611
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 27,
+        "attack": 5,
+        "defense": 3,
+        "pvePassiveSkills": [
+          103611
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1037,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 26,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 28,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 30,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 33,
+        "attack": 6,
+        "defense": 2,
+        "pvePassiveSkills": [
+          103711
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1038,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 26,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 29,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 103701,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 30,
+        "attack": 5,
+        "defense": 3,
+        "pveActiveSkill": 103701,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 33,
+        "attack": 6,
+        "defense": 3,
+        "pveActiveSkill": 103701,
+        "pvePassiveSkills": [
+          103711
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1039,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 38,
+        "attack": 5,
+        "defense": 3,
+        "pveActiveSkill": 103701,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 42,
+        "attack": 6,
+        "defense": 3,
+        "pveActiveSkill": 103701,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 45,
+        "attack": 7,
+        "defense": 4,
+        "pveActiveSkill": 103701,
+        "pvePassiveSkills": [
+          103711
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 50,
+        "attack": 7,
+        "defense": 5,
+        "pveActiveSkill": 103701,
+        "pvePassiveSkills": [
+          103711
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1040,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 8,
+        "attack": 3,
+        "pveActiveSkill": 104001,
+        "pvePassiveSkills": [
+          104011
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 9,
+        "attack": 4,
+        "pveActiveSkill": 104001,
+        "pvePassiveSkills": [
+          104011
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 9,
+        "attack": 5,
+        "pveActiveSkill": 104001,
+        "pvePassiveSkills": [
+          104011
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 10,
+        "attack": 5,
+        "pveActiveSkill": 104001,
+        "pvePassiveSkills": [
+          104011
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1041,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 66,
+        "attack": 8,
+        "defense": 5,
+        "pveActiveSkill": 104101,
+        "pvePassiveSkills": [
+          104111
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 66,
+        "attack": 8,
+        "defense": 5,
+        "pveActiveSkill": 104101,
+        "pvePassiveSkills": [
+          104111
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 66,
+        "attack": 8,
+        "defense": 5,
+        "pveActiveSkill": 104101,
+        "pvePassiveSkills": [
+          104111
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 66,
+        "attack": 8,
+        "defense": 5,
+        "pveActiveSkill": 104101,
+        "pvePassiveSkills": [
+          104111
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 66,
+        "attack": 8,
+        "defense": 5,
+        "pveActiveSkill": 104101,
+        "pvePassiveSkills": [
+          104111
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1042,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 44,
+        "attack": 11,
+        "defense": 11,
+        "pveActiveSkill": 104201,
+        "pvePassiveSkills": [
+          104211
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 44,
+        "attack": 11,
+        "defense": 11,
+        "pveActiveSkill": 104201,
+        "pvePassiveSkills": [
+          104211
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 44,
+        "attack": 11,
+        "defense": 11,
+        "pveActiveSkill": 104201,
+        "pvePassiveSkills": [
+          104211
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 44,
+        "attack": 11,
+        "defense": 11,
+        "pveActiveSkill": 104201,
+        "pvePassiveSkills": [
+          104211
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 44,
+        "attack": 11,
+        "defense": 11,
+        "pveActiveSkill": 104201,
+        "pvePassiveSkills": [
+          104211
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1043,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 10,
+        "attack": 3,
+        "defense": 1
+      },
+      {
+        "index": 1,
+        "blood": 11,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 104301
+      },
+      {
+        "index": 2,
+        "blood": 12,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 104301
+      },
+      {
+        "index": 3,
+        "blood": 13,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 104301
+      }
+    ]
+  },
+  {
+    "id": 1044,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 18,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          104411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 20,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          104411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 20,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          104411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 23,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          104411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1045,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 20,
+        "attack": 4,
+        "defense": 2,
+        "pvePassiveSkills": [
+          104411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 22,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          104411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 24,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 104501,
+        "pvePassiveSkills": [
+          104411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 26,
+        "attack": 6,
+        "defense": 3,
+        "pveActiveSkill": 104501,
+        "pvePassiveSkills": [
+          104411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1046,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 40,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 104601,
+        "pvePassiveSkills": [
+          104611,
+          104411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 45,
+        "attack": 5,
+        "defense": 3,
+        "pveActiveSkill": 104601,
+        "pvePassiveSkills": [
+          104611,
+          104411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 50,
+        "attack": 6,
+        "defense": 4,
+        "pveActiveSkill": 104601,
+        "pvePassiveSkills": [
+          104611,
+          104411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 55,
+        "attack": 7,
+        "defense": 4,
+        "pveActiveSkill": 104601,
+        "pvePassiveSkills": [
+          104611,
+          104411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1047,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 20,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 104701,
+        "pvePassiveSkills": [
+          104711,
+          104411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 22,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 104701,
+        "pvePassiveSkills": [
+          104711,
+          104411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 26,
+        "attack": 4,
+        "defense": 3,
+        "pveActiveSkill": 104701,
+        "pvePassiveSkills": [
+          104711,
+          104411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 28,
+        "attack": 5,
+        "defense": 3,
+        "pveActiveSkill": 104701,
+        "pvePassiveSkills": [
+          104711,
+          104411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1048,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 50,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 104801,
+        "pvePassiveSkills": [
+          104811
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 65,
+        "attack": 3,
+        "defense": 3,
+        "pveActiveSkill": 104801,
+        "pvePassiveSkills": [
+          104811
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 80,
+        "attack": 4,
+        "defense": 4,
+        "pveActiveSkill": 104801,
+        "pvePassiveSkills": [
+          104811
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 90,
+        "attack": 5,
+        "defense": 5,
+        "pveActiveSkill": 104801,
+        "pvePassiveSkills": [
+          104811
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1049,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 55,
+        "attack": 4,
+        "defense": 3,
+        "pvePassiveSkills": [
+          104911
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 70,
+        "attack": 5,
+        "defense": 4,
+        "pveActiveSkill": 104901,
+        "pvePassiveSkills": [
+          104911
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 88,
+        "attack": 5,
+        "defense": 4,
+        "pveActiveSkill": 104901,
+        "pvePassiveSkills": [
+          104911
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 99,
+        "attack": 6,
+        "defense": 5,
+        "pveActiveSkill": 104901,
+        "pvePassiveSkills": [
+          104911
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1050,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pvePassiveSkills": [
+          105011
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pvePassiveSkills": [
+          105011
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pvePassiveSkills": [
+          105011
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pvePassiveSkills": [
+          105011
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1051,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 55,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 1,
+        "blood": 55,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 2,
+        "blood": 55,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 3,
+        "blood": 55,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 4,
+        "blood": 55,
+        "attack": 4,
+        "defense": 1
+      }
+    ]
+  },
+  {
+    "id": 1052,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 9,
+        "attack": 2,
+        "defense": 1
+      },
+      {
+        "index": 1,
+        "blood": 9,
+        "attack": 2,
+        "defense": 1
+      },
+      {
+        "index": 2,
+        "blood": 9,
+        "attack": 2,
+        "defense": 1
+      },
+      {
+        "index": 3,
+        "blood": 9,
+        "attack": 2,
+        "defense": 1
+      },
+      {
+        "index": 4,
+        "blood": 9,
+        "attack": 2,
+        "defense": 1
+      }
+    ]
+  },
+  {
+    "id": 1053,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 150,
+        "pveActiveSkill": 105301,
+        "pvePassiveSkills": [
+          105311
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 180,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 105301,
+        "pvePassiveSkills": [
+          105311
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 240,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 105301,
+        "pvePassiveSkills": [
+          105311,
+          105312
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 270,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 105301,
+        "pvePassiveSkills": [
+          105311,
+          105312
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1054,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 16,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 105401,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 16,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 105401,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 16,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 105401,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 16,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 105401,
+        "pvePassiveSkills": [
+          101611
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 16,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 105401,
+        "pvePassiveSkills": [
+          101611
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1055,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 236,
+        "attack": 5,
+        "defense": 1,
+        "pveActiveSkill": 105501,
+        "pvePassiveSkills": [
+          101311,
+          105511
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 236,
+        "attack": 5,
+        "defense": 1,
+        "pveActiveSkill": 105501,
+        "pvePassiveSkills": [
+          101311,
+          105511
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 236,
+        "attack": 5,
+        "defense": 1,
+        "pveActiveSkill": 105501,
+        "pvePassiveSkills": [
+          101311,
+          105511
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 236,
+        "attack": 5,
+        "defense": 1,
+        "pveActiveSkill": 105501,
+        "pvePassiveSkills": [
+          101311,
+          105511
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 236,
+        "attack": 5,
+        "defense": 1,
+        "pveActiveSkill": 105501,
+        "pvePassiveSkills": [
+          101311,
+          105511
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1056,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 10,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 1,
+        "blood": 11,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 2,
+        "blood": 11,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "attack": 4,
+        "defense": 1
+      },
+      {
+        "index": 4,
+        "blood": 12,
+        "attack": 4,
+        "defense": 1
+      }
+    ]
+  },
+  {
+    "id": 1057,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 18,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 105701
+      },
+      {
+        "index": 1,
+        "blood": 20,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 105701
+      },
+      {
+        "index": 2,
+        "blood": 20,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 105701
+      },
+      {
+        "index": 3,
+        "blood": 22,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 105701
+      },
+      {
+        "index": 4,
+        "blood": 26,
+        "attack": 5,
+        "defense": 3,
+        "pveActiveSkill": 105701
+      }
+    ]
+  },
+  {
+    "id": 1058,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 14,
+        "pveActiveSkill": 105801,
+        "pvePassiveSkills": [
+          105811
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 16,
+        "pveActiveSkill": 105801,
+        "pvePassiveSkills": [
+          105811
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 16,
+        "pveActiveSkill": 105801,
+        "pvePassiveSkills": [
+          105811
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 16,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 105801,
+        "pvePassiveSkills": [
+          105811
+        ]
+      },
+      {
+        "index": 4,
+        "blood": 18,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 105801,
+        "pvePassiveSkills": [
+          105811
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1059,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 4
+      },
+      {
+        "index": 1,
+        "blood": 4
+      },
+      {
+        "index": 2,
+        "blood": 4
+      },
+      {
+        "index": 3,
+        "blood": 4
+      },
+      {
+        "index": 4,
+        "blood": 4
+      }
+    ]
+  },
+  {
+    "id": 1060,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 25,
+        "attack": 2,
+        "defense": 4
+      },
+      {
+        "index": 1,
+        "blood": 25,
+        "attack": 2,
+        "defense": 4
+      },
+      {
+        "index": 2,
+        "blood": 25,
+        "attack": 2,
+        "defense": 4
+      },
+      {
+        "index": 3,
+        "blood": 25,
+        "attack": 2,
+        "defense": 4
+      },
+      {
+        "index": 4,
+        "blood": 25,
+        "attack": 2,
+        "defense": 4
+      }
+    ]
+  },
+  {
+    "id": 1061,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 24,
+        "attack": 5,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106111,
+          106112,
+          106113
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 27,
+        "attack": 5,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106111,
+          106112,
+          106113
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 30,
+        "attack": 6,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106111,
+          106112,
+          106113
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 33,
+        "attack": 6,
+        "defense": 2,
+        "pvePassiveSkills": [
+          106111,
+          106112,
+          106113
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1062,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 8,
+        "attack": 3,
+        "pveActiveSkill": 106201,
+        "pvePassiveSkills": [
+          106211
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 9,
+        "attack": 4,
+        "pveActiveSkill": 106201,
+        "pvePassiveSkills": [
+          106211
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 10,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 106201,
+        "pvePassiveSkills": [
+          106211
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 106201,
+        "pvePassiveSkills": [
+          106211
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1063,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 18,
+        "attack": 5,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106311
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 20,
+        "attack": 5,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106311
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 22,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          106311
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 24,
+        "attack": 6,
+        "defense": 2,
+        "pvePassiveSkills": [
+          106311
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1064,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 14,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 106401,
+        "pvePassiveSkills": [
+          106113
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 16,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 106401,
+        "pvePassiveSkills": [
+          106113
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 18,
+        "attack": 3,
+        "defense": 3,
+        "pveActiveSkill": 106401,
+        "pvePassiveSkills": [
+          106113
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 20,
+        "attack": 4,
+        "defense": 3,
+        "pveActiveSkill": 106401,
+        "pvePassiveSkills": [
+          106113
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1065,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 128,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 106501,
+        "pvePassiveSkills": [
+          106511,
+          106512
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 138,
+        "attack": 3,
+        "defense": 1,
+        "pveActiveSkill": 106501,
+        "pvePassiveSkills": [
+          106511,
+          106512
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 148,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 106501,
+        "pvePassiveSkills": [
+          106511,
+          106512
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 158,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 106501,
+        "pvePassiveSkills": [
+          106511,
+          106512
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 15,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 106601,
+        "pvePassiveSkills": [
+          106113,
+          106512
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 17,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 106601,
+        "pvePassiveSkills": [
+          106113,
+          106512
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 18,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 106601,
+        "pvePassiveSkills": [
+          106113,
+          106512
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 20,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 106601,
+        "pvePassiveSkills": [
+          106113,
+          106512
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1067,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 9,
+        "pveActiveSkill": 106701,
+        "pveActiveSkillExtra": [
+          106702
+        ],
+        "pvePassiveSkills": [
+          106711,
+          106712,
+          106713
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 10,
+        "pveActiveSkill": 106701,
+        "pveActiveSkillExtra": [
+          106702
+        ],
+        "pvePassiveSkills": [
+          106711,
+          106712,
+          106713
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 11,
+        "attack": 1,
+        "pveActiveSkill": 106701,
+        "pveActiveSkillExtra": [
+          106702
+        ],
+        "pvePassiveSkills": [
+          106711,
+          106712,
+          106713
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 106701,
+        "pveActiveSkillExtra": [
+          106702
+        ],
+        "pvePassiveSkills": [
+          106711,
+          106712,
+          106713
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1068,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 17,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106811,
+          106812
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 20,
+        "attack": 4,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106811,
+          106812
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 20,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          106811,
+          106812
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 23,
+        "attack": 5,
+        "defense": 2,
+        "pvePassiveSkills": [
+          106811,
+          106812
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 14,
+        "attack": 2,
+        "pvePassiveSkills": [
+          106911,
+          106912
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 14,
+        "attack": 3,
+        "pvePassiveSkills": [
+          106911,
+          106912
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 16,
+        "attack": 3,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106911,
+          106912
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 18,
+        "attack": 3,
+        "defense": 1,
+        "pvePassiveSkills": [
+          106911,
+          106912
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 13,
+        "attack": 4,
+        "pveActiveSkill": 107001,
+        "pvePassiveSkills": [
+          107011
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 14,
+        "attack": 5,
+        "pveActiveSkill": 107001,
+        "pvePassiveSkills": [
+          107011
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 16,
+        "attack": 5,
+        "pveActiveSkill": 107001,
+        "pvePassiveSkills": [
+          107011
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 16,
+        "attack": 5,
+        "defense": 1,
+        "pveActiveSkill": 107001,
+        "pvePassiveSkills": [
+          107011
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2026,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pveActiveSkill": 202601
+      },
+      {
+        "index": 1,
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pveActiveSkill": 202601
+      },
+      {
+        "index": 2,
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pveActiveSkill": 202601
+      },
+      {
+        "index": 3,
+        "blood": 99,
+        "attack": 6,
+        "defense": 6,
+        "pveActiveSkill": 202601
+      }
+    ]
+  },
+  {
+    "id": 2027,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 99,
+        "attack": 4,
+        "defense": 4,
+        "pveActiveSkill": 202701,
+        "pvePassiveSkills": [
+          202711
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 99,
+        "attack": 4,
+        "defense": 4,
+        "pveActiveSkill": 202701,
+        "pvePassiveSkills": [
+          202711
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 99,
+        "attack": 4,
+        "defense": 4,
+        "pveActiveSkill": 202701,
+        "pvePassiveSkills": [
+          202711
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 99,
+        "attack": 4,
+        "defense": 4,
+        "pveActiveSkill": 202701,
+        "pvePassiveSkills": [
+          202711
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3001,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 88,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 99,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 110,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 120,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 99,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 111,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 130,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 130,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 101901,
+        "pvePassiveSkills": [
+          101911
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3003,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 88,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 99,
+        "attack": 4,
+        "defense": 1,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 111,
+        "attack": 5,
+        "defense": 2,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 126,
+        "attack": 6,
+        "defense": 2,
+        "pveActiveSkill": 102601,
+        "pvePassiveSkills": [
+          102611
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3004,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 80,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 90,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 100,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 111,
+        "attack": 3,
+        "defense": 3,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3005,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 30,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 35,
+        "attack": 2,
+        "defense": 1,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 40,
+        "attack": 3,
+        "defense": 2,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 45,
+        "attack": 4,
+        "defense": 2,
+        "pveActiveSkill": 300101,
+        "pvePassiveSkills": [
+          101811
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3006,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 30,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 35,
+        "attack": 1,
+        "defense": 1,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 40,
+        "attack": 2,
+        "defense": 2,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 45,
+        "attack": 3,
+        "defense": 3,
+        "pveActiveSkill": 300401,
+        "pvePassiveSkills": [
+          300411
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3051,
+    "monsterAttributeConfigureItems": [
+      {
+        "blood": 6,
+        "attack": 2,
+        "pvePassiveSkills": [
+          103011
+        ]
+      },
+      {
+        "index": 1,
+        "blood": 7,
+        "attack": 3,
+        "pveActiveSkill": 305101,
+        "pvePassiveSkills": [
+          103011
+        ]
+      },
+      {
+        "index": 2,
+        "blood": 8,
+        "attack": 5,
+        "pveActiveSkill": 305101,
+        "pvePassiveSkills": [
+          103011
+        ]
+      },
+      {
+        "index": 3,
+        "blood": 11,
+        "attack": 6,
+        "pveActiveSkill": 305101,
+        "pvePassiveSkills": [
+          103011
+        ]
+      }
+    ]
+  }
+]

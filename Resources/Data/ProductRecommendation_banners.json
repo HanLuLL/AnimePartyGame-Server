@@ -1,0 +1,164 @@
+[
+  {
+    "bannerID": 502219,
+    "orderWeight": 98,
+    "descId1": 4043010,
+    "descId2": 4043011,
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_ProductRecommendation_404301",
+      "UT_ProductRecommendation_404301_EN",
+      "UT_ProductRecommendation_404301_JP",
+      "UT_ProductRecommendation_404301"
+    ],
+    "way": 950150
+  },
+  {
+    "bannerID": 405231,
+    "orderWeight": 7,
+    "descId1": 4052310,
+    "descId2": 4052311,
+    "style": 1,
+    "bannerImages": [
+      "UT_ProductRecommendation_405231_CN",
+      "UT_ProductRecommendation_405231_EN",
+      "UT_ProductRecommendation_405231_JP",
+      "UT_ProductRecommendation_405231_TC"
+    ],
+    "way": 23230000
+  },
+  {
+    "bannerID": 405233,
+    "orderWeight": 8,
+    "descId1": 4052310,
+    "descId2": 4052311,
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134399
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_ProductRecommendation_405231_CN",
+      "UT_ProductRecommendation_405231_EN",
+      "UT_ProductRecommendation_405231_JP",
+      "UT_ProductRecommendation_405231_TC"
+    ],
+    "way": 23230000
+  },
+  {
+    "bannerID": 607300,
+    "orderWeight": 1,
+    "descId1": 6073000,
+    "descId2": 4071231,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_ProductRecommendation_607300"
+    ],
+    "bannerImagesSfw": [
+      "UT_ProductRecommendation_607300_sfw"
+    ],
+    "way": 202607
+  },
+  {
+    "bannerID": 607301,
+    "orderWeight": 2,
+    "descId1": 6073010,
+    "descId2": 4052321,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_ProductRecommendation_607301"
+    ],
+    "bannerImagesSfw": [
+      "UT_ProductRecommendation_607301_sfw"
+    ],
+    "way": 1480022
+  },
+  {
+    "bannerID": 607302,
+    "orderWeight": 3,
+    "descId1": 6073020,
+    "descId2": 4052321,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_ProductRecommendation_607302"
+    ],
+    "way": 1480023
+  },
+  {
+    "bannerID": 609030,
+    "orderWeight": 1,
+    "descId1": 6090300,
+    "descId2": 4071231,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          915134400
+        ]
+      }
+    },
+    "style": 1,
+    "bannerImages": [
+      "UT_ProductRecommendation_609030"
+    ],
+    "way": 202609
+  }
+]

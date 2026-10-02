@@ -1,0 +1,497 @@
+[
+  {
+    "wayID": 1
+  },
+  {
+    "wayType": {
+      "value": 10,
+      "name": "WayType_Default"
+    },
+    "wayID": 10
+  },
+  {
+    "wayType": {
+      "value": 20,
+      "name": "WayType_Crowdfunding"
+    },
+    "wayID": 20
+  },
+  {
+    "wayType": {
+      "value": 30,
+      "name": "WayType_BattleResult"
+    },
+    "wayID": 30
+  },
+  {
+    "wayType": {
+      "value": 40,
+      "name": "WayType_Task"
+    },
+    "wayID": 40,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 22,
+      "name": "UIPanelType_Task"
+    }
+  },
+  {
+    "wayType": {
+      "value": 50,
+      "name": "WayType_Achieve"
+    },
+    "wayID": 50,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 22,
+      "name": "UIPanelType_Task"
+    }
+  },
+  {
+    "wayType": {
+      "value": 60,
+      "name": "WayType_Gacha"
+    },
+    "wayID": 60,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 20,
+      "name": "UIPanelType_Gacha"
+    }
+  },
+  {
+    "wayType": {
+      "value": 70,
+      "name": "WayType_DecomposeRole"
+    },
+    "wayID": 70
+  },
+  {
+    "wayType": {
+      "value": 80,
+      "name": "WayType_DecomposeFashion"
+    },
+    "wayID": 80
+  },
+  {
+    "wayType": {
+      "value": 90,
+      "name": "WayType_FriendshipLevel"
+    },
+    "wayID": 90,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 23,
+      "name": "UIPanelType_Hero"
+    }
+  },
+  {
+    "wayType": {
+      "value": 100,
+      "name": "WayType_BondForged"
+    },
+    "wayID": 100,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 23,
+      "name": "UIPanelType_Hero"
+    }
+  },
+  {
+    "wayType": {
+      "value": 110,
+      "name": "WayType_Mall"
+    },
+    "wayID": 110,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 26,
+      "name": "UIPanelType_Store"
+    }
+  },
+  {
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayID": 111,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 26,
+      "name": "UIPanelType_Store"
+    }
+  },
+  {
+    "wayType": {
+      "value": 112,
+      "name": "WayType_StarDiscStore"
+    },
+    "wayID": 112,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 26,
+      "name": "UIPanelType_Store"
+    }
+  },
+  {
+    "wayType": {
+      "value": 120,
+      "name": "WayType_Activity"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 24,
+      "name": "UIPanelType_Activity"
+    }
+  },
+  {
+    "wayType": {
+      "value": 121,
+      "name": "WayType_ActivityPopup"
+    },
+    "wayID": 121,
+    "uiType": {
+      "value": 2,
+      "name": "UIType_Window"
+    },
+    "windowType": {
+      "value": 316,
+      "name": "UIWindowType_ActivityPopup"
+    }
+  },
+  {
+    "wayType": {
+      "value": 122,
+      "name": "WayType_Collaboration"
+    },
+    "wayID": 122,
+    "uiType": {
+      "value": 2,
+      "name": "UIType_Window"
+    },
+    "windowType": {
+      "value": 354,
+      "name": "UIWindowType_MGWTStore"
+    }
+  },
+  {
+    "wayType": {
+      "value": 123,
+      "name": "WayType_SignIn"
+    },
+    "wayID": 123
+  },
+  {
+    "wayType": {
+      "value": 130,
+      "name": "WayType_PlayParty"
+    },
+    "wayID": 130,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 15,
+      "name": "UIPanelType_RoomList"
+    }
+  },
+  {
+    "wayType": {
+      "value": 131,
+      "name": "WayType_PlayPartyWetherMatch"
+    },
+    "wayID": 131,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 30,
+      "name": "UIPanelType_MatchEntrance"
+    }
+  },
+  {
+    "wayType": {
+      "value": 132,
+      "name": "WayType_Campaign"
+    },
+    "wayID": 132,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 32,
+      "name": "UIPanelType_Campaign"
+    }
+  },
+  {
+    "wayType": {
+      "value": 140,
+      "name": "WayType_BattlePass"
+    },
+    "wayID": 140,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 29,
+      "name": "UIPanelType_BattlePass"
+    }
+  },
+  {
+    "wayType": {
+      "value": 150,
+      "name": "WayType_SkinBundlingSales"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 2,
+      "name": "UIType_Window"
+    },
+    "windowType": {
+      "value": 334,
+      "name": "UIWindowType_SkinSell"
+    }
+  },
+  {
+    "wayType": {
+      "value": 160,
+      "name": "WayType_ActivityVA11HallA"
+    },
+    "wayID": 160,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 36,
+      "name": "UIPanelType_ActivityVA11HallA"
+    }
+  },
+  {
+    "wayType": {
+      "value": 170,
+      "name": "WayType_ActivityRhythm"
+    },
+    "wayID": 170,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 205,
+      "name": "UIPanelType_ActivityRhythm"
+    }
+  },
+  {
+    "wayType": {
+      "value": 180,
+      "name": "WayType_ActivitySinglePLayer"
+    },
+    "wayID": 180,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 207,
+      "name": "UIPanelType_SinglePlayer"
+    }
+  },
+  {
+    "wayType": {
+      "value": 190,
+      "name": "WayType_ActivityStore"
+    },
+    "wayID": 190,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 43,
+      "name": "UIPanelType_ActivityStore"
+    }
+  },
+  {
+    "wayType": {
+      "value": 200,
+      "name": "WayType_ActivityRookieTask"
+    },
+    "wayID": 200,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 42,
+      "name": "UIPanelType_ActivityRookieTask"
+    }
+  },
+  {
+    "wayType": {
+      "value": 210,
+      "name": "WayType_CharacterProfile"
+    },
+    "wayID": 210,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 23,
+      "name": "UIPanelType_Hero"
+    }
+  },
+  {
+    "wayType": {
+      "value": 220,
+      "name": "WayType_ActivityLevelPass"
+    },
+    "wayID": 220,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 41,
+      "name": "UIPanelType_ActivityLevelPass"
+    }
+  },
+  {
+    "wayType": {
+      "value": 230,
+      "name": "WayType_Anniversary_2Nd"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "windowType": {
+      "value": 347,
+      "name": "UIWindowType_Anniversary_2Nd"
+    }
+  },
+  {
+    "wayType": {
+      "value": 240,
+      "name": "WayType_ActivityStore2"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 48,
+      "name": "UIPanelType_ActivityStoreTwo"
+    }
+  },
+  {
+    "wayType": {
+      "value": 250,
+      "name": "WayType_ActivityDice"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 209,
+      "name": "UIPanelType_ActivityDice"
+    }
+  },
+  {
+    "wayType": {
+      "value": 260,
+      "name": "WayType_ActivityNGO"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 35,
+      "name": "UIPanelType_ActivityNGO"
+    }
+  },
+  {
+    "wayType": {
+      "value": 270,
+      "name": "WayType_ActivityStoreSeason"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 49,
+      "name": "UIPanelType_ActivityStoreSeason"
+    }
+  },
+  {
+    "wayType": {
+      "value": 290,
+      "name": "WayType_ActivityMGWT"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 53,
+      "name": "UIPanelType_ActivityMGWT"
+    }
+  },
+  {
+    "wayType": {
+      "value": 280,
+      "name": "WayType_ActivityBingo"
+    },
+    "wayID": 120,
+    "uiType": {
+      "value": 1,
+      "name": "UIType_Panel"
+    },
+    "panelType": {
+      "value": 52,
+      "name": "UIPanelType_ActivityBingo"
+    }
+  }
+]

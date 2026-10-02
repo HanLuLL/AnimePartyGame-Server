@@ -1,0 +1,50 @@
+[
+  {
+    "shopTabType": {
+      "value": 9,
+      "name": "ShopTabType_GiftPackage"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 15,
+      "name": "ShopTabType_Avatar"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 16,
+      "name": "ShopTabType_ProfileCard"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 17,
+      "name": "ShopTabType_Finisher"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 18,
+      "name": "ShopTabType_Dice"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 19,
+      "name": "ShopTabType_Card"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 14,
+      "name": "ShopTabType_Skin"
+    }
+  },
+  {
+    "shopTabType": {
+      "value": 38,
+      "name": "ShopTabType_Expression"
+    }
+  }
+]

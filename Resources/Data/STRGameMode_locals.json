@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "simplified": "标准模式"
+  },
+  {
+    "id": 2,
+    "simplified": "新手"
+  },
+  {
+    "id": 3,
+    "simplified": "激战模式"
+  },
+  {
+    "id": 4,
+    "simplified": "合作挑战"
+  },
+  {
+    "id": 5,
+    "simplified": "单人模式"
+  },
+  {
+    "id": 6,
+    "simplified": "单人模式"
+  },
+  {
+    "id": 7,
+    "simplified": "礼物大作战"
+  },
+  {
+    "id": 8,
+    "simplified": "玩家对战练习"
+  },
+  {
+    "id": 9,
+    "simplified": "合作挑战练习"
+  },
+  {
+    "id": 10,
+    "simplified": "限时玩法"
+  },
+  {
+    "id": 11,
+    "simplified": "幸运星争夺战"
+  },
+  {
+    "id": 12,
+    "simplified": "畸变组件"
+  },
+  {
+    "id": 103,
+    "simplified": "激动人心超酣畅【激战模式】登场！所有角色更短技能冷却！更多的手牌上限！回合内更多的卡牌使用上限！战斗中更多的cost点数！真正意义上的“战斗！爽！”。\n更多有意思的机能请加入【激战模式】体验吧！"
+  },
+  {
+    "id": 10101,
+    "simplified": "·持有 <img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>15/30/50 可回到起始点/保障点获得<img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>\n·以获得三颗 <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>为目的而努力吧！"
+  },
+  {
+    "id": 10301,
+    "simplified": "·持有 <img src='ui://xuaw6o8jmmmw3x' width='50' height='50'/>15/30/50 可回到起始点/保障点获得<img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>\n·以获得三颗 <img src='ui://xuaw6o8jgfn1ao' width='50' height='50'/>为目的而努力吧！"
+  },
+  {
+    "id": 10701,
+    "simplified": "·捣蛋鬼：收集礼物并在起始点交付足够数量的礼物来获得胜利！\n·礼物守卫：击倒全部的捣蛋鬼，或在一定回合内阻止捣蛋鬼们取得礼物！"
+  },
+  {
+    "id": 11101,
+    "simplified": "让己方角色获得星星，或击倒敌方角色，为队伍积攒幸运星吧！最先集满所需幸运星的队伍将赢得胜利。"
+  },
+  {
+    "id": 10102,
+    "simplified": "玩家对抗，争夺胜利"
+  },
+  {
+    "id": 10302,
+    "simplified": "节奏超快的娱乐对战"
+  },
+  {
+    "id": 10402,
+    "simplified": "玩家合作，共克难关"
+  },
+  {
+    "id": 10702,
+    "simplified": "争夺礼物吧！"
+  },
+  {
+    "id": 11002,
+    "simplified": "特殊玩法，限时开启"
+  },
+  {
+    "id": 11102,
+    "simplified": "双人合作，争夺胜利"
+  },
+  {
+    "id": 11202,
+    "simplified": "随机战斗，未知结果"
+  },
+  {
+    "id": 20001,
+    "simplified": "适合新手的入门难度<img src='ui://m6sn3r22gyhsq3m' width='50' height='50'/>\n轻松友好的游戏体验\n敌人为标准强度"
+  },
+  {
+    "id": 20002,
+    "simplified": "适合有经验的玩家<img src='ui://m6sn3r22gyhsq3h' width='50' height='50'/>\n需要熟悉基础玩法\n敌人小幅加强"
+  },
+  {
+    "id": 20003,
+    "simplified": "进阶者推荐挑战<img src='ui://m6sn3r22gyhsq3i' width='50' height='50'/>\n获取的星币和卡牌减少↓\n敌人中幅加强"
+  },
+  {
+    "id": 20004,
+    "simplified": "仅推荐高手尝试<img src='ui://m6sn3r22gyhsq3j' width='50' height='50'/>\n获取的星币和卡牌减少↓\n敌人大幅加强"
+  },
+  {
+    "id": 20005,
+    "simplified": "为极限玩家量身定制<img src='ui://m6sn3r22gyhsq3k' width='50' height='50'/>\n获取的星币和卡牌减少↓\n敌人的强度达到顶峰\n难度专属挑战内容"
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1001,
+    "pveMissionTriggerType": {
+      "value": 1,
+      "name": "PVEMissionTriggerType_GameProgress"
+    },
+    "triggerparams": [
+      1
+    ],
+    "missionDescID": 320210,
+    "missionTargetConfigs": {
+      "1": {
+        "values": [
+          3,
+          1067
+        ]
+      }
+    },
+    "rewardConfigs": 1
+  },
+  {
+    "id": 1002,
+    "pveMissionTriggerType": {
+      "value": 1,
+      "name": "PVEMissionTriggerType_GameProgress"
+    },
+    "triggerparams": [
+      1
+    ],
+    "missionDescID": 320210,
+    "missionTargetConfigs": {
+      "1": {
+        "values": [
+          1,
+          1068
+        ]
+      }
+    },
+    "rewardConfigs": 1
+  },
+  {
+    "id": 1003,
+    "pveMissionTriggerType": {
+      "value": 1,
+      "name": "PVEMissionTriggerType_GameProgress"
+    },
+    "triggerparams": [
+      1
+    ],
+    "missionDescID": 10030,
+    "missionTargetConfigs": {
+      "5": {
+        "values": [
+          3
+        ]
+      }
+    },
+    "rewardConfigs": 1
+  },
+  {
+    "id": 1004,
+    "pveMissionTriggerType": {
+      "value": 1,
+      "name": "PVEMissionTriggerType_GameProgress"
+    },
+    "triggerparams": [
+      1
+    ],
+    "missionDescID": 10040,
+    "missionTargetConfigs": {
+      "6": {
+        "values": [
+          7
+        ]
+      }
+    },
+    "rewardConfigs": 1
+  },
+  {
+    "id": 1005,
+    "pveMissionTriggerType": {
+      "value": 1,
+      "name": "PVEMissionTriggerType_GameProgress"
+    },
+    "triggerparams": [
+      1
+    ],
+    "missionDescID": 10050,
+    "missionTargetConfigs": {
+      "7": {
+        "values": [
+          4
+        ]
+      }
+    },
+    "rewardConfigs": 1
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "initGold": 16,
+    "initCard": [
+      10001,
+      10002,
+      10003
+    ],
+    "cardPrice": [
+      8,
+      16,
+      30,
+      50
+    ],
+    "sameCardExp": 5,
+    "refreshPrice": [
+      5,
+      5,
+      50
+    ],
+    "shopSellCount": 5,
+    "bagSlotCount": 5,
+    "developLand": [
+      10,
+      15,
+      100
+    ],
+    "relicMax": 2
+  }
+]

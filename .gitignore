@@ -1,0 +1,39 @@
+# Local runtime data and credentials
+Config/server.env
+Server/data/
+/data/captures/
+Resources/bootstrap/*.json
+!Resources/bootstrap/*.example.json
+Resources/HotUpdate/
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Build outputs
+Server/bin/
+Server/build/
+LSP/.gradle/
+LSP/.cxx/
+LSP/local.properties
+LSP/app/build/
+LSP/keys/
+*.jks
+*.keystore
+*.p12
+
+# Reverse-engineering inputs and packaged game files
+*.apk
+*.aab
+*.obb
+*.assetbundle
+*.bundle
+*.db0
+*.zip
+*.7z
+*.rar
+global-metadata.dat
+
+# Reverse-engineering dump is tracked on purpose
+!dump/
+!dump/**

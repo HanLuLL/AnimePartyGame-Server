@@ -1,0 +1,21 @@
+using System;
+using Google.Protobuf.Reflection;
+
+public static class ChoosingTimeLimitReflection
+{
+	private static FileDescriptor descriptor;
+
+	public static FileDescriptor Descriptor => descriptor;
+
+	static ChoosingTimeLimitReflection()
+	{
+		descriptor = FileDescriptor.FromGeneratedCode(Convert.FromBase64String("ChdDaG9vc2luZ1RpbWVMaW1pdC5wcm90bxoKRW51bS5wcm90byLeAQoeQ2hv" + "b3NpbmdUaW1lTGltaXRJbmZvQ29uZmlndXJlEisKEGNob29zaW5nVGltZVR5" + "cGUYASABKA4yES5DaG9vc2luZ1RpbWVUeXBlEhEKCWlzRGVmYXVsdBgCIAEo" + "CBIVCg1kZXNjcmlwdGlvbklEGAMgASgPEh0KFWNob29zaW5nQ2FyZFRpbWVM" + "aW1pdBgEIAEoDxIWCg5vdGhlclRpbWVMaW1pdBgFIAEoDxIRCglleHRyYVRp" + "bWUYBiABKA8SGwoTcHVuaXNobWVudFRpbWVMaW1pdBgHIAMoDyLEAQojQ2hv" + "b3NpbmdUaW1lTGltaXRnYW1lc3BlZWRDb25maWd1cmUSJQoNZ2FtZVNwZWVk" + "VHlwZRgBIAEoDjIOLkdhbWVTcGVlZFR5cGUSEQoJaXNEZWZhdWx0GAIgASgI" + "EhUKDWRlc2NyaXB0aW9uSUQYAyABKA8SEQoJYW5pbVNwZWVkGAQgASgCEhEK" + "CWRpY2VTcGVlZBgFIAEoAhIUCgxwZXJmb3JtU3BlZWQYBiABKAISEAoIdmZ4" + "U3BlZWQYByABKAIisQEKJENob29zaW5nVGltZUxpbWl0ZGlmZmljdWx0eUNv" + "bmZpZ3VyZRIvChJnYW1lRGlmZmljdWx0eVR5cGUYASABKA4yEy5HYW1lRGlm" + "ZmljdWx0eVR5cGUSEQoJaXNEZWZhdWx0GAIgASgIEhUKDWRlc2NyaXB0aW9u" + "SUQYAyABKA8SDgoGdGlwc0lEGAQgASgPEhEKCXdhcm5pbmdJRBgFIAEoDxIL" + "CgNwaWMYBiABKAkixgEKJUNob29zaW5nVGltZUxpbWl0cm9vbXNldHRpbmdD" + "b25maWd1cmUSIQoLbWFwTW9kZVR5cGUYASABKA4yDC5NYXBNb2RlVHlwZRIO" + "CgZoYXNNYXAYAiABKAgSFwoPaGFzQ2hvb3NpbmdUaW1lGAMgASgIEhQKDGhh" + "c0dhbWVTcGVlZBgEIAEoCBIVCg1oYXNEaWZmaWN1bHR5GAUgASgIEhIKCmhh" + "c1VwZ3JhZGUYBiABKAgSEAoIaGFzTGFiZWwYByADKA8ihAcKGkNob29zaW5n" + "VGltZUxpbWl0Q29uZmlndXJlEi4KBUluZm9zGAEgAygLMh8uQ2hvb3NpbmdU" + "aW1lTGltaXRJbmZvQ29uZmlndXJlEjsKCEluZm9EaWN0GAIgAygLMikuQ2hv" + "b3NpbmdUaW1lTGltaXRDb25maWd1cmUuSW5mb0RpY3RFbnRyeRI4CgpnYW1l" + "c3BlZWRzGAMgAygLMiQuQ2hvb3NpbmdUaW1lTGltaXRnYW1lc3BlZWRDb25m" + "aWd1cmUSRQoNZ2FtZXNwZWVkRGljdBgEIAMoCzIuLkNob29zaW5nVGltZUxp" + "bWl0Q29uZmlndXJlLkdhbWVzcGVlZERpY3RFbnRyeRI6CgtkaWZmaWN1bHR5" + "cxgFIAMoCzIlLkNob29zaW5nVGltZUxpbWl0ZGlmZmljdWx0eUNvbmZpZ3Vy" + "ZRJHCg5kaWZmaWN1bHR5RGljdBgGIAMoCzIvLkNob29zaW5nVGltZUxpbWl0" + "Q29uZmlndXJlLkRpZmZpY3VsdHlEaWN0RW50cnkSPAoMcm9vbXNldHRpbmdz" + "GAcgAygLMiYuQ2hvb3NpbmdUaW1lTGltaXRyb29tc2V0dGluZ0NvbmZpZ3Vy" + "ZRJJCg9yb29tc2V0dGluZ0RpY3QYCCADKAsyMC5DaG9vc2luZ1RpbWVMaW1p" + "dENvbmZpZ3VyZS5Sb29tc2V0dGluZ0RpY3RFbnRyeRpQCg1JbmZvRGljdEVu" + "dHJ5EgsKA2tleRgBIAEoDxIuCgV2YWx1ZRgCIAEoCzIfLkNob29zaW5nVGlt" + "ZUxpbWl0SW5mb0NvbmZpZ3VyZToCOAEaWgoSR2FtZXNwZWVkRGljdEVudHJ5" + "EgsKA2tleRgBIAEoDxIzCgV2YWx1ZRgCIAEoCzIkLkNob29zaW5nVGltZUxp" + "bWl0Z2FtZXNwZWVkQ29uZmlndXJlOgI4ARpcChNEaWZmaWN1bHR5RGljdEVu" + "dHJ5EgsKA2tleRgBIAEoDxI0CgV2YWx1ZRgCIAEoCzIlLkNob29zaW5nVGlt" + "ZUxpbWl0ZGlmZmljdWx0eUNvbmZpZ3VyZToCOAEaXgoUUm9vbXNldHRpbmdE" + "aWN0RW50cnkSCwoDa2V5GAEgASgPEjUKBXZhbHVlGAIgASgLMiYuQ2hvb3Np" + "bmdUaW1lTGltaXRyb29tc2V0dGluZ0NvbmZpZ3VyZToCOAFiBnByb3RvMw=="), new FileDescriptor[1] { EnumReflection.Descriptor }, new GeneratedClrTypeInfo(null, null, new GeneratedClrTypeInfo[5]
+		{
+			new GeneratedClrTypeInfo(typeof(ChoosingTimeLimitInfoConfigure), ChoosingTimeLimitInfoConfigure.Parser, new string[7] { "ChoosingTimeType", "IsDefault", "DescriptionID", "ChoosingCardTimeLimit", "OtherTimeLimit", "ExtraTime", "PunishmentTimeLimit" }, null, null, null, null),
+			new GeneratedClrTypeInfo(typeof(ChoosingTimeLimitgamespeedConfigure), ChoosingTimeLimitgamespeedConfigure.Parser, new string[7] { "GameSpeedType", "IsDefault", "DescriptionID", "AnimSpeed", "DiceSpeed", "PerformSpeed", "VfxSpeed" }, null, null, null, null),
+			new GeneratedClrTypeInfo(typeof(ChoosingTimeLimitdifficultyConfigure), ChoosingTimeLimitdifficultyConfigure.Parser, new string[6] { "GameDifficultyType", "IsDefault", "DescriptionID", "TipsID", "WarningID", "Pic" }, null, null, null, null),
+			new GeneratedClrTypeInfo(typeof(ChoosingTimeLimitroomsettingConfigure), ChoosingTimeLimitroomsettingConfigure.Parser, new string[7] { "MapModeType", "HasMap", "HasChoosingTime", "HasGameSpeed", "HasDifficulty", "HasUpgrade", "HasLabel" }, null, null, null, null),
+			new GeneratedClrTypeInfo(typeof(ChoosingTimeLimitConfigure), ChoosingTimeLimitConfigure.Parser, new string[8] { "Infos", "InfoDict", "Gamespeeds", "GamespeedDict", "Difficultys", "DifficultyDict", "Roomsettings", "RoomsettingDict" }, null, null, null, new GeneratedClrTypeInfo[4])
+		}));
+	}
+}

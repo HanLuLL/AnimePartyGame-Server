@@ -1,0 +1,134 @@
+[
+  {
+    "mapModeType": {
+      "value": 1,
+      "name": "MapModeType_Standard"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasUpgrade": true,
+    "hasLabel": [
+      31,
+      34,
+      35
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 2,
+      "name": "MapModeType_Novice"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasUpgrade": true
+  },
+  {
+    "mapModeType": {
+      "value": 3,
+      "name": "MapModeType_Ultra"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasUpgrade": true,
+    "hasLabel": [
+      31,
+      34,
+      35
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 11,
+      "name": "MapModeType_LuckyStarBattle"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasUpgrade": true,
+    "hasLabel": [
+      31,
+      34,
+      35
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 4,
+      "name": "MapModeType_Pve"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasDifficulty": true,
+    "hasLabel": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 5,
+      "name": "MapModeType_CampaignPVP"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasUpgrade": true
+  },
+  {
+    "mapModeType": {
+      "value": 6,
+      "name": "MapModeType_CampaignPVE"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasDifficulty": true
+  },
+  {
+    "mapModeType": {
+      "value": 7,
+      "name": "MapModeType_AsymmetricalBattle"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasLabel": [
+      31,
+      34,
+      35
+    ]
+  },
+  {
+    "mapModeType": {
+      "value": 8,
+      "name": "MapModeType_PracticePVP"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasUpgrade": true
+  },
+  {
+    "mapModeType": {
+      "value": 9,
+      "name": "MapModeType_PracticePVE"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasDifficulty": true
+  },
+  {
+    "mapModeType": {
+      "value": 12,
+      "name": "MapModeType_MutatorPVE"
+    },
+    "hasMap": true,
+    "hasChoosingTime": true,
+    "hasDifficulty": true,
+    "hasLabel": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  }
+]

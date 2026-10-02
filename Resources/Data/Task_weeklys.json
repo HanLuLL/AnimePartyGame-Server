@@ -1,0 +1,119 @@
+[
+  {
+    "id": 20000,
+    "conditionType": {
+      "value": 200,
+      "name": "ConditionType_LoginWeeklyCount"
+    },
+    "param": 1,
+    "nameID": 10,
+    "descId": 11,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 1400,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 1,
+    "nameID": 20,
+    "descId": 21,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 1401,
+    "conditionType": {
+      "value": 14,
+      "name": "ConditionType_Total_DoneGameCount"
+    },
+    "param": 3,
+    "nameID": 30,
+    "descId": 31,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 1404,
+    "conditionType": {
+      "value": 317,
+      "name": "ConditionType_Total_SingleMode_Win_Times"
+    },
+    "param": 1,
+    "nameID": 110,
+    "descId": 111,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 1405,
+    "conditionType": {
+      "value": 317,
+      "name": "ConditionType_Total_SingleMode_Win_Times"
+    },
+    "param": 5,
+    "nameID": 120,
+    "descId": 121,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 200,
+    "conditionType": {
+      "value": 2,
+      "name": "ConditionType_Total_KillCount"
+    },
+    "param": 5,
+    "nameID": 50,
+    "descId": 51,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 1300,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 1,
+    "nameID": 80,
+    "descId": 81,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 1301,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 2,
+    "nameID": 90,
+    "descId": 91,
+    "reward": {
+      "52": 100
+    }
+  },
+  {
+    "id": 1302,
+    "conditionType": {
+      "value": 13,
+      "name": "ConditionType_Total_WinGameCount"
+    },
+    "param": 3,
+    "nameID": 100,
+    "descId": 101,
+    "reward": {
+      "52": 200
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "guildMemberChangeType": {
+      "value": 1,
+      "name": "GuildMemberChangeType_Join"
+    },
+    "notificaitonID": 101,
+    "notificaitonForm": [
+      0
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 2,
+      "name": "GuildMemberChangeType_Quit"
+    },
+    "notificaitonID": 102,
+    "notificaitonForm": [
+      0
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 3,
+      "name": "GuildMemberChangeType_Kick"
+    },
+    "notificaitonID": 103,
+    "notificaitonForm": [
+      0,
+      0
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 4,
+      "name": "GuildMemberChangeType_Promote"
+    },
+    "notificaitonID": 104,
+    "notificaitonForm": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 5,
+      "name": "GuildMemberChangeType_Demote"
+    },
+    "notificaitonID": 105,
+    "notificaitonForm": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 6,
+      "name": "GuildMemberChangeType_TransferGuildMaster"
+    },
+    "notificaitonID": 106,
+    "notificaitonForm": [
+      0,
+      0
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 7,
+      "name": "GuildMemberChangeType_BecameGuildMaster"
+    },
+    "notificaitonID": 107,
+    "notificaitonForm": [
+      0
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 8,
+      "name": "GuildMemberChangeType_BecameGuildMasterViaImpeachment"
+    },
+    "notificaitonID": 108,
+    "notificaitonForm": [
+      0
+    ]
+  },
+  {
+    "guildMemberChangeType": {
+      "value": 9,
+      "name": "GuildMemberChangeType_DemotedToNewMemberViaImpeachment"
+    },
+    "notificaitonID": 109,
+    "notificaitonForm": [
+      0
+    ]
+  }
+]

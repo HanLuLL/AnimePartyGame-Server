@@ -1,0 +1,54 @@
+using Google.Protobuf.Reflection;
+using UnityEngine;
+
+public enum ThinkType
+{
+	[InspectorName("无")]
+	[OriginalName("ThinkType_None")]
+	None,
+	[InspectorName("手牌阶段")]
+	[OriginalName("ThinkType_HandCard")]
+	HandCard,
+	[InspectorName("出生点抉择")]
+	[OriginalName("ThinkType_BornLand")]
+	BornLand,
+	[InspectorName("加油站抉择")]
+	[OriginalName("ThinkType_FillingStation")]
+	FillingStation,
+	[InspectorName("商代抉择")]
+	[OriginalName("ThinkType_Shop")]
+	Shop,
+	[InspectorName("掉血格抉择")]
+	[OriginalName("ThinkType_BloodLoss")]
+	BloodLoss,
+	[InspectorName("彩票抉择")]
+	[OriginalName("ThinkType_Lottery")]
+	Lottery,
+	[InspectorName("炮台抉择")]
+	[OriginalName("ThinkType_Battery")]
+	Battery,
+	[InspectorName("事件_玩家代表")]
+	[OriginalName("ThinkType_Event_PlayerRepresent")]
+	EventPlayerRepresent,
+	[InspectorName("飞门")]
+	[OriginalName("ThinkType_Pursuit")]
+	Pursuit,
+	[InspectorName("传送门")]
+	[OriginalName("ThinkType_Portal")]
+	Portal,
+	[InspectorName("医院抉择")]
+	[OriginalName("ThinkType_Hospital_PhysicalExam")]
+	HospitalPhysicalExam,
+	[InspectorName("医院结果")]
+	[OriginalName("ThinkType_Hospital_ExamResult")]
+	HospitalExamResult,
+	[InspectorName("住院状态")]
+	[OriginalName("ThinkType_roundStart_Hospitalized")]
+	RoundStartHospitalized,
+	[InspectorName("占卜抉择")]
+	[OriginalName("ThinkType_Divination")]
+	Divination,
+	[InspectorName("弃牌")]
+	[OriginalName("ThinkType_DiscardCard")]
+	DiscardCard
+}

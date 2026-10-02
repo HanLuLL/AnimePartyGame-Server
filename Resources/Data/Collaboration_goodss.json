@@ -1,0 +1,243 @@
+[
+  {
+    "Index": 1,
+    "GoodsId": 270001,
+    "heroID": [
+      301
+    ],
+    "heroName": 2700010,
+    "playerPhotoID": [
+      70047
+    ],
+    "accountBackgroundID": [
+      71040
+    ],
+    "photoAndBackgroundName": 2700011,
+    "otherRewards": {
+      "2": 600,
+      "78101": 12
+    }
+  },
+  {
+    "Index": 2,
+    "GoodsId": 270002,
+    "heroID": [
+      302
+    ],
+    "heroName": 2700020,
+    "playerPhotoID": [
+      70048
+    ],
+    "accountBackgroundID": [
+      71041
+    ],
+    "photoAndBackgroundName": 2700021,
+    "otherRewards": {
+      "2": 600,
+      "78101": 12
+    }
+  },
+  {
+    "Index": 3,
+    "GoodsId": 270000,
+    "heroID": [
+      301,
+      302
+    ],
+    "heroName": 2700000,
+    "accountBackgroundID": [
+      71038
+    ],
+    "photoAndBackgroundName": 2700001,
+    "otherRewards": {
+      "2": 1200,
+      "78101": 24
+    }
+  },
+  {
+    "Index": 4,
+    "GoodsId": 270003,
+    "heroID": [
+      100103005
+    ],
+    "heroName": 2700030,
+    "accountBackgroundID": [
+      71503
+    ],
+    "photoAndBackgroundName": 2700031
+  },
+  {
+    "Index": 5,
+    "GoodsId": 270004,
+    "heroID": [
+      100115005
+    ],
+    "heroName": 2700040,
+    "accountBackgroundID": [
+      71515
+    ],
+    "photoAndBackgroundName": 2700041
+  },
+  {
+    "Index": 6,
+    "GoodsId": 270005,
+    "heroID": [
+      100103005,
+      100115005
+    ],
+    "heroName": 2700050,
+    "photoAndBackgroundName": 2700051,
+    "otherRewards": {
+      "71503": 1,
+      "71515": 1,
+      "91053": 1
+    }
+  },
+  {
+    "Index": 7,
+    "heroID": [
+      303
+    ],
+    "heroName": 2700062,
+    "photoAndBackgroundName": 2700063
+  },
+  {
+    "Index": 8,
+    "GoodsId": 270006,
+    "heroID": [
+      304
+    ],
+    "heroName": 2700060,
+    "playerPhotoID": [
+      70074,
+      70934
+    ],
+    "accountBackgroundID": [
+      71066,
+      71069
+    ],
+    "photoAndBackgroundName": 2700061,
+    "otherRewards": {
+      "1000031": 20,
+      "2": 600,
+      "70074": 1,
+      "70934": 1
+    }
+  },
+  {
+    "Index": 9,
+    "GoodsId": 270007,
+    "heroID": [
+      100301003,
+      100301004
+    ],
+    "heroName": 2700070,
+    "playerPhotoID": [
+      70094,
+      70095
+    ],
+    "accountBackgroundID": [
+      71087,
+      71088
+    ],
+    "photoAndBackgroundName": 2700071,
+    "otherRewards": {
+      "76002": 1
+    }
+  },
+  {
+    "Index": 10,
+    "GoodsId": 270008,
+    "heroID": [
+      100301003
+    ],
+    "heroName": 2700080,
+    "playerPhotoID": [
+      70094
+    ],
+    "accountBackgroundID": [
+      71087
+    ],
+    "photoAndBackgroundName": 2700081
+  },
+  {
+    "Index": 11,
+    "GoodsId": 270009,
+    "heroID": [
+      100301004
+    ],
+    "heroName": 2700090,
+    "playerPhotoID": [
+      70095
+    ],
+    "accountBackgroundID": [
+      71088
+    ],
+    "photoAndBackgroundName": 2700091
+  },
+  {
+    "Index": 12,
+    "GoodsId": 270010,
+    "heroID": [
+      305
+    ],
+    "heroName": 2700100,
+    "playerPhotoID": [
+      70201
+    ],
+    "accountBackgroundID": [
+      71097
+    ],
+    "photoAndBackgroundName": 2700101,
+    "otherRewards": {
+      "2": 600,
+      "78101": 12
+    }
+  },
+  {
+    "Index": 13,
+    "GoodsId": 270011,
+    "heroID": [
+      306
+    ],
+    "heroName": 2700110,
+    "playerPhotoID": [
+      70202
+    ],
+    "accountBackgroundID": [
+      71098
+    ],
+    "photoAndBackgroundName": 2700111,
+    "otherRewards": {
+      "2": 600,
+      "78101": 12
+    }
+  },
+  {
+    "Index": 14,
+    "GoodsId": 270012,
+    "heroID": [
+      306,
+      305
+    ],
+    "mutiHeroName": [
+      2700130,
+      2700120
+    ],
+    "playerPhotoID": [
+      70201,
+      70202
+    ],
+    "accountBackgroundID": [
+      71097,
+      71098,
+      71099
+    ],
+    "photoAndBackgroundName": 2700121,
+    "otherRewards": {
+      "2": 1200,
+      "76003": 1,
+      "78101": 24
+    }
+  }
+]

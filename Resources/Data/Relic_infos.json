@@ -1,0 +1,2528 @@
+[
+  {
+    "id": 50001,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "icon": "UT_Relic_Attack",
+    "nameID": 50001,
+    "descID": 500010,
+    "params": [
+      1
+    ],
+    "buffId": 5000101,
+    "orderWeight": 1,
+    "attackPt": 15
+  },
+  {
+    "id": 50002,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "icon": "UT_Relic_Attack",
+    "nameID": 50002,
+    "descID": 500020,
+    "params": [
+      2
+    ],
+    "buffId": 5000201,
+    "orderWeight": 2,
+    "attackPt": 20
+  },
+  {
+    "id": 50003,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "icon": "UT_Relic_Attack",
+    "nameID": 50003,
+    "descID": 500030,
+    "params": [
+      5
+    ],
+    "buffId": 5000301,
+    "orderWeight": 3,
+    "attackPt": 30,
+    "relicRecBaseScore": 60,
+    "relicRecRole": [
+      103,
+      105,
+      106,
+      109,
+      111,
+      113,
+      115,
+      116,
+      117,
+      119,
+      120,
+      125,
+      302,
+      111,
+      127,
+      128
+    ]
+  },
+  {
+    "id": 50004,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "icon": "UT_Relic_Speed",
+    "nameID": 50004,
+    "descID": 500040,
+    "params": [
+      1
+    ],
+    "buffId": 5000401,
+    "orderWeight": 4
+  },
+  {
+    "id": 50005,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "icon": "UT_Relic_Speed",
+    "nameID": 50005,
+    "descID": 500050,
+    "params": [
+      2
+    ],
+    "buffId": 5000501,
+    "orderWeight": 5,
+    "relicRecBaseScore": 50,
+    "relicRecRole": [
+      117
+    ]
+  },
+  {
+    "id": 50006,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "icon": "UT_Relic_Speed",
+    "nameID": 50006,
+    "descID": 500060,
+    "params": [
+      4
+    ],
+    "buffId": 5000601,
+    "orderWeight": 6,
+    "relicRecBaseScore": 70,
+    "relicRecRole": [
+      115,
+      117,
+      119
+    ]
+  },
+  {
+    "id": 50007,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "icon": "UT_Relic_Hp",
+    "nameID": 50007,
+    "descID": 500070,
+    "params": [
+      2
+    ],
+    "buffId": 5000701,
+    "orderWeight": 7
+  },
+  {
+    "id": 50008,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "icon": "UT_Relic_Hp",
+    "nameID": 50008,
+    "descID": 500080,
+    "params": [
+      3
+    ],
+    "buffId": 5000801,
+    "orderWeight": 8
+  },
+  {
+    "id": 50009,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      },
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "icon": "UT_Relic_Hp",
+    "nameID": 50009,
+    "descID": 500090,
+    "params": [
+      3,
+      2
+    ],
+    "buffId": 5000901,
+    "orderWeight": 9,
+    "attackPt": 10,
+    "relicRecRole": [
+      125
+    ]
+  },
+  {
+    "id": 50010,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      },
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_50010",
+    "nameID": 50010,
+    "descID": 500100,
+    "params": [
+      2
+    ],
+    "buffId": 5001001,
+    "orderWeight": 3001,
+    "attackPt": 30,
+    "tankPt": 10
+  },
+  {
+    "id": 50011,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      },
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_50010",
+    "nameID": 50011,
+    "descID": 500110,
+    "params": [
+      4
+    ],
+    "buffId": 5001101,
+    "orderWeight": 3002,
+    "attackPt": 30,
+    "tankPt": 10
+  },
+  {
+    "id": 50013,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_KillReward",
+    "nameID": 50013,
+    "descID": 500130,
+    "params": [
+      1,
+      4,
+      1
+    ],
+    "buffId": 5001301,
+    "orderWeight": 1001,
+    "attackPt": 30
+  },
+  {
+    "id": 50015,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_Gold",
+    "nameID": 50015,
+    "descID": 500150,
+    "params": [
+      4
+    ],
+    "buffId": 5001501,
+    "orderWeight": 1003
+  },
+  {
+    "id": 50016,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_Gold",
+    "nameID": 50016,
+    "descID": 500160,
+    "params": [
+      7
+    ],
+    "buffId": 5001601,
+    "orderWeight": 1004,
+    "relicRecBaseScore": 50,
+    "relicRecGrowth": 2,
+    "relicRecRole": [
+      118
+    ]
+  },
+  {
+    "id": 50017,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_Gold",
+    "nameID": 50017,
+    "descID": 500170,
+    "params": [
+      3,
+      3
+    ],
+    "buffId": 5001701,
+    "orderWeight": 1005,
+    "relicRecBaseScore": 70,
+    "relicRecGrowth": 5,
+    "relicRecRole": [
+      118
+    ]
+  },
+  {
+    "id": 50018,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "icon": "UT_Relic_Defend",
+    "nameID": 50018,
+    "descID": 500180,
+    "params": [
+      1
+    ],
+    "buffId": 5001801,
+    "orderWeight": 10
+  },
+  {
+    "id": 50019,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "icon": "UT_Relic_Defend",
+    "nameID": 50019,
+    "descID": 500190,
+    "params": [
+      2
+    ],
+    "buffId": 5001901,
+    "orderWeight": 11
+  },
+  {
+    "id": 50020,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "icon": "UT_Relic_Defend",
+    "nameID": 50020,
+    "descID": 500200,
+    "params": [
+      3
+    ],
+    "buffId": 5002001,
+    "orderWeight": 12,
+    "relicRecRole": [
+      304
+    ]
+  },
+  {
+    "id": 50021,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_Heal",
+    "nameID": 50021,
+    "descID": 500210,
+    "params": [
+      1
+    ],
+    "buffId": 5002101,
+    "orderWeight": 3003,
+    "tankPt": 20
+  },
+  {
+    "id": 50022,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_Heal",
+    "nameID": 50022,
+    "descID": 500220,
+    "params": [
+      3
+    ],
+    "buffId": 5002201,
+    "orderWeight": 3004,
+    "tankPt": 30
+  },
+  {
+    "id": 50024,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "icon": "UT_Relic_Enmity",
+    "nameID": 50024,
+    "descID": 500240,
+    "params": [
+      50,
+      8,
+      1060102
+    ],
+    "buffId": 5002401,
+    "orderWeight": 14,
+    "attackPt": 40,
+    "relicRecBaseScore": 20
+  },
+  {
+    "id": 50025,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "icon": "UT_Relic_50025",
+    "nameID": 50025,
+    "descID": 500250,
+    "params": [
+      -1
+    ],
+    "buffId": 5002501,
+    "orderWeight": 15,
+    "relicRecBaseScore": 60,
+    "relicRecRole": [
+      121,
+      123,
+      124,
+      125,
+      304,
+      102,
+      129
+    ]
+  },
+  {
+    "id": 50026,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "icon": "UT_Relic_50026",
+    "nameID": 50026,
+    "descID": 500260,
+    "params": [
+      1,
+      -1
+    ],
+    "buffId": 5002601,
+    "orderWeight": 16,
+    "cardPt": 30,
+    "relicRecBaseScore": -10
+  },
+  {
+    "id": 50027,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      },
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_50027",
+    "nameID": 50027,
+    "descID": 500270,
+    "params": [
+      1
+    ],
+    "buffId": 5002701,
+    "orderWeight": 3005,
+    "cardPt": 30,
+    "relicRecBaseScore": 1,
+    "relicRecRole": [
+      108
+    ]
+  },
+  {
+    "id": 50028,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      },
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "icon": "UT_Relic_50028",
+    "nameID": 50028,
+    "descID": 500280,
+    "params": [
+      1
+    ],
+    "buffId": 5002801,
+    "orderWeight": 17,
+    "cardPt": 30
+  },
+  {
+    "id": 50029,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "icon": "UT_Relic_50029",
+    "nameID": 50029,
+    "descID": 500290,
+    "params": [
+      3
+    ],
+    "buffId": 5002901,
+    "orderWeight": 18,
+    "cardPt": 30,
+    "relicRecRole": [
+      121,
+      123,
+      104
+    ]
+  },
+  {
+    "id": 50030,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50030",
+    "nameID": 50030,
+    "descID": 500300,
+    "params": [
+      6,
+      1
+    ],
+    "buffId": 5003001,
+    "orderWeight": 2001,
+    "relicRecBaseScore": 1
+  },
+  {
+    "id": 50031,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "icon": "UT_Relic_50031",
+    "nameID": 50031,
+    "descID": 500310,
+    "params": [
+      5,
+      1
+    ],
+    "buffId": 5003101,
+    "orderWeight": 19,
+    "cardPt": 30
+  },
+  {
+    "id": 50032,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50032",
+    "nameID": 50032,
+    "descID": 500320,
+    "params": [
+      1
+    ],
+    "buffId": 5003201,
+    "orderWeight": 2002,
+    "cardPt": 50
+  },
+  {
+    "id": 50033,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      },
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_50033",
+    "nameID": 50033,
+    "descID": 500330,
+    "params": [
+      1,
+      1,
+      1
+    ],
+    "buffId": 5003301,
+    "orderWeight": 3006,
+    "cardPt": 20,
+    "relicRecBaseScore": 1
+  },
+  {
+    "id": 50034,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      },
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_50034",
+    "nameID": 50034,
+    "descID": 500340,
+    "params": [
+      5,
+      1,
+      1
+    ],
+    "buffId": 5003401,
+    "orderWeight": 3007,
+    "tankPt": 50
+  },
+  {
+    "id": 50035,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      },
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "icon": "UT_Relic_50035",
+    "nameID": 50035,
+    "descID": 500350,
+    "params": [
+      2,
+      3
+    ],
+    "buffId": 5003501,
+    "orderWeight": 20,
+    "cardPt": 10,
+    "SupportPt": 10,
+    "relicRecBaseScore": 20,
+    "relicRecRole": [
+      123
+    ]
+  },
+  {
+    "id": 50036,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_50036",
+    "nameID": 50036,
+    "descID": 500360,
+    "params": [
+      8,
+      8,
+      1
+    ],
+    "buffId": 5003601,
+    "orderWeight": 1006,
+    "relicRecGrowth": 4
+  },
+  {
+    "id": 50037,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82008
+    ],
+    "icon": "UT_Relic_50037",
+    "nameID": 50037,
+    "descID": 500370,
+    "params": [
+      10091202,
+      -2,
+      1
+    ],
+    "buffId": 5003701,
+    "orderWeight": 9001,
+    "attackPt": 50,
+    "relicRecBaseScore": 20
+  },
+  {
+    "id": 50038,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82008
+    ],
+    "icon": "UT_Relic_50038",
+    "nameID": 50038,
+    "descID": 500380,
+    "params": [
+      10091202,
+      5,
+      10081102,
+      5
+    ],
+    "buffId": 5003801,
+    "orderWeight": 9002
+  },
+  {
+    "id": 50039,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "mapLimit": [
+      82008
+    ],
+    "icon": "UT_Relic_50039",
+    "nameID": 50039,
+    "descID": 500390,
+    "buffId": 5003901,
+    "orderWeight": 9003,
+    "cardPt": 50,
+    "relicRecBaseScore": 60
+  },
+  {
+    "id": 50040,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      },
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_50040",
+    "nameID": 50040,
+    "descID": 500400,
+    "params": [
+      2,
+      3
+    ],
+    "buffId": 5004001,
+    "orderWeight": 3008,
+    "tankPt": 20,
+    "relicRecGrowth": 3
+  },
+  {
+    "id": 50041,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      },
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 1,
+      "name": "RelicKeyWordType_Cure"
+    },
+    "icon": "UT_Relic_50041",
+    "nameID": 50041,
+    "descID": 500410,
+    "params": [
+      2
+    ],
+    "buffId": 5004101,
+    "orderWeight": 3009,
+    "tankPt": 50,
+    "relicRecRole": [
+      123,
+      303
+    ]
+  },
+  {
+    "id": 50042,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_50042",
+    "nameID": 50042,
+    "descID": 500420,
+    "params": [
+      1,
+      1
+    ],
+    "buffId": 5004201,
+    "orderWeight": 1007,
+    "SupportPt": 50
+  },
+  {
+    "id": 50043,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      },
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_50043",
+    "nameID": 50043,
+    "descID": 500430,
+    "params": [
+      5,
+      20,
+      -6,
+      30
+    ],
+    "buffId": 5004301,
+    "orderWeight": 1008,
+    "attackPt": 30,
+    "SupportPt": 20,
+    "relicRecRole": [
+      118
+    ]
+  },
+  {
+    "id": 50044,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50044",
+    "nameID": 50044,
+    "descID": 500440,
+    "params": [
+      1,
+      2
+    ],
+    "buffId": 5004401,
+    "orderWeight": 2004,
+    "attackPt": 30,
+    "relicRecRole": [
+      127
+    ]
+  },
+  {
+    "id": 50045,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50045",
+    "nameID": 50045,
+    "descID": 500450,
+    "params": [
+      1,
+      1
+    ],
+    "buffId": 5004501,
+    "orderWeight": 2005,
+    "cardPt": 50,
+    "relicRecRole": [
+      121,
+      104
+    ]
+  },
+  {
+    "id": 50046,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50046",
+    "nameID": 50046,
+    "descID": 500460,
+    "params": [
+      1,
+      4,
+      1
+    ],
+    "buffId": 5004601,
+    "orderWeight": 2006,
+    "attackPt": 20
+  },
+  {
+    "id": 50047,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50047",
+    "nameID": 50047,
+    "descID": 500470,
+    "params": [
+      1,
+      1
+    ],
+    "buffId": 5004701,
+    "orderWeight": 2007,
+    "cardPt": 50,
+    "relicRecRole": [
+      121
+    ]
+  },
+  {
+    "id": 50048,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50030",
+    "nameID": 50048,
+    "descID": 500480,
+    "params": [
+      6,
+      1,
+      1
+    ],
+    "buffId": 5004801,
+    "orderWeight": 2008
+  },
+  {
+    "id": 50049,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82012
+    ],
+    "icon": "UT_Relic_50049",
+    "nameID": 50049,
+    "descID": 500490,
+    "params": [
+      1,
+      1,
+      1,
+      1,
+      1023,
+      1024
+    ],
+    "buffId": 5004901,
+    "orderWeight": 9004,
+    "attackPt": 20
+  },
+  {
+    "id": 50050,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "mapLimit": [
+      82012
+    ],
+    "icon": "UT_Relic_50050",
+    "nameID": 50050,
+    "descID": 500500,
+    "params": [
+      3,
+      1
+    ],
+    "buffId": 5005001,
+    "orderWeight": 9005,
+    "cardPt": 20
+  },
+  {
+    "id": 50051,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82012
+    ],
+    "icon": "UT_Relic_50051",
+    "nameID": 50051,
+    "descID": 500510,
+    "params": [
+      4,
+      4,
+      2101001
+    ],
+    "buffId": 5005101,
+    "orderWeight": 9006,
+    "relicRecBaseScore": 60,
+    "relicRecRole": [
+      103,
+      105,
+      106,
+      109,
+      111,
+      113,
+      115,
+      116,
+      117,
+      119,
+      120,
+      125,
+      302,
+      111,
+      127,
+      128
+    ]
+  },
+  {
+    "id": 50052,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "keyWordType": {
+      "value": 3,
+      "name": "RelicKeyWordType_Mark"
+    },
+    "icon": "UT_Relic_50044",
+    "nameID": 50052,
+    "descID": 500520,
+    "params": [
+      2,
+      1
+    ],
+    "buffId": 5005201,
+    "orderWeight": 2003,
+    "attackPt": 20,
+    "relicRecRole": [
+      127
+    ]
+  },
+  {
+    "id": 50053,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82007
+    ],
+    "icon": "UT_Relic_50053",
+    "nameID": 50053,
+    "descID": 500530,
+    "params": [
+      1,
+      -1
+    ],
+    "buffId": 5005301,
+    "orderWeight": 9007,
+    "attackPt": 20
+  },
+  {
+    "id": 50054,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82007
+    ],
+    "icon": "UT_Relic_50054",
+    "nameID": 50054,
+    "descID": 500540,
+    "params": [
+      2,
+      15,
+      -1
+    ],
+    "buffId": 5005401,
+    "orderWeight": 9009,
+    "relicRecBaseScore": 70,
+    "relicRecRole": [
+      117
+    ]
+  },
+  {
+    "id": 50055,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82007
+    ],
+    "icon": "UT_Relic_50055",
+    "nameID": 50055,
+    "descID": 500550,
+    "params": [
+      10250101,
+      1,
+      1
+    ],
+    "buffId": 5005501,
+    "orderWeight": 9008
+  },
+  {
+    "id": 50056,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      81005
+    ],
+    "icon": "UT_Relic_50056",
+    "nameID": 50056,
+    "descID": 500560,
+    "params": [
+      -1,
+      1
+    ],
+    "buffId": 5005601,
+    "orderWeight": 9010
+  },
+  {
+    "id": 50057,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      81005
+    ],
+    "icon": "UT_Relic_50057",
+    "nameID": 50057,
+    "descID": 500570,
+    "params": [
+      1,
+      50,
+      6,
+      50
+    ],
+    "buffId": 5005701,
+    "orderWeight": 9011
+  },
+  {
+    "id": 50058,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      81005
+    ],
+    "icon": "UT_Relic_50058",
+    "nameID": 50058,
+    "descID": 500580,
+    "params": [
+      1,
+      8
+    ],
+    "buffId": 5005801,
+    "orderWeight": 9012,
+    "relicRecBaseScore": 100
+  },
+  {
+    "id": 50059,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      81005
+    ],
+    "icon": "UT_Relic_50059",
+    "nameID": 50059,
+    "descID": 500590,
+    "params": [
+      6
+    ],
+    "buffId": 5005901,
+    "orderWeight": 9013,
+    "relicRecBaseScore": 100
+  },
+  {
+    "id": 50060,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82013
+    ],
+    "icon": "UT_Relic_50060",
+    "nameID": 50060,
+    "descID": 500600,
+    "params": [
+      -2,
+      2
+    ],
+    "buffId": 5006001,
+    "orderWeight": 9014
+  },
+  {
+    "id": 50061,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82013
+    ],
+    "icon": "UT_Relic_50061",
+    "nameID": 50061,
+    "descID": 500610,
+    "params": [
+      1,
+      1,
+      1
+    ],
+    "buffId": 5006101,
+    "orderWeight": 9015,
+    "attackPt": 30
+  },
+  {
+    "id": 50062,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82014
+    ],
+    "icon": "UT_Relic_50062",
+    "nameID": 50062,
+    "descID": 500620,
+    "params": [
+      1,
+      2,
+      1,
+      10009
+    ],
+    "buffId": 5006201,
+    "orderWeight": 9016,
+    "attackPt": 20,
+    "relicRecBaseScore": 30
+  },
+  {
+    "id": 50063,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82014
+    ],
+    "icon": "UT_Relic_50063",
+    "nameID": 50063,
+    "descID": 500630,
+    "params": [
+      1,
+      1,
+      1
+    ],
+    "buffId": 5006301,
+    "orderWeight": 9017
+  },
+  {
+    "id": 50064,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82014
+    ],
+    "icon": "UT_Relic_50064",
+    "nameID": 50064,
+    "descID": 500640,
+    "params": [
+      21014,
+      21015,
+      21016,
+      -2,
+      -1
+    ],
+    "buffId": 5006401,
+    "orderWeight": 9018
+  },
+  {
+    "id": 50065,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "icon": "UT_Relic_50065",
+    "nameID": 50065,
+    "descID": 500650,
+    "params": [
+      1,
+      4
+    ],
+    "buffId": 5006501,
+    "orderWeight": 21,
+    "attackPt": 20,
+    "relicRecBaseScore": 1
+  },
+  {
+    "id": 50066,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "icon": "UT_Relic_50066",
+    "nameID": 50066,
+    "descID": 500660,
+    "params": [
+      3,
+      6,
+      1,
+      21001
+    ],
+    "buffId": 5006601,
+    "orderWeight": 22,
+    "cardPt": 50,
+    "relicRecBaseScore": 60,
+    "relicRecRole": [
+      122,
+      121,
+      104
+    ]
+  },
+  {
+    "id": 50067,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82015
+    ],
+    "icon": "UT_Relic_50067",
+    "nameID": 50067,
+    "descID": 500670,
+    "params": [
+      1,
+      21020,
+      3
+    ],
+    "buffId": 5006701,
+    "orderWeight": 9019,
+    "relicRecBaseScore": 50,
+    "relicRecRole": [
+      101,
+      304
+    ]
+  },
+  {
+    "id": 50068,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82015
+    ],
+    "icon": "UT_Relic_50068",
+    "nameID": 50068,
+    "descID": 500680,
+    "params": [
+      10470101,
+      2,
+      1,
+      1
+    ],
+    "buffId": 5006801,
+    "orderWeight": 9020,
+    "relicRecBaseScore": 20
+  },
+  {
+    "id": 50069,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82015
+    ],
+    "icon": "UT_Relic_50069",
+    "nameID": 50069,
+    "descID": 500690,
+    "params": [
+      10490101,
+      104901,
+      2,
+      3,
+      1,
+      3
+    ],
+    "buffId": 5006901,
+    "orderWeight": 9021,
+    "attackPt": 30,
+    "relicRecBaseScore": 30,
+    "relicRecRole": [
+      110,
+      125
+    ]
+  },
+  {
+    "id": 50070,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      82010
+    ],
+    "icon": "UT_Relic_50070",
+    "nameID": 50070,
+    "descID": 500700,
+    "params": [
+      4,
+      5007002,
+      1,
+      -1
+    ],
+    "buffId": 5007001,
+    "orderWeight": 9022,
+    "relicRecBaseScore": 20,
+    "relicRecRoleNormal": [
+      101,
+      112,
+      119,
+      304
+    ]
+  },
+  {
+    "id": 50071,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "mapLimit": [
+      82010
+    ],
+    "icon": "UT_Relic_50071",
+    "nameID": 50071,
+    "descID": 500710,
+    "params": [
+      21009,
+      1,
+      21009,
+      3,
+      1,
+      3,
+      1000,
+      1000,
+      1000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      20,
+      6,
+      5007102,
+      2,
+      2,
+      3,
+      2,
+      2,
+      21023,
+      1
+    ],
+    "buffId": 5007101,
+    "orderWeight": 9023,
+    "cardPt": 30,
+    "relicRecBaseScore": 1,
+    "relicRecRole": [
+      101,
+      104
+    ]
+  },
+  {
+    "id": 50072,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      81005
+    ],
+    "icon": "UT_Relic_50072",
+    "nameID": 50072,
+    "descID": 500720,
+    "params": [
+      1,
+      3,
+      2,
+      2
+    ],
+    "buffId": 5007201,
+    "orderWeight": 9024
+  },
+  {
+    "id": 50073,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      83001,
+      83002,
+      83003
+    ],
+    "icon": "UT_Relic_50073",
+    "nameID": 50073,
+    "descID": 500730,
+    "params": [
+      1,
+      4
+    ],
+    "buffId": 5007301,
+    "orderWeight": 9025,
+    "attackPt": 20
+  },
+  {
+    "id": 50074,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      83001,
+      83002,
+      83003
+    ],
+    "icon": "UT_Relic_50074",
+    "nameID": 50074,
+    "descID": 500740,
+    "params": [
+      6011102,
+      50080
+    ],
+    "buffId": 5007401,
+    "orderWeight": 9026
+  },
+  {
+    "id": 50075,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      83003
+    ],
+    "icon": "UT_Relic_50075",
+    "nameID": 50075,
+    "descID": 500750,
+    "params": [
+      3,
+      -1,
+      3,
+      2
+    ],
+    "buffId": 5007501,
+    "orderWeight": 9028
+  },
+  {
+    "id": 50076,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      83003
+    ],
+    "icon": "UT_Relic_50076",
+    "nameID": 50076,
+    "descID": 500760,
+    "params": [
+      4,
+      4,
+      -1
+    ],
+    "buffId": 5007601,
+    "orderWeight": 9029,
+    "attackPt": 30
+  },
+  {
+    "id": 50077,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      81005
+    ],
+    "icon": "UT_Relic_50077",
+    "nameID": 50077,
+    "descID": 500770,
+    "params": [
+      1,
+      1
+    ],
+    "buffId": 5007701,
+    "orderWeight": 9030
+  },
+  {
+    "id": 50078,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_50078",
+    "nameID": 50078,
+    "descID": 500780,
+    "params": [
+      -1,
+      1
+    ],
+    "buffId": 5007801,
+    "orderWeight": 1009,
+    "SupportPt": 50
+  },
+  {
+    "id": 50079,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "keyWordType": {
+      "value": 2,
+      "name": "RelicKeyWordType_Salary"
+    },
+    "icon": "UT_Relic_50078",
+    "nameID": 50079,
+    "descID": 500790,
+    "params": [
+      -2,
+      1
+    ],
+    "buffId": 5007901,
+    "orderWeight": 1010,
+    "SupportPt": 30,
+    "relicRecGrowth": 5
+  },
+  {
+    "id": 50080,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "mapLimit": [
+      81005
+    ],
+    "icon": "UT_Relic_50080",
+    "nameID": 50080,
+    "descID": 500800,
+    "buffId": 5008001,
+    "orderWeight": 9027
+  },
+  {
+    "id": 50081,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "icon": "UT_Relic_50081",
+    "nameID": 50081,
+    "descID": 500810,
+    "params": [
+      1
+    ],
+    "buffId": 5008101,
+    "orderWeight": 23,
+    "cardPt": 30
+  },
+  {
+    "id": 50082,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "icon": "UT_Relic_50082",
+    "nameID": 50082,
+    "descID": 500820,
+    "params": [
+      50,
+      4,
+      1060102,
+      -1
+    ],
+    "buffId": 5008201,
+    "orderWeight": 13,
+    "attackPt": 20
+  },
+  {
+    "id": 50083,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "icon": "UT_Relic_50083",
+    "nameID": 50083,
+    "descID": 500830,
+    "params": [
+      3,
+      3
+    ],
+    "buffId": 5008301,
+    "orderWeight": 24
+  },
+  {
+    "id": 50084,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50084",
+    "nameID": 50084,
+    "descID": 500840,
+    "params": [
+      5,
+      2,
+      5,
+      1
+    ],
+    "buffId": 5008401,
+    "orderWeight": 4001
+  },
+  {
+    "id": 50085,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50085",
+    "nameID": 50085,
+    "descID": 500850,
+    "params": [
+      2,
+      7,
+      2
+    ],
+    "buffId": 5008501,
+    "orderWeight": 4002,
+    "attackPt": 30
+  },
+  {
+    "id": 50086,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 5,
+        "name": "CharacterTagType_Tank"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50086",
+    "nameID": 50086,
+    "descID": 500860,
+    "params": [
+      1,
+      -6
+    ],
+    "buffId": 5008601,
+    "orderWeight": 4005
+  },
+  {
+    "id": 50087,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 3,
+        "name": "CharacterTagType_Card"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50087",
+    "nameID": 50087,
+    "descID": 500870,
+    "params": [
+      2,
+      -4,
+      2,
+      -2
+    ],
+    "buffId": 5008701,
+    "orderWeight": 4004,
+    "cardPt": 50,
+    "relicRecRoleNormal": [
+      129
+    ]
+  },
+  {
+    "id": 50088,
+    "relicQualityType": {
+      "value": 1,
+      "name": "RelicQualityType_Blue"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50088",
+    "nameID": 50088,
+    "descID": 500880,
+    "params": [
+      2,
+      2,
+      5008802
+    ],
+    "buffId": 5008801,
+    "orderWeight": 4003
+  },
+  {
+    "id": 50089,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50089",
+    "nameID": 50089,
+    "descID": 500890,
+    "params": [
+      -5,
+      -1,
+      1
+    ],
+    "buffId": 5008901,
+    "orderWeight": 4006
+  },
+  {
+    "id": 50090,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 1,
+        "name": "CharacterTagType_Generic"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50090",
+    "nameID": 50090,
+    "descID": 500900,
+    "params": [
+      6,
+      6,
+      2
+    ],
+    "buffId": 5009001,
+    "orderWeight": 4007
+  },
+  {
+    "id": 50091,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "keyWordType": {
+      "value": 4,
+      "name": "RelicKeyWordType_Energy"
+    },
+    "icon": "UT_Relic_50091",
+    "nameID": 50091,
+    "descID": 500910,
+    "params": [
+      2,
+      -4,
+      50
+    ],
+    "buffId": 5009101,
+    "orderWeight": 4008,
+    "attackPt": 50,
+    "relicRecRoleNormal": [
+      306
+    ],
+    "relicRecRole": [
+      128
+    ]
+  },
+  {
+    "id": 50092,
+    "relicQualityType": {
+      "value": 2,
+      "name": "RelicQualityType_Purple"
+    },
+    "tagType": [
+      {
+        "value": 2,
+        "name": "CharacterTagType_Attack"
+      }
+    ],
+    "mapLimit": [
+      82016
+    ],
+    "icon": "UT_Relic_50092",
+    "nameID": 50092,
+    "descID": 500920,
+    "params": [
+      1,
+      1,
+      1,
+      4
+    ],
+    "buffId": 5009201,
+    "orderWeight": 9031,
+    "attackPt": 30
+  },
+  {
+    "id": 50093,
+    "relicQualityType": {
+      "value": 3,
+      "name": "RelicQualityType_Orange"
+    },
+    "tagType": [
+      {
+        "value": 4,
+        "name": "CharacterTagType_Support"
+      }
+    ],
+    "mapLimit": [
+      82016
+    ],
+    "icon": "UT_Relic_50093",
+    "nameID": 50093,
+    "descID": 500930,
+    "params": [
+      1,
+      2000
+    ],
+    "buffId": 5009301,
+    "orderWeight": 9032,
+    "SupportPt": 20,
+    "relicRecRole": [
+      101,
+      306
+    ]
+  }
+]

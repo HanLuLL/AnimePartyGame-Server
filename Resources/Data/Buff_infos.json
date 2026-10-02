@@ -1,0 +1,8480 @@
+[
+  {
+    "id": 10001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "descId": 10000
+  },
+  {
+    "id": 10002,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 3,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_ChosenOne",
+    "isShowIconProgressZero": true,
+    "nameId": 100021,
+    "descId": 10002,
+    "performAwake": 6,
+    "effectID": 25
+  },
+  {
+    "id": 10003,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10004,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Heal",
+    "isShowIconProgressZero": true,
+    "nameId": 100041,
+    "descId": 10004
+  },
+  {
+    "id": 10005,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_StarLight",
+    "isShowIconProgressZero": true,
+    "nameId": 100051,
+    "descId": 10005
+  },
+  {
+    "id": 10006,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "keepRound": 3,
+    "isShow": true,
+    "icon": "UT_Buff_Lock",
+    "isShowIconProgressZero": true,
+    "nameId": 100061,
+    "descId": 10006
+  },
+  {
+    "id": 10007,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_KuangBao",
+    "isShowIconProgressZero": true,
+    "nameId": 100071,
+    "descId": 10007
+  },
+  {
+    "id": 10008,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_Counter",
+    "isShowIconProgressZero": true,
+    "nameId": 100081,
+    "descId": 10008
+  },
+  {
+    "id": 10009,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "keepRound": 99,
+    "isShow": true,
+    "icon": "UT_Buff_Gaizao",
+    "isShowIconProgressZero": true,
+    "nameId": 100091,
+    "descId": 10009,
+    "performDestroy": 200200
+  },
+  {
+    "id": 10010,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10011,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_10011",
+    "isShowIconProgressZero": true,
+    "nameId": 100111,
+    "descId": 10011
+  },
+  {
+    "id": 10012,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Mind",
+    "isShowIconProgressZero": true,
+    "nameId": 100121,
+    "descId": 10012
+  },
+  {
+    "id": 10013,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Crime",
+    "isShowIconProgressZero": true,
+    "nameId": 100131,
+    "descId": 10013
+  },
+  {
+    "id": 10014,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Charge",
+    "isShowIconProgressZero": true,
+    "nameId": 100141,
+    "descId": 10014
+  },
+  {
+    "id": 200101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 3,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 200901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 201001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 201002,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_AttackUp",
+    "isShowIconProgressZero": true,
+    "nameId": 2010021,
+    "descId": 201002
+  },
+  {
+    "id": 201101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 201102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_MoveUp",
+    "isShowIconProgressZero": true,
+    "nameId": 2011021,
+    "descId": 201102
+  },
+  {
+    "id": 210001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 210101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 210102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_MoveUp",
+    "isShowIconProgressZero": true,
+    "nameId": 2101021,
+    "descId": 210102
+  },
+  {
+    "id": 220001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 230001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 240001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 99,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 240101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 99,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 250001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 250101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 260001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 260002,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_S7_01",
+    "isShowIconProgressZero": true,
+    "nameId": 2600021,
+    "descId": 260002
+  },
+  {
+    "id": 1011101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1011201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1011202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1021101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1021102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1030101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_IronWall",
+    "isShowIconProgressZero": true,
+    "nameId": 10301011,
+    "descId": 1030101
+  },
+  {
+    "id": 1030201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_ConcealedPresence",
+    "isShowIconProgressZero": true,
+    "nameId": 10302011,
+    "descId": 1030201
+  },
+  {
+    "id": 1031101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_CourageUp",
+    "isShowIconProgressZero": true,
+    "nameId": 10311011,
+    "descId": 1031101
+  },
+  {
+    "id": 1031103,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_AttackUp",
+    "isShowIconProgressZero": true,
+    "nameId": 10311031,
+    "descId": 1031103
+  },
+  {
+    "id": 1041101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_104_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 10411011,
+    "descId": 1041101
+  },
+  {
+    "id": 1041201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_104_Break",
+    "isShowIconProgressZero": true,
+    "nameId": 10412011,
+    "descId": 1041201
+  },
+  {
+    "id": 1050101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1051101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1051201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_105_Break",
+    "isShowIconProgressZero": true,
+    "nameId": 10512011,
+    "descId": 1051201
+  },
+  {
+    "id": 1060101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_Drain",
+    "isShowIconProgressZero": true,
+    "nameId": 10601011,
+    "descId": 1060101,
+    "performAwake": 10601,
+    "effectID": 10601
+  },
+  {
+    "id": 1060102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1061101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1071101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_Shield",
+    "isShowIconProgressZero": true,
+    "nameId": 10711011,
+    "descId": 1071101,
+    "effectID": 10701,
+    "skinReplaceEffectID": {
+      "100107007": 10702
+    }
+  },
+  {
+    "id": 1081101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1081201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_108_break",
+    "isShowIconProgressZero": true,
+    "nameId": 10812011,
+    "descId": 1081201
+  },
+  {
+    "id": 1085001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_AttackDown",
+    "isShowIconProgressZero": true,
+    "nameId": 10850011,
+    "descId": 1085001
+  },
+  {
+    "id": 1090101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveDown",
+    "isShowIconProgressZero": true,
+    "nameId": 10901011,
+    "descId": 1090101,
+    "effectID": 2000100
+  },
+  {
+    "id": 1091101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1091102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1091301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_109_Break",
+    "isShowIconProgressZero": true,
+    "nameId": 10913011,
+    "descId": 1091301
+  },
+  {
+    "id": 1101101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1101102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1101301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1110101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1110201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1111101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1111103,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 2,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1120101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveDown",
+    "isShowIconProgressZero": true,
+    "nameId": 11201011,
+    "descId": 1120101,
+    "effectID": 2000100
+  },
+  {
+    "id": 1120102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 3,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_HPUp",
+    "isShowIconProgressZero": true,
+    "nameId": 11201021,
+    "descId": 1120102
+  },
+  {
+    "id": 1120301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveDown",
+    "isShowIconProgressZero": true,
+    "nameId": 11203011,
+    "descId": 1120301,
+    "effectID": 2000100
+  },
+  {
+    "id": 1121101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1121102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1121103,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1121104,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1130101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "icon": "UT_Buff_AttackUp",
+    "isShowIconProgressZero": true,
+    "descId": 1130101,
+    "effectID": 2000800
+  },
+  {
+    "id": 1130201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "icon": "UT_Buff_KuangBao",
+    "isShowIconProgressZero": true,
+    "descId": 1130201,
+    "effectID": 2000800
+  },
+  {
+    "id": 1131101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true,
+    "performAwake": 11304
+  },
+  {
+    "id": 1131201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_113_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 11312021,
+    "descId": 1131202,
+    "performAwake": 11304
+  },
+  {
+    "id": 1131202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_113_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 11312021,
+    "descId": 1131202,
+    "performAwake": 11304
+  },
+  {
+    "id": 1131301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true,
+    "performAwake": 11304
+  },
+  {
+    "id": 1131401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1140101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_114_Max",
+    "isShowIconProgressZero": true,
+    "nameId": 11401011,
+    "descId": 1140101,
+    "performAwake": 11403,
+    "performDestroy": 11404,
+    "effectID": 11401,
+    "skinReplaceEffectID": {
+      "100114005": 11403
+    }
+  },
+  {
+    "id": 1140102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_114_Max",
+    "isShowIconProgressZero": true,
+    "nameId": 11401021,
+    "descId": 1140102,
+    "performAwake": 11403,
+    "performDestroy": 11404,
+    "effectID": 11401,
+    "skinReplaceEffectID": {
+      "100114005": 11403
+    }
+  },
+  {
+    "id": 1141101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true,
+    "performAwake": 11411
+  },
+  {
+    "id": 1150101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_115",
+    "isShowIconProgressZero": true,
+    "nameId": 11501011,
+    "descId": 1150101
+  },
+  {
+    "id": 1151201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_115",
+    "isShowIconProgressZero": true,
+    "nameId": 11501011,
+    "descId": 1150101,
+    "performAwake": 11411
+  },
+  {
+    "id": 1161101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1170101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1170102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1171101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_117_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 11711011,
+    "descId": 1171101
+  },
+  {
+    "id": 1171201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1181101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1181201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "icon": "UT_Buff_117_Passive",
+    "isShowIconProgressZero": true,
+    "descId": 1181201
+  },
+  {
+    "id": 1190101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": -1,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1190102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": -1,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1191101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1191102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1201101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1201102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true,
+    "effectID": 12001,
+    "skinReplaceEffectID": {
+      "100120002": 12002,
+      "100120003": 12003
+    }
+  },
+  {
+    "id": 1201201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1201202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_120",
+    "isShowIconProgressZero": true,
+    "nameId": 12012021,
+    "descId": 1201202,
+    "effectID": 12001,
+    "skinReplaceEffectID": {
+      "100120002": 12002,
+      "100120003": 12003
+    }
+  },
+  {
+    "id": 1201301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1210101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1211101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1211201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_121_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 12112011,
+    "descId": 1211201
+  },
+  {
+    "id": 1221101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1221201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "descId": 1221201
+  },
+  {
+    "id": 1221202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_122_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 12212021,
+    "descId": 1221202
+  },
+  {
+    "id": 1230101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_123",
+    "isShowIconProgressZero": true,
+    "nameId": 12301011,
+    "descId": 1230101,
+    "skinReplaceEffectID": {
+      "100123004": 12301
+    }
+  },
+  {
+    "id": 1230201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_123",
+    "isShowIconProgressZero": true,
+    "nameId": 12302011,
+    "descId": 1230201,
+    "skinReplaceEffectID": {
+      "100123004": 12301
+    }
+  },
+  {
+    "id": 1231101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "keepRound": 1,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1231201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "keepRound": 1,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1240101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1240102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_124",
+    "isShowIconProgressZero": true,
+    "nameId": 12401021,
+    "descId": 1240102
+  },
+  {
+    "id": 1241101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_124",
+    "isShowIconProgressZero": true,
+    "nameId": 12411011,
+    "descId": 1241101
+  },
+  {
+    "id": 1240201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1240202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_124",
+    "isShowIconProgressZero": true,
+    "nameId": 12402021,
+    "descId": 1240202
+  },
+  {
+    "id": 1241201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_124",
+    "isShowIconProgressZero": true,
+    "nameId": 12412011,
+    "descId": 1241201
+  },
+  {
+    "id": 1250101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_125_Skill",
+    "isShowIconProgressZero": true,
+    "nameId": 12501011,
+    "descId": 1250101
+  },
+  {
+    "id": 1250201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_125_Skill",
+    "isShowIconProgressZero": true,
+    "nameId": 12501011,
+    "descId": 1250201
+  },
+  {
+    "id": 1251101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1251102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_125_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 12511021,
+    "descId": 1251102
+  },
+  {
+    "id": 1251201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_125_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 12512011,
+    "descId": 1251201
+  },
+  {
+    "id": 1261101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1026",
+    "isShowIconProgressZero": true,
+    "nameId": 12611011,
+    "descId": 1261101
+  },
+  {
+    "id": 1261201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1026",
+    "nameId": 12612011,
+    "descId": 1261201
+  },
+  {
+    "id": 1261202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1261203,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_1261203",
+    "isShowIconProgressZero": true,
+    "nameId": 12612031,
+    "descId": 1261203
+  },
+  {
+    "id": 1261204,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1261204",
+    "isShowIconProgressZero": true,
+    "nameId": 12612041,
+    "descId": 1261204,
+    "effectID": 12602
+  },
+  {
+    "id": 1270101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_127_Skill",
+    "isShowIconProgressZero": true,
+    "nameId": 12701011,
+    "descId": 1270101,
+    "effectID": 12701
+  },
+  {
+    "id": 1270201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_127_Skill",
+    "isShowIconProgressZero": true,
+    "nameId": 12701011,
+    "descId": 1270201,
+    "effectID": 12701
+  },
+  {
+    "id": 1270202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_127",
+    "isShowIconProgressZero": true,
+    "nameId": 12702021,
+    "descId": 1270202
+  },
+  {
+    "id": 1280101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_DefDown",
+    "isShowIconProgressZero": true,
+    "nameId": 12801011,
+    "descId": 1280101
+  },
+  {
+    "id": 1280102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1280201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_DefDown",
+    "isShowIconProgressZero": true,
+    "nameId": 12802011,
+    "descId": 1280201
+  },
+  {
+    "id": 1280202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_128_Skill",
+    "isShowIconProgressZero": true,
+    "nameId": 12802021,
+    "descId": 1280202,
+    "effectID": 12803
+  },
+  {
+    "id": 1280203,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1271101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1271201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1281101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1281102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveUp",
+    "isShowIconProgressZero": true,
+    "nameId": 12811021,
+    "descId": 1281102
+  },
+  {
+    "id": 1281201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1290101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveDown",
+    "isShowIconProgressZero": true,
+    "nameId": 12901011,
+    "descId": 1290101,
+    "effectID": 2000100
+  },
+  {
+    "id": 1290201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveDown",
+    "isShowIconProgressZero": true,
+    "nameId": 12901011,
+    "descId": 1290201,
+    "effectID": 2000100
+  },
+  {
+    "id": 1291101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1291102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1291201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1291202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 1,
+    "isShow": true,
+    "icon": "UT_Buff_129_Skill",
+    "isShowIconProgressZero": true,
+    "nameId": 12912021,
+    "descId": 1291202
+  },
+  {
+    "id": 1291203,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1292101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 1292201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3010101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "icon": "UT_Buff_301",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3010102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_301",
+    "isShowIconProgressZero": true,
+    "nameId": 30101021,
+    "descId": 3010102,
+    "effectID": 30101
+  },
+  {
+    "id": 3011201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "icon": "UT_Buff_301",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3011202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_301",
+    "isShowIconProgressZero": true,
+    "nameId": 30112021,
+    "descId": 3010102,
+    "effectID": 30101
+  },
+  {
+    "id": 3011301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3011401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3011402,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3020101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3021101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_302_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 30211011,
+    "descId": 3021101
+  },
+  {
+    "id": 3021301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3021401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3021402,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_304_piano",
+    "isShowIconProgressZero": true,
+    "nameId": 30214021,
+    "descId": 3021402
+  },
+  {
+    "id": 3030101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_303",
+    "isShowIconProgressZero": true,
+    "nameId": 30301011,
+    "descId": 3030101
+  },
+  {
+    "id": 3031101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3031102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_303_piano",
+    "isShowIconProgressZero": true,
+    "nameId": 30311021,
+    "descId": 3031102
+  },
+  {
+    "id": 3040201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MutualSupport",
+    "isShowIconProgressZero": true,
+    "nameId": 30402011,
+    "descId": 3040201
+  },
+  {
+    "id": 3040202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MutualSupport",
+    "isShowIconProgressZero": true,
+    "nameId": 30402021,
+    "descId": 3040202
+  },
+  {
+    "id": 3040203,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true,
+    "effectID": 30402
+  },
+  {
+    "id": 3041101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_304",
+    "isShowIconProgressZero": true,
+    "nameId": 30411011,
+    "descId": 3041101
+  },
+  {
+    "id": 3041201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_304",
+    "isShowIconProgressZero": true,
+    "nameId": 30412011,
+    "descId": 3041101
+  },
+  {
+    "id": 3050101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_305_2",
+    "isShowIconProgressZero": true,
+    "nameId": 30501011,
+    "descId": 3050101
+  },
+  {
+    "id": 3051101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3051201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_305_1",
+    "nameId": 30512011,
+    "descId": 3051201
+  },
+  {
+    "id": 3051202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_305_Awake",
+    "isShowIconProgressZero": true,
+    "nameId": 30512021,
+    "descId": 3051202,
+    "effectID": 30501
+  },
+  {
+    "id": 3051203,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveUp",
+    "isShowIconProgressZero": true,
+    "nameId": 30512031,
+    "descId": 3051203
+  },
+  {
+    "id": 3051301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3051302,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_305_2",
+    "isShowIconProgressZero": true,
+    "nameId": 30513021,
+    "descId": 3051302
+  },
+  {
+    "id": 3061101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_306",
+    "isShowIconProgressZero": true,
+    "nameId": 30611011,
+    "descId": 3061101
+  },
+  {
+    "id": 3061201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_306",
+    "isShowIconProgressZero": true,
+    "nameId": 30611011,
+    "descId": 3061201
+  },
+  {
+    "id": 3061301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 2000601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "delayRound": 1,
+    "keepRound": 2,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_FWF",
+    "isShowIconProgressZero": true,
+    "nameId": 20006011,
+    "descId": 2000601,
+    "performStart": 2000601
+  },
+  {
+    "id": 2000701,
+    "buffType": {
+      "value": 3,
+      "name": "BuffType_Relate"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 3,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_LingHunLianJie",
+    "isShowIconProgressZero": true,
+    "nameId": 20007011,
+    "descId": 2000701
+  },
+  {
+    "id": 2000801,
+    "buffType": {
+      "value": 4,
+      "name": "BuffType_Battle"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_KuangBao",
+    "isShowIconProgressZero": true,
+    "nameId": 20008011,
+    "descId": 2000801,
+    "effectID": 2000800
+  },
+  {
+    "id": 2001901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "delayRound": 1,
+    "keepRound": 1,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_Bentou",
+    "isShowIconProgressZero": true,
+    "nameId": 20019011,
+    "descId": 2001901,
+    "performStart": 2001901,
+    "effectID": 2001902
+  },
+  {
+    "id": 2002001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_SangXinBingKuang",
+    "isShowIconProgressZero": true,
+    "nameId": 20020011,
+    "descId": 2002001,
+    "effectID": 2002000
+  },
+  {
+    "id": 2100401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 3,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_KuangBao",
+    "isShowIconProgressZero": true,
+    "nameId": 21004011,
+    "descId": 2100401,
+    "effectID": 2000800
+  },
+  {
+    "id": 2002501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveDown",
+    "isShowIconProgressZero": true,
+    "nameId": 20025011,
+    "descId": 2002501,
+    "effectID": 2000100
+  },
+  {
+    "id": 2002601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 2100501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_DefUp",
+    "isShowIconProgressZero": true,
+    "nameId": 21005011,
+    "descId": 2100501
+  },
+  {
+    "id": 2100901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_boom",
+    "isShowIconProgressZero": true,
+    "nameId": 21009011,
+    "descId": 2100901
+  },
+  {
+    "id": 2101001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1018_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 21010011,
+    "descId": 2101001,
+    "effectID": 2101000
+  },
+  {
+    "id": 2101501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_KuangBao",
+    "isShowIconProgressZero": true,
+    "nameId": 21015011,
+    "descId": 2101501,
+    "effectID": 2101500
+  },
+  {
+    "id": 2101801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 2101802,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 2101901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 2102101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_S7_02",
+    "isShowIconProgressZero": true,
+    "nameId": 21021011,
+    "descId": 2102101
+  },
+  {
+    "id": 2102301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3000201,
+    "buffType": {
+      "value": 5,
+      "name": "BuffType_Event"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "keepRound": 1,
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_DiceX2",
+    "isShowIconProgressZero": true,
+    "nameId": 30002011,
+    "descId": 3000201
+  },
+  {
+    "id": 3000601,
+    "buffType": {
+      "value": 5,
+      "name": "BuffType_Event"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 3,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_Poisoned",
+    "isShowIconProgressZero": true,
+    "nameId": 30006011,
+    "descId": 3000601,
+    "performStart": 3000600,
+    "effectID": 2001902
+  },
+  {
+    "id": 3001201,
+    "buffType": {
+      "value": 5,
+      "name": "BuffType_Event"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 3,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3001501,
+    "buffType": {
+      "value": 5,
+      "name": "BuffType_Event"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "keepRound": 1,
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 3001801,
+    "buffType": {
+      "value": 5,
+      "name": "BuffType_Event"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "keepRound": 1,
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_GoldDrop",
+    "isShowIconProgressZero": true,
+    "nameId": 30018011,
+    "descId": 3001801
+  },
+  {
+    "id": 3002001,
+    "buffType": {
+      "value": 5,
+      "name": "BuffType_Event"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true,
+    "effectID": 3002000
+  },
+  {
+    "id": 3020201,
+    "buffType": {
+      "value": 5,
+      "name": "BuffType_Event"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_AttackUp",
+    "isShowIconProgressZero": true,
+    "nameId": 30202011,
+    "descId": 3020201
+  },
+  {
+    "id": 3200501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Buff_DamagedUp",
+    "isShowIconProgressZero": true,
+    "descId": 4000401
+  },
+  {
+    "id": 4000301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_DamagedDown",
+    "isShowIconProgressZero": true,
+    "nameId": 40003011,
+    "descId": 4000301
+  },
+  {
+    "id": 4000401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_DamagedUp",
+    "isShowIconProgressZero": true,
+    "nameId": 40004011,
+    "descId": 4000401
+  },
+  {
+    "id": 4100101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 4100201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 4100301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 4100401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 4100501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 4100601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 4100701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 4100801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50010",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50010",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50010",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Speed",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Speed",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Speed",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Hp",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Hp",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5000901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Hp",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50010",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50010",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_KillReward",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_KillReward",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_KillReward",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Gold",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Gold",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Gold",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Defend",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5001901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Defend",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Defend",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Heal",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Heal",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Enmity",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_Enmity",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50025",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50026",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50027",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50028",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5002901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50029",
+    "isShowIconProgressZero": true,
+    "nameId": 50029011,
+    "descId": 5002901
+  },
+  {
+    "id": 5003001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50030",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5003101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50031",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5003201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50032",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5003202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "icon": "UT_Buff_DefDown",
+    "isShowIconProgressZero": true,
+    "effectID": 105
+  },
+  {
+    "id": 5003301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50033",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5003401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50034",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5003501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50035",
+    "isShowIconProgressZero": true,
+    "nameId": 50035011,
+    "descId": 5003501
+  },
+  {
+    "id": 5003601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50036",
+    "isShowIconProgressZero": true,
+    "nameId": 50036011,
+    "descId": 5003601
+  },
+  {
+    "id": 5003701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_50037",
+    "isShowIconProgressZero": true,
+    "nameId": 50037011,
+    "descId": 5003701
+  },
+  {
+    "id": 5003801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5003901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5004901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50053",
+    "isShowIconProgressZero": true,
+    "nameId": 50053011,
+    "descId": 5005301
+  },
+  {
+    "id": 5005401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50054",
+    "isShowIconProgressZero": true,
+    "nameId": 50054011,
+    "descId": 5005401
+  },
+  {
+    "id": 5005501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5005901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5006001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1026",
+    "isShowIconProgressZero": true,
+    "nameId": 102611011,
+    "descId": 5006001
+  },
+  {
+    "id": 5006101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1027",
+    "isShowIconProgressZero": true,
+    "nameId": 102711011,
+    "descId": 10271101
+  },
+  {
+    "id": 5006201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5006301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50063",
+    "isShowIconProgressZero": true,
+    "nameId": 50063011,
+    "descId": 5006301
+  },
+  {
+    "id": 5006401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5006501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_104_yumao",
+    "isShowIconProgressZero": true,
+    "nameId": 50065011,
+    "descId": 5006501
+  },
+  {
+    "id": 5006601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5006701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_10441101",
+    "isShowIconProgressZero": true,
+    "nameId": 50067011,
+    "descId": 5006701
+  },
+  {
+    "id": 5006801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_50068",
+    "isShowIconProgressZero": true,
+    "nameId": 50068011,
+    "descId": 5006801
+  },
+  {
+    "id": 5006901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007002,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "keepRound": 1,
+    "isShow": true,
+    "icon": "UT_Relic_50070",
+    "isShowIconProgressZero": true,
+    "nameId": 50070021,
+    "descId": 5007002
+  },
+  {
+    "id": 5007101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50071",
+    "isShowIconProgressZero": true,
+    "nameId": 50071011,
+    "descId": 5007101,
+    "performStart": 6000100
+  },
+  {
+    "id": 5007102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_KuangBao",
+    "isShowIconProgressZero": true,
+    "nameId": 50071021,
+    "descId": 5007102,
+    "effectID": 2000800
+  },
+  {
+    "id": 5007201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50071",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50071",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50071",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "icon": "UT_Relic_50071",
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5007801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "performStart": 6000200
+  },
+  {
+    "id": 5007901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "performStart": 6000300
+  },
+  {
+    "id": 5008001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5008101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5008201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5008301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50083",
+    "nameId": 50083011,
+    "descId": 5008301
+  },
+  {
+    "id": 5008401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Relic_50084",
+    "isShowIconProgressZero": true,
+    "nameId": 50084011,
+    "descId": 1171101
+  },
+  {
+    "id": 5008501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5008601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5008701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "performStart": 6000400
+  },
+  {
+    "id": 5008801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5008802,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isShowIconProgressZero": true,
+    "nameId": 50088021,
+    "descId": 5008802
+  },
+  {
+    "id": 5008901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5009001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5009101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "performStart": 6000500
+  },
+  {
+    "id": 5009201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 5009301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "performAwake": 7000100
+  },
+  {
+    "id": 6000201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6000802,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "performAwake": 7000800
+  },
+  {
+    "id": 6000901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6001001,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6001101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6001201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6001301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6001401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6001501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6010101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6010201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6010301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6010601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6010602,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1026_01",
+    "isShowIconProgressZero": true,
+    "nameId": 60106021,
+    "descId": 6010602
+  },
+  {
+    "id": 6010603,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1026_02",
+    "isShowIconProgressZero": true,
+    "nameId": 60106031,
+    "descId": 6010603,
+    "effectID": 12602
+  },
+  {
+    "id": 6010701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6010702,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6010801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6011101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6011102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true,
+    "effectID": 9000100
+  },
+  {
+    "id": 6011201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6011301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6011401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6011402,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "effectID": 9000200
+  },
+  {
+    "id": 6015101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_MoveDown",
+    "isShowIconProgressZero": true,
+    "nameId": 60151021,
+    "descId": 6015102
+  },
+  {
+    "id": 6015201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Mutator_60152",
+    "isShowIconProgressZero": true,
+    "nameId": 60152021,
+    "descId": 6015202
+  },
+  {
+    "id": 6015203,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Mutator_60152",
+    "isShowIconProgressZero": true,
+    "nameId": 60152031,
+    "descId": 6015203
+  },
+  {
+    "id": 6015204,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_Mutator_60152",
+    "isShowIconProgressZero": true,
+    "nameId": 60152041,
+    "descId": 6015204
+  },
+  {
+    "id": 6015205,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_Mutator_60152",
+    "isShowIconProgressZero": true,
+    "nameId": 60152041,
+    "descId": 6015205
+  },
+  {
+    "id": 6015301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015601,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015701,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015702,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Mutator_60157",
+    "isShowIconProgressZero": true,
+    "nameId": 60157021,
+    "descId": 6015702
+  },
+  {
+    "id": 6015801,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 6015901,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10011101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10011201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10021101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10021201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10031101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10031102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": -1,
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10031201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10041101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10051101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10081101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10081102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 1,
+        "name": "BuffTagType_Poison"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 3,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_RedDot",
+    "isShowIconProgressZero": true,
+    "nameId": 100811021,
+    "descId": 10081102,
+    "performStart": 2101902,
+    "effectID": 2101902
+  },
+  {
+    "id": 10091101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10091102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true,
+    "effectID": 101101
+  },
+  {
+    "id": 10091201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10091301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10091202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 2,
+        "name": "BuffTagType_Curse"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_AoiDefDown",
+    "isShowIconProgressZero": true,
+    "nameId": 100912021,
+    "descId": 10091202
+  },
+  {
+    "id": 10101101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10101102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true,
+    "effectID": 101102
+  },
+  {
+    "id": 10111201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10111202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true,
+    "effectID": 101103
+  },
+  {
+    "id": 10131101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_10131101",
+    "nameId": 101311011,
+    "descId": 10131101
+  },
+  {
+    "id": 10131102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_LifeLink",
+    "isShowIconProgressZero": true,
+    "nameId": 101311021,
+    "descId": 10131102
+  },
+  {
+    "id": 10131103,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_HypePeak",
+    "isShowIconProgressZero": true,
+    "nameId": 101311031,
+    "descId": 10131103
+  },
+  {
+    "id": 10141101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_10141101",
+    "isShowIconProgressZero": true,
+    "nameId": 101411011,
+    "descId": 10141101
+  },
+  {
+    "id": 10141201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_LifeLink",
+    "isShowIconProgressZero": true,
+    "nameId": 101412011,
+    "descId": 10141201
+  },
+  {
+    "id": 10141301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_DoNotDisturb",
+    "isShowIconProgressZero": true,
+    "nameId": 101413011,
+    "descId": 10141301
+  },
+  {
+    "id": 10141401,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_HypePeak",
+    "isShowIconProgressZero": true,
+    "nameId": 101414011,
+    "descId": 10141401
+  },
+  {
+    "id": 10141501,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10150101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_10150101",
+    "isShowIconProgressZero": true,
+    "nameId": 101501011,
+    "descId": 10150101
+  },
+  {
+    "id": 10161101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10170101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isTriggerClear": true,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_GuardianOrb",
+    "isShowIconProgressZero": true,
+    "nameId": 101701011,
+    "descId": 10170101,
+    "effectID": 101701
+  },
+  {
+    "id": 10171101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Soaring",
+    "isShowIconProgressZero": true,
+    "nameId": 101711011,
+    "descId": 10171101
+  },
+  {
+    "id": 10181101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1018_Passive",
+    "isShowIconProgressZero": true,
+    "nameId": 101811011,
+    "descId": 10181101
+  },
+  {
+    "id": 10191101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10201101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10211101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10231101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10241101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10250101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1025",
+    "isShowIconProgressZero": true,
+    "nameId": 102501011,
+    "descId": 10250101
+  },
+  {
+    "id": 10261101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1026",
+    "isShowIconProgressZero": true,
+    "nameId": 102611011,
+    "descId": 10261101
+  },
+  {
+    "id": 10271101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1027",
+    "isShowIconProgressZero": true,
+    "nameId": 102711011,
+    "descId": 10271101
+  },
+  {
+    "id": 10281101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10291101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10301101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10311101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10311102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "effectID": 2000800
+  },
+  {
+    "id": 10321101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10321102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "effectID": 2000800
+  },
+  {
+    "id": 10331101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1033",
+    "isShowIconProgressZero": true,
+    "nameId": 103311011,
+    "descId": 10331101
+  },
+  {
+    "id": 10341101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10351101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10361101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10371101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10401101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10410101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1041",
+    "nameId": 104101011,
+    "descId": 10410101
+  },
+  {
+    "id": 10411101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10421101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10430101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_MoveUp",
+    "isShowIconProgressZero": true,
+    "nameId": 104301011,
+    "descId": 10430101
+  },
+  {
+    "id": 10441101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_10441101",
+    "isShowIconProgressZero": true,
+    "nameId": 104401011,
+    "descId": 10440101
+  },
+  {
+    "id": 10460101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1046",
+    "isShowIconProgressZero": true,
+    "nameId": 104601011,
+    "descId": 10460101,
+    "effectID": 104601
+  },
+  {
+    "id": 10461101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffConflictManagementType": {
+      "value": 1,
+      "name": "BuffConflictManagementType_Reject"
+    },
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10470101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "delayRound": 1,
+    "keepRound": 3,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1047",
+    "isShowIconProgressZero": true,
+    "nameId": 104701011,
+    "descId": 10470101,
+    "performDestroy": 104701,
+    "effectID": 104701
+  },
+  {
+    "id": 10471101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10481101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10481102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 2,
+      "name": "BuffRoundCountType_Action"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10490101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_1049",
+    "isShowIconProgressZero": true,
+    "nameId": 104901011,
+    "descId": 10490101,
+    "performEnd": 104902,
+    "effectID": 104902
+  },
+  {
+    "id": 10490102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 3,
+      "name": "BuffRoundCountType_CurrentAction"
+    },
+    "keepRound": 1,
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10491101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10501101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10531101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10531201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1053_Passive",
+    "nameId": 105311021,
+    "descId": 10531201
+  },
+  {
+    "id": 10551101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1055",
+    "isShowIconProgressZero": true,
+    "nameId": 105511011,
+    "descId": 10551101
+  },
+  {
+    "id": 10570101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_Overclock",
+    "isShowIconProgressZero": true,
+    "nameId": 105701011,
+    "descId": 10570101,
+    "effectID": 105702
+  },
+  {
+    "id": 10581101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_Polyhedron",
+    "isShowIconProgressZero": true,
+    "nameId": 105811011,
+    "descId": 10581101
+  },
+  {
+    "id": 10591101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_DefUp",
+    "isShowIconProgressZero": true,
+    "nameId": 105911011,
+    "descId": 10591101
+  },
+  {
+    "id": 10611101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "effectID": 101701
+  },
+  {
+    "id": 10611201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10611301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10621101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10631101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10640101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "buffRoundCountType": {
+      "value": 1,
+      "name": "BuffRoundCountType_Round"
+    },
+    "delayRound": 1,
+    "keepRound": 2,
+    "isDeathClear": true,
+    "buffConflictManagementType": {
+      "value": 2,
+      "name": "BuffConflictManagementType_Replace"
+    },
+    "isShow": true,
+    "icon": "UT_Buff_DefDown",
+    "isShowIconProgressZero": true,
+    "nameId": 106401011,
+    "descId": 10640101
+  },
+  {
+    "id": 10651101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1065_01",
+    "isShowIconProgressZero": true,
+    "nameId": 106511011,
+    "descId": 10651101
+  },
+  {
+    "id": 10651102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10651103,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10651104,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10651105,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isDeathClear": true,
+    "isShow": true,
+    "icon": "UT_Buff_1065_02",
+    "isShowIconProgressZero": true,
+    "nameId": 106511051,
+    "descId": 10651105
+  },
+  {
+    "id": 10651201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10671101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10671201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10671301,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10671302,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1067",
+    "isShowIconProgressZero": true,
+    "nameId": 106713021,
+    "descId": 10671302,
+    "effectID": 106704
+  },
+  {
+    "id": 10671303,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "effectID": 106703
+  },
+  {
+    "id": 10681101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10681201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10681202,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true,
+    "effectID": 106801
+  },
+  {
+    "id": 10691101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10691201,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10701101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 10701102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1070",
+    "isShowIconProgressZero": true,
+    "nameId": 107011021,
+    "descId": 10701102
+  },
+  {
+    "id": 20261101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 20271101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShow": true,
+    "icon": "UT_Buff_1027",
+    "isShowIconProgressZero": true,
+    "nameId": 202711011,
+    "descId": 20271101
+  },
+  {
+    "id": 7000101,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 7000102,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  },
+  {
+    "id": 7000103,
+    "buffType": {
+      "value": 1,
+      "name": "BuffType_Normal"
+    },
+    "buffTagType": [
+      {
+        "value": 0,
+        "name": "BuffTagType_None"
+      }
+    ],
+    "isShowIconProgressZero": true
+  }
+]

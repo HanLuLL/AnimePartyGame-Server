@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "activityId": 699980,
+    "chestId": 91119,
+    "pveLevel": 5,
+    "heroIDs": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "signInId": 69998,
+    "signInRechargeId": 360001,
+    "questionnaireId": [
+      "https://wj.qq.com/s2/27265872/46eb/",
+      "https://forms.gle/TU6MBVfJsfYAEdsA6",
+      "https://forms.gle/1sVwyoC6eBgh3G916",
+      "https://wj.qq.com/s2/27265872/46eb/"
+    ],
+    "questionnaireReward": {
+      "2": 100
+    }
+  }
+]

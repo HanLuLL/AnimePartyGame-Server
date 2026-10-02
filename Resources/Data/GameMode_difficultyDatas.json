@@ -1,0 +1,94 @@
+[
+  {
+    "mapModeType": {
+      "value": 4,
+      "name": "MapModeType_Pve"
+    },
+    "gameModeDifficultyDataConfigureItems": [
+      {
+        "distributeResources": [
+          3,
+          60,
+          6,
+          6,
+          6,
+          6,
+          6,
+          1,
+          4000,
+          6000
+        ],
+        "UpgradeId": 5,
+        "DifficultyDescId": 20001
+      },
+      {
+        "index": 1,
+        "distributeResources": [
+          3,
+          60,
+          6,
+          6,
+          6,
+          6,
+          6,
+          1,
+          4000,
+          6000
+        ],
+        "UpgradeId": 4,
+        "DifficultyDescId": 20002
+      },
+      {
+        "index": 2,
+        "distributeResources": [
+          3,
+          60,
+          5,
+          5,
+          5,
+          5,
+          5,
+          1,
+          4000,
+          6000
+        ],
+        "UpgradeId": 4,
+        "DifficultyDescId": 20003
+      },
+      {
+        "index": 3,
+        "distributeResources": [
+          3,
+          60,
+          5,
+          5,
+          5,
+          5,
+          5,
+          1,
+          4000,
+          6000
+        ],
+        "UpgradeId": 4,
+        "DifficultyDescId": 20004
+      },
+      {
+        "index": 4,
+        "distributeResources": [
+          3,
+          60,
+          5,
+          5,
+          5,
+          5,
+          5,
+          1,
+          4000,
+          6000
+        ],
+        "UpgradeId": 4,
+        "DifficultyDescId": 20005
+      }
+    ]
+  }
+]

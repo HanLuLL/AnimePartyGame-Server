@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "minScore": 90,
+    "maxScore": 100,
+    "tierName": 101,
+    "rewardRatio": 100,
+    "tierDesc": 1010
+  },
+  {
+    "id": 2,
+    "minScore": 80,
+    "maxScore": 89,
+    "tierName": 102,
+    "matchCdSeconds": 180,
+    "rewardRatio": 100,
+    "tierDesc": 1020
+  },
+  {
+    "id": 3,
+    "minScore": 70,
+    "maxScore": 79,
+    "tierName": 103,
+    "matchCdSeconds": 900,
+    "rewardRatio": 100,
+    "tierDesc": 1030
+  },
+  {
+    "id": 4,
+    "minScore": 60,
+    "maxScore": 69,
+    "tierName": 104,
+    "matchCdSeconds": 1800,
+    "rewardRatio": 50,
+    "tierDesc": 1040
+  },
+  {
+    "id": 5,
+    "maxScore": 59,
+    "tierName": 105,
+    "matchCdSeconds": 3600,
+    "tierDesc": 1050
+  }
+]

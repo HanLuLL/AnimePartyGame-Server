@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "wayList": [
+      8,
+      950310
+    ],
+    "wayType": {
+      "value": 111,
+      "name": "WayType_GiftPackageStore"
+    },
+    "wayParam": [
+      9,
+      50310
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "gameSpeedType": {
+      "value": 1,
+      "name": "GameSpeedType_Normal"
+    },
+    "descriptionID": 11,
+    "animSpeed": 1.0,
+    "diceSpeed": 1.0,
+    "performSpeed": 1.0,
+    "vfxSpeed": 1.0
+  },
+  {
+    "gameSpeedType": {
+      "value": 2,
+      "name": "GameSpeedType_Fast"
+    },
+    "isDefault": true,
+    "descriptionID": 12,
+    "animSpeed": 1.7999999523162842,
+    "diceSpeed": 1.5,
+    "performSpeed": 1.7999999523162842,
+    "vfxSpeed": 1.7999999523162842
+  }
+]

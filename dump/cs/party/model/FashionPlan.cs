@@ -1,0 +1,216 @@
+using System;
+using System.CodeDom.Compiler;
+using System.Diagnostics;
+using Google.Protobuf;
+using Google.Protobuf.Collections;
+using Google.Protobuf.Reflection;
+
+namespace party.model;
+
+public sealed class FashionPlan : IMessage<FashionPlan>, IMessage, IEquatable<FashionPlan>, IDeepCloneable<FashionPlan>, IBufferMessage
+{
+	private static readonly MessageParser<FashionPlan> _parser = new MessageParser<FashionPlan>(() => new FashionPlan());
+
+	private UnknownFieldSet _unknownFields;
+
+	public const int PlanFieldNumber = 1;
+
+	private int plan_;
+
+	public const int FashionFieldNumber = 2;
+
+	private static readonly MapField<int, int>.Codec _map_fashion_codec = new MapField<int, int>.Codec(FieldCodec.ForSFixed32(13u, 0), FieldCodec.ForSFixed32(21u, 0), 18u);
+
+	private readonly MapField<int, int> fashion_ = new MapField<int, int>();
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public static MessageParser<FashionPlan> Parser => _parser;
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public static MessageDescriptor Descriptor => ModelReflection.Descriptor.MessageTypes[48];
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	MessageDescriptor IMessage.Descriptor => Descriptor;
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public int Plan
+	{
+		get
+		{
+			return plan_;
+		}
+		set
+		{
+			plan_ = value;
+		}
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public MapField<int, int> Fashion => fashion_;
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public FashionPlan()
+	{
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public FashionPlan(FashionPlan other)
+		: this()
+	{
+		plan_ = other.plan_;
+		fashion_ = other.fashion_.Clone();
+		_unknownFields = UnknownFieldSet.Clone(other._unknownFields);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public FashionPlan Clone()
+	{
+		return new FashionPlan(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public override bool Equals(object other)
+	{
+		return Equals(other as FashionPlan);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public bool Equals(FashionPlan other)
+	{
+		if (other == null)
+		{
+			return false;
+		}
+		if (other == this)
+		{
+			return true;
+		}
+		if (Plan != other.Plan)
+		{
+			return false;
+		}
+		if (!Fashion.Equals(other.Fashion))
+		{
+			return false;
+		}
+		return object.Equals(_unknownFields, other._unknownFields);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public override int GetHashCode()
+	{
+		int num = 1;
+		if (Plan != 0)
+		{
+			num ^= Plan.GetHashCode();
+		}
+		num ^= Fashion.GetHashCode();
+		if (_unknownFields != null)
+		{
+			num ^= _unknownFields.GetHashCode();
+		}
+		return num;
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public override string ToString()
+	{
+		return JsonFormatter.ToDiagnosticString(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public void WriteTo(CodedOutputStream output)
+	{
+		output.WriteRawMessage(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	void IBufferMessage.InternalWriteTo(ref WriteContext output)
+	{
+		if (Plan != 0)
+		{
+			output.WriteRawTag(13);
+			output.WriteSFixed32(Plan);
+		}
+		fashion_.WriteTo(ref output, _map_fashion_codec);
+		if (_unknownFields != null)
+		{
+			_unknownFields.WriteTo(ref output);
+		}
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public int CalculateSize()
+	{
+		int num = 0;
+		if (Plan != 0)
+		{
+			num += 5;
+		}
+		num += fashion_.CalculateSize(_map_fashion_codec);
+		if (_unknownFields != null)
+		{
+			num += _unknownFields.CalculateSize();
+		}
+		return num;
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public void MergeFrom(FashionPlan other)
+	{
+		if (other != null)
+		{
+			if (other.Plan != 0)
+			{
+				Plan = other.Plan;
+			}
+			fashion_.MergeFrom(other.fashion_);
+			_unknownFields = UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+		}
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	public void MergeFrom(CodedInputStream input)
+	{
+		input.ReadRawMessage(this);
+	}
+
+	[DebuggerNonUserCode]
+	[GeneratedCode("protoc", null)]
+	void IBufferMessage.InternalMergeFrom(ref ParseContext input)
+	{
+		uint num;
+		while ((num = input.ReadTag()) != 0)
+		{
+			switch (num)
+			{
+			default:
+				_unknownFields = UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+				break;
+			case 13u:
+				Plan = input.ReadSFixed32();
+				break;
+			case 18u:
+				fashion_.AddEntriesFrom(ref input, _map_fashion_codec);
+				break;
+			}
+		}
+	}
+}

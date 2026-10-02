@@ -1,0 +1,159 @@
+[
+  {
+    "itemType": {
+      "value": 1,
+      "name": "ItemType_Currency"
+    },
+    "maxCount": 99999999,
+    "nameID": 4000
+  },
+  {
+    "itemType": {
+      "value": 2,
+      "name": "ItemType_Hero"
+    },
+    "maxCount": 1,
+    "nameID": 4001
+  },
+  {
+    "itemType": {
+      "value": 9,
+      "name": "ItemType_AccountHeadShot"
+    },
+    "maxCount": 1,
+    "selectedIndex": 1,
+    "nameID": 4008
+  },
+  {
+    "itemType": {
+      "value": 10,
+      "name": "ItemType_AccountBackground"
+    },
+    "maxCount": 1,
+    "selectedIndex": 2,
+    "nameID": 4009
+  },
+  {
+    "itemType": {
+      "value": 11,
+      "name": "ItemType_Dice"
+    },
+    "maxCount": 1,
+    "selectedIndex": 3,
+    "nameID": 4010
+  },
+  {
+    "itemType": {
+      "value": 22,
+      "name": "ItemType_Effect"
+    },
+    "maxCount": 1,
+    "selectedIndex": 6,
+    "nameID": 4011
+  },
+  {
+    "itemType": {
+      "value": 14,
+      "name": "ItemType_CardBack"
+    },
+    "maxCount": 1,
+    "selectedIndex": 4,
+    "nameID": 4013
+  },
+  {
+    "itemType": {
+      "value": 16,
+      "name": "ItemType_Gift"
+    },
+    "maxCount": 9999,
+    "selectedIndex": 5,
+    "nameID": 4015
+  },
+  {
+    "itemType": {
+      "value": 17,
+      "name": "ItemType_Material"
+    },
+    "maxCount": 9999,
+    "nameID": 4016
+  },
+  {
+    "itemType": {
+      "value": 27,
+      "name": "ItemType_Common"
+    },
+    "maxCount": 9999,
+    "nameID": 4020
+  },
+  {
+    "itemType": {
+      "value": 28,
+      "name": "ItemType_Chest"
+    },
+    "maxCount": 9999,
+    "enableUse": true,
+    "nameID": 4021
+  },
+  {
+    "itemType": {
+      "value": 21,
+      "name": "ItemType_Activity"
+    },
+    "maxCount": 9999,
+    "nameID": 4022
+  },
+  {
+    "itemType": {
+      "value": 23,
+      "name": "ItemType_HeroStandingPainting"
+    },
+    "maxCount": 1,
+    "nameID": 4023
+  },
+  {
+    "itemType": {
+      "value": 25,
+      "name": "ItemType_HeroExpression"
+    },
+    "maxCount": 1,
+    "nameID": 4025
+  },
+  {
+    "itemType": {
+      "value": 29,
+      "name": "ItemType_Coupons"
+    },
+    "maxCount": 9999,
+    "nameID": 4029
+  },
+  {
+    "itemType": {
+      "value": 30,
+      "name": "ItemType_SkinFittings"
+    },
+    "maxCount": 1
+  },
+  {
+    "itemType": {
+      "value": 31,
+      "name": "ItemType_CombinationPackage"
+    },
+    "maxCount": 1
+  },
+  {
+    "itemType": {
+      "value": 32,
+      "name": "ItemType_KV"
+    },
+    "maxCount": 1,
+    "nameID": 4030
+  },
+  {
+    "itemType": {
+      "value": 33,
+      "name": "ItemType_AltArt"
+    },
+    "maxCount": 1,
+    "nameID": 4031
+  }
+]

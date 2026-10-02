@@ -1,0 +1,45 @@
+[
+  {
+    "choosingTimeType": {
+      "value": 1,
+      "name": "ChoosingTimeType_Shot"
+    },
+    "descriptionID": 1,
+    "choosingCardTimeLimit": 15,
+    "otherTimeLimit": 10,
+    "punishmentTimeLimit": [
+      10,
+      8,
+      5
+    ]
+  },
+  {
+    "choosingTimeType": {
+      "value": 2,
+      "name": "ChoosingTimeType_Middle"
+    },
+    "isDefault": true,
+    "descriptionID": 2,
+    "choosingCardTimeLimit": 30,
+    "otherTimeLimit": 20,
+    "punishmentTimeLimit": [
+      10,
+      8,
+      5
+    ]
+  },
+  {
+    "choosingTimeType": {
+      "value": 3,
+      "name": "ChoosingTimeType_Long"
+    },
+    "descriptionID": 3,
+    "choosingCardTimeLimit": 60,
+    "otherTimeLimit": 40,
+    "punishmentTimeLimit": [
+      15,
+      10,
+      5
+    ]
+  }
+]

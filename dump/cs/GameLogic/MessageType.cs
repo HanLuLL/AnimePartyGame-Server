@@ -1,0 +1,17 @@
+namespace GameLogic;
+
+public enum MessageType
+{
+	NONE,
+	SHORTINFO,
+	EXPRESSION,
+	LANDMARK,
+	RELICINFO,
+	PRAISE,
+	PVEEVENT,
+	PVETASK,
+	CARD,
+	SKILL,
+	PLAYERMARK,
+	REFEREE
+}

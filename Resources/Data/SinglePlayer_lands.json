@@ -1,0 +1,38 @@
+[
+  {
+    "singlePlayerLandType": {
+      "value": 1,
+      "name": "SinglePlayerLandType_Start"
+    },
+    "landPrefab": "Platform_Start"
+  },
+  {
+    "singlePlayerLandType": {
+      "value": 2,
+      "name": "SinglePlayerLandType_Monster"
+    },
+    "landPrefab": "Platform_Monster"
+  },
+  {
+    "singlePlayerLandType": {
+      "value": 3,
+      "name": "SinglePlayerLandType_Gold"
+    },
+    "landPrefab": "Platform_Gold",
+    "landPerformTimeline": "SG_CharacterRoot_Cheer",
+    "params": [
+      5
+    ]
+  },
+  {
+    "singlePlayerLandType": {
+      "value": 4,
+      "name": "SinglePlayerLandType_Card"
+    },
+    "landPrefab": "Platform_Card",
+    "landPerformTimeline": "SG_CharacterRoot_Cheer",
+    "params": [
+      1
+    ]
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "id": 4,
+    "simplified": "装扮"
+  },
+  {
+    "id": 7,
+    "simplified": "充值"
+  },
+  {
+    "id": 8,
+    "simplified": "星盘"
+  },
+  {
+    "id": 9,
+    "simplified": "礼包"
+  },
+  {
+    "id": 13,
+    "simplified": "7日礼包"
+  },
+  {
+    "id": 14,
+    "simplified": "皮肤"
+  },
+  {
+    "id": 15,
+    "simplified": "头像"
+  },
+  {
+    "id": 16,
+    "simplified": "名片"
+  },
+  {
+    "id": 17,
+    "simplified": "终结特效"
+  },
+  {
+    "id": 18,
+    "simplified": "骰子"
+  },
+  {
+    "id": 19,
+    "simplified": "卡牌"
+  },
+  {
+    "id": 22,
+    "simplified": "新手礼包"
+  },
+  {
+    "id": 23,
+    "simplified": "星月票"
+  },
+  {
+    "id": 24,
+    "simplified": "推荐",
+    "traditional": "24"
+  },
+  {
+    "id": 28,
+    "simplified": "合作挑战助力"
+  },
+  {
+    "id": 29,
+    "simplified": "黄金星盘"
+  },
+  {
+    "id": 37,
+    "simplified": "合作挑战助力"
+  },
+  {
+    "id": 20,
+    "simplified": "表情"
+  },
+  {
+    "id": 100000,
+    "simplified": "60",
+    "english": "60",
+    "japanese": "60",
+    "traditional": "60"
+  },
+  {
+    "id": 100010,
+    "simplified": "300",
+    "english": "300",
+    "japanese": "300",
+    "traditional": "300"
+  },
+  {
+    "id": 100015,
+    "simplified": "680",
+    "english": "680",
+    "japanese": "680",
+    "traditional": "680"
+  },
+  {
+    "id": 100020,
+    "simplified": "1280",
+    "english": "1280",
+    "japanese": "1280",
+    "traditional": "1280"
+  },
+  {
+    "id": 100030,
+    "simplified": "3280",
+    "english": "3280",
+    "japanese": "3280",
+    "traditional": "3280"
+  },
+  {
+    "id": 100040,
+    "simplified": "6480",
+    "english": "6480",
+    "japanese": "6480",
+    "traditional": "6480"
+  },
+  {
+    "id": 100001,
+    "simplified": "60黄金星盘"
+  },
+  {
+    "id": 100011,
+    "simplified": "300黄金星盘"
+  },
+  {
+    "id": 100016,
+    "simplified": "680黄金星盘"
+  },
+  {
+    "id": 100021,
+    "simplified": "1280黄金星盘"
+  },
+  {
+    "id": 100031,
+    "simplified": "3280黄金星盘"
+  },
+  {
+    "id": 100041,
+    "simplified": "6480黄金星盘"
+  },
+  {
+    "id": 200000,
+    "simplified": "70",
+    "english": "70",
+    "japanese": "70",
+    "traditional": "70"
+  },
+  {
+    "id": 200010,
+    "simplified": "370",
+    "english": "370",
+    "japanese": "370",
+    "traditional": "370"
+  },
+  {
+    "id": 200015,
+    "simplified": "640",
+    "english": "640",
+    "japanese": "640",
+    "traditional": "640"
+  },
+  {
+    "id": 200020,
+    "simplified": "1500",
+    "english": "1500",
+    "japanese": "1500",
+    "traditional": "1500"
+  },
+  {
+    "id": 200030,
+    "simplified": "2500",
+    "english": "2500",
+    "japanese": "2500",
+    "traditional": "2500"
+  },
+  {
+    "id": 200040,
+    "simplified": "5000",
+    "english": "5000",
+    "japanese": "5000",
+    "traditional": "5000"
+  },
+  {
+    "id": 200001,
+    "simplified": "70星盘"
+  },
+  {
+    "id": 200011,
+    "simplified": "370星盘"
+  },
+  {
+    "id": 200016,
+    "simplified": "640星盘"
+  },
+  {
+    "id": 200021,
+    "simplified": "1500星盘"
+  },
+  {
+    "id": 200031,
+    "simplified": "2500星盘"
+  },
+  {
+    "id": 200041,
+    "simplified": "5000星盘"
+  },
+  {
+    "id": 80000,
+    "simplified": "拉拉队-恋"
+  },
+  {
+    "id": 80001,
+    "simplified": "时尚达人-帕露南"
+  },
+  {
+    "id": 80002,
+    "simplified": "宝箱怪-璐璐"
+  },
+  {
+    "id": 80003,
+    "simplified": "冰沙快递-米米"
+  },
+  {
+    "id": 80004,
+    "simplified": "战斗女仆-枫"
+  },
+  {
+    "id": 80005,
+    "simplified": "战斗女仆-美咲"
+  },
+  {
+    "id": 80006,
+    "simplified": "忍者为何？-小町"
+  },
+  {
+    "id": 80007,
+    "simplified": "护卫队长-帕帕拉"
+  },
+  {
+    "id": 80008,
+    "simplified": "冒失少女-阿兰娜"
+  },
+  {
+    "id": 80009,
+    "simplified": "海滨救援-梅加斯"
+  },
+  {
+    "id": 80010,
+    "simplified": "海湾假日-凛"
+  },
+  {
+    "id": 80011,
+    "simplified": "冲浪海岸-茉莉"
+  },
+  {
+    "id": 110001,
+    "simplified": "7日超值礼包"
+  },
+  {
+    "id": 110002,
+    "simplified": "合作挑战 7日助力礼包"
+  },
+  {
+    "id": 230000,
+    "simplified": "星月票"
+  },
+  {
+    "id": 250000,
+    "simplified": "通行证"
+  },
+  {
+    "id": 250001,
+    "simplified": "通行证-升级版"
+  },
+  {
+    "id": 250002,
+    "simplified": "通行证-升级"
+  },
+  {
+    "id": 270000,
+    "simplified": "联动角色 组合包"
+  },
+  {
+    "id": 270001,
+    "simplified": "超绝天使-超天酱 组合包"
+  },
+  {
+    "id": 270002,
+    "simplified": "主播女孩-糖糖 组合包"
+  },
+  {
+    "id": 270003,
+    "simplified": "魔女兵器-阿兰娜"
+  },
+  {
+    "id": 270004,
+    "simplified": "魔女兵器-美咲"
+  },
+  {
+    "id": 270005,
+    "simplified": "魔女兵器皮肤组合"
+  },
+  {
+    "id": 270006,
+    "simplified": "赛博朋克酒保行动多萝西礼包"
+  },
+  {
+    "id": 340001,
+    "simplified": "合作挑战契约"
+  },
+  {
+    "id": 350001,
+    "simplified": "等级成长契约"
+  },
+  {
+    "id": 270007,
+    "simplified": "联动皮肤 组合包"
+  },
+  {
+    "id": 270008,
+    "simplified": "网络主播-超天酱 组合包"
+  },
+  {
+    "id": 270009,
+    "simplified": "休闲日常-糖糖 组合包"
+  },
+  {
+    "id": 360001,
+    "simplified": "回归签到进阶奖励"
+  },
+  {
+    "id": 270010,
+    "simplified": "远野汉娜 组合包"
+  },
+  {
+    "id": 270011,
+    "simplified": "橘雪莉 组合包"
+  },
+  {
+    "id": 270012,
+    "simplified": "魔法少女的魔女审判联动一期角色 组合包"
+  }
+]

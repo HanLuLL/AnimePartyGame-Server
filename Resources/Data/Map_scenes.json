@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "assetName": "Map_003",
+    "miniMapName": "MiniMap_003",
+    "characterHeight": 9.199999809265137,
+    "summonHeight": 9.199999809265137,
+    "bgm": 103
+  },
+  {
+    "id": 5,
+    "assetName": "Map_005",
+    "miniMapName": "MiniMap_005",
+    "characterHeight": 11.0,
+    "summonHeight": 11.0,
+    "bgm": 151
+  },
+  {
+    "id": 4,
+    "assetName": "Map_004",
+    "miniMapName": "MiniMap_004",
+    "characterHeight": 3.5999999046325684,
+    "summonHeight": 3.5999999046325684,
+    "bgm": 103
+  },
+  {
+    "id": 6,
+    "assetName": "Map_006",
+    "miniMapName": "MiniMap_006",
+    "characterHeight": 9.5,
+    "summonHeight": 9.5,
+    "bgm": 153
+  },
+  {
+    "id": 11,
+    "assetName": "Map_011",
+    "miniMapName": "MiniMap_011",
+    "characterHeight": 12.199999809265137,
+    "summonHeight": 12.0,
+    "bgm": 159
+  },
+  {
+    "id": 999,
+    "assetName": "Map_999",
+    "miniMapName": "MiniMap_003",
+    "characterHeight": 9.5,
+    "summonHeight": 9.5,
+    "bgm": 103
+  },
+  {
+    "id": 9,
+    "assetName": "Map_009",
+    "miniMapName": "MiniMap_009",
+    "characterHeight": 80.5,
+    "summonHeight": 80.5,
+    "bgm": 157
+  },
+  {
+    "id": 21,
+    "assetName": "Map_021",
+    "miniMapName": "MiniMap_007",
+    "characterHeight": 4.0,
+    "summonHeight": 4.0,
+    "bgm": 154
+  },
+  {
+    "id": 7,
+    "assetName": "Map_007",
+    "miniMapName": "MiniMap_007",
+    "characterHeight": 3.5999999046325684,
+    "summonHeight": 3.5999999046325684,
+    "bgm": 154
+  },
+  {
+    "id": 8,
+    "assetName": "Map_008",
+    "miniMapName": "MiniMap_008",
+    "characterHeight": 43.0,
+    "summonHeight": 43.0,
+    "bgm": 155
+  },
+  {
+    "id": 10,
+    "assetName": "Map_010",
+    "miniMapName": "MiniMap_010",
+    "characterHeight": 43.29999923706055,
+    "summonHeight": 43.29999923706055,
+    "bgm": 158
+  },
+  {
+    "id": 12,
+    "assetName": "Map_012",
+    "miniMapName": "MiniMap_012",
+    "characterHeight": 21.5,
+    "summonHeight": 21.299999237060547,
+    "bgm": 160
+  },
+  {
+    "id": 13,
+    "assetName": "Map_013",
+    "characterHeight": 34.0,
+    "summonHeight": 33.79999923706055,
+    "bgm": 161
+  },
+  {
+    "id": 14,
+    "assetName": "Map_014",
+    "characterHeight": 34.0,
+    "summonHeight": 33.79999923706055,
+    "bgm": 162
+  },
+  {
+    "id": 15,
+    "assetName": "Map_015",
+    "miniMapName": "MiniMap_015",
+    "characterHeight": 0.699999988079071,
+    "summonHeight": 0.5,
+    "bgm": 164
+  },
+  {
+    "id": 16,
+    "assetName": "Map_016",
+    "miniMapName": "MiniMap_016",
+    "characterHeight": 1.5,
+    "summonHeight": 1.5,
+    "bgm": 167
+  },
+  {
+    "id": 17,
+    "assetName": "Map_017",
+    "miniMapName": "MiniMap_017",
+    "characterHeight": 13.899999618530273,
+    "summonHeight": 13.899999618530273,
+    "bgm": 169
+  },
+  {
+    "id": 19,
+    "assetName": "Map_019",
+    "miniMapName": "MiniMap_019",
+    "characterHeight": 14.25,
+    "summonHeight": 14.25,
+    "bgm": 173
+  },
+  {
+    "id": 20,
+    "assetName": "Map_020",
+    "miniMapName": "MiniMap_020",
+    "characterHeight": 13.75,
+    "summonHeight": 13.75,
+    "bgm": 174
+  },
+  {
+    "id": 22,
+    "assetName": "Map_022",
+    "miniMapName": "MiniMap_019",
+    "characterHeight": 15.100000381469727,
+    "summonHeight": 15.100000381469727,
+    "bgm": 173
+  },
+  {
+    "id": 23,
+    "assetName": "Map_023",
+    "miniMapName": "MiniMap_023",
+    "characterHeight": 3.700000047683716,
+    "summonHeight": 3.700000047683716,
+    "bgm": 176
+  },
+  {
+    "id": 101,
+    "assetName": "Map_103",
+    "bgm": 154
+  },
+  {
+    "id": 102,
+    "assetName": "Map_102",
+    "characterHeight": 11.5,
+    "summonHeight": 11.5,
+    "bgm": 159
+  },
+  {
+    "id": 103,
+    "assetName": "Map_103",
+    "bgm": 154
+  },
+  {
+    "id": 104,
+    "assetName": "Map_104",
+    "bgm": 154
+  },
+  {
+    "id": 1001,
+    "assetName": "Map_1001",
+    "characterHeight": 9.199999809265137,
+    "summonHeight": 9.199999809265137,
+    "bgm": 103
+  },
+  {
+    "id": 1002,
+    "assetName": "Map_1002",
+    "bgm": 154
+  }
+]

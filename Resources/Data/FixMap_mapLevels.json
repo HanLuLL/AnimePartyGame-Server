@@ -1,0 +1,184 @@
+[
+  {
+    "id": 82007,
+    "fixMapMapLevelConfigureItems": [
+      {
+        "beginTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "index": 1,
+        "beginTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "index": 2,
+        "beginTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "index": 3,
+        "beginTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      },
+      {
+        "index": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        },
+        "beginTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1779307200
+            ]
+          }
+        },
+        "endTimeMutator": {
+          "_unknown": {
+            "field_1": [
+              1782316799
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 82008,
+    "fixMapMapLevelConfigureItems": [
+      {},
+      {
+        "index": 1
+      },
+      {
+        "index": 2
+      },
+      {
+        "index": 3
+      },
+      {
+        "index": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1751612399
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1768579199
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 82010,
+    "fixMapMapLevelConfigureItems": [
+      {},
+      {
+        "index": 1
+      },
+      {
+        "index": 2
+      },
+      {
+        "index": 3
+      },
+      {
+        "index": 4,
+        "beginTime": {
+          "_unknown": {
+            "field_1": [
+              1773644399
+            ]
+          }
+        },
+        "endTime": {
+          "_unknown": {
+            "field_1": [
+              1779292799
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": 82016,
+    "fixMapMapLevelConfigureItems": [
+      {},
+      {
+        "index": 1
+      },
+      {
+        "index": 2
+      },
+      {
+        "index": 3
+      }
+    ]
+  }
+]

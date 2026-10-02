@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "banTime": 300,
+    "readyTime": 5,
+    "afkLimit": 11
+  }
+]

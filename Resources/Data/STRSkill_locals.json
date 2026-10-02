@@ -1,0 +1,1838 @@
+[
+  {
+    "id": 10101,
+    "simplified": "网络购物"
+  },
+  {
+    "id": 10201,
+    "simplified": "麻烦制造者"
+  },
+  {
+    "id": 10301,
+    "simplified": "铁处女"
+  },
+  {
+    "id": 10401,
+    "simplified": "忍术连击"
+  },
+  {
+    "id": 10501,
+    "simplified": "真的生气了"
+  },
+  {
+    "id": 10601,
+    "simplified": "嘬你一口"
+  },
+  {
+    "id": 10701,
+    "simplified": "熊孩子特权"
+  },
+  {
+    "id": 10702,
+    "simplified": "熊孩子特权"
+  },
+  {
+    "id": 10801,
+    "simplified": "商品补货"
+  },
+  {
+    "id": 10901,
+    "simplified": "过来吧你"
+  },
+  {
+    "id": 10902,
+    "simplified": "过来吧你"
+  },
+  {
+    "id": 11001,
+    "simplified": "搞事情"
+  },
+  {
+    "id": 11002,
+    "simplified": "大吃特吃"
+  },
+  {
+    "id": 11101,
+    "simplified": "暗影融合"
+  },
+  {
+    "id": 11201,
+    "simplified": "附着粘液"
+  },
+  {
+    "id": 11202,
+    "simplified": "治愈粘液"
+  },
+  {
+    "id": 11301,
+    "simplified": "运功"
+  },
+  {
+    "id": 11302,
+    "simplified": "运功"
+  },
+  {
+    "id": 11401,
+    "simplified": "宿命回响"
+  },
+  {
+    "id": 11402,
+    "simplified": "虚弱印记"
+  },
+  {
+    "id": 11501,
+    "simplified": "樱花裂空斩"
+  },
+  {
+    "id": 11502,
+    "simplified": "樱花裂空斩"
+  },
+  {
+    "id": 11601,
+    "simplified": "女王特权"
+  },
+  {
+    "id": 11701,
+    "simplified": "能量过载"
+  },
+  {
+    "id": 11801,
+    "simplified": "强者怜悯"
+  },
+  {
+    "id": 11802,
+    "simplified": "强者怜悯"
+  },
+  {
+    "id": 11901,
+    "simplified": "无可阻挡"
+  },
+  {
+    "id": 11902,
+    "simplified": "无可阻挡"
+  },
+  {
+    "id": 12001,
+    "simplified": "远程侵入"
+  },
+  {
+    "id": 12002,
+    "simplified": "远程侵入"
+  },
+  {
+    "id": 12101,
+    "simplified": "活体书页"
+  },
+  {
+    "id": 12102,
+    "simplified": "活体书页"
+  },
+  {
+    "id": 12201,
+    "simplified": "轨道轰炸"
+  },
+  {
+    "id": 12202,
+    "simplified": "轨道轰炸"
+  },
+  {
+    "id": 12301,
+    "simplified": "白泽赐福"
+  },
+  {
+    "id": 12302,
+    "simplified": "白泽赐福"
+  },
+  {
+    "id": 12401,
+    "simplified": "降神"
+  },
+  {
+    "id": 12402,
+    "simplified": "降神"
+  },
+  {
+    "id": 12501,
+    "simplified": "弱点解析"
+  },
+  {
+    "id": 12502,
+    "simplified": "弱点反击"
+  },
+  {
+    "id": 12601,
+    "simplified": "连锁反应"
+  },
+  {
+    "id": 12602,
+    "simplified": "连锁反应"
+  },
+  {
+    "id": 12701,
+    "simplified": "隐匿行动"
+  },
+  {
+    "id": 12702,
+    "simplified": "隐匿行动"
+  },
+  {
+    "id": 12801,
+    "simplified": "阻拦冲撞"
+  },
+  {
+    "id": 12802,
+    "simplified": "阻拦冲撞"
+  },
+  {
+    "id": 12901,
+    "simplified": "魔域转化"
+  },
+  {
+    "id": 12902,
+    "simplified": "魔域转化"
+  },
+  {
+    "id": 30101,
+    "simplified": "网络天使"
+  },
+  {
+    "id": 30201,
+    "simplified": "感情过量摄入"
+  },
+  {
+    "id": 30301,
+    "simplified": "调制饮料"
+  },
+  {
+    "id": 30401,
+    "simplified": "真正的我"
+  },
+  {
+    "id": 30501,
+    "simplified": "飘浮魔法"
+  },
+  {
+    "id": 30601,
+    "simplified": "怪力投掷"
+  },
+  {
+    "id": 100301,
+    "simplified": "吐息"
+  },
+  {
+    "id": 100401,
+    "simplified": "火枪打击"
+  },
+  {
+    "id": 100501,
+    "simplified": "召唤鲨鱼"
+  },
+  {
+    "id": 101001,
+    "simplified": "毒性攻击"
+  },
+  {
+    "id": 101101,
+    "simplified": "灵体降临"
+  },
+  {
+    "id": 101301,
+    "simplified": "步步高升"
+  },
+  {
+    "id": 101401,
+    "simplified": "过节就是要放烟花！"
+  },
+  {
+    "id": 101501,
+    "simplified": "炒热气氛"
+  },
+  {
+    "id": 101601,
+    "simplified": "不安全燃放"
+  },
+  {
+    "id": 101701,
+    "simplified": "守护宝珠"
+  },
+  {
+    "id": 101801,
+    "simplified": "指示"
+  },
+  {
+    "id": 101901,
+    "simplified": "下午茶时间"
+  },
+  {
+    "id": 102201,
+    "simplified": "远程飞弹"
+  },
+  {
+    "id": 102501,
+    "simplified": "海王祝福"
+  },
+  {
+    "id": 102601,
+    "simplified": "连锁反应"
+  },
+  {
+    "id": 102701,
+    "simplified": "召唤眷属"
+  },
+  {
+    "id": 103001,
+    "simplified": "眷族支援"
+  },
+  {
+    "id": 103101,
+    "simplified": "尖刺风暴"
+  },
+  {
+    "id": 103301,
+    "simplified": "身体改造"
+  },
+  {
+    "id": 103501,
+    "simplified": "妙手神医"
+  },
+  {
+    "id": 103701,
+    "simplified": "连锁反应"
+  },
+  {
+    "id": 104001,
+    "simplified": "强制改造"
+  },
+  {
+    "id": 104101,
+    "simplified": "战缚魂契"
+  },
+  {
+    "id": 104201,
+    "simplified": "怨毒噬骨"
+  },
+  {
+    "id": 104301,
+    "simplified": "疾驰"
+  },
+  {
+    "id": 104411,
+    "simplified": "遗落彩羽"
+  },
+  {
+    "id": 104501,
+    "simplified": "仙力反噬"
+  },
+  {
+    "id": 104601,
+    "simplified": "斗艳"
+  },
+  {
+    "id": 104611,
+    "simplified": "百鸟之姿"
+  },
+  {
+    "id": 104701,
+    "simplified": "鸳鸯连理"
+  },
+  {
+    "id": 104711,
+    "simplified": "连理之绊"
+  },
+  {
+    "id": 104801,
+    "simplified": "连理试炼"
+  },
+  {
+    "id": 104811,
+    "simplified": "孤寂"
+  },
+  {
+    "id": 104901,
+    "simplified": "百鸟试炼"
+  },
+  {
+    "id": 104911,
+    "simplified": "扩散之焰"
+  },
+  {
+    "id": 105301,
+    "simplified": "灼翼"
+  },
+  {
+    "id": 105311,
+    "simplified": "浴火"
+  },
+  {
+    "id": 105312,
+    "simplified": "灰烬"
+  },
+  {
+    "id": 105401,
+    "simplified": "大烟花不安全燃放"
+  },
+  {
+    "id": 105501,
+    "simplified": "过节就是要放更多烟花！"
+  },
+  {
+    "id": 105701,
+    "simplified": "超频"
+  },
+  {
+    "id": 105801,
+    "simplified": "无机演算"
+  },
+  {
+    "id": 106101,
+    "simplified": "黄牌警告"
+  },
+  {
+    "id": 106102,
+    "simplified": "红牌惩罚"
+  },
+  {
+    "id": 106201,
+    "simplified": "标枪投掷"
+  },
+  {
+    "id": 106401,
+    "simplified": "大数据分析"
+  },
+  {
+    "id": 106501,
+    "simplified": "物理主义者"
+  },
+  {
+    "id": 106601,
+    "simplified": "洞悉射线"
+  },
+  {
+    "id": 106701,
+    "simplified": "罪证质疑"
+  },
+  {
+    "id": 106702,
+    "simplified": "全员有罪"
+  },
+  {
+    "id": 107001,
+    "simplified": "探囊妙手"
+  },
+  {
+    "id": 202601,
+    "simplified": "蛟之吻"
+  },
+  {
+    "id": 202701,
+    "simplified": "葫芦佳酿"
+  },
+  {
+    "id": 101010,
+    "simplified": "远程打开商店，购买卡牌。"
+  },
+  {
+    "id": 102010,
+    "simplified": "本回合停留后，额外触发[color=#91e1ff]1[/color]次事件。"
+  },
+  {
+    "id": 102020,
+    "simplified": "从[color=#91e1ff]2[/color]个随机事件中选择一个立刻发动。"
+  },
+  {
+    "id": 103010,
+    "simplified": "使用主动技能后，无法被挑战并免疫陷阱，持续[color=#91e1ff]1[/color]轮。自身没有触发被动时，额外获得被动效果。"
+  },
+  {
+    "id": 104010,
+    "simplified": "本回合出牌数[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 105010,
+    "simplified": "被动技能全取最大值增加，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 106010,
+    "simplified": "使用主动技能时，如果当前生命值超过生命值上限的50%则受到[color=#91e1ff]3[/color]点伤害。战斗造成伤害后，回复[color=#91e1ff]伤害量50%[/color]的生命值，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 106020,
+    "simplified": "战斗造成伤害后，回复伤害量[color=#91e1ff]50%[/color]的生命值，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 107010,
+    "simplified": "指定8格内的一个敌方角色，夺取随机[color=#91e1ff]1[/color]张卡牌。如果这张卡牌是效果牌则获得鼠鼠护盾。"
+  },
+  {
+    "id": 107020,
+    "simplified": "指定一名角色获取[color=#91e1ff]1[/color]张卡牌并获得鼠鼠护盾。鼠鼠护盾会使目标下次受到伤害[color=#94FF46]-99[/color]。"
+  },
+  {
+    "id": 108010,
+    "simplified": "丢弃全部手牌，随后获得[color=#91e1ff]原手牌数量+1[/color]张卡牌。"
+  },
+  {
+    "id": 109010,
+    "simplified": "拉取7格内的一个敌方角色到自身所在格，造成[color=#91e1ff]1[/color]点伤害，并使其移动速度[color=#FF4646]-2[/color]，持续[color=#91e1ff]1[/color]次移动。"
+  },
+  {
+    "id": 109020,
+    "simplified": "拉取7格内的一个怪物到自身所在格，造成[color=#91e1ff]5[/color]点伤害。"
+  },
+  {
+    "id": 110010,
+    "simplified": "获得[Astral=Card:20009][/Astral]或[Astral=Card:20015][/Astral]中的随机[color=#91e1ff]1[/color]张。"
+  },
+  {
+    "id": 110020,
+    "simplified": "获得[Astral=Card:20002][/Astral]或[Astral=Card:20014][/Astral]中的随机[color=#91e1ff]1[/color]张。"
+  },
+  {
+    "id": 111010,
+    "simplified": "吸收所有影子，每吸收一个影子使自身攻击力[color=#94FF46]+1[/color]，防御力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]回合。"
+  },
+  {
+    "id": 111020,
+    "simplified": "选择一个影子进行传送，随后吸收所有影子。每吸收一个影子使自身攻击力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]回合。"
+  },
+  {
+    "id": 112010,
+    "simplified": "指定10格内的一个敌方角色，使其移动速度[color=#FF4646]-3[/color]，持续[color=#91e1ff]2[/color]回合。"
+  },
+  {
+    "id": 112020,
+    "simplified": "指定10格内的一个角色，该角色获得[color=#91e1ff]3[/color]层治愈。"
+  },
+  {
+    "id": 112030,
+    "simplified": "指定一个角色，该角色获得[color=#91e1ff]3[/color]层治愈，使其4格内的所有怪物下次移动速度[color=#FF4646]-3[/color]。"
+  },
+  {
+    "id": 113010,
+    "simplified": "回复[color=#91e1ff]2[/color]点生命值。如果拥有[Astral=Buff:1131201][/Astral]，则本回合攻击力[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 113020,
+    "simplified": "回复[color=#91e1ff]2[/color]点生命值。如果拥有[Astral=Buff:1131201][/Astral]，则本回合攻击力[color=#94FF46]+4[/color]。"
+  },
+  {
+    "id": 114010,
+    "simplified": "指定一个角色，使其受到伤害[color=#FF4646]+1[/color]，持续[color=#91e1ff]2[/color]回合。\n如果目标在持续期间被击倒，则蓝海晴获得[color=#91e1ff]4[/color]星币。如果持续期间内未被击倒，则目标回复[color=#91e1ff]4[/color]点生命。"
+  },
+  {
+    "id": 114020,
+    "simplified": "指定一个怪物，使其受到伤害[color=#FF4646]+1[/color]，击倒该怪物使蓝海晴获得[color=#91e1ff]3[/color]星币，持续[color=#91e1ff]2[/color]回合。"
+  },
+  {
+    "id": 115010,
+    "simplified": "指定4格内的一个敌方角色，造成[color=#91e1ff]2[/color]点伤害并获得[color=#91e1ff]1[/color]层[Astral=Buff:1150101][/Astral]。"
+  },
+  {
+    "id": 115020,
+    "simplified": "指定4格内的一个怪物，造成[color=#91e1ff]2[/color]点伤害并获得[color=#91e1ff]1[/color]层[Astral=Buff:1150101][/Astral]。"
+  },
+  {
+    "id": 115030,
+    "simplified": "指定6格内的一个怪物，造成[color=#91e1ff]2[/color]点伤害并获得[color=#91e1ff]1[/color]层[Astral=Buff:1150101][/Astral]。\n使用主动技能时，如果[Astral=Buff:1150101][/Astral]层数等于3，则改为造成[color=#91e1ff]2[/color]点伤害并消耗[color=#91e1ff]2[/color]层[Astral=Buff:1150101][/Astral]，获得[color=#91e1ff]1[/color]张[Astral=Card:10007][/Astral]。"
+  },
+  {
+    "id": 116010,
+    "simplified": "获得[color=#91e1ff]3[/color]张临时卡牌。临时卡牌会在回合结束时自动丢弃。"
+  },
+  {
+    "id": 117010,
+    "simplified": "使用主动技能后，防御力[color=#FF4646]-3[/color]，移动速度[color=#94FF46]+3[/color]，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 117020,
+    "simplified": "使用主动技能后，防御力[color=#FF4646]-3[/color]，移动速度[color=#94FF46]+3[/color]，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 118010,
+    "simplified": "选择[color=#91e1ff]1-3[/color]张卡牌给予一个敌方角色，夺取目标[color=#91e1ff]给予牌数量*3[/color]的星币。"
+  },
+  {
+    "id": 118020,
+    "simplified": "选择[color=#91e1ff]1-3[/color]张卡牌给予一个友方角色，获取[color=#91e1ff]给予牌数量[/color]的星币。"
+  },
+  {
+    "id": 119010,
+    "simplified": "本回合移动骰点变为投[color=#91e1ff]2[/color]枚[color=#91e1ff]6[/color]面的骰子，移动时无法触发战斗，但会对经过的敌方角色和怪物造成[color=#91e1ff]移动步数50%[/color]的伤害。"
+  },
+  {
+    "id": 119020,
+    "simplified": "本回合移动骰点变为投[color=#91e1ff]2[/color]枚[color=#91e1ff]6[/color]面的骰子，移动时无法触发战斗，但会对经过的怪物造成[color=#91e1ff]2+自身攻击力[/color]的伤害。"
+  },
+  {
+    "id": 120010,
+    "simplified": "远程挑战[color=#91e1ff]6[/color]格外的一个敌方角色，本次交战将不会触发被动技能的弃牌效果。"
+  },
+  {
+    "id": 120020,
+    "simplified": "远程挑战一个怪物，本次交战将不会触发被动技能的弃牌效果。如果目标距离南希露超过[color=#91e1ff]2[/color]格，则本次交战不会被反击。"
+  },
+  {
+    "id": 121010,
+    "simplified": "获得[color=#91e1ff]1[/color]张[Astral=Card:20030][/Astral]；效果牌射程[color=#94FF46]+3[/color]，持续[color=#91e1ff]1[/color]回合。"
+  },
+  {
+    "id": 121020,
+    "simplified": "获得[color=#91e1ff]1[/color]张[Astral=Card:20031][/Astral]；效果牌射程[color=#94FF46]+3[/color]，持续[color=#91e1ff]1[/color]回合。"
+  },
+  {
+    "id": 122010,
+    "simplified": "丢弃所有手牌，每丢弃[color=#91e1ff]2[/color]张，对随机敌方角色造成[color=#91e1ff]1[/color]次[color=#91e1ff]2[/color]点伤害。"
+  },
+  {
+    "id": 122020,
+    "simplified": "丢弃所有卡牌，每丢弃2张，对6格内的随机怪物造成[color=#91e1ff]1[/color]次[color=#91e1ff]3[/color]点伤害的【轨道轰炸】。丢弃的卡牌中每有3点费用，【轨道轰炸】便会增加[color=#91e1ff]1[/color]点伤害。"
+  },
+  {
+    "id": 122030,
+    "simplified": "传送到3格范围内的地块，随后丢弃所有卡牌，每丢弃2张，对6格内的随机怪物造成[color=#91e1ff]1[/color]次[color=#91e1ff]3[/color]点伤害的【轨道轰炸】。丢弃的卡牌中每有3点费用，【轨道轰炸】便会增加[color=#91e1ff]1[/color]点伤害。"
+  },
+  {
+    "id": 123010,
+    "simplified": "自身获得[color=#91e1ff]治疗溢出量[/color]的星币，持续[color=#91e1ff]1[/color]回合。获得[color=#91e1ff]1[/color]张[Astral=Card:20027][/Astral]并将手牌中所有的[Astral=Card:20028][/Astral]转化为[Astral=Card:20027][/Astral]。"
+  },
+  {
+    "id": 123020,
+    "simplified": "指定一个角色施加[Astral=Buff:1230201][/Astral]，目标增加[color=#91e1ff]治疗溢出量[/color]的攻击力，持续[color=#91e1ff]1[/color]回合。获得[color=#91e1ff]1[/color]张[Astral=Card:20027][/Astral]且将手牌中所有的[Astral=Card:20029][/Astral]转化为[Astral=Card:20027][/Astral]。"
+  },
+  {
+    "id": 124010,
+    "simplified": "指定一个角色施加[Astral=Buff:1240102][/Astral]，本轮自身增加[Astral=Buff:1240102][/Astral]目标的攻击力与防御力。[Astral=Buff:1240102][/Astral]持续[color=#91e1ff]1[/color]回合。"
+  },
+  {
+    "id": 124020,
+    "simplified": "指定一个角色施加[Astral=Buff:1240202][/Astral]，本轮自身增加[Astral=Buff:1240202][/Astral]目标[color=#91e1ff]50%[/color]的攻击力与防御力。[Astral=Buff:1240202][/Astral]目标攻击后，照会消耗[color=#91e1ff]1[/color]层[Astral=Buff:1241201][/Astral]并进行追击，[Astral=Buff:1240202][/Astral]持续[color=#91e1ff]1[/color]回合。"
+  },
+  {
+    "id": 125010,
+    "simplified": "指定一个敌方角色施加[Astral=Buff:1250101][/Astral]。"
+  },
+  {
+    "id": 125020,
+    "simplified": "指定一个怪物施加[Astral=Buff:1250201][/Astral]。\n如果拥有[Astral=Buff:1250201][/Astral]的怪物挑战摩西，则摩西将进行反击。"
+  },
+  {
+    "id": 126010,
+    "simplified": "丢弃4格内所有敌方角色的[color=#91e1ff]1[/color]张随机手牌。使用主动技能时，如果目标的手牌数少于4张，额外造成[color=#91e1ff]2[/color]点伤害。"
+  },
+  {
+    "id": 126020,
+    "simplified": "自身获得[color=#91e1ff]1[/color]张[Astral=Card:10012][/Astral]，并使得5格内的所有友方角色获得[color=#91e1ff]1[/color]张卡牌，如果目标的手牌数量少于4张，则会额外获得[color=#91e1ff]1[/color]张卡牌。"
+  },
+  {
+    "id": 127010,
+    "simplified": "指定一个敌方角色施加[Astral=Buff:1270101][/Astral]与[color=#91e1ff]2[/color]层[Astral=Buff:10006][/Astral]。\n拥有[Astral=Buff:1270101][/Astral]的角色被击倒后，获得[color=#91e1ff]5[/color]星币。"
+  },
+  {
+    "id": 127020,
+    "simplified": "指定一个怪物施加[Astral=Buff:1270201][/Astral]与[color=#91e1ff]1[/color]层[Astral=Buff:10006][/Astral]，并获得[color=#91e1ff]目标标记层数*2[/color]的星币。"
+  },
+  {
+    "id": 128010,
+    "simplified": "下次移动改为冲锋移动。在1-5中选择一个数字，作为下次冲锋移动的最终点数。\n冲锋时挟持经过的所有敌方角色，使挟持的角色防御力[color=#FF4646]-3[/color]，持续[color=#91e1ff]1[/color]轮。停留后依次决定是否挑战他们。"
+  },
+  {
+    "id": 128020,
+    "simplified": "下次移动改为冲锋移动。在1-7中选择一个数字，作为下次冲锋移动的最终点数。\n冲锋时挟持经过的所有怪物，停留后依次决定是否挑战它们。如果冲锋时经过了[Astral=Card:20033][/Astral]则使挟持的怪物防御力[color=#FF4646]-2[/color]，自身攻击力[color=#94FF46]+2[/color]，持续[color=#91e1ff]2[/color]轮。"
+  },
+  {
+    "id": 129010,
+    "simplified": "选定4格内的一个地块，生成[color=#91e1ff]1[/color]个魔渊触须，并将该地块[color=#91e1ff]1[/color]格内的所有地块临时转化为魔渊区域。随后，激活魔渊区域内的所有魔渊触须。\n魔渊区域：对以任何形式进入魔渊区域的敌方单位施加下次移动速度[color=#FF4646]-2[/color]；此外，一轮一次，使移动进入魔渊区域的敌方角色停止移动。魔渊区域在赛克斯回合开始时消失。"
+  },
+  {
+    "id": 129020,
+    "simplified": "选定4格内的一个地块，生成[color=#91e1ff]1[/color]个魔渊触须，并将该地块[color=#91e1ff]2[/color]格内的所有地块临时转化为魔渊区域。随后，激活魔渊区域内的所有魔渊触须。\n魔渊区域：对以任何形式进入魔渊区域的怪物施加下次移动速度[color=#FF4646]-2[/color]。魔渊区域在赛克斯回合开始时消失。"
+  },
+  {
+    "id": 301010,
+    "simplified": "获得[color=#91e1ff]2[/color]星币，每使得一个角色或怪物成为【粉丝】，额外获得[color=#91e1ff]1[/color]星币，一次技能最多获得[color=#91e1ff]7[/color]星币。如果【粉丝】数量大于等于3个，则额外回复[color=#91e1ff]3[/color]点生命值。"
+  },
+  {
+    "id": 301020,
+    "simplified": "获得[color=#91e1ff]1[/color]星币，每使得一个怪物成为【粉丝】，额外获得[color=#91e1ff]1[/color]星币，一次技能最多获得[color=#91e1ff]7[/color]星币。如果【粉丝】数量大于等于3个，则额外回复[color=#91e1ff]3[/color]点生命值。"
+  },
+  {
+    "id": 301030,
+    "simplified": "获得[color=#91e1ff]1[/color]星币，每使得一个怪物成为【粉丝】，额外获得[color=#91e1ff]1[/color]星币，一次技能最多获得[color=#91e1ff]10[/color]星币。如果【粉丝】数量大于等于3个，则额外回复[color=#91e1ff]3[/color]点生命值。如果粉丝数量大于等于9个，则使场上所有粉丝攻击力永久[color=#FF4646]-1[/color](无法叠加)，并使其他友方角色获得[color=#91e1ff]3[/color]星币。"
+  },
+  {
+    "id": 302010,
+    "simplified": "回复当前[Astral=Buff:3021101][/Astral]层数的生命值，获得[Astral=Buff:3021101][/Astral]层数的移动速度，持续[color=#91e1ff]1[/color]回合。回合结束时扣除[color=#91e1ff]4[/color]层[Astral=Buff:3021101][/Astral]。"
+  },
+  {
+    "id": 303010,
+    "simplified": "选择3张手牌，根据所选手牌类型对自身依次发动效果：\n效果牌或诅咒牌：恢复[color=#91e1ff]1[/color]点生命值。\n攻击牌：攻击力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]回合。\n防御牌：防御力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]回合。\n随后丢弃这[color=#91e1ff]3[/color]张手牌并获得等量卡牌。"
+  },
+  {
+    "id": 303020,
+    "simplified": "选择3张手牌，根据所选手牌类型对一个角色依次发动效果：\n效果牌或诅咒牌：恢复[color=#91e1ff]1[/color]点生命值。\n攻击牌：攻击力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]回合。\n防御牌：防御力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]回合。\n随后丢弃这[color=#91e1ff]3[/color]张手牌并获得等量卡牌。"
+  },
+  {
+    "id": 304010,
+    "simplified": "恢复[color=#91e1ff]1[/color]点生命值，下次移动时，可以自由选择移动方向，\n使用技能时，如果[Astral=Buff:3041101][/Astral]已达到5层，则本回合使自身增加[color=#91e1ff]当前防御力[/color]的攻击力，随后消耗所有[Astral=Buff:3041101][/Astral]。"
+  },
+  {
+    "id": 304020,
+    "simplified": "传送至一个友方角色的位置并为双方恢复[color=#91e1ff]1[/color]点生命值。本回合经过友方角色时，双方攻击力[color=#94FF46]+1[/color]（无法叠加）。\n使用技能时，如果[Astral=Buff:3041201][/Astral]已达到5层，消耗所有[Astral=Buff:3041201][/Astral]，本回合自身增加[color=#91e1ff]当前防御力[/color]的攻击力。"
+  },
+  {
+    "id": 305010,
+    "simplified": "获得[Astral=Buff:3050101][/Astral]，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 305020,
+    "simplified": "获得[Astral=Buff:3050101][/Astral]，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 306010,
+    "simplified": "将2格内的所有敌对角色扔向5格内的一个地块，随后对该地块的所有敌对角色造成[color=#91e1ff]2[/color]点伤害。"
+  },
+  {
+    "id": 306020,
+    "simplified": "将3格内的所有怪物扔向7格内的一个地块，随后对该地块的所有怪物造成[color=#91e1ff]2[/color]点伤害。"
+  },
+  {
+    "id": 1003010,
+    "simplified": "对仇恨最多的角色造成[color=#91e1ff]3[/color]点伤害  。"
+  },
+  {
+    "id": 1004010,
+    "simplified": "对生命值最多的角色造成[color=#91e1ff]4[/color]点伤害  。"
+  },
+  {
+    "id": 1005010,
+    "simplified": "每3回合，在附近召唤一只鲨鱼海盗  。"
+  },
+  {
+    "id": 1010010,
+    "simplified": "指定7格内生命值最高的一个角色，造成[color=#91e1ff]2[/color]点伤害，并施加[Astral=Buff:10081102][/Astral]。"
+  },
+  {
+    "id": 1011010,
+    "simplified": "随机召唤一只刀剑或长戟灵体。"
+  },
+  {
+    "id": 1013010,
+    "simplified": "指定6格内距离最近的一个爆竹呱呱或三联爆竹呱，使其获得[color=#91e1ff]2[/color]层[Astral=Buff:10131101][/Astral]。"
+  },
+  {
+    "id": 1014010,
+    "simplified": "召唤一只爆竹呱呱。"
+  },
+  {
+    "id": 1015010,
+    "simplified": "使4格内的所有怪物，攻击力[color=#94FF46]+1[/color]，防御力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1016010,
+    "simplified": "指定4格内生命值最高的一个角色，造成自身攻击力的伤害。"
+  },
+  {
+    "id": 1017010,
+    "simplified": "指定5格内随机一个怪物，防御力[color=#94FF46]+9[/color]，持续至目标下次受到伤害。"
+  },
+  {
+    "id": 1018010,
+    "simplified": "指定距离最近的一个角色获得1张[Astral=Card:21010][/Astral]。如果自身生命值低于50%，则改为指定两个角色。"
+  },
+  {
+    "id": 1019010,
+    "simplified": "5格内有任意茶壶，则吸收茶壶，攻击力和防御力永久[color=#94FF46]+1[/color]。5格内没有茶壶则召唤[color=#91e1ff]1[/color]个魔法茶壶，生命值低于50%时，将额外召唤一个变异茶壶。"
+  },
+  {
+    "id": 1022010,
+    "simplified": "指定5格外生命值最高的一个角色，造成[color=#91e1ff]3[/color]点伤害。"
+  },
+  {
+    "id": 1025010,
+    "simplified": "使1个未被强化的怪物攻击力[color=#94FF46]+1[/color]，防御力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1026010,
+    "simplified": "丢弃5格内所有角色的[color=#91e1ff]1[/color]张效果牌。使用主动技能时，如果目标的手牌数少于4张，额外造成[color=#91e1ff]3[/color]点伤害。"
+  },
+  {
+    "id": 1027010,
+    "simplified": "召唤[color=#91e1ff]1[/color]只金小鱼。"
+  },
+  {
+    "id": 1030010,
+    "simplified": "为天川苍鲤施加[color=#91e1ff]1[/color]层[Astral=Buff:10271101][/Astral]。"
+  },
+  {
+    "id": 1031010,
+    "simplified": "对4格内所有角色造成[color=#91e1ff]2[/color]点伤害。"
+  },
+  {
+    "id": 1033010,
+    "simplified": "指定未拥有[Astral=Buff:10009][/Astral]且距离最近的一个角色施加[color=#91e1ff]3[/color]层[Astral=Buff:10009][/Astral]，并使自身[color=#91e1ff]2[/color]格内的地块覆盖毒雾。"
+  },
+  {
+    "id": 1035010,
+    "simplified": "指定6格内未拥有[Astral=Buff:10009][/Astral]的一个角色恢复其[color=#91e1ff]1[/color]点生命，并施加[color=#91e1ff]3[/color]层[Astral=Buff:10009][/Astral]。"
+  },
+  {
+    "id": 1037010,
+    "simplified": "使所有被[Astral=Buff:10009][/Astral]的角色失去[color=#91e1ff]2[/color]点生命值，自己恢复等量生命值。"
+  },
+  {
+    "id": 1040010,
+    "simplified": "使自身获得[color=#91e1ff]4[/color]层[Astral=Buff:10009][/Astral]"
+  },
+  {
+    "id": 1041010,
+    "simplified": "指定未拥有[Astral=Buff:10091202][/Astral]的一个角色，施加[Astral=Buff:10091202][/Astral]。随后，获得X层[Astral=Buff:10410101][/Astral]。X为场上有[Astral=Buff:10091202][/Astral]角色数。"
+  },
+  {
+    "id": 1042010,
+    "simplified": "指定生命值最高的一个角色，造成[color=#91e1ff]2[/color]点伤害，并施加[Astral=Buff:10081102][/Astral]。随后对场上所有拥有[Astral=Buff:10081102][/Astral]的角色造成[color=#91e1ff]1[/color]点伤害。"
+  },
+  {
+    "id": 1054010,
+    "simplified": "指定5格内生命值最高的一个角色，对目标及附近2格内的所有角色造成自身攻击力的伤害。"
+  },
+  {
+    "id": 1055010,
+    "simplified": "如果5格范围内有2只爆竹呱呱，则将它们合成为[color=#91e1ff]1[/color]个三联爆竹呱。\n随后，召唤[color=#91e1ff]2[/color]只爆竹呱呱。\n随后，6格内每有一个怪物，使自身获得[color=#91e1ff]1[/color]层[Astral=Buff:10131101][/Astral]。"
+  },
+  {
+    "id": 1057010,
+    "simplified": "使所有智械怪物攻击力[color=#94FF46]+1[/color]、防御力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1058010,
+    "simplified": "指定距离最近的一个受伤的普通怪物，如果是非智械怪物将其转化为智械海盗鲨，如果是智械怪物恢复其生命值至生命值上限。"
+  },
+  {
+    "id": 1061010,
+    "simplified": "指定距离最远的一个角色判罚，使其下次移动速度[color=#FF4646]-2[/color]。"
+  },
+  {
+    "id": 1061020,
+    "simplified": "随机指定一个角色判罚，将该角色[color=#91e1ff]2[/color]点攻击力或防御力转移给一个非首领的随机怪物，该怪物被击倒后返还属性。"
+  },
+  {
+    "id": 1062010,
+    "simplified": "4格内没有角色才能使用主动技能，指定生命值最高的一个角色，造成[color=#91e1ff]2[/color]点伤害。\n目标角色未拥有[Astral=Buff:10012][/Astral]时，额外造成[color=#91e1ff]1[/color]点伤害。"
+  },
+  {
+    "id": 1064010,
+    "simplified": "指定5格内[Astral=Buff:10012][/Astral]层数最高的角色，移除[color=#91e1ff]1[/color]层[Astral=Buff:10012][/Astral]。\n使用主动技能时，如果目标未拥有[Astral=Buff:10012][/Astral]，使其防御力[color=#FF4646]-2[/color]，持续[color=#91e1ff]2[/color]轮。"
+  },
+  {
+    "id": 1065010,
+    "simplified": "指定[Astral=Buff:10012][/Astral]层数最高的一个角色，移除[color=#91e1ff]1[/color]层[Astral=Buff:10012][/Astral]。\n使用主动技能时，如果场上所有角色都未拥有[Astral=Buff:10012][/Astral]，则对所有角色造成[color=#91e1ff]3[/color]点伤害。"
+  },
+  {
+    "id": 1066010,
+    "simplified": "指定6格内距离最近的一个角色，造成[color=#91e1ff]4[/color]点伤害，目标角色每拥有1层[Astral=Buff:10012][/Astral]，伤害降低[color=#91e1ff]1[/color]（伤害最低为[color=#91e1ff]1[/color]）。"
+  },
+  {
+    "id": 1067010,
+    "simplified": "指定一个最近的角色，使其获得[color=#91e1ff]1[/color]张[Astral=Card:21025][/Astral]。\n本技能轮次2及以后可用，在真凶揭露后不可用。"
+  },
+  {
+    "id": 1067020,
+    "simplified": "使所有角色获得[color=#91e1ff]1[/color]层[Astral=Buff:10013][/Astral]。\n本技能真凶揭露后可用。"
+  },
+  {
+    "id": 1070010,
+    "simplified": "指定6格内星币最高的一个角色，夺取[color=#91e1ff]4[/color]星币。"
+  },
+  {
+    "id": 2026010,
+    "simplified": "指定距离最近的一个角色，使其获得[Astral=Card:10011][/Astral]。"
+  },
+  {
+    "id": 2027010,
+    "simplified": "在随机地块放置[color=#91e1ff]2[/color]个葫芦。"
+  },
+  {
+    "id": 10111,
+    "simplified": "传奇商人"
+  },
+  {
+    "id": 10211,
+    "simplified": "华点发现！"
+  },
+  {
+    "id": 10311,
+    "simplified": "鼓起勇气！"
+  },
+  {
+    "id": 10411,
+    "simplified": "复制忍者"
+  },
+  {
+    "id": 10511,
+    "simplified": "毫无主见"
+  },
+  {
+    "id": 10611,
+    "simplified": "可爱即正义"
+  },
+  {
+    "id": 10711,
+    "simplified": "鼠鼠救我！"
+  },
+  {
+    "id": 10712,
+    "simplified": "鼠鼠救我！"
+  },
+  {
+    "id": 10811,
+    "simplified": "过期回收"
+  },
+  {
+    "id": 10911,
+    "simplified": "垃圾分类"
+  },
+  {
+    "id": 10912,
+    "simplified": "回收利用"
+  },
+  {
+    "id": 11011,
+    "simplified": "有好有坏"
+  },
+  {
+    "id": 11012,
+    "simplified": "有好有坏"
+  },
+  {
+    "id": 11111,
+    "simplified": "双生之影"
+  },
+  {
+    "id": 11211,
+    "simplified": "细胞分裂"
+  },
+  {
+    "id": 11311,
+    "simplified": "养精蓄锐"
+  },
+  {
+    "id": 11312,
+    "simplified": "养精蓄锐"
+  },
+  {
+    "id": 11313,
+    "simplified": "心意相连"
+  },
+  {
+    "id": 11411,
+    "simplified": "幸运点"
+  },
+  {
+    "id": 11511,
+    "simplified": "剑气"
+  },
+  {
+    "id": 11611,
+    "simplified": "威压"
+  },
+  {
+    "id": 11711,
+    "simplified": "移动充能"
+  },
+  {
+    "id": 11811,
+    "simplified": "钞能力"
+  },
+  {
+    "id": 11812,
+    "simplified": "双赢"
+  },
+  {
+    "id": 11911,
+    "simplified": "蓄势待发"
+  },
+  {
+    "id": 12011,
+    "simplified": "被动防火墙"
+  },
+  {
+    "id": 12012,
+    "simplified": "被动防火墙"
+  },
+  {
+    "id": 12111,
+    "simplified": "调查发现"
+  },
+  {
+    "id": 12112,
+    "simplified": "调查发现"
+  },
+  {
+    "id": 12211,
+    "simplified": "物资补充"
+  },
+  {
+    "id": 12311,
+    "simplified": "福祸相倚"
+  },
+  {
+    "id": 12312,
+    "simplified": "福祸相倚"
+  },
+  {
+    "id": 12313,
+    "simplified": "完美帮手"
+  },
+  {
+    "id": 12411,
+    "simplified": "狐火"
+  },
+  {
+    "id": 12412,
+    "simplified": "狐火"
+  },
+  {
+    "id": 12511,
+    "simplified": "精密技巧"
+  },
+  {
+    "id": 12512,
+    "simplified": "精密技巧"
+  },
+  {
+    "id": 12611,
+    "simplified": "湖沼之王"
+  },
+  {
+    "id": 12612,
+    "simplified": "湖沼之王"
+  },
+  {
+    "id": 12711,
+    "simplified": "关键线索"
+  },
+  {
+    "id": 12712,
+    "simplified": "关键线索"
+  },
+  {
+    "id": 12811,
+    "simplified": "拦截者"
+  },
+  {
+    "id": 12812,
+    "simplified": "拦截者"
+  },
+  {
+    "id": 12911,
+    "simplified": "触须深渊"
+  },
+  {
+    "id": 12912,
+    "simplified": "触须深渊"
+  },
+  {
+    "id": 30111,
+    "simplified": "小天使请安"
+  },
+  {
+    "id": 30113,
+    "simplified": "一心同体"
+  },
+  {
+    "id": 30211,
+    "simplified": "无法承受的爱"
+  },
+  {
+    "id": 30213,
+    "simplified": "一心同体"
+  },
+  {
+    "id": 30311,
+    "simplified": "改变生活"
+  },
+  {
+    "id": 30411,
+    "simplified": "交际花"
+  },
+  {
+    "id": 30511,
+    "simplified": "幻想千金"
+  },
+  {
+    "id": 30513,
+    "simplified": "挚友祝福"
+  },
+  {
+    "id": 30611,
+    "simplified": "侦探出击"
+  },
+  {
+    "id": 30613,
+    "simplified": "挚友守护"
+  },
+  {
+    "id": 100111,
+    "simplified": "偷窃"
+  },
+  {
+    "id": 100112,
+    "simplified": "健步如飞"
+  },
+  {
+    "id": 100211,
+    "simplified": "抢劫"
+  },
+  {
+    "id": 100212,
+    "simplified": "出来混总是要还的"
+  },
+  {
+    "id": 100311,
+    "simplified": "刁难"
+  },
+  {
+    "id": 100312,
+    "simplified": "留一线"
+  },
+  {
+    "id": 100511,
+    "simplified": "愤怒"
+  },
+  {
+    "id": 100811,
+    "simplified": "崩解"
+  },
+  {
+    "id": 100911,
+    "simplified": "灵体辅助（刀剑）"
+  },
+  {
+    "id": 100912,
+    "simplified": "冰冷触摸"
+  },
+  {
+    "id": 100913,
+    "simplified": "奇异灵物"
+  },
+  {
+    "id": 101011,
+    "simplified": "灵体辅助（长戟）"
+  },
+  {
+    "id": 101111,
+    "simplified": "万灵合一"
+  },
+  {
+    "id": 101112,
+    "simplified": "御魂召来"
+  },
+  {
+    "id": 101311,
+    "simplified": "越战越勇"
+  },
+  {
+    "id": 101313,
+    "simplified": "气氛高潮！"
+  },
+  {
+    "id": 101411,
+    "simplified": "脆弱中枢"
+  },
+  {
+    "id": 101415,
+    "simplified": "合成呱呱"
+  },
+  {
+    "id": 101611,
+    "simplified": "未燃放爆竹"
+  },
+  {
+    "id": 101711,
+    "simplified": "腾飞"
+  },
+  {
+    "id": 101811,
+    "simplified": "怒火"
+  },
+  {
+    "id": 101911,
+    "simplified": "糖分缺失"
+  },
+  {
+    "id": 102011,
+    "simplified": "不稳定护甲"
+  },
+  {
+    "id": 102111,
+    "simplified": "脆弱护甲"
+  },
+  {
+    "id": 102311,
+    "simplified": "热茶饮品"
+  },
+  {
+    "id": 102411,
+    "simplified": "变质的饮品"
+  },
+  {
+    "id": 102611,
+    "simplified": "湖沼之王"
+  },
+  {
+    "id": 102711,
+    "simplified": "川流之主"
+  },
+  {
+    "id": 102811,
+    "simplified": "逆势而上"
+  },
+  {
+    "id": 102911,
+    "simplified": "碾压打击"
+  },
+  {
+    "id": 103111,
+    "simplified": "我搭档呢！"
+  },
+  {
+    "id": 103211,
+    "simplified": "我兄弟呢！"
+  },
+  {
+    "id": 103311,
+    "simplified": "深度改造"
+  },
+  {
+    "id": 103411,
+    "simplified": "惊吓攻击"
+  },
+  {
+    "id": 103511,
+    "simplified": "安抚糖果"
+  },
+  {
+    "id": 103611,
+    "simplified": "不稳定改造"
+  },
+  {
+    "id": 103711,
+    "simplified": "保护机制"
+  },
+  {
+    "id": 104011,
+    "simplified": "特殊装备"
+  },
+  {
+    "id": 104111,
+    "simplified": "高阶御魂（武魂灵体-戮）"
+  },
+  {
+    "id": 104211,
+    "simplified": "高阶御魂（武魂灵体-怨）"
+  },
+  {
+    "id": 105511,
+    "simplified": "稳定中枢"
+  },
+  {
+    "id": 105811,
+    "simplified": "位面体"
+  },
+  {
+    "id": 106111,
+    "simplified": "主持解说"
+  },
+  {
+    "id": 106112,
+    "simplified": "赛事主持"
+  },
+  {
+    "id": 106113,
+    "simplified": "高级人工智能"
+  },
+  {
+    "id": 106311,
+    "simplified": "自适应计算"
+  },
+  {
+    "id": 106511,
+    "simplified": "外置主脑"
+  },
+  {
+    "id": 106512,
+    "simplified": "硅基信仰"
+  },
+  {
+    "id": 106711,
+    "simplified": "无限备用躯体"
+  },
+  {
+    "id": 106712,
+    "simplified": "罪人审判"
+  },
+  {
+    "id": 106713,
+    "simplified": "真凶揭露"
+  },
+  {
+    "id": 106811,
+    "simplified": "不死之躯"
+  },
+  {
+    "id": 106812,
+    "simplified": "罪人搜寻"
+  },
+  {
+    "id": 106911,
+    "simplified": "罪恶渴求"
+  },
+  {
+    "id": 106912,
+    "simplified": "原罪茶饮"
+  },
+  {
+    "id": 107011,
+    "simplified": "盗亦有道"
+  },
+  {
+    "id": 202711,
+    "simplified": "回甘"
+  },
+  {
+    "id": 101110,
+    "simplified": "商店可购买的战斗牌数量[color=#94FF46]+1[/color]，每次进入商店可获得[color=#91e1ff]1[/color]星币。"
+  },
+  {
+    "id": 102110,
+    "simplified": "芬妮触发事件后，获得[color=#91e1ff]3[/color]星币。"
+  },
+  {
+    "id": 103110,
+    "simplified": "如果上个回合没有受到伤害，则攻击力[color=#94FF46]+3[/color]（不叠加，受伤后清除）。"
+  },
+  {
+    "id": 104110,
+    "simplified": "每使用3张效果牌，复制最后使用的那张效果牌并加入手牌。"
+  },
+  {
+    "id": 105110,
+    "simplified": "在原有的基础上每个回合浮动增加或减少属性；攻击力[color=#FF4646]-2[/color]~[color=#94FF46]+2[/color]，防御力[color=#FF4646]-2[/color]~[color=#94FF46]+2[/color]，移动速度[color=#FF4646]-2[/color]~[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 106110,
+    "simplified": "当前生命值不超过生命值上限的50%时，攻击力[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 107110,
+    "simplified": "鼠鼠帮你抵抗伤害，下次受到伤害[color=#94FF46]-3[/color]。"
+  },
+  {
+    "id": 107120,
+    "simplified": "对友方角色使用主动技能时，如果目标生命值不超过生命值上限的50%，则自身获得鼠鼠护盾并获得[color=#91e1ff]1[/color]张卡牌。"
+  },
+  {
+    "id": 108110,
+    "simplified": "每丢弃[color=#91e1ff]1[/color]张战斗牌，获得[color=#91e1ff]1[/color]星币。"
+  },
+  {
+    "id": 109110,
+    "simplified": "使用[Astral=Card:20019][/Astral]、[Astral=Card:20014][/Astral]、[Astral=Card:20002][/Astral]、[Astral=Card:20006][/Astral]时，在所在的地块放置【谜之物体】。"
+  },
+  {
+    "id": 109120,
+    "simplified": "击倒怪物后，主动技能冷却时间[color=#94FF46]-2[/color]。"
+  },
+  {
+    "id": 110110,
+    "simplified": "所有回血效果[color=#94FF46]+2[/color]，但是受到伤害也会[color=#FF4646]+1[/color] 。"
+  },
+  {
+    "id": 110120,
+    "simplified": "使用[Astral=Card:20014][/Astral]、[Astral=Card:20002][/Astral]后，恢复[color=#91e1ff]5[/color]格内所有友方角色[color=#91e1ff]2[/color]点生命值。"
+  },
+  {
+    "id": 111110,
+    "simplified": "回合开始和攻击命中时，在墨影所在的地块放置一个【影子】，持续[color=#91e1ff]2[/color]回合。敌方角色与怪物停留在影子上时受到[color=#91e1ff]1[/color]点伤害。"
+  },
+  {
+    "id": 112110,
+    "simplified": "受到伤害后，主动技能冷却时间[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 112120,
+    "simplified": "受到伤害后，获得[color=#91e1ff]1[/color]层治愈，主动技能冷却时间[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 113110,
+    "simplified": "本回合未挑战别人，则在回合结束时获得[Astral=Buff:1131201][/Astral]。自身挑战发起的战斗结束后，移除[Astral=Buff:1131201][/Astral]。"
+  },
+  {
+    "id": 113120,
+    "simplified": "本回合未挑战别人，则在回合结束时获得[color=#91e1ff]1[/color]层[Astral=Buff:1131201][/Astral]，最多拥有[color=#91e1ff]1[/color]层。自身挑战发起的战斗结束后，移除[color=#91e1ff]1[/color]层[Astral=Buff:1131201][/Astral]。"
+  },
+  {
+    "id": 113130,
+    "simplified": "使用主动技能时，姬梦朝获得[color=#91e1ff]1[/color]张[Astral=Card:20027][/Astral]。"
+  },
+  {
+    "id": 114110,
+    "simplified": "自身移动的最终点数为6时，获得[color=#91e1ff]6[/color]星币。"
+  },
+  {
+    "id": 115110,
+    "simplified": "战斗时，如果自身攻击命中或闪避成功，获得[color=#91e1ff]1[/color]层[Astral=Buff:1150101][/Astral]，最多叠加[color=#91e1ff]3[/color]层。被击倒后，清除所有[Astral=Buff:1150101][/Astral]层数。"
+  },
+  {
+    "id": 116110,
+    "simplified": "攻击时，每比敌方多一张手牌，攻击力[color=#94FF46]+1[/color]，最多[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 117110,
+    "simplified": "每累计13点移动点数，交替使自身攻击力永久[color=#94FF46]+1[/color]、防御力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 118110,
+    "simplified": "获得星币时，攻击力[color=#94FF46]+2[/color]，防御力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]轮。"
+  },
+  {
+    "id": 118120,
+    "simplified": "使友方角色获得卡牌时，双方获得[color=#91e1ff]1[/color]层星光。自身每拥有6层星光，攻击力[color=#94FF46]+1[/color]，防御力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 119110,
+    "simplified": "1回合1次，经过【保障点】后，主动技能冷却时间[color=#94FF46]-2[/color]。"
+  },
+  {
+    "id": 120110,
+    "simplified": "回合开始时，如果[color=#91e1ff]3[/color]格内没有其他敌方角色，则获得[color=#91e1ff]1[/color]张战斗牌，且自身攻击力[color=#94FF46]+1[/color]，防御力[color=#94FF46]+1[/color]，持续[color=#91e1ff]1[/color]轮。自身发起的战斗结束后，丢弃手牌中所有的战斗卡牌。"
+  },
+  {
+    "id": 120120,
+    "simplified": "回合开始时，如果[color=#91e1ff]2[/color]格内没有怪物，则获得[color=#91e1ff]1[/color]张战斗牌，并获得[Astral=Buff:1201202][/Astral]，持续[color=#91e1ff]1[/color]轮。自身挑战发起的战斗结束后，随机丢弃手牌中的[color=#91e1ff]1[/color]张战斗牌。"
+  },
+  {
+    "id": 121110,
+    "simplified": "事件触发后，获得[color=#91e1ff]1[/color]张[Astral=Card:20030][/Astral]。"
+  },
+  {
+    "id": 121120,
+    "simplified": "事件触发后，获得[color=#91e1ff]1[/color]张[Astral=Card:20031][/Astral]。 每次使用[Astral=Card:20031][/Astral]后，[Astral=Card:20031][/Astral]伤害永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 122110,
+    "simplified": "回合结束时，如果自身手牌少于6张，获得[color=#91e1ff]1[/color]张卡牌。"
+  },
+  {
+    "id": 122120,
+    "simplified": "使用轨道炮后，抽取1张战斗卡牌，对目标及附近2格内的怪物造成该战斗卡牌费用的伤害并施加[Astral=Buff:1221202][/Astral]"
+  },
+  {
+    "id": 123110,
+    "simplified": "骰点为1时，获得[color=#91e1ff]1[/color]张[Astral=Card:20028][/Astral]，骰点为6时，获得[color=#91e1ff]1[/color]张[Astral=Card:20027][/Astral]。"
+  },
+  {
+    "id": 123120,
+    "simplified": "骰点为1时，获得[color=#91e1ff]1[/color]张[Astral=Card:20029][/Astral]，骰点为6时，获得[color=#91e1ff]1[/color]张[Astral=Card:20027][/Astral]。"
+  },
+  {
+    "id": 123130,
+    "simplified": "对姬梦枫使用[Astral=Card:20027][/Astral]时，目标获得[color=#91e1ff]1[/color]层[Astral=Buff:1131201][/Astral]。"
+  },
+  {
+    "id": 124110,
+    "simplified": "使用主动技能时，夺取目标[color=#91e1ff][Astral=Buff:1241101][/Astral]层数[/color]的星币。自身或拥有[Astral=Buff:1240102][/Astral]的目标使用费用2及以上的攻击牌时，自身获得[color=#91e1ff]1[/color]层[Astral=Buff:1241101][/Astral]。"
+  },
+  {
+    "id": 124120,
+    "simplified": "自身或拥有[Astral=Buff:1240202][/Astral]的目标使用费用2及以上的攻击牌时，自身获得[color=#91e1ff]1[/color]层[Astral=Buff:1241201][/Astral]。"
+  },
+  {
+    "id": 125110,
+    "simplified": "闪避成功后，下次攻击的攻击力[color=#94FF46]+4[/color]。"
+  },
+  {
+    "id": 125120,
+    "simplified": "闪避成功或反击后，获得[color=#91e1ff]1[/color]层[Astral=Buff:1251201][/Astral]，最高叠加[color=#91e1ff]3[/color]层。"
+  },
+  {
+    "id": 126110,
+    "simplified": "受到伤害后，受到伤害[color=#94FF46]-1[/color]，攻击力[color=#94FF46]+1[/color]，持续至回合结束。"
+  },
+  {
+    "id": 126120,
+    "simplified": "使其他角色获得卡牌的时候，真梦梓获得[color=#91e1ff]1[/color]层[Astral=Buff:1261201][/Astral]。\n当[Astral=Buff:1261201][/Astral]达到[color=#91e1ff]8[/color]层时，真梦梓获得[Astral=Buff:1261204][/Astral]。\n拥有[Astral=Buff:1261204][/Astral]时，将手牌中及技能之后获得的[Astral=Card:10012][/Astral]转变为[Astral=Card:10013][/Astral]。"
+  },
+  {
+    "id": 127110,
+    "simplified": "将[Astral=EventCards:12701]【隐匿调查】[/Astral]置入地图事件池 。\n攻击拥有[Astral=Buff:10006][/Astral]的角色时，攻击力[color=#94FF46]+3[/color]。击倒拥有[Astral=Buff:10006][/Astral]的角色时，获得[color=#91e1ff]1[/color]张战斗牌。"
+  },
+  {
+    "id": 127120,
+    "simplified": "将[Astral=EventCards:12702|12703|12704|12705]【隐匿调查】[/Astral]置入地图事件池 。\n攻击拥有[Astral=Buff:10006][/Astral]的怪物时，攻击力[color=#94FF46]+3[/color]。击倒拥有[Astral=Buff:10006][/Astral]的怪物时，获得[color=#91e1ff]1[/color]张战斗牌。"
+  },
+  {
+    "id": 128110,
+    "simplified": "轮次奖励额外获得[color=#91e1ff]1[/color]张[Astral=Card:20010][/Astral]。经过[Astral=Card:20010][/Astral]后，主动技能冷却时间[color=#94FF46]-2[/color]，下次移动速度[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 128120,
+    "simplified": "自身的[Astral=Card:20010][/Astral]转变为[Astral=Card:20033][/Astral]，游戏开始时额外获得[color=#91e1ff]2[/color]张[Astral=Card:20033][/Astral]。\n经过[Astral=Card:20010][/Astral]后，获得[color=#91e1ff]1[/color]张[Astral=Card:20033][/Astral]。"
+  },
+  {
+    "id": 129110,
+    "simplified": "游戏开始时，随机在地图上生成[color=#91e1ff]5[/color]个魔渊触须。回合结束时，赛克斯激活[color=#91e1ff]2[/color]格内所有的魔渊触须。\n激活魔渊触须：魔渊触须对[color=#91e1ff]1[/color]格内的所有敌方单位造成[color=#91e1ff]1[/color]点伤害。\n魔渊触须永久存在，一个地块最多存在一个魔渊触须。"
+  },
+  {
+    "id": 129120,
+    "simplified": "自身造成伤害时，对目标施加[color=#91e1ff]1[/color]层[Astral=Buff:1291202][/Astral]，持续[color=#91e1ff]1[/color]轮。\n回合结束时，在自身所在的地块生成[color=#91e1ff]1[/color]个魔渊触须。随后，激活[color=#91e1ff]3[/color]格内所有的魔渊触须。\n激活魔渊触须：魔渊触须对[color=#91e1ff]2[/color]格内的所有怪物造成[color=#91e1ff]1[/color]点伤害，随后对其中受减速效果影响的怪物施加[color=#91e1ff]1[/color]层[Astral=Buff:1291202][/Astral]，持续[color=#91e1ff]1[/color]轮。\n魔渊触须永久存在，一个地块最多存在一个魔渊触须。"
+  },
+  {
+    "id": 301110,
+    "simplified": "攻击超天酱和被超天酱战斗攻击的角色和怪物会被施加【粉丝】状态。当角色拥有【粉丝】且攻击超天酱时，攻击力[color=#FF4646]-1[/color]。超天酱被击倒时，移除场上所有【粉丝】状态。"
+  },
+  {
+    "id": 301120,
+    "simplified": "攻击超天酱和被超天酱攻击的怪物会被施加【粉丝】状态。当怪物拥有【粉丝】且攻击超天酱时，攻击力[color=#FF4646]-1[/color]。"
+  },
+  {
+    "id": 301130,
+    "simplified": "与糖糖组队的时候，会有神奇的事情发生。"
+  },
+  {
+    "id": 302110,
+    "simplified": "受到伤害时，获得[color=#91e1ff]1[/color]层[Astral=Buff:3021101][/Astral]，最多叠加[color=#91e1ff]4[/color]层。游戏开始时，[Astral=Buff:3021101][/Astral]为[color=#91e1ff]2[/color]层。"
+  },
+  {
+    "id": 302130,
+    "simplified": "与超天酱组队的时候，会有神奇的事情发生。"
+  },
+  {
+    "id": 303110,
+    "simplified": "调制饮料时选择3种不同类型的卡牌时，吉尔获得[color=#91e1ff]3[/color]星币。\n调制饮料时选择3张同类型的卡牌时，使目标移动速度[color=#94FF46]+3[/color]，持续[color=#91e1ff]1[/color]回合。"
+  },
+  {
+    "id": 304110,
+    "simplified": "恢复生命时，获得[color=#91e1ff]1[/color]层[Astral=Buff:3041101][/Astral]，最多叠加[color=#91e1ff]5[/color]层。\n经过其他角色时，恢复双方[color=#91e1ff]1[/color]点生命值，并夺取目标[color=#91e1ff]1[/color]星币。"
+  },
+  {
+    "id": 304120,
+    "simplified": "恢复生命时，获得[color=#91e1ff]1[/color]层[Astral=Buff:3041201][/Astral]，最多叠加[color=#91e1ff]5[/color]层。\n经过其他角色时，恢复双方[color=#91e1ff]1[/color]点生命值。"
+  },
+  {
+    "id": 305110,
+    "simplified": "移动的最终点数大于等于6时，获得[color=#91e1ff]1[/color]星币。"
+  },
+  {
+    "id": 305120,
+    "simplified": "移动的最终点数大于等于6时，获得[color=#91e1ff]1[/color]星币。\n经过友方角色时，获得[color=#91e1ff]1[/color]星币和[color=#91e1ff]1[/color]层[Astral=Buff:3051201][/Astral]。如果此时拥有[Astral=Buff:3050101][/Astral]且自身星币足够，向该友方角色转账[color=#91e1ff]3[/color]星币。\n当[Astral=Buff:3051201][/Astral]达到[color=#91e1ff]7[/color]层时，远野汉娜获得[Astral=Buff:3051202][/Astral]：经过友方角色时，使该友方角色获得下次移动速度[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 305130,
+    "simplified": "经过橘雪莉时，使橘雪莉获得下次移动速度[color=#94FF46]+2[/color]和[color=#91e1ff]1[/color]层[Astral=Buff:3061201][/Astral]。"
+  },
+  {
+    "id": 306110,
+    "simplified": "主动挑战敌方角色后，获得[color=#91e1ff]1[/color]层[Astral=Buff:3061101][/Astral]，最高叠加4层。"
+  },
+  {
+    "id": 306120,
+    "simplified": "主动挑战怪物后，获得[color=#91e1ff]1[/color]层[Astral=Buff:3061201][/Astral]，最高叠加4层。"
+  },
+  {
+    "id": 306130,
+    "simplified": "如果远野汉娜在橘雪莉4格内，使远野汉娜获得受到伤害[color=#94FF46]-1[/color]。"
+  },
+  {
+    "id": 1001110,
+    "simplified": "经过角色时，夺取[color=#91e1ff]4[/color]星币，不挑战角色。"
+  },
+  {
+    "id": 1001120,
+    "simplified": "6格内没有角色时，移动点数[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 1002110,
+    "simplified": "对角色造成伤害后（反击除外），从目标身上夺取[color=#91e1ff]10%[/color]的星币（最少为[color=#91e1ff]1[/color]）。"
+  },
+  {
+    "id": 1002120,
+    "simplified": "角色击倒强盗后恢复[color=#91e1ff]2[/color]点生命值。"
+  },
+  {
+    "id": 1003110,
+    "simplified": "每回合可自由选择移动方向追击目标角色，且移动速度[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1003120,
+    "simplified": "攻击目标角色时，至少保留其[color=#91e1ff]1[/color]点生命值。"
+  },
+  {
+    "id": 1005110,
+    "simplified": "被挑战后，自身攻击力[color=#94FF46]+1[/color]，最多叠加[color=#91e1ff]3[/color]层。"
+  },
+  {
+    "id": 1008110,
+    "simplified": "移动的最终点数固定为[color=#91e1ff]3[/color]，移动中如果经过角色，则立刻自爆，对3格内的角色施加[Astral=Buff:10081102][/Astral]，持续[color=#91e1ff]3[/color]轮。"
+  },
+  {
+    "id": 1009110,
+    "simplified": "场上每存在一个刀剑灵体，为天王寺雅央提供防御力[color=#94FF46]+2[/color]。被击倒后，天王寺雅央失去[color=#91e1ff]10%[/color]生命值上限的生命值。"
+  },
+  {
+    "id": 1009120,
+    "simplified": "攻击命中后，施加[Astral=Buff:10091202][/Astral]。"
+  },
+  {
+    "id": 1009130,
+    "simplified": "被击倒后，给予击倒者[color=#91e1ff]1[/color]张[Astral=Card:21017][/Astral]。"
+  },
+  {
+    "id": 1010110,
+    "simplified": "场上每存在一个长戟灵体，为天王寺雅央提供攻击力[color=#94FF46]+2[/color]。被击倒后，天王寺雅央失去[color=#91e1ff]10%[/color]生命值上限的生命值。"
+  },
+  {
+    "id": 1011110,
+    "simplified": "场上每存在一个长戟灵体，为自身提供攻击力[color=#94FF46]+2[/color]。\n场上每存在一个刀剑灵体，为自身提供防御力[color=#94FF46]+2[/color]。\n灵体被击倒时，自身失去[color=#91e1ff]10%[/color]生命值上限的生命值。"
+  },
+  {
+    "id": 1011120,
+    "simplified": "刀剑灵体被击倒后，获得【灵体执念：刀剑】。\n长戟灵体被击倒后，获得【灵体执念：长戟】。\n最多拥有[color=#91e1ff]3[/color]层灵体执念。\n回合开始时，如果【灵体执念】达到[color=#91e1ff]3[/color]层，则会消耗所有【灵体执念】层数，并根据消耗层数类型的不同召唤【武魂灵体-戮】或【武魂灵体-怨】。"
+  },
+  {
+    "id": 1013110,
+    "simplified": "每次攻击命中，获得[color=#91e1ff]2[/color]层[Astral=Buff:10131101][/Astral]。"
+  },
+  {
+    "id": 1013130,
+    "simplified": "生命值最多降低至[color=#91e1ff]188[/color]。\n轮次开始时，如果生命值达到[color=#91e1ff]188[/color]或轮次达到[color=#91e1ff]8[/color]，和指挥平台进行一次超乎想象的合体。"
+  },
+  {
+    "id": 1014140,
+    "simplified": "生命值最多降低至[color=#91e1ff]188[/color]。\n轮次开始时，如果生命值达到[color=#91e1ff]188[/color]或轮次达到[color=#91e1ff]8[/color]，和舞狮噶唔进行一次超乎想象的合体。"
+  },
+  {
+    "id": 1014150,
+    "simplified": "回合开始时，如果4格范围内有[color=#91e1ff]2[/color]个爆竹呱呱，则将它们合成为[color=#91e1ff]1[/color]个三联爆竹呱。"
+  },
+  {
+    "id": 1014110,
+    "simplified": "经过其它单位和被其它单位经过时不会触发战斗。受到伤害后，本轮受到伤害[color=#FF4646]+1[/color]。"
+  },
+  {
+    "id": 1016110,
+    "simplified": "被击倒后，击倒者获得[color=#91e1ff]1[/color]张[Astral=Card:21009][/Astral]。"
+  },
+  {
+    "id": 1017110,
+    "simplified": "经过其它单位和被其它单位经过时不会触发战斗。"
+  },
+  {
+    "id": 1018110,
+    "simplified": "场上角色每打出3张[Astral=Card:21010][/Astral]，学院安全官攻击力永久[color=#94FF46]+1[/color]并立即召唤[color=#91e1ff]1[/color]个果冻护卫。\n学院安全官攻击拥有[Astral=Buff:2101001][/Astral]的角色时，攻击力额外[color=#94FF46]+2[/color]，交战后移除目标的[Astral=Buff:2101001][/Astral]状态。"
+  },
+  {
+    "id": 1019110,
+    "simplified": "如果本回合没有吸收茶壶，代理院长回合结束时失去[color=#91e1ff]10%[/color]生命值上限的生命值。"
+  },
+  {
+    "id": 1020110,
+    "simplified": "受到伤害时防御力永久[color=#FF4646]-2[/color]（最低降到[color=#91e1ff]0[/color]）。回合开始时，如果本轮未受到伤害，则攻击力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1021110,
+    "simplified": "受到伤害时防御力永久[color=#FF4646]-2[/color]（最低降到[color=#91e1ff]0[/color]）。"
+  },
+  {
+    "id": 1023110,
+    "simplified": "被击倒后，恢复击倒者[color=#91e1ff]2[/color]点生命值。"
+  },
+  {
+    "id": 1024110,
+    "simplified": "被击倒后，给予击倒者[color=#91e1ff]1[/color]张卡牌。代理院长吸收此茶壶无法获得增益。"
+  },
+  {
+    "id": 1026110,
+    "simplified": "受到伤害时本轮获得[color=#91e1ff]1[/color]层[Astral=Buff:10261101][/Astral]。如果单次受到大于20点伤害，则移除所有[Astral=Buff:10261101][/Astral]层数，且本轮无法使用主动技能。"
+  },
+  {
+    "id": 1027110,
+    "simplified": "反击时，获得[color=#91e1ff]2[/color]层[Astral=Buff:10271101][/Astral]。"
+  },
+  {
+    "id": 1028110,
+    "simplified": "受到伤害后，攻击力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1029110,
+    "simplified": "攻击手牌数低于4的角色时，攻击力[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 1031110,
+    "simplified": "如果练家子被击倒，则攻击力[color=#94FF46]+2[/color]，防御力[color=#94FF46]+2[/color]并可以反击。"
+  },
+  {
+    "id": 1032110,
+    "simplified": "如果大嗓门被击倒，则攻击力[color=#94FF46]+3[/color]并开始移动。"
+  },
+  {
+    "id": 1033110,
+    "simplified": "初始拥有[color=#91e1ff]3[/color]层[Astral=Buff:10331101][/Astral]。\n人造生命体被击倒后，移除[color=#91e1ff]1[/color]层[Astral=Buff:10331101][/Astral]。"
+  },
+  {
+    "id": 1034110,
+    "simplified": "攻击拥有[Astral=Buff:10009][/Astral]的角色时，攻击力[color=#FF4646]-2[/color]。"
+  },
+  {
+    "id": 1035110,
+    "simplified": "被击倒后，给予击倒者[color=#91e1ff]1[/color]张随机糖果卡牌。"
+  },
+  {
+    "id": 1036110,
+    "simplified": "攻击拥有[Astral=Buff:10009][/Astral]的角色时，攻击力[color=#94FF46]+3[/color]，此次攻击命中后恢复自身[color=#91e1ff]3[/color]点生命值。"
+  },
+  {
+    "id": 1037110,
+    "simplified": "被击倒后，移除科学怪人[color=#91e1ff]1[/color]层[Astral=Buff:10331101][/Astral]。"
+  },
+  {
+    "id": 1040110,
+    "simplified": "移动与闪避的最终点数固定为[color=#91e1ff]4[/color]，且移动时对经过的角色造成[color=#91e1ff]2[/color]点伤害。\n被击倒后，给予击倒者[color=#91e1ff]1[/color]张随机糖果卡牌。"
+  },
+  {
+    "id": 1041110,
+    "simplified": "交战后，移除自身[color=#91e1ff]1[/color]层[Astral=Buff:10410101][/Astral]。\n被挑战时，本次交战攻击力[color=#94FF46]+3[/color]、防御力[color=#94FF46]+3[/color]。\n被击倒后，天王寺雅央失去[color=#91e1ff]10%[/color]生命值上限的生命值。"
+  },
+  {
+    "id": 1042110,
+    "simplified": "回合开始时，对3格内的所有角色施加[Astral=Buff:10081102][/Astral]。\n被击倒后，天王寺雅央失去[color=#91e1ff]10%[/color]生命值上限的生命值。"
+  },
+  {
+    "id": 1043010,
+    "simplified": "5格内的所有怪物移动速度[color=#94FF46]+2[/color]，持续[color=#91e1ff]2[/color]轮。"
+  },
+  {
+    "id": 1044110,
+    "simplified": "被击倒后，给予击倒者[color=#91e1ff]1[/color]张[Astral=Card:21020][/Astral]。"
+  },
+  {
+    "id": 1045010,
+    "simplified": "对3格内的所有角色造成[color=#91e1ff]2[/color]点伤害，并传送至其起始点。"
+  },
+  {
+    "id": 1046010,
+    "simplified": "指定场上生命值最高的一个角色与自身施加[Astral=Buff:10460101][/Astral]。"
+  },
+  {
+    "id": 1046110,
+    "simplified": "回合结束时，恢复[color=#91e1ff]2[/color]点生命值。"
+  },
+  {
+    "id": 1047010,
+    "simplified": "指定最近且未拥有[Astral=Buff:10470101][/Astral]的一个角色施加[Astral=Buff:10470101][/Astral]，持续[color=#91e1ff]3[/color]轮。"
+  },
+  {
+    "id": 1047110,
+    "simplified": "与拥有[Astral=Buff:10470101][/Astral]的角色交战时，攻击力[color=#94FF46]+2[/color]、防御力[color=#94FF46]+2[/color]。场上有拥有[Astral=Buff:10470101][/Astral]的角色时，可以自由选择移动方向，且会朝距离最近且拥有[Astral=Buff:10470101][/Astral]的角色移动。"
+  },
+  {
+    "id": 1048010,
+    "simplified": "随机指定未拥有[Astral=Buff:10470101][/Astral]的[color=#91e1ff]2[/color]个角色施加[Astral=Buff:10470101][/Astral]，持续[color=#91e1ff]3[/color]轮。"
+  },
+  {
+    "id": 1048110,
+    "simplified": "回合开始时，如果4格内没有其他角色，移动[color=#94FF46]+2[/color]，防御力[color=#94FF46]+2[/color]，持续[color=#91e1ff]1[/color]回合。\n攻击命中后，对目标施加[Astral=Buff:10470101][/Astral]，持续[color=#91e1ff]3[/color]轮。\n攻击拥有[Astral=Buff:10470101][/Astral]的目标时攻击[color=#94FF46]+3[/color]。"
+  },
+  {
+    "id": 1049010,
+    "simplified": "对5格内的所有角色施加[color=#91e1ff]2[/color]层[Astral=Buff:10490101][/Astral] 。"
+  },
+  {
+    "id": 1049110,
+    "simplified": "攻击命中时，施加[color=#91e1ff]2[/color]层[Astral=Buff:10490101][/Astral] 。"
+  },
+  {
+    "id": 1053010,
+    "simplified": "使6格范围外角色的[color=#91e1ff]1[/color]张随机手牌转变为[Astral=Card:21022][/Astral]。\n对所有角色施加[Astral=Buff:10470101][/Astral]，持续[color=#91e1ff]3[/color]轮。"
+  },
+  {
+    "id": 1053110,
+    "simplified": "回合开始时，对5格内的角色施加[color=#91e1ff]1[/color]层[Astral=Buff:10490101][/Astral]，随后使自身失去[color=#91e1ff]10%[/color]的当前生命值。    \n每失去30点生命值，自身攻击力[color=#94FF46]+1[/color]，当前生命值不超过生命值上限50%时，移动速度[color=#94FF46]+2[/color]，攻击力[color=#94FF46]+2[/color]。"
+  },
+  {
+    "id": 1053120,
+    "simplified": "初始拥有6层[Astral=Buff:10531201][/Astral]。\n角色使用[Astral=Card:21020][/Astral]时，移除1层[Astral=Buff:10531201][/Astral]。"
+  },
+  {
+    "id": 1055110,
+    "simplified": "每次受到伤害后，本轮受到伤害-1。"
+  },
+  {
+    "id": 1058110,
+    "simplified": "经过其它单位和被其它单位经过时不会触发战斗。"
+  },
+  {
+    "id": 1061110,
+    "simplified": "受到伤害为0，移动的最终点数固定为[color=#91e1ff]2[/color]，持续解说比赛.\n被角色主动挑战时，受到伤害为0效果移除，移动的最终点数固定为[color=#91e1ff]6[/color]，[color=#91e1ff]加入战斗[/color]。"
+  },
+  {
+    "id": 1061120,
+    "simplified": "轮次5开始时，随机为本局游戏增加[color=#91e1ff]1[/color]个畸变组件。"
+  },
+  {
+    "id": 1061130,
+    "simplified": "被击倒后，给予击倒者[color=#91e1ff]1[/color]张[Astral=Card:21024][/Astral]。"
+  },
+  {
+    "id": 1063110,
+    "simplified": "攻击骰点只会是[color=#91e1ff]3~6[/color]。攻击时，如果防御方未拥有[Astral=Buff:10012][/Astral]，攻击骰点必定为[color=#91e1ff]6[/color]。 \n自身主动挑战发起的战斗中，如果造成的伤害大于1点，移除被挑战方[color=#91e1ff]1[/color]层[Astral=Buff:10012][/Astral]， 否则，增加被挑战方[color=#91e1ff]1[/color]层[Astral=Buff:10012][/Astral]。"
+  },
+  {
+    "id": 1065110,
+    "simplified": "角色的[Astral=Buff:10012][/Astral]每被移除1层，自身获得[color=#91e1ff]1[/color]层[Astral=Buff:10651101][/Astral]。\n回合开始时，如果轮次为3的倍数，召唤[color=#91e1ff]1[/color]个思维飞艇。召唤思维飞艇时，其生命值上限额外增加[Astral=Buff:10651101][/Astral]层数 [color=#91e1ff]*2[/color]。"
+  },
+  {
+    "id": 1065120,
+    "simplified": "角色与本单位交战时，每拥有1层[Astral=Buff:10012][/Astral]，角色攻击力[color=#94FF46]+2[/color]"
+  },
+  {
+    "id": 1067110,
+    "simplified": "被击倒后，立即复活。(真凶揭露后不再复活)\n每次复活后，生命值上限、攻击力、防御力，永久[color=#94FF46]+1[/color]。\n击倒典狱长的角色，获得[color=#91e1ff]1[/color]层[Astral=Buff:10013][/Astral]。\n真凶揭露后，本技能的复活效果失效。"
+  },
+  {
+    "id": 1067120,
+    "simplified": "仅会主动挑战拥有[Astral=Buff:10013][/Astral]的角色。(真凶揭露后，不再有目标限制，改为会主动挑战所有角色)\n攻击时，目标每拥有1层[Astral=Buff:10013][/Astral]，攻击力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1067130,
+    "simplified": "轮次开始时，如果轮次达到8或角色收集了4个线索，揭露真凶，以下所有效果生效：\n揭露真凶时，场上拥有[Astral=Buff:10013][/Astral]且层数最高的所有角色，获得[Astral=Buff:10671302][/Astral]。\n典狱长不再复活，不再有目标限制，会主动挑战所有角色。\n典狱长生命值上限[color=#94FF46]+220[/color]、攻击力[color=#94FF46]+3[/color]、防御力[color=#94FF46]+10[/color]、移动速度[color=#94FF46]+5[/color]。\n角色每收集一个线索，这个状态下的典狱长受到[color=#91e1ff]20[/color]点伤害、防御力[color=#FF4646]-2[/color]、移动速度[color=#FF4646]-1[/color]。\n主动技能【全员有罪】解锁，不再使用主动技能【罪证质疑】。"
+  },
+  {
+    "id": 1068110,
+    "simplified": "被击倒后，[color=#91e1ff]2[/color]轮后在原位置复活。(收集2个线索后不再复活)\n每次复活后，生命值上限永久[color=#94FF46]+2[/color]。\n击倒看守的角色，获得[color=#91e1ff]1[/color]层[Astral=Buff:10013][/Astral]。"
+  },
+  {
+    "id": 1068120,
+    "simplified": "优先追击拥有[Astral=Buff:10013][/Astral]的角色。\n仅会主动挑战拥有[Astral=Buff:10013][/Astral]的角色。看守累积受到5点伤害后，不再有目标限制，会主动挑战所有角色。\n攻击时，目标每拥有1层[Astral=Buff:10013][/Astral]，攻击力[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 1069110,
+    "simplified": "初始拥有1层[Astral=Buff:10013][/Astral]。\n主动挑战角色后，如果目标角色拥有[Astral=Buff:10013][/Astral]，移除该角色1层[Astral=Buff:10013][/Astral]，自身获得1层[Astral=Buff:10013][/Astral]。\n自身每拥有1层[Astral=Buff:10013][/Astral]，攻击力+1、防御力+1。"
+  },
+  {
+    "id": 1069120,
+    "simplified": "被击倒后，使击倒者获得罪恶茶壶的全部[Astral=Buff:10013][/Astral]"
+  },
+  {
+    "id": 1070110,
+    "simplified": "经过角色时，夺取[color=#91e1ff]4[/color]星币。\n每累计夺取4星币，移动速度[color=#94FF46]+1[/color]。\n被击倒后，给予击倒者自身累计夺取的星币。如果自身未夺取过星币，或累计夺取了大于等于12星币，额外给予击倒者[color=#91e1ff]6[/color]星币。"
+  },
+  {
+    "id": 2027110,
+    "simplified": "角色每拾取一个葫芦，攻击力永久[color=#94FF46]+1[/color]。"
+  },
+  {
+    "id": 3004110,
+    "simplified": "反击时，获得[color=#91e1ff]1[/color]层[Astral=Buff:10271101][/Astral]。"
+  }
+]

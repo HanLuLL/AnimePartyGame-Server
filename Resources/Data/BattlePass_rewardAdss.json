@@ -1,0 +1,160 @@
+[
+  {
+    "id": 202609,
+    "battlePassRewardAdsConfigureItems": [
+      {
+        "index": 1,
+        "normalUIType": {
+          "value": 2,
+          "name": "BattlePassUIType_Skin"
+        },
+        "normalItemID": 100127004,
+        "normalDescription": 6090301,
+        "premiumUIType": {
+          "value": 1,
+          "name": "BattlePassUIType_Topic"
+        },
+        "premiumResource": "UT_BattlePass_202609_Icon",
+        "premiumDescription": 4060201
+      },
+      {
+        "index": 2,
+        "normalUIType": {
+          "value": 3,
+          "name": "BattlePassUIType_AccountBackground"
+        },
+        "normalItemID": 71095,
+        "normalDescription": 6090302,
+        "premiumUIType": {
+          "value": 3,
+          "name": "BattlePassUIType_AccountBackground"
+        },
+        "premiumItemID": 71096,
+        "premiumDescription": 6090402
+      },
+      {
+        "index": 3,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 2,
+        "normalDescription": 4060103,
+        "premiumUIType": {
+          "value": 6,
+          "name": "BattlePassUIType_Large"
+        },
+        "premiumResource": "UT_BattlePass_Currencys",
+        "premiumDescription": 4060203
+      },
+      {
+        "index": 4,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 90001,
+        "normalDescription": 4060104,
+        "premiumUIType": {
+          "value": 6,
+          "name": "BattlePassUIType_Large"
+        },
+        "premiumResource": "UT_BattlePass_LevelUP",
+        "premiumDescription": 4060204
+      },
+      {
+        "index": 5,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 1,
+        "normalDescription": 4083005,
+        "premiumUIType": {
+          "value": 5,
+          "name": "BattlePassUIType_Medium"
+        },
+        "premiumItemID": 120127013,
+        "premiumDescription": 4060205
+      },
+      {
+        "index": 6,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 91037,
+        "normalDescription": 4060106,
+        "premiumUIType": {
+          "value": 5,
+          "name": "BattlePassUIType_Medium"
+        },
+        "premiumItemID": 120127015,
+        "premiumDescription": 4060206
+      },
+      {
+        "index": 7,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 91011,
+        "normalDescription": 4060107,
+        "premiumUIType": {
+          "value": 5,
+          "name": "BattlePassUIType_Medium"
+        },
+        "premiumItemID": 75075,
+        "premiumResource": "UT_CardBack_75075",
+        "premiumDescription": 4060207
+      },
+      {
+        "index": 8,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 78100,
+        "normalDescription": 4083008
+      },
+      {
+        "index": 9,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 70100,
+        "normalResource": "UT_AccountHeadShot_70100",
+        "normalDescription": 4060109
+      },
+      {
+        "index": 10,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 120127012,
+        "normalDescription": 4060110
+      },
+      {
+        "index": 11,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 120127014,
+        "normalDescription": 4060111
+      },
+      {
+        "index": 12,
+        "normalUIType": {
+          "value": 4,
+          "name": "BattlePassUIType_Common"
+        },
+        "normalItemID": 75074,
+        "normalResource": "UT_CardBack_75074",
+        "normalDescription": 4060112
+      }
+    ]
+  }
+]

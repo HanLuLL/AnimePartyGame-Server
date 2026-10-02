@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Impact",
+    "loadedKeyCN": "Impact",
+    "loadedKeyEN": "Impact",
+    "loadedKeyJP": "Impact",
+    "loadedKeyCHT": "Impact"
+  },
+  {
+    "id": 2,
+    "name": "SHOWG",
+    "loadedKeyCN": "SHOWG",
+    "loadedKeyEN": "SHOWG",
+    "loadedKeyJP": "SHOWG",
+    "loadedKeyCHT": "SHOWG"
+  },
+  {
+    "id": 3,
+    "name": "SHOWG_TMP",
+    "loadedKeyCN": "SHOWG_TMP",
+    "loadedKeyEN": "SHOWG_TMP",
+    "loadedKeyJP": "SHOWG_TMP",
+    "loadedKeyCHT": "SHOWG_TMP"
+  },
+  {
+    "id": 4,
+    "name": "hp02_TMP",
+    "loadedKeyCN": "hp02_TMP",
+    "loadedKeyEN": "hp02_TMP",
+    "loadedKeyJP": "hp02_TMP",
+    "loadedKeyCHT": "hp02_TMP"
+  },
+  {
+    "id": 5,
+    "name": "SIMHEI",
+    "loadedKeyCN": "SIMHEI",
+    "loadedKeyEN": "SIMHEI",
+    "loadedKeyJP": "SIMHEI",
+    "loadedKeyCHT": "SIMHEI"
+  },
+  {
+    "id": 6,
+    "name": "JingNanBoBoHei",
+    "loadedKeyCN": "JingNanBoBoHei",
+    "loadedKeyEN": "Afacad-Regular",
+    "loadedKeyJP": "MochiyPopOne-Regular",
+    "loadedKeyCHT": "LXGWWenKaiMonoTC-Regular"
+  },
+  {
+    "id": 7,
+    "name": "JingNanBoBoHei_TMP",
+    "loadedKeyCN": "JingNanBoBoHei_TMP",
+    "loadedKeyEN": "Afacad-Regular_TMP",
+    "loadedKeyJP": "MochiyPopOne-Regular_TMP",
+    "loadedKeyCHT": "LXGWWenKaiMonoTC-Regular_TMP"
+  },
+  {
+    "id": 8,
+    "name": "Impact_TMP",
+    "loadedKeyCN": "Impact_TMP",
+    "loadedKeyEN": "Impact_TMP",
+    "loadedKeyJP": "Impact_TMP",
+    "loadedKeyCHT": "Impact_TMP"
+  },
+  {
+    "id": 9,
+    "name": "dgo_TMP",
+    "loadedKeyCN": "dgo_TMP",
+    "loadedKeyEN": "dgo_TMP",
+    "loadedKeyJP": "dgo_TMP",
+    "loadedKeyCHT": "dgo_TMP"
+  },
+  {
+    "id": 10,
+    "name": "VonwaonBitmap",
+    "loadedKeyCN": "VonwaonBitmap",
+    "loadedKeyEN": "VonwaonBitmap",
+    "loadedKeyJP": "VonwaonBitmap",
+    "loadedKeyCHT": "VonwaonBitmap"
+  },
+  {
+    "id": 11,
+    "name": "Token_TMP",
+    "loadedKeyCN": "dgo_TMP",
+    "loadedKeyEN": "Impact_TMP",
+    "loadedKeyJP": "Impact_TMP",
+    "loadedKeyCHT": "Impact_TMP"
+  }
+]

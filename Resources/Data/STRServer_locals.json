@@ -1,0 +1,656 @@
+[
+  {
+    "simplified": "默认"
+  },
+  {
+    "id": 1001,
+    "simplified": "服务器关闭"
+  },
+  {
+    "id": 1002,
+    "simplified": "服务器繁忙，请稍后重试"
+  },
+  {
+    "id": 1003,
+    "simplified": "排队中！\n预估等待[color=#24FFFF]{0}[/color]分钟[color=#24FFFF]{1}[/color]秒"
+  },
+  {
+    "id": 5000,
+    "simplified": "BUFF使用后不进行计数，正常返回SUCC"
+  },
+  {
+    "id": 10000,
+    "simplified": "鉴权错误(鉴权发生不可预测的错误)"
+  },
+  {
+    "id": 10001,
+    "simplified": "不存在的鉴权类型"
+  },
+  {
+    "id": 10002,
+    "simplified": "鉴权在进入游戏时失败"
+  },
+  {
+    "id": 10003,
+    "simplified": "账号已被封禁，封禁时长[color=#24FFFF]{0}[/color]分钟"
+  },
+  {
+    "id": 10004,
+    "simplified": "监测显示，您的账户存在违反平台协议的异常充值记录。为维护交易安全及公平性，系统已对该账号实施封禁措施。若需申诉，请联系官方客服部门进行处理。\n(QQ3156108220)"
+  },
+  {
+    "id": 10010,
+    "simplified": "Configuration error."
+  },
+  {
+    "id": 10011,
+    "simplified": "所需道具不足"
+  },
+  {
+    "id": 10012,
+    "simplified": "客户端版本过低，请更到最新版本"
+  },
+  {
+    "id": 10013,
+    "simplified": "无效参数"
+  },
+  {
+    "id": 10015,
+    "simplified": "开启时间未到"
+  },
+  {
+    "id": 10016,
+    "simplified": "条件不足"
+  },
+  {
+    "id": 10017,
+    "simplified": "重复领奖"
+  },
+  {
+    "id": 10018,
+    "simplified": "购买失败"
+  },
+  {
+    "id": 10019,
+    "simplified": "输入的邀请码无效"
+  },
+  {
+    "id": 10020,
+    "simplified": "登录异常，请重新登录"
+  },
+  {
+    "id": 10022,
+    "simplified": "账号已被禁言，禁言时长[color=#24FFFF]{0}[/color]分钟"
+  },
+  {
+    "id": 11000,
+    "simplified": "房间错误"
+  },
+  {
+    "id": 11001,
+    "simplified": "房间无法加入，请重试"
+  },
+  {
+    "id": 11002,
+    "simplified": "角色已经加入过房间"
+  },
+  {
+    "id": 11003,
+    "simplified": "房间位置错误"
+  },
+  {
+    "id": 11004,
+    "simplified": "房间位置已被占用"
+  },
+  {
+    "id": 11005,
+    "simplified": "玩家不存在房间内"
+  },
+  {
+    "id": 11006,
+    "simplified": "游戏已经开始"
+  },
+  {
+    "id": 11007,
+    "simplified": "房间已满员"
+  },
+  {
+    "id": 11008,
+    "simplified": "房间已经开始游戏"
+  },
+  {
+    "id": 11009,
+    "simplified": "房间密码错误"
+  },
+  {
+    "id": 11010,
+    "simplified": "房间人数不足"
+  },
+  {
+    "id": 11011,
+    "simplified": "角色不存在"
+  },
+  {
+    "id": 11012,
+    "simplified": "角色已经被选择"
+  },
+  {
+    "id": 11013,
+    "simplified": "还未轮到角色选择,前一位还未选择"
+  },
+  {
+    "id": 11014,
+    "simplified": "角色不能使用"
+  },
+  {
+    "id": 11015,
+    "simplified": "房间不在加载状态"
+  },
+  {
+    "id": 11016,
+    "simplified": "地图不存在"
+  },
+  {
+    "id": 11017,
+    "simplified": "玩家选择的地图数据不存在"
+  },
+  {
+    "id": 11018,
+    "simplified": "动作不存于预计表里"
+  },
+  {
+    "id": 11019,
+    "simplified": "动作不正确"
+  },
+  {
+    "id": 11020,
+    "simplified": "角色前进方向为0"
+  },
+  {
+    "id": 11021,
+    "simplified": "不是一个动作协议"
+  },
+  {
+    "id": 11022,
+    "simplified": "动作已经完成"
+  },
+  {
+    "id": 11023,
+    "simplified": "移动方向错误"
+  },
+  {
+    "id": 11024,
+    "simplified": "动作玩家不符合预计动作"
+  },
+  {
+    "id": 11025,
+    "simplified": "地块数据不存在"
+  },
+  {
+    "id": 11026,
+    "simplified": "地块处理不存在"
+  },
+  {
+    "id": 11027,
+    "simplified": "地块类型不存在"
+  },
+  {
+    "id": 11028,
+    "simplified": "地块参数错误"
+  },
+  {
+    "id": 11029,
+    "simplified": "玩家购买的卡牌未命中之前随机出来的卡"
+  },
+  {
+    "id": 11030,
+    "simplified": "星币不足"
+  },
+  {
+    "id": 11031,
+    "simplified": "手牌数量超出上限"
+  },
+  {
+    "id": 11032,
+    "simplified": "不是指定的地块类型"
+  },
+  {
+    "id": 11033,
+    "simplified": "方向计算错误"
+  },
+  {
+    "id": 11034,
+    "simplified": "不能选择自已"
+  },
+  {
+    "id": 11035,
+    "simplified": "飞门金币不足"
+  },
+  {
+    "id": 11036,
+    "simplified": "星币不足"
+  },
+  {
+    "id": 11037,
+    "simplified": "角色在医院"
+  },
+  {
+    "id": 11038,
+    "simplified": "战场不存在"
+  },
+  {
+    "id": 11039,
+    "simplified": "卡牌不存在"
+  },
+  {
+    "id": 11040,
+    "simplified": "卡牌类型不匹配"
+  },
+  {
+    "id": 11041,
+    "simplified": "战斗中不是攻击者"
+  },
+  {
+    "id": 11042,
+    "simplified": "战斗中不是防御者"
+  },
+  {
+    "id": 11043,
+    "simplified": "角色不在战场里"
+  },
+  {
+    "id": 11044,
+    "simplified": "使用卡牌的cost溢出"
+  },
+  {
+    "id": 11045,
+    "simplified": "buff未定义"
+  },
+  {
+    "id": 11046,
+    "simplified": "buff未注册处理"
+  },
+  {
+    "id": 11047,
+    "simplified": "事件未定义"
+  },
+  {
+    "id": 11048,
+    "simplified": "事件未注册处理"
+  },
+  {
+    "id": 11049,
+    "simplified": "事件定义的参数有问题"
+  },
+  {
+    "id": 11050,
+    "simplified": "彩票数量错误"
+  },
+  {
+    "id": 11051,
+    "simplified": "目标选择错误"
+  },
+  {
+    "id": 11052,
+    "simplified": "卡牌无法使用(这是一个特殊的错误，Handle要做出进一步判断）"
+  },
+  {
+    "id": 11053,
+    "simplified": "选择方向错误"
+  },
+  {
+    "id": 11054,
+    "simplified": "召唤物不存在"
+  },
+  {
+    "id": 11055,
+    "simplified": "没有选择地块"
+  },
+  {
+    "id": 11056,
+    "simplified": "选择地块错误"
+  },
+  {
+    "id": 11057,
+    "simplified": "buff执行中OutRef不存在"
+  },
+  {
+    "id": 11058,
+    "simplified": "卡牌不能使用"
+  },
+  {
+    "id": 11059,
+    "simplified": "色子点数溢出"
+  },
+  {
+    "id": 11060,
+    "simplified": "占补不存在"
+  },
+  {
+    "id": 11061,
+    "simplified": "不是可以选择的占补"
+  },
+  {
+    "id": 11062,
+    "simplified": "卡牌handle未注册"
+  },
+  {
+    "id": 11063,
+    "simplified": "手中卡牌限制错误"
+  },
+  {
+    "id": 11064,
+    "simplified": "StopOrContinue提交错误"
+  },
+  {
+    "id": 11065,
+    "simplified": "技能使和数量错误"
+  },
+  {
+    "id": 11066,
+    "simplified": "技能项不存在"
+  },
+  {
+    "id": 11067,
+    "simplified": "技能处理未注册"
+  },
+  {
+    "id": 11068,
+    "simplified": "技能CD中"
+  },
+  {
+    "id": 11069,
+    "simplified": "角色已确认"
+  },
+  {
+    "id": 11070,
+    "simplified": "没有进行角色选择"
+  },
+  {
+    "id": 11071,
+    "simplified": "添加房间不成功"
+  },
+  {
+    "id": 11072,
+    "simplified": "房间分配ID失败"
+  },
+  {
+    "id": 11073,
+    "simplified": "卡牌已经购买过"
+  },
+  {
+    "id": 11074,
+    "simplified": "角色不在医院"
+  },
+  {
+    "id": 11075,
+    "simplified": "聊天CD中"
+  },
+  {
+    "id": 11076,
+    "simplified": "聊天角色没有表情"
+  },
+  {
+    "id": 11077,
+    "simplified": "房间有玩家没有准备"
+  },
+  {
+    "id": 11079,
+    "simplified": "当前对局还未开始"
+  },
+  {
+    "id": 11080,
+    "simplified": "当前对局已经结束"
+  },
+  {
+    "id": 11081,
+    "simplified": "当前观战码不存在"
+  },
+  {
+    "id": 11082,
+    "simplified": "当前观战人数已达上限"
+  },
+  {
+    "id": 11083,
+    "simplified": "匹配到的玩家掉线",
+    "english": "11083",
+    "japanese": "11083",
+    "traditional": "11083"
+  },
+  {
+    "id": 11084,
+    "simplified": "处于处罚期，无法匹配"
+  },
+  {
+    "id": 11085,
+    "simplified": "处于处罚期，无法加入游戏"
+  },
+  {
+    "id": 11086,
+    "simplified": "皮肤未拥有"
+  },
+  {
+    "id": 11087,
+    "simplified": "皮肤不匹配"
+  },
+  {
+    "id": 11088,
+    "simplified": "皮肤不存在"
+  },
+  {
+    "id": 11089,
+    "simplified": "皮肤选择前需要确认英雄"
+  },
+  {
+    "id": 11090,
+    "simplified": "皮肤选择前需要确认英雄"
+  },
+  {
+    "id": 11092,
+    "simplified": "换位失败"
+  },
+  {
+    "id": 12001,
+    "simplified": "玩家不存在"
+  },
+  {
+    "id": 12002,
+    "simplified": "已经是好友"
+  },
+  {
+    "id": 12003,
+    "simplified": "已经申请过好友"
+  },
+  {
+    "id": 12004,
+    "simplified": "你的好友已达上限"
+  },
+  {
+    "id": 12005,
+    "simplified": "对方的好友已达上限"
+  },
+  {
+    "id": 12006,
+    "simplified": "好友申请列表没找到对应玩家"
+  },
+  {
+    "id": 12007,
+    "simplified": "好友申请已经处理过"
+  },
+  {
+    "id": 12008,
+    "simplified": "黑名单数量已达到上限"
+  },
+  {
+    "id": 12009,
+    "simplified": "该玩家不是您的好友"
+  },
+  {
+    "id": 12010,
+    "simplified": "玩家已经离线"
+  },
+  {
+    "id": 12011,
+    "simplified": "该玩家不可邀请"
+  },
+  {
+    "id": 12012,
+    "simplified": "系统繁忙"
+  },
+  {
+    "id": 12015,
+    "simplified": "好友申请今日已达上限"
+  },
+  {
+    "id": 15001,
+    "simplified": "商店未开启"
+  },
+  {
+    "id": 15002,
+    "simplified": "商品不存在"
+  },
+  {
+    "id": 15003,
+    "simplified": "商品已经达到购买上限"
+  },
+  {
+    "id": 15011,
+    "simplified": "兑换码无效"
+  },
+  {
+    "id": 15012,
+    "simplified": "您已使用过同类兑换码"
+  },
+  {
+    "id": 15013,
+    "simplified": "该兑换码已被使用"
+  },
+  {
+    "id": 15014,
+    "simplified": "兑换码不在兑换时间内"
+  },
+  {
+    "id": 15015,
+    "simplified": "单人战役不存在"
+  },
+  {
+    "id": 15016,
+    "simplified": "前置关卡未通过"
+  },
+  {
+    "id": 15017,
+    "simplified": "发生异常，请重试"
+  },
+  {
+    "id": 15018,
+    "simplified": "该兑换码已超过使用上限"
+  },
+  {
+    "id": 16000,
+    "simplified": "匹配队伍未知的错误"
+  },
+  {
+    "id": 16001,
+    "simplified": "队伍不存在"
+  },
+  {
+    "id": 16002,
+    "simplified": "玩家已有队伍"
+  },
+  {
+    "id": 16003,
+    "simplified": "玩家不在队伍中"
+  },
+  {
+    "id": 16004,
+    "simplified": "队伍已满员"
+  },
+  {
+    "id": 16005,
+    "simplified": "队伍不在等待状态"
+  },
+  {
+    "id": 16006,
+    "simplified": "玩家已经在队伍中"
+  },
+  {
+    "id": 16007,
+    "simplified": "当前匹配参数不可用"
+  },
+  {
+    "id": 16008,
+    "simplified": "不是队长"
+  },
+  {
+    "id": 16009,
+    "simplified": "玩家未准备"
+  },
+  {
+    "id": 17000,
+    "simplified": "公会服务器错误"
+  },
+  {
+    "id": 17002,
+    "simplified": "公会已满员"
+  },
+  {
+    "id": 17003,
+    "simplified": "公会名已存在"
+  },
+  {
+    "id": 17004,
+    "simplified": "已加入公会"
+  },
+  {
+    "id": 17005,
+    "simplified": "搜索冷却中"
+  },
+  {
+    "id": 17006,
+    "simplified": "公会已被封禁"
+  },
+  {
+    "id": 17007,
+    "simplified": "公会不存在"
+  },
+  {
+    "id": 17009,
+    "simplified": "没有操作权限"
+  },
+  {
+    "id": 17010,
+    "simplified": "入会申请已过期"
+  },
+  {
+    "id": 17011,
+    "simplified": "公会内不存在该玩家"
+  },
+  {
+    "id": 17012,
+    "simplified": "玩家已被邀请到公会中"
+  },
+  {
+    "id": 17013,
+    "simplified": "公会邀请已过期"
+  },
+  {
+    "id": 17014,
+    "simplified": "本日修改次数超过上限"
+  },
+  {
+    "id": 17016,
+    "simplified": "公会被禁言"
+  },
+  {
+    "id": 17017,
+    "simplified": "禁止创建公会"
+  },
+  {
+    "id": 17018,
+    "simplified": "公会已被冻结"
+  },
+  {
+    "id": 17019,
+    "simplified": "需要24小时以后才能加入新公会"
+  }
+]

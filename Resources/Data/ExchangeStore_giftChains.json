@@ -1,0 +1,42 @@
+[
+  {
+    "id": 502061,
+    "exchangeStoreGiftChainConfigureItems": [
+      {
+        "goodsID": 50001
+      },
+      {
+        "goodsID": 50002,
+        "param": 50001
+      },
+      {
+        "goodsID": 50003,
+        "param": 50002
+      },
+      {
+        "goodsID": 50004,
+        "param": 50003
+      },
+      {
+        "goodsID": 50005,
+        "param": 50004
+      }
+    ]
+  },
+  {
+    "id": 609031,
+    "exchangeStoreGiftChainConfigureItems": [
+      {
+        "goodsID": 50421
+      },
+      {
+        "goodsID": 50422,
+        "param": 50421
+      },
+      {
+        "goodsID": 50423,
+        "param": 50422
+      }
+    ]
+  }
+]

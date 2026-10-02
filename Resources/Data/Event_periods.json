@@ -1,0 +1,571 @@
+[
+  {
+    "id": 1001,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30001
+      },
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30003
+      },
+      {
+        "eventId": 30005
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30007
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30015
+      },
+      {
+        "eventId": 30016
+      },
+      {
+        "eventId": 30017
+      },
+      {
+        "eventId": 30018
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30020
+      },
+      {
+        "eventId": 30021
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30001
+      },
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30003
+      },
+      {
+        "eventId": 30005
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30007
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30015
+      },
+      {
+        "eventId": 30016
+      },
+      {
+        "eventId": 30017
+      },
+      {
+        "eventId": 30018
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30020
+      },
+      {
+        "eventId": 30021
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30001
+      },
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30003
+      },
+      {
+        "eventId": 30005
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30007
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30015
+      },
+      {
+        "eventId": 30016
+      },
+      {
+        "eventId": 30017
+      },
+      {
+        "eventId": 30018
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30020
+      },
+      {
+        "eventId": 30021
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30201
+      },
+      {
+        "eventId": 30202
+      },
+      {
+        "eventId": 30203
+      },
+      {
+        "eventId": 30204
+      },
+      {
+        "eventId": 30205
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30201
+      },
+      {
+        "eventId": 30202
+      },
+      {
+        "eventId": 30203
+      },
+      {
+        "eventId": 30205
+      },
+      {
+        "eventId": 30206
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30001
+      },
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30003
+      },
+      {
+        "eventId": 30005
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30007
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30016
+      },
+      {
+        "eventId": 30017
+      },
+      {
+        "eventId": 30018
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30020
+      },
+      {
+        "eventId": 30021
+      }
+    ]
+  },
+  {
+    "id": 2014,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30201
+      },
+      {
+        "eventId": 30202
+      },
+      {
+        "eventId": 30203
+      },
+      {
+        "eventId": 30205
+      },
+      {
+        "eventId": 30206
+      },
+      {
+        "eventId": 30207
+      }
+    ]
+  },
+  {
+    "id": 101005,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30003
+      }
+    ]
+  },
+  {
+    "id": 102005,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30005
+      },
+      {
+        "eventId": 30007
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      }
+    ]
+  },
+  {
+    "id": 103006,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      }
+    ]
+  },
+  {
+    "id": 102006,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30002
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30202
+      }
+    ]
+  },
+  {
+    "id": 82009,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30005
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30002
+      }
+    ]
+  },
+  {
+    "id": 81007,
+    "eventPeriodConfigureItems": [
+      {
+        "eventId": 30005
+      },
+      {
+        "eventId": 30006
+      },
+      {
+        "eventId": 30008
+      },
+      {
+        "eventId": 30009
+      },
+      {
+        "eventId": 30010
+      },
+      {
+        "eventId": 30012
+      },
+      {
+        "eventId": 30013
+      },
+      {
+        "eventId": 30014
+      },
+      {
+        "eventId": 30019
+      },
+      {
+        "eventId": 30203
+      },
+      {
+        "eventId": 30204
+      },
+      {
+        "eventId": 30206
+      },
+      {
+        "eventId": 30017
+      },
+      {
+        "eventId": 30021
+      },
+      {
+        "eventId": 30001
+      }
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": 50101,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1740121200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1741363199
+        ]
+      }
+    }
+  },
+  {
+    "id": 69999,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1767816000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4074004800
+        ]
+      }
+    }
+  },
+  {
+    "id": 60227,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1772136000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1773367199
+        ]
+      }
+    }
+  },
+  {
+    "id": 69998,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1785355200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          4074004800
+        ]
+      }
+    }
+  },
+  {
+    "id": 60904,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  },
+  {
+    "id": 60925,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1790280000
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  }
+]

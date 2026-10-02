@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "asymmetricalDefenderWinRound": 12,
+    "asymmetricalAttackerWinScore": 7,
+    "asymmetricalAttackerReviveRound": 3,
+    "asymmetricalSpeedRound": 7,
+    "SpeedRoundAttrUp": [
+      0,
+      0,
+      0
+    ]
+  }
+]

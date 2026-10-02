@@ -1,0 +1,31 @@
+[
+  {
+    "rechargeGearType": {
+      "value": 1,
+      "name": "RechargeGearType_Low"
+    },
+    "rechargeLimit": 5000,
+    "age": "16歳未満",
+    "msg": "１ヶ月／ 5,000円まで",
+    "tips": "今月の課金上限に達しました。"
+  },
+  {
+    "rechargeGearType": {
+      "value": 2,
+      "name": "RechargeGearType_Middle"
+    },
+    "rechargeLimit": 20000,
+    "age": "16歳以上18歳未満",
+    "msg": "１ヶ月／20,000円まで",
+    "tips": "今月の課金上限に達しました。"
+  },
+  {
+    "rechargeGearType": {
+      "value": 3,
+      "name": "RechargeGearType_High"
+    },
+    "rechargeLimit": -1,
+    "age": "18歳以上",
+    "msg": "制限なし"
+  }
+]

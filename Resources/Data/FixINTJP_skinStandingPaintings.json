@@ -1,0 +1,211 @@
+[
+  {
+    "id": 105,
+    "fixINTJPSkinStandingPaintingConfigureItems": [
+      {
+        "landIcon": "UT_Platform_105",
+        "character": "UT_Hero_Card_105",
+        "characterLevelUp": "UT_Hero_LevelUp_105",
+        "characterBattlleRes": 100105001,
+        "characterLabel": "Hero105",
+        "profilePhoto": "UT_Hero_ProfilePhoto_105",
+        "bust": [
+          "UT_Hero_Bust_105_0",
+          "UT_Hero_Bust_105_1"
+        ],
+        "characterReady": "UT_Hero_Card2_105",
+        "characterThin": "UT_Hero_ThinCard_105",
+        "skillVideo": "VSkill_Hero105",
+        "rolePhoto": "UT_Hero_RolePhoto_105",
+        "actions": [
+          "Cheer",
+          "Cry",
+          "Die",
+          "Eat",
+          "Electricshock",
+          "Fight-attack",
+          "Fight-dodge",
+          "Fight-hit",
+          "Fight-idle-attack",
+          "Fight-idle-defense",
+          "Fight-move",
+          "Hit",
+          "Hit-01",
+          "Hit-02",
+          "Hospitalized",
+          "Idle",
+          "Show",
+          "Talent",
+          "Vomit",
+          "Walk",
+          "Walk-back"
+        ]
+      },
+      {
+        "index": 1,
+        "landIcon": "UT_Platform_105",
+        "character": "UT_Hero_Card_105_Max_CA",
+        "characterLevelUp": "UT_Hero_LevelUp_105_Max_CA",
+        "characterBattlleRes": 100105002,
+        "characterLabel": "Hero105_Max_CA",
+        "profilePhoto": "UT_Hero_ProfilePhoto_105_Max_CA",
+        "bust": [
+          "UT_Hero_Bust_105_Max_0_CA",
+          "UT_Hero_Bust_105_Max_1_CA"
+        ],
+        "characterReady": "UT_Hero_Card2_105_Max_CA",
+        "characterThin": "UT_Hero_ThinCard_105_Max_CA",
+        "skillVideo": "VSkill_Hero105_Max_CA",
+        "rolePhoto": "UT_Hero_RolePhoto_105_Max_CA",
+        "previewVideo": "VSkin_100105002_CA",
+        "actions": [
+          "Cheer",
+          "Cry",
+          "Die",
+          "Eat",
+          "Electricshock",
+          "Fight-attack",
+          "Fight-dodge",
+          "Fight-hit",
+          "Fight-idle-attack",
+          "Fight-idle-defense",
+          "Fight-move",
+          "Hit",
+          "Hit-01",
+          "Hit-02",
+          "Hospitalized",
+          "Idle",
+          "Show",
+          "Talent",
+          "Vomit",
+          "Walk",
+          "Walk-back"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "fixINTJPSkinStandingPaintingConfigureItems": [
+      {
+        "landIcon": "UT_Platform_124",
+        "character": "UT_Hero_Card_124",
+        "characterLevelUp": "UT_Hero_LevelUp_124",
+        "characterBattlleRes": 100124001,
+        "characterLabel": "Hero124",
+        "profilePhoto": "UT_Hero_ProfilePhoto_124",
+        "bust": [
+          "UT_Hero_Bust_124_0",
+          "UT_Hero_Bust_124_1"
+        ],
+        "characterReady": "UT_Hero_Card2_124",
+        "characterThin": "UT_Hero_ThinCard_124",
+        "skillVideo": "VSkill_Hero124",
+        "rolePhoto": "UT_Hero_RolePhoto_124",
+        "actions": [
+          "Cheer",
+          "Cry",
+          "Die",
+          "Eat",
+          "Electricshock",
+          "Fight-attack",
+          "Fight-dodge",
+          "Fight-hit",
+          "Fight-idle-attack",
+          "Fight-idle-defense",
+          "Fight-move",
+          "Hit",
+          "Hit-01",
+          "Hit-02",
+          "Hospitalized",
+          "Idle",
+          "Show",
+          "Talent",
+          "Walk",
+          "Walk-back"
+        ]
+      },
+      {
+        "index": 1,
+        "landIcon": "UT_Platform_124",
+        "character": "UT_Hero_Card_124_Max",
+        "characterLevelUp": "UT_Hero_LevelUp_124_Max",
+        "characterBattlleRes": 100124002,
+        "characterLabel": "Hero124_Max",
+        "profilePhoto": "UT_Hero_ProfilePhoto_124_Max",
+        "bust": [
+          "UT_Hero_Bust_124_Max_0",
+          "UT_Hero_Bust_124_Max_1"
+        ],
+        "characterReady": "UT_Hero_Card2_124_Max",
+        "characterThin": "UT_Hero_ThinCard_124_Max",
+        "skillVideo": "VSkill_Hero124_MAX",
+        "rolePhoto": "UT_Hero_RolePhoto_124_Max",
+        "previewVideo": "VSkin_100124002",
+        "actions": [
+          "Cheer",
+          "Cry",
+          "Die",
+          "Eat",
+          "Electricshock",
+          "Fight-attack",
+          "Fight-dodge",
+          "Fight-hit",
+          "Fight-idle-attack",
+          "Fight-idle-defense",
+          "Fight-move",
+          "Hit",
+          "Hit-01",
+          "Hit-02",
+          "Hospitalized",
+          "Idle",
+          "Idle-02",
+          "Show",
+          "Talent",
+          "Walk",
+          "Walk-back"
+        ]
+      },
+      {
+        "index": 2,
+        "landIcon": "UT_Platform_124",
+        "character": "UT_Hero_Card_124_01_CA",
+        "characterLevelUp": "UT_Hero_LevelUp_124_01_CA",
+        "characterBattlleRes": 100124003,
+        "characterLabel": "Hero124_01_CA",
+        "profilePhoto": "UT_Hero_ProfilePhoto_124_01_CA",
+        "bust": [
+          "UT_Hero_Bust_124_01_CA_0",
+          "UT_Hero_Bust_124_01_CA_1"
+        ],
+        "characterReady": "UT_Hero_Card2_124_01_CA",
+        "characterThin": "UT_Hero_ThinCard_124_01_CA",
+        "skillVideo": "VSkill_Hero124_01_CA",
+        "rolePhoto": "UT_Hero_RolePhoto_124_01_CA",
+        "previewVideo": "VSkin_100124003CA",
+        "actions": [
+          "Cheer",
+          "Cry",
+          "Die",
+          "Eat",
+          "Electricshock",
+          "Fight-attack",
+          "Fight-dodge",
+          "Fight-hit",
+          "Fight-idle-attack",
+          "Fight-idle-defense",
+          "Fight-move",
+          "Hit",
+          "Hit-01",
+          "Hit-02",
+          "Hospitalized",
+          "Idle",
+          "Show",
+          "Talent",
+          "Walk",
+          "Walk-back"
+        ]
+      }
+    ]
+  }
+]

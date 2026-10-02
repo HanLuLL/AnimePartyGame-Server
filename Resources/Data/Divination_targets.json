@@ -1,0 +1,90 @@
+[
+  {
+    "divinationTargetType": {
+      "value": 1,
+      "name": "DivinationTargetType_MaxLevel"
+    },
+    "nameID": 60001,
+    "functionName": "Divination_60001",
+    "cardNumb": 600010,
+    "descId": 600011,
+    "image": "UT_Divination_60001"
+  },
+  {
+    "divinationTargetType": {
+      "value": 2,
+      "name": "DivinationTargetType_MinLevel"
+    },
+    "nameID": 60002,
+    "functionName": "Divination_60002",
+    "cardNumb": 600020,
+    "descId": 600021,
+    "image": "UT_Divination_60002"
+  },
+  {
+    "divinationTargetType": {
+      "value": 3,
+      "name": "DivinationTargetType_MaxBlood"
+    },
+    "nameID": 60003,
+    "functionName": "Divination_60003",
+    "cardNumb": 600030,
+    "descId": 600031,
+    "image": "UT_Divination_60003"
+  },
+  {
+    "divinationTargetType": {
+      "value": 4,
+      "name": "DivinationTargetType_MinBlood"
+    },
+    "nameID": 60004,
+    "functionName": "Divination_60004",
+    "cardNumb": 600040,
+    "descId": 600041,
+    "image": "UT_Divination_60004"
+  },
+  {
+    "divinationTargetType": {
+      "value": 5,
+      "name": "DivinationTargetType_MaxGold"
+    },
+    "nameID": 60005,
+    "functionName": "Divination_60005",
+    "cardNumb": 600050,
+    "descId": 600051,
+    "image": "UT_Divination_60005"
+  },
+  {
+    "divinationTargetType": {
+      "value": 6,
+      "name": "DivinationTargetType_MinGold"
+    },
+    "nameID": 60006,
+    "functionName": "Divination_60006",
+    "cardNumb": 600060,
+    "descId": 600061,
+    "image": "UT_Divination_60006"
+  },
+  {
+    "divinationTargetType": {
+      "value": 7,
+      "name": "DivinationTargetType_MaxCard"
+    },
+    "nameID": 60007,
+    "functionName": "Divination_60007",
+    "cardNumb": 600070,
+    "descId": 600071,
+    "image": "UT_Divination_60007"
+  },
+  {
+    "divinationTargetType": {
+      "value": 8,
+      "name": "DivinationTargetType_MinCard"
+    },
+    "nameID": 60008,
+    "functionName": "Divination_60008",
+    "cardNumb": 600080,
+    "descId": 600081,
+    "image": "UT_Divination_60008"
+  }
+]

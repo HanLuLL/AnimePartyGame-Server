@@ -1,0 +1,53 @@
+[
+  {
+    "id": 202411,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1779307200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1782316799
+        ]
+      }
+    }
+  },
+  {
+    "id": 202509,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1759042800
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1764518399
+        ]
+      }
+    }
+  },
+  {
+    "id": 202609,
+    "beginTime": {
+      "_unknown": {
+        "field_1": [
+          1788379200
+        ]
+      }
+    },
+    "endTime": {
+      "_unknown": {
+        "field_1": [
+          1791993599
+        ]
+      }
+    }
+  }
+]

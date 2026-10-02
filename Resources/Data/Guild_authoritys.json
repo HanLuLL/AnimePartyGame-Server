@@ -1,0 +1,47 @@
+[
+  {
+    "guildTitleType": {
+      "value": 1,
+      "name": "GuildTitleType_GuildMaster"
+    },
+    "nameID": 1,
+    "canGuildSetting": true,
+    "canInternalAnnouncement": true,
+    "canApproveApplications": true,
+    "canInviteToGuild": true,
+    "canTransfer": true,
+    "canPromoteOrDemote": true,
+    "canKickFromGuild": true,
+    "canDisbandGuild": true
+  },
+  {
+    "guildTitleType": {
+      "value": 2,
+      "name": "GuildTitleType_ViceGuildMaster"
+    },
+    "nameID": 2,
+    "canGuildSetting": true,
+    "canInternalAnnouncement": true,
+    "canApproveApplications": true,
+    "canInviteToGuild": true,
+    "canPromoteOrDemote": true,
+    "canImpeach": true,
+    "canKickFromGuild": true
+  },
+  {
+    "guildTitleType": {
+      "value": 3,
+      "name": "GuildTitleType_EliteMember"
+    },
+    "nameID": 3,
+    "canImpeach": true
+  },
+  {
+    "guildTitleType": {
+      "value": 4,
+      "name": "GuildTitleType_NewMember"
+    },
+    "nameID": 4,
+    "canImpeach": true
+  }
+]

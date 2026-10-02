@@ -1,0 +1,17 @@
+[
+  {
+    "languageType": {
+      "value": 40,
+      "name": "LanguageType_SimplifiedChinese"
+    },
+    "descriptionID": 1701
+  },
+  {
+    "languageType": {
+      "value": 22,
+      "name": "LanguageType_Japanese"
+    },
+    "dataIndex": 1,
+    "descriptionID": 1702
+  }
+]

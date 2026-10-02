@@ -1,0 +1,47 @@
+[
+  {
+    "welfareType": {
+      "value": 1,
+      "name": "WelfareType_Beginner"
+    },
+    "name": 1
+  },
+  {
+    "welfareType": {
+      "value": 2,
+      "name": "WelfareType_Weekly"
+    },
+    "isShow": true,
+    "name": 2
+  },
+  {
+    "welfareType": {
+      "value": 3,
+      "name": "WelfareType_Achieve"
+    },
+    "isShow": true,
+    "name": 3
+  },
+  {
+    "welfareType": {
+      "value": 4,
+      "name": "WelfareType_Beginner7Days"
+    },
+    "name": 4
+  },
+  {
+    "welfareType": {
+      "value": 5,
+      "name": "WelfareType_Glory"
+    },
+    "name": 5
+  },
+  {
+    "welfareType": {
+      "value": 6,
+      "name": "WelfareType_Acquisition"
+    },
+    "isShow": true,
+    "name": 6
+  }
+]

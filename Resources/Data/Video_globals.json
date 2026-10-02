@@ -1,0 +1,250 @@
+[
+  {
+    "id": 3,
+    "loadedKey": "VFight"
+  },
+  {
+    "id": 50,
+    "loadedKey": "VBackground"
+  },
+  {
+    "id": 100,
+    "loadedKey": "VReadyGacha"
+  },
+  {
+    "id": 101,
+    "loadedKey": "VReadyGacha_SFW"
+  },
+  {
+    "id": 102,
+    "loadedKey": "VReadyActivityGacha"
+  },
+  {
+    "id": 150,
+    "loadedKey": "VBreakThrough"
+  },
+  {
+    "id": 151,
+    "loadedKey": "VHeroExpChange"
+  },
+  {
+    "id": 152,
+    "loadedKey": "VHeroLVChange"
+  },
+  {
+    "id": 200,
+    "loadedKey": "VReadyAnime"
+  },
+  {
+    "id": 201,
+    "loadedKey": "VBattlePassSelected"
+  },
+  {
+    "id": 250,
+    "loadedKey": "VMonthlyCard"
+  },
+  {
+    "id": 350,
+    "loadedKey": "VBattlePassEffect"
+  },
+  {
+    "id": 400,
+    "loadedKey": "VNGO_BG"
+  },
+  {
+    "id": 401,
+    "loadedKey": "VGacha_120"
+  },
+  {
+    "id": 402,
+    "loadedKey": "VGacha_115"
+  },
+  {
+    "id": 403,
+    "loadedKey": "VBackground_VA"
+  },
+  {
+    "id": 404,
+    "loadedKey": "VGacha_123"
+  },
+  {
+    "id": 405,
+    "loadedKey": "VActivity_0501"
+  },
+  {
+    "id": 406,
+    "loadedKey": "VGacha_121"
+  },
+  {
+    "id": 10010101,
+    "loadedKey": "VFight_101_02"
+  },
+  {
+    "id": 10010201,
+    "loadedKey": "VFight_102_01"
+  },
+  {
+    "id": 10010202,
+    "loadedKey": "VFight_102_02"
+  },
+  {
+    "id": 10010701,
+    "loadedKey": "VFight_107_05_01"
+  },
+  {
+    "id": 10010702,
+    "loadedKey": "VFight_107_05_02"
+  },
+  {
+    "id": 10010801,
+    "loadedKey": "VFight_108_03"
+  },
+  {
+    "id": 10011301,
+    "loadedKey": "VFight_11302"
+  },
+  {
+    "id": 10011401,
+    "loadedKey": "VFight_114_02"
+  },
+  {
+    "id": 10011402,
+    "loadedKey": "VFight_114_03"
+  },
+  {
+    "id": 10011501,
+    "loadedKey": "Vfight_115_02"
+  },
+  {
+    "id": 10011502,
+    "loadedKey": "VFight_115_04"
+  },
+  {
+    "id": 10011701,
+    "loadedKey": "VFight_117_Max"
+  },
+  {
+    "id": 10011702,
+    "loadedKey": "VFight_117_SpeedLine"
+  },
+  {
+    "id": 10011703,
+    "loadedKey": "VFightBG_117_03_01"
+  },
+  {
+    "id": 10011704,
+    "loadedKey": "VFightBG_117_03_02"
+  },
+  {
+    "id": 10011901,
+    "loadedKey": "VFight_119_01"
+  },
+  {
+    "id": 10012001,
+    "loadedKey": "VFight_120_01"
+  },
+  {
+    "id": 10012101,
+    "loadedKey": "VFight_121_03"
+  },
+  {
+    "id": 10012201,
+    "loadedKey": "VFight_122_01"
+  },
+  {
+    "id": 10012202,
+    "loadedKey": "VFight_122_02_01"
+  },
+  {
+    "id": 10012301,
+    "loadedKey": "VFightBG_123_02"
+  },
+  {
+    "id": 10012302,
+    "loadedKey": "VFight_123_02"
+  },
+  {
+    "id": 10012401,
+    "loadedKey": "VFight_124_02_01"
+  },
+  {
+    "id": 10012402,
+    "loadedKey": "VFight_124_02_02"
+  },
+  {
+    "id": 10012801,
+    "loadedKey": "VFight_128_01"
+  },
+  {
+    "id": 10030101,
+    "loadedKey": "VFight_301"
+  },
+  {
+    "id": 10030102,
+    "loadedKey": "VFight_301_01_01"
+  },
+  {
+    "id": 10030103,
+    "loadedKey": "VFight_301_01_02"
+  },
+  {
+    "id": 10030201,
+    "loadedKey": "VFight_302_atk_01"
+  },
+  {
+    "id": 10030202,
+    "loadedKey": "VFight_302_atk_02"
+  },
+  {
+    "id": 10030203,
+    "loadedKey": "VFight_302_cheer"
+  },
+  {
+    "id": 10030204,
+    "loadedKey": "VFight_302_fanfare"
+  },
+  {
+    "id": 10030205,
+    "loadedKey": "VFight_302_idle"
+  },
+  {
+    "id": 10030206,
+    "loadedKey": "VFight_302_move"
+  },
+  {
+    "id": 10030207,
+    "loadedKey": "VFight_302_movestart"
+  },
+  {
+    "id": 10030501,
+    "loadedKey": "VFight_305_01"
+  },
+  {
+    "id": 100101301,
+    "loadedKey": "VFight_1013"
+  },
+  {
+    "id": 100101801,
+    "loadedKey": "VFight_1018"
+  },
+  {
+    "id": 100105301,
+    "loadedKey": "VFight_1053"
+  },
+  {
+    "id": 100105501,
+    "loadedKey": "VFight_1055"
+  },
+  {
+    "id": 100105502,
+    "loadedKey": "VCard_21023"
+  },
+  {
+    "id": 8201301,
+    "loadedKey": "VStory_8201301"
+  },
+  {
+    "id": 8201302,
+    "loadedKey": "VStory_8201302"
+  }
+]

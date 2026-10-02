@@ -1,0 +1,152 @@
+[
+  {
+    "finishAchieveType": {
+      "value": 7,
+      "name": "FinishAchieveType_Winner"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1000_Settlement",
+    "AchievedescId": 4000,
+    "descId": 2000,
+    "weight": 100
+  },
+  {
+    "finishAchieveType": {
+      "value": 1,
+      "name": "FinishAchieveType_KillCount"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1001_Settlement",
+    "AchievedescId": 4001,
+    "descId": 2001,
+    "weight": 99
+  },
+  {
+    "finishAchieveType": {
+      "value": 2,
+      "name": "FinishAchieveType_TotalDamage"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1002_Settlement",
+    "AchievedescId": 4002,
+    "descId": 2002,
+    "weight": 98
+  },
+  {
+    "finishAchieveType": {
+      "value": 3,
+      "name": "FinishAchieveType_PkDamageMax"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1003_Settlement",
+    "AchievedescId": 4003,
+    "descId": 2003,
+    "weight": 97
+  },
+  {
+    "finishAchieveType": {
+      "value": 4,
+      "name": "FinishAchieveType_TotalDie"
+    },
+    "AchievePicSettlement": "UT_Achieve_1004_Settlement",
+    "AchievedescId": 4004,
+    "descId": 2004,
+    "weight": 49
+  },
+  {
+    "finishAchieveType": {
+      "value": 5,
+      "name": "FinishAchieveType_TotalInjured"
+    },
+    "AchievePicSettlement": "UT_Achieve_1005_Settlement",
+    "AchievedescId": 4005,
+    "descId": 2005,
+    "weight": 50
+  },
+  {
+    "finishAchieveType": {
+      "value": 6,
+      "name": "FinishAchieveType_TotalTrap"
+    },
+    "AchievePicSettlement": "UT_Achieve_1006_Settlement",
+    "AchievedescId": 4006,
+    "descId": 2006,
+    "weight": 48
+  },
+  {
+    "finishAchieveType": {
+      "value": 11,
+      "name": "FinishAchieveType_GiveAccrueGold_PVE"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1007_Settlement",
+    "AchievedescId": 4007,
+    "descId": 2007,
+    "weight": 95
+  },
+  {
+    "finishAchieveType": {
+      "value": 12,
+      "name": "FinishAchieveType_BossEnd"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1008_Settlement",
+    "AchievedescId": 4008,
+    "descId": 2008,
+    "weight": 94
+  },
+  {
+    "finishAchieveType": {
+      "value": 13,
+      "name": "FinishAchieveType_RestoreScore_Max"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1009_Settlement",
+    "AchievedescId": 4009,
+    "descId": 2009,
+    "weight": 96
+  },
+  {
+    "finishAchieveType": {
+      "value": 14,
+      "name": "FinishAchieveType_Move_Max"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1010_Settlement",
+    "AchievedescId": 4010,
+    "descId": 2010,
+    "weight": 90
+  },
+  {
+    "finishAchieveType": {
+      "value": 15,
+      "name": "FinishAchieveType_Move_Least"
+    },
+    "AchievePicSettlement": "UT_Achieve_1011_Settlement",
+    "AchievedescId": 4011,
+    "descId": 2011,
+    "weight": 47
+  },
+  {
+    "finishAchieveType": {
+      "value": 16,
+      "name": "FinishAchieveType_GetAccrueGold_Max"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1012_Settlement",
+    "AchievedescId": 4012,
+    "descId": 2012,
+    "weight": 93
+  },
+  {
+    "finishAchieveType": {
+      "value": 17,
+      "name": "FinishAchieveType_FightSix_Max"
+    },
+    "ispositive": true,
+    "AchievePicSettlement": "UT_Achieve_1013_Settlement",
+    "AchievedescId": 4013,
+    "descId": 2013,
+    "weight": 92
+  }
+]
